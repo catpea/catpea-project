@@ -1,0 +1,106 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Why And How Do Hackers Use Those Black Screens?
+Saturday • July 24th 2021 • 1:54:53 pm
+
+The shortest possible answer is,
+to get a good overview of what they are typing.
+
+It is a different kind of a user interface,
+and the applications within that world can be connected together to make new applications.
+
+This used to be the original computer interface,
+before graphic applications and the mouse were invented.
+
+Today it is used because it is faster than the GUI,
+it is less distracting, and it is easier to make those programs.
+
+Think about playing music, how many icons you have to click to get there,
+on the command line you just type in cvlc ~/Music/* and keep doing what you were doing.
+
+The reason why graphic user interfaces are popular,
+is because they have an easy on ramp, they give you breadcrumbs.
+
+The command line requires that you remember where your files are,
+and remember some of the command names, such as cvlc to play music, or wget to download a file.
+
+You don't have to memorize those commands,
+.
+
+After a while you will stop forgetting their names,
+it is really not that big of a deal.
+
+And if you need to browse some photos,
+then you just use a normal GUI program that can display them.
+
+Though, instead of clicking on an icon somewhere,
+you'll launch it from the command line by entering its name.
+
+It is just another command to add to your cheat sheet,
+and just like there is a limited number of things that you do on your phone.
+
+You'll also limit yourself to just knowing 5 to 20 things,
+that you normally do on the command line.
+
+Just like your phone apps or desktop applications,
+programs on the command line can do multiple things.
+
+every command has a help feature,
+where you type in the command name followed by -h and that will list all the different things that a command can do.
+
+For example ,
+here you don't just download a file, but mirror the entire website.
+
+So just imagine wget being an app on your phone, called Web Get,
+and it would have two buttons, "Download A File", and "Download Website".
+
+Now let me give you a more involved example,
+I would like to show you how to download internet stories.
+
+Every website offers some way of getting some of their data,
+Hacker News (a website for programmers) has a nice description of their raw data:
+
+We learn that their website data structure is all about numbers,
+and t...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ad, and to specify how many lines we want we use -n,
+so our command now looks like this: curl | jq '.[]' | head -n 10;
+
+Armed with 10 numbers that represent top stories,
+we now have to take the second step, and use each of those numbers to download the titles from Hacker News.
+
+And here we reuse curl, but the url that we give to curl needs to have that number inserted in there,
+there are two ways to do this, one is xargs, and the other a while loop.
+
+The while loop is better, it is more readable, it is faster, but I don't like it because it wraps things,
+my xargs approach, creates a single straight command line.
+
+Unfortunately my line ends up having a command that uses quotes, inside quotes,
+so there is quote escaping, by means of backslash, and that is something I don't like.
+
+But I must say the proper way to do this, is a single pipe,
+get the top story numbers, map the numbers to data, and map the data to text so that it looks nice on the black screen.
+
+Three simple steps,
+get numbers, convert them to stories, print them to screen.
+
+In closing, I will read to you the code of each of the three approaches, in the way that I think about it,
+I wont read quote, backslash, n, backslash n, but give you a somewhat poetic reading.
+
+First is my xargs approach, a single pipe;
+
+curl -s https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[]' | head -n 10 | xargs -I % sh -c "curl -s https://hacker-news.firebaseio.com/v0/item/%.json | jq -r '. | [.title,.url, null] | join("\n")'"
+
+Now, describe the first loop approach, which is actually a little bit backwards.
+
+while read -r ID; do curl -s https://hacker-news.firebaseio.com/v0/item/$ID.json | jq -r '. | [.title, "\n", .url, "\n"] | add'; done < <(curl -s https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[]' | head -n 10 )
+
+And here is the way that people probably prefer, but I am unhappy about, because there shoudn't be a loop here.
+
+curl -s https://hacker-news.firebaseio.com/v0/topstories.json | jq '.[]' | head -n 10 | while read -r ID ; do curl -s https://hacker-news.firebaseio.com/v0/item/$ID.json | jq -r '. | [.title, "\n", .url, "\n"] | add'; done;
+
+And that is what the black screens are all about,
+I hope I inspired you to look a little bit more into those black screens.
