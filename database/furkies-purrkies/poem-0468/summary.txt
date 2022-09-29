@@ -1,0 +1,165 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Programming Is Not That Scary
+Friday • June 11th 2021 • 7:05:56 pm
+
+It depends where you start,
+
+start someplace easy and neat.
+
+is a ,
+
+and each _can_ be , not to mention all together.
+
+But the ,
+
+even hardcore programmers.
+
+As a lead programmer, ,
+
+, is .
+
+,
+
+and you probably don't want to rely on any company providing application-specific services...
+
+With the exception of the ,
+
+and the .
+
+And even with that, you already committed to ,
+
+the moment your server goes online, there will be , and trying to guess the password.
+
+The computers or trying to break into your server, by the way,
+
+are hacked, they are the ones that the automated hacking programs already broke into.
+
+Any other traffic will be coming from networks,
+
+often times the location of the hacked server is obscured.
+
+There is nothing you can do,
+
+often there is nobody to care that their server got hacked.
+
+The moment one gets shut down,
+
+couple more will get hacked elsewhere,
+
+Unless you want to run a tracking those servers,
+
+you probably don't want to program web applications unless it is something big.
+
+,
+
+if you application is small, then you are going to be somewhat worried about performance.
+
+But the serverless pattern is hard to beat,
+
+when it comes to worrying about growth.
+
+And it is actually a nice way to start programming,
+
+because you just create simple functions.
+
+These functions are executed as needed by nameless, random servers,
+
+once you start noticing that you are running out of servers, you simply add more.
+
+These servers can be though of as workers in your company,
+
+and during development you will probably only need one.
+
+And one neat thing about those servers is that,
+
+is that there is nothing special running on them, so you can just reset them.
+
+All the functions that you and your users need to have executed, ,
+
+and then these poor nameless servers, start executing those functions.
+
+On the internet every millisecond counts,
+
+but it is interesting to have your worker-servers at home just to envision the process.
+
+Normally, I wouldn't mention this, but ,
+
+you need to have multiple workers even in your smallest programs on your own workstation to take advantage of the CPU.
+
+But notice how phone apps use the Phone CPU,
+
+and it is the worst CPU to use, it is slow, battery powered, and you need it for emergencies, and for answerin...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+..., they are resilient, decoupled, distributed.
+
+They are clearly a success,
+
+they make the phone more useful.
+
+But as far as complex applications go,
+
+put them on the desktop, at least at first.
+
+Even with the crazy restrictions that popular Desktop Operating Systems created,
+
+the walled gardens, non-free developer networks a Desktop is still a good target.
+
+For one, when you create a desktop application,
+
+it is not going to be instantly attacked by hacked computers.
+
+And if it is a good idea, like was,
+
+you can sell it for a good price.
+
+When developing for the Desktop should use a base like ,
+
+or .
+
+The big weakness of desktops,
+
+is that there are three incompatible operating systems, electron and NW.js, are actually and repair that problem.
+
+You don't have to start Developing your application User Interface First,
+
+learning programming relies on good ideas, not just what is possible, but also, what is good.
+
+For example has a very consistent user interface that requires very little GUI programming,
+
+it is a good idea to write the non-GUI core of your program first, at the very least, to make it easily testable.
+
+If you do like complex architecture, a well thought out language can be useful,
+
+even better if you use that describes your program core in a readable subset of English.
+
+This is a good place to mention and similar application state based approaches,
+
+where high level actions modify a non GUI model of your application.
+
+You shouldn't let programming become complicated, though,
+
+look at , it is just chat; or filling out forms one line at a time.
+
+Siri combined with a program like ,
+
+can start keeping track of context of conversations and learn and become more intelligent.
+
+Finally, I think the best type of a program is one that has two kind of users,
+
+the end-user that enhance their program by making additional purchases, and plugin-creators that further expand your original program idea.
+
+This isn't so much about creating something as toxic as in-game-purchases,
+
+but rather developing the initial features of your program as if you were a third-party content creator.
+
+Giving your program life from inside out,
+
+all the way back from its most fundamental features.
+
+This way you can upgrade your program, one board at a time,
+
+like the .

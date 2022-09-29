@@ -1,0 +1,187 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Real Talk With MC Meow: Music Theory
+Tuesday • January 19th 2021 • 4:28:35 pm
+
+Music Theory is not something you learn or study,
+
+it is something you independently invent.
+
+Music theory contains a very important lesson,
+
+there is an infinity within.
+
+You can spend a life inventing music,
+
+but you have to stop yourself, to live one.
+
+Similarly, you can spend a lifetime
+
+trying to create photo-realistic paintings.
+
+But it is best to let the brush be a brush,
+
+and let the paining say that it is a painting.
+
+The perfection of a painting
+
+is found in the rays of the sun it contains.
+
+The perfection of a song,
+
+is found in the way it makes a dancer's body move.
+
+To sit down with sound synthesizers
+
+is more about meditation than composition.
+
+There are libraries of pre-made sounds out there,
+
+and it is not a terrible thing to use them.
+
+Just like it is better to learn to make songs,
+
+by trying to replicate existing ones.
+
+It is better to learn about good sound synthesis,
+
+by making use of pre made sounds or sample.
+
+The samples that you fall in love with,
+
+will call to you, and eventually you'll recreate them.
+
+Once you create a really good song that connects with you,
+
+you can then re-synthesize your own version of the sounds within.
+
+Music is about having fun, it is about creating beautiful things,
+
+it is not about slaving over bare bone sound synthesis.
+
+It is important to keep in mind that sharing fun, is even more fun,
+
+songs that help people dance, may just be the loveliest kind of songs.
+
+Let us make a strange little dance song,
+
+out of existing sound samples.
+
+We'll use the sounds found in
+
+'s Sonic Pi project.
+
+It is not a bad idea to start with the Rhythm of the song first,
+
+the rhythm is like a foundation onto which we can add Harmony and Melody.
+
+If we started with Melody first,
+
+the melody would not tell us much about the rhythm of the song.
+
+Starting with rhythm we can get our foot tapping,
+
+and those taps will dictate how that melody will move.
+
+Using ready made samples
+
+we can instantly get a nice drum setup going.
+
+*song plays*
+
+And then sprinkle in a bit of hats, or cymbals,
+
+now to be fair, we got to get our shoes on, and dance it out.
+
+A dance song must always be tested,
+
+against the type of dancing that it will be used for.
+
+Here are the fist three sections,
+
+a clumsy intro, a cymbal free beat, and t...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...:
+
+*song plays*
+
+Remember, that all the samples you are using, are uniquely stacked together,
+
+very few other songs will use the same bass sample, with whatever you put on top of it.
+
+The way to think about bass is this:
+
+a fuzzy and furry container for higher pitched melodies.
+
+It almost has the same result as hall effect has on old school computer chip tunes,
+
+but here you are not relying on an echo to blend beeps into something richer,
+
+You are relying on hand picked bass sample, or even a real guitar,
+
+and there ain't no nothing wrong with that.
+
+So now that we have the beat, the hat/cymbals, and the bass,
+
+we now need to add that melody that goes on top of the bass, that will melt into the bass.
+
+Now, before we you add a melody, you need to take a breath of fresh air,
+
+we can't pretend that music creation is a science, it is a exploratory and generative process.
+
+So we have to listen, and understand to the soul of the song we have just created,
+
+my use of the Morse code, is kind of already whispering something.
+
+When you really listen to the melody our Morse code created,
+
+it sounds Russian.
+
+We have to listen to the song,
+
+the song is dictating a certain path through a maze of infinite complexity.
+
+In this situation,
+
+I went and borrowed the sound of
+
+And our little Sputnik gives us melody,
+
+here is what it sounds like.
+
+*song plays*
+
+At this point we have a tird of a song,
+
+it is not a bad idea to end the song, with a variation on the begining, without ading anything new.
+
+So that gives us about a minute and a half,
+
+and we only need about 60 more seconds, as our dancer has better songs to dance to.
+
+Since our song wants to be russion, let us grab a ,
+
+and sprinkle in a bit more more sputnik at the end.
+
+I chose to decorate the center of the song with a piano,
+
+as that will pleasantly surprise our dancer.
+
+Overall the songe ended up being very tanky,
+
+but it is dancable.
+
+If I had to do something differently,
+
+it would be spending more time replicationg and studying othr songs to make the song less Heavy Industries and more .
+
+In closing, Building songs should not rely on a pre-set recipe,
+
+it is a creative process that should invole lots of randomness and pleanty of dancing.
+
+Here is the full song we just created,
+
+*song plays*.

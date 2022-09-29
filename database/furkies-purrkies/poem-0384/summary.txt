@@ -1,0 +1,141 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+A Priceless Education That Costs Nothing: Reading Source Code and Writing Programs
+Friday • March 19th 2021 • 7:08:28 pm
+
+Developing quality custom software will help you show off some of your work,
+
+and proudly point to interesting solutions.
+
+A proper and respectful interview that doesn't ask idiotic and incompetent questions,
+
+will only ask you to explain the programs you created.
+
+You will get to talk about challenges you faced,
+
+and proudly explain solutions you implemented or invented.
+
+A real resume does not feature boilerplate clams,
+
+of how you deliver "on time and under budget".
+
+And you probably shouldn't mention that you went to school to learn,
+
+if you need someone to push you along to learn, then you will probably need someone to push you along to work.
+
+A real resume is just a list of programs you created,
+
+with a short description about the brilliant ideas within.
+
+This also protects you from toxic environments that will destroy your creativity,
+
+a company that looks for a cookie cutter resume, is full of cookie cutter people, which is terrifying.
+
+This is a big and in some cases controversial subject,
+
+so let me give you a real world case.
+
+Eric Steven Raymond, the person behind the , a Hacker's Dictionary,
+
+states the following in the Education Section of his :
+
+"Education
+
+Undergraduate studies (including some graduate-level courses) in mathematics and philosophy at the University of Pennsylvania.
+
+I have never taken any courses in computer science or software engineering."
+
+Part of the reason why he says that,
+
+is to protect his hard work, he doesn't want people to think that he got his education from some mediocre minimum viable lowest-common-denominator classroom, and a teacher with little real-world experience.
+
+The fact schools don't work very well, if at all, is not a secret,
+
+it is in fact the reason behind insulting and idiotic interview questions.
+
+The fact that we are each extremely intelligent, and that we are each perfectly capable of becoming a humble Polymath,
+
+is inescapable.
+
+And that is what a competent employer would look for,
+
+a balanced view of the world born from being a jack of all trades and a master of those that are interesting.
+
+So,
+
+How do you become good on your own...
+
+You look at the top existing programs,
+
+and try to make smaller versions.
+
+This will help you establish a baseline,
+
+the...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...f classes moving at a snail pace,
+
+and even the programs at prestigious universities are off, where they still mention things that are irrelevant and would actually make your software slow had you employed them.
+
+were not just about politics and bureaucracy,
+
+but useless and outdated technologies and methods, probably the stuff they teach in school.
+
+Just the fact alone that many files were being loaded by the browser on launch day,
+
+instead of organized into one or two compressed and bundled extras, reveals inexperienced programmers.
+
+These lessons can't be emphasized correctly in a school environment,
+
+they come precisely from places like the Bootstrap code base.
+
+It takes 10 minutes to figure it out,
+
+and a few hours to start using mini-fication in all your programs.
+
+And that is it,
+
+there is no lecture, no test here, it just becomes obvious and useful.
+
+When you care about learning,
+
+which is what happens when you are learning things you like, you never need to memorize, or put mini-fication on a todo, you just accept it as reality, and a great idea.
+
+I mention the failure of the 2013 Healthcare website,
+
+because it shows that a college education, and working for prestigious companies, on prestigious projects means nothing.
+
+Reality makes it so that fake education,
+
+can only lead to failure.
+
+There isn't a textbook, or a teacher that can emphasize the important things enough,
+
+it has to be practice.
+
+This is why Eric Raymond stands up for his Self Education,
+
+it is the difference between Real Education and Fantasy Education.
+
+Reading and learning from source code and then writing your own programs,
+
+is the only realistic way to learn programming for real.
+
+,
+
+it has to be a very comfortable on-ramp, don't start by learning CSS nobody does that, start with what you like and then look at other projects to see how you can make it better.
+
+If you ever get stuck, or are unsure where to go next, or aren't sure where to begin,
+
+then go to a video search box type in the thing that interests you the most followed by the word tutorial.
+
+Seeing and hearing many different perspectives from different people will help you balance your understanding,
+
+and find your next step.
+
+Search for tutorials,
+
+do it, it will be amazing!

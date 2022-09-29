@@ -1,0 +1,145 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Introduction To Programming: Workstation and Behavior Driven Development
+Thursday • March 18th 2021 • 9:06:42 pm
+
+Programming is simple, friendly, rewarding, fun, and relaxing,
+
+it will set you free from poverty and drive you to make the world a better place.
+
+People who think it is funny to say that,
+
+are that people that brainlessly walked into some high stress meat-grinder and now hate life.
+
+As with everything else, if you are forced to learn programming,
+
+and forced to program under a threat of bankruptcy and poverty it will seem awful.
+
+One of our first responsibilities in life,
+
+is t push toxic people and environments away.
+
+There is nothing negative in the world of programming,
+
+it is an art like everything else.
+
+Just like it is not perfect, to sit down to learning how to paint with a cup of tea or coffee as paint,
+
+and paper that is not really all that good for water colors, and a brush that could be better.
+
+You have to assemble your programming environment with a kind of love,
+
+and you will need a mascot to keep you company and for .
+
+It does not need to be a duck,
+
+I have a Fuggler, the Red Suspicions Fox, and I called him Boo Boo, or Boobs for short, after an angry dog I like.
+
+Your computer should be the ,
+
+.
+
+You will need a monitor, keyboard, mouse,
+
+and possibly an external drive.
+
+I would recommend that you get a simple monitor,
+
+the raspberry PI supports two 4K monitors but all of that is overpriced.
+
+Consider getting a ,
+
+perhaps or
+
+Your programming language should be ES2021, or whatever year you are in,
+
+this is the evolving JavaScript language.
+
+I know many programming languages,
+
+but I don't have time to use them all, there is no point in learning a language that you will not use 5 years from now.
+
+You have to learn the language of the web,
+
+it works in the browser, in application frameworks like or or , and on the server, and your Raspberry PI.
+
+You will need to install ,
+
+and search internet videos for .
+
+But, above all you need a reason,
+
+something you are or can be passionate about.
+
+And it has to be something that many people can work on at the same time,
+
+so something inspired by WikiWiki the program that inspired MediaWiki behind Wikipedia.
+
+See the point is to allow strangers to come in and contribute to your program,
+
+by just clicking EDIT, without signing up for anything, without giving their ema...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...lar Expressions have named capture groups, you can actually see what a particular pattern is after.
+
+Basically, once you take a bunch of JavaScript and node.js tutorials,
+
+you are going to need some interesting ideas.
+
+Writing your own WiliKiki is a great idea,
+
+until you are finished writing.
+
+To make it useful,
+
+or even to make a business inspiration out of it, you have to make it do something useful.
+
+To make it fascinating,
+
+you have to open it to the world so that others can edit your program.
+
+It is up to you to figure out how to bless that alien code,
+
+look at he way software on github grows, when someone writes new code, it is sent to the program's owner as a request to merge code.
+
+This way everything is submitted in small readable chunks,
+
+and gets reviewed without much confusion.
+
+Creating a text game, where thousands of people can edit the story,
+
+and then enter the world and watch others solve the puzzles they created can be a fun little project.
+
+Something more advanced and more business minded,
+
+can be a WikiWiki that uses Tone.js to create a clone of the Leading Digital Workstation.
+
+It is really difficult to write large programs by yourself,
+
+but if you have thousands of contributors, some working for tips, for bounties, or big prizes then a large program can be made pretty quickly.
+
+The issue of managing hundreds of thousands of tasks and thousands developers becomes greatly simplified,
+
+when you use something like BDD, especially BDD that has been finely tuned to your program.
+
+Programmers write programs for self education and fun,
+
+but when it comes to large applications, learn from the success of the World Encyclopedia.
+
+It is very difficult to inspire you to a program you may wish to create,
+
+I can't really help you with dreaming it up.
+
+But I can show you how to do it in such a way,
+
+so that other programmers may join you for fun or some meaningful reward.
+
+Whatever it is build it a page at a time,
+
+combine WikiWiki with BDD, maybe MUD, and make the story more important than the code as demonstrated by .
+
+Programming is just another form of art,
+
+just learn at the pace that fits you best, and in a sequence that matches what you already know, without anybody timing you or telling you what to learn.

@@ -1,0 +1,143 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Back To The Future: Reinventing A Smart Smartphone
+Sunday • April 25th 2021 • 3:43:26 pm
+
+Today's smart phones,
+
+contain disconnected walled gardens and distant islands of functionality.
+
+The design principle revolves around that old apocryphal story,
+
+where Willie Sutton upon being asked why he robbed banks, responded:
+
+"because that's where the money is."
+
+This is not a design principle,
+
+this has nothing to do with invention.
+
+The leading operating system and phone manufacturers,
+
+have been beat by the little Pine Phone without much of any effort.
+
+And of course, the Pine Phone Operating System,
+
+being closer to the pure Linux... is far more powerful.
+
+It is not just Pine Phone, but also Raspberry PI,
+
+with a 4G modem, UPS/Battery and touchscreen, and a custom case.
+
+Here we have to think in four dimensions, it will be larger,
+
+but with room for extra hardware and the power of a proper desktop.
+
+The Raspberry PI or any Single Board Computer (SBC), is the modular phone,
+
+that people don't yet realize they want.
+
+This is not a question of hardware,
+
+.
+
+To this day Pine Phone, warns that dead pixels on the screen are normal,
+
+and not purchase their phones, if that will cause a return.
+
+Dealing with hardware problems,
+
+is expensive, and doubly so for companies that do not yet have large financial backing.
+
+The Raspberry PI and the other SBCs are an exception here,
+
+because you are buying everything a piece at a time.
+
+But this _is_ a question of software,
+
+the underlying operating systems must be easy to access.
+
+The phone has to boot the same way that a computer does,
+
+by trapping the users within some abstraction layer the companies destroy the computer.
+
+What this means, is that the company that will bring the computer back,
+
+as in not bother with an alternative GUI, will easily overpower the leading giants.
+
+An unrestricted Linux device like the Pine Phone, or Librem 5,
+
+has a lot more to offer than privacy violations, photo leaks and candy crush.
+
+They offer real functionality,
+
+with a world of developers that feel comfortable programming for Linux or BSD.
+
+Once the restriction of the Simplified Graphical Shell (like Android or MacOS) is removed,
+
+the underlying operating system will be exposed to real developers.
+
+One of the first things people will program are clones of the leading Simplified Graphical Shells,
+
+t...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...oles of today suffer from customized walled gardens as means to squeeze every cent out of a customer that already paid.
+
+Apps, is what Linux does, and almost all are free,
+
+certainly all the good ones, that culture of free open source would continue on the pure Linux Phone as well.
+
+There would be no shortage of apps,
+
+there would be an increase in contributors, and bandwidth donors, and mirrors, and so on.
+
+Predictably, Apps, Games, and Security would be superior to that on leading smart-phones of today,
+
+and the increase of care and attention would benefit security on both the desktop and mobile.
+
+Today's leading smartphone platforms,
+
+are just a side road that we'll eventually forget.
+
+Had they stayed in the mainstream,
+
+their contributions would be more significant and more valuable pushing the evolution of Linux beyond what it is today, past a simplified desktop and into a world where the common user can write programs.
+
+In closing, stay away from hardware,
+
+but know that hardware is simple.
+
+All that is required to bring bout a range of Linux phones,
+
+is to get them without the extra locks and restrictions that cripple the ability to install standard Linux.
+
+Put on a linux friendly distribution, and there is a number of them,
+
+and voila.
+
+Just like people are buying the Pine Phone without any advertising on TV,
+
+they would be buying the $100 to $150 no brand linux phones that come in different shapes and sizes.
+
+And the advertising comes from social media, from word of mouth,
+
+a cheap no brand pure linux phone that can help the user out program most of the apps in walled gardens, would spread like a wildfire.
+
+In all their programming and years of development,
+
+the leading smartphone platforms achieved nothing to beat 1980's programming powers.
+
+In all their programming, or shall we say madness,
+
+they only created more attack vectors and sacrificed user privacy, while finding new ways to gag them with ads.
+
+The biggest threat to these giants,
+
+is the bare operating system that they crammed their small minded ideas on...
+
+They robbed the bank, because that is where the money was,
+
+but they also shot themselves in the foot, and now have no leg to stand on, when facing something as trivial as the cute and little $150 Pine Phone.

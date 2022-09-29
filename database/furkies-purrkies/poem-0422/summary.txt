@@ -1,0 +1,175 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Skunk Works: How To Become An Inventor
+Monday • April 26th 2021 • 5:47:52 pm
+
+"Lady doth protest too much, for rather, is easier to be an inventor,
+
+than not to be one."
+
+- William F. Shakespeare.
+
+The world is your oyster,
+
+the components with which you invent things are all around you.
+
+You do not want to invent complicated things,
+
+but rather improve the things that people are used to.
+
+To give a few examples,
+
+of amazing findings.
+
+Samsung's Exploding Batteries,
+
+was quite an eye opener.
+
+It taught me, that hardware is second,
+
+it is a bad idea to manufacture your own hardware.
+
+It is best to encourage many companies to develop the hardware,
+
+and than just make sure that your operating system of choice runs on it.
+
+And the operating system of choice today is ,
+
+which is based on and comes with multiple UI styles.
+
+The RaspberryPI, it is the modern Commodore 64,
+
+it is the development machine, and it hasn't got a single flaw.
+
+Single board computers of today,
+
+will change the future.
+
+Plus,
+
+they will power the thing I am about to mention next.
+
+Alexa, Siri, Cortana, and Google Assistant, are a step in the right direction,
+
+but a very small step, unfortunately.
+
+But the way these technologies made it into our homes,
+
+is an amazing idea.
+
+And before I go further, let me just emphasize,
+
+that you are a programmer without a language.
+
+We have Zapier and IFTTT, to some degree Automator,
+
+but like the Assistants Above this is a tiny step.
+
+The average person,
+
+deserves a programming language.
+
+And now, imagine what I would call an Agent Network,
+
+an anthropomorphized internet of things, where hardware devices are dressed up as assistants.
+
+And hang out in a chat-room together,
+
+the use of bots in chartooms is nothing new, and that is good, you want to invent as little as possible.
+
+The bots can talk to each other in the chat room,
+
+Siri, can get Alexa to reorder things, and Cortana can get the Roomba going.
+
+But that is the least of it,
+
+all we did in this example, was to reduce the bloated technologies.
+
+Here we are replacing IFTTT,
+
+with some bots that issue commands and some bots that execute them.
+
+The real fun comes in when you replace your ,
+
+and give it a human name to turn it into another assistant that Siri, for example can talk to.
+
+This gets us to a point, where there exist a chat-room with multiple robo...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...el,
+
+the security bot that keeps track of presence of humans in the house.
+
+What we are doing here,
+
+is bringing every program under the same interface, the interface of Chat and Text.
+
+You can still play computer games,
+
+and browse the internet with the latest browser.
+
+But there is also an IRC server,
+
+where the robots in your house talk to each other.
+
+And EventEmitter flavored WikiWikiWeb,
+
+designed to outlast the house, designed long term operations.
+
+There is never a problem with remembering what robots are in the house,
+
+as they all hang out in the lobby of the chat system.
+
+And it is not always necessary to program a thing,
+
+sometimes just logging in and typing in "@Amber Turn the heat up to 73" will suffice.
+
+In conclusion, to think like an inventor,
+
+look around you, the things that surround you, are the things that you manipulate to create something new.
+
+Never complicate things,
+
+simplify them, you can't improve something by making it more complex.
+
+Don't be evil, don't be small minded,
+
+life is too short for shallow thinking.
+
+Your inventions, or independent-inventions,
+
+as little as caps that you put on laces in sweat pants so that you can pull the lace out should one be pulled in by the washer.
+
+Or as big as big as the invention of a human readable programming language,
+
+belong in your thick portfolio.
+
+Just imagine, shiny heavy covers with an intricate high resolution generative art graphic on the front,
+
+and your smiling face on the back... and maybe on the front too, why the heck not.
+
+Don't think of it as your portfolio,
+
+but as a book of your inventions that also doubles as the portfolio.
+
+You don't have to give TED talks,
+
+and these days you don't even need a publisher, just Printing On Demand.
+
+And remember to think of the leading companies as your private research laboratories,
+
+pay attention to what they are doing where they are failing, and especially their shortcomings.
+
+The business world is a dog scratch dog world,
+
+when you become world's most famous inventor, all of those companies will own and and study a copy of your portfolio.
+
+Oh, and one more thing,
+
+always put a "Don't be evil" clause in your legal paperwork.
+
+Once the lawyers start calling you if that part can be removed...
+
+just say, no, and hang up.
