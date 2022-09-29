@@ -5,6 +5,6 @@
 # repeat for all programs, and websites.
 
 git add .;
-git commit -m 'Version 4 Monorepo Upgrade Stage 4/4';
+git commit -m 'Version 4 Monorepo Upgrade Westland Warrior';
 #npm version patch;
 git push;

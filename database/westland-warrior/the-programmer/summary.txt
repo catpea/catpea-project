@@ -1,0 +1,58 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Programmer
+Tuesday • February 11th 2020 • 9:30:12 pm
+
+> Never memorize something that you can look up.
+> 
+> -- Albert Einstein -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reason I mention JavaScript is because it is the most widely used
+programming language on github. [Searching for projects with more than
+10,000 stars]() shows 409 JavaScript based projects, the next one down is
+Python with 117.
+
+
+
+A bright new JavaScript compiler/framework named (28.2k github
+stars) has recently entered the battle area.
+
+Previously (154k stars) outcompeted Facebook's (141k
+stars).
+
+Svelte injects its code into your programs, whereas Vue.js and React ask
+you to program their way, learning new functions and strategies.
+
+Svelte offers a , and an
+as well.
+
+If you are going to start programming, start with .
+
+They offer a fantastic live coding tutorial at

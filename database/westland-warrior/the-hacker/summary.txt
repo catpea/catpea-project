@@ -1,0 +1,122 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Hacker
+Tuesday • January 21st 2020 • 9:54:23 pm
+
+The $35 is the most handsome in a class of computers
+called . They just released version 4, so make
+sure you get that one; and don’t forget a monitor. BestBuy does sell the
+PI, packaged in the . Personally, I think
+getting the original keyboard and mouse is really cool, I am not a fan of
+the plastic case and would go for a cool looking -
+and then probably short something out. Good news is that ashens has a two
+part review of all the popular cases here you go: and [Part
+2](). Heads up, ashens is an odd British man that utters odd British
+phrases.
+
+
+
+
+
+
+
+There is a class of monitors called it is still nice
+to have a desk one, but if you are wondering which one to get; get a
+portable first (the cheapest one is $99), then you can take it to
+Starbucks, plug in your PI, keyboard and mouse, and headphones; and
+with whilst with
+.
+
+
+
+Don't forget about as those too are a kind of monitor (the
+cheap ones are $50 - $75). A projector turns any wall into a monitor.
+
+She likley stole her daddy’s dad’s password by using her older brother’s
+. To log into her dad’s computer she uses the ssh command.
+ssh is just a program that establishes a secure (encrypted) connection
+between two computers. She executes ssh at . And
+begins using the ssh program.
+
+The remote shell, for convenience sake, looks almost the same as her own
+local shell. Even though very little changes on her screen she is in a
+full-screen program now, and once she is authenticated her shell prompt
+changes to that of the remote system. It goes from pi@calebpi ~ $ to
+[]~$[].
+
+A shell prompt is the thing that indicates that you are free to type
+commands. Her dad’s shell prompt is broken, he messed up with whatever was
+supposed to go in between those square brackets, it maybe that he is using
+fonts that the Raspberry PI does not have, or some mess like that. My
+prompt as I write this is [user@computer warrior]$ that means username is
+user, my computer’s network name is computer, and the directory I am in is
+warrior.
+
+The dollar sign $ indicates that I, alex, and pi are normal users. You can
+escalate your system privileges to become a system administrator where you
+can read or delete other user’s files. On most systems the dollar sign
+would then change to the pound sign # to indicate that care must be taken
+as...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...
+The hacker mind-set is not confined to this software-hacker culture. There
+are people who apply the hacker attitude to other things, like electronics
+or music — actually, you can find it at the highest levels of any science
+or art. Software hackers recognize these kindred spirits elsewhere and may
+call them ‘hackers’ too — and some claim that the hacker nature is really
+independent of the particular medium the hacker works in.
+
+There is another group of people who loudly call themselves hackers, but
+aren't. These are people (mainly adolescent males, and little girls) who
+get a kick out of breaking into computers and phreaking the phone system.
+Real hackers call these people ‘crackers’ and want nothing to do with them.
+Real hackers mostly think crackers are lazy, irresponsible, and not very
+bright, and object that being able to break security doesn't make you a
+hacker any more than being able to hot-wire cars makes you an automotive
+engineer. Unfortunately, many journalists and writers have been fooled into
+using the word ‘hacker’ to describe crackers; this irritates real hackers
+no end.
+
+The basic difference is this: hackers build things, crackers break them.”
+
+
+
+This is a glider, a bit of a symbol for hackers, who are like cats, and do
+not like each other, herds, or stupid little symbols.
+
+
+
+The glider comes from the little things
+manufactured by and walking off towards lower right
+are gliders in action.)
+
+
+
+Gliders, are of the world of , you have heard Murray
+Gell-Mann talk about it in context of the Game of Life is a
+little simulation of playing with Fundamental Principles, and Accidents.
+Life emerged the same way the gliders do, out of Complexity, Infinity of
+Time, Fundamental Principles, and Accidents (remember nobody counted the
+failed attempts).
+
+Here is Stephen Wolfram in his “Computing a theory of everything” TED talk,
+reminding us to never pause after uttering the words “I invented a new
+kind of science” - Oof!.
+
+
+
+
+
+
+
+Without Pentesters, Ethical Hacking, or White Hat Hackers we would never
+become aware of vulnerabilities in our phones, smart homes, refrigerators,
+lockers - day to day lives. They do not keep information secret, and help
+us keep our family, homes, and possessions safer and more secure.
+
+
+
+has 1.14M subscribers (Dec, 2019).
