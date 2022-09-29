@@ -2,30 +2,6 @@ dist
 .cache
 node_modules
 
-################################################################################
-## Stage 0 #####################################################################
-################################################################################
-
-# database/furkies-purrkies/poem-00??
-# database/furkies-purrkies/poem-01??
-# database/furkies-purrkies/poem-02??
-# database/furkies-purrkies/poem-03??
-# database/furkies-purrkies/poem-04??
-# database/furkies-purrkies/poem-05??
-# database/furkies-purrkies/poem-06??
-# database/furkies-purrkies/poem-07??
-# database/furkies-purrkies/poem-08??
-# database/furkies-purrkies/poem-09??
-
-################################################################################
-## Stage 4 #####################################################################
-################################################################################
-
-# database/westland-warrior
-yid-*.jpg
-
-################################################################################
-
 # Logs
 logs
 *.log
