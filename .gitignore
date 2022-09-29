@@ -1,3 +1,18 @@
+dist
+.cache
+node_modules
+
+database/westland-warrior
+database/furkies-purrkies/poem-009??
+database/furkies-purrkies/poem-008??
+database/furkies-purrkies/poem-007??
+database/furkies-purrkies/poem-006??
+database/furkies-purrkies/poem-005??
+database/furkies-purrkies/poem-004??
+database/furkies-purrkies/poem-003??
+database/furkies-purrkies/poem-002??
+database/furkies-purrkies/poem-001??
+
 # Logs
 logs
 *.log
