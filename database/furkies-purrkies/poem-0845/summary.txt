@@ -1,0 +1,129 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+A Weird Poem About Visual Programming
+Thursday • June 23rd 2022 • 6:09:28 pm
+
+In a way Visual programming is new,
+and hardly anyone has a clue.
+
+It does not come with a guarantee,
+that is the biggest problem I see.
+
+In the world of programming,
+which is a loving, and funny, and wonderfully challenging world.
+
+There is this huge question,
+and even a huge-er problem.
+
+The question is:
+"Does your program fix problems that people actually have?"
+
+And the huge-er problem, is,
+that everything is broken.
+
+Phone are missing functionality, operating systems keep crashing,
+new products need firmware upgrades...
+
+And if you are thrifty or cheap,
+.
+
+So what does a visual programming language fix?
+and is it really broken?
+
+The file structure of a program,
+does not represent what the program does.
+
+Visual programming languages,
+can create maps of the program flow.
+
+And if we sprinkle in ,
+we can eat the cake and have the files properly structured too.
+
+Is it a problem people have,
+yeah, programmers have to jump hoops to bridge concepts.
+
+Here is an ,
+that is needed to connect an input box to the node in the programming language.
+
+It makes code neat, it makes sense,
+but it also crushes Rete.js programs under their own weight and non-portable code.
+
+There is potential here to create a nicer front-end,
+but unless it comes from the developer then things will get proken pretty soon.
+
+,
+.
+
+And then the pink elephant that nobody talks about,
+the web is about text, and maybe navigation maps, not really about connecting boxes together.
+
+And beyond that you need a team of developers to create a visual programming language in a reasonable stretch of time,
+and you may need multiple and unique prototypes to get it right.
+
+Even if you request that everything works exactly like Blender's Geometry Nodes,
+there are no guarantees here, everything is new, and you may end up trying to fix problems that people don't have, anyway.
+
+The web has a wisdom about it self,
+for one, when a program is written correctly...
+
+In as little as one hour,
+it will already work on big and small screens.
+
+There is no guarantee that visual programming on a phone,
+will be fixing the problems that people actually have.
+
+All the screen pinching,
+and messing around with little wires...
+
+And trying to connect an output of some math node that is literally two feet away on ...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ing language implementation end,
+and the potential readability or lost variable issues...
+
+It seem to me that the first principle of Visual Programming,
+should be Smartphones and Tablets first.
+
+And here maybe a better visualization library,
+as it serves as a map and has automated layout, and the library is complete very little programming is required here.
+
+Once a node which here is more abstract, is clicked,
+then the smartphone will enter a web-page for that node, perhaps even open it in a new tab.
+
+All the operations will be performed by a wizard, or a step by step interface,
+where if someone is trying to add a new node, the page will just list all the available nodes with just standard web technologies.
+
+The cytoscape map is a map of flows within the program,
+they are simple and readable.
+
+The node configuration values, all the wires that create an unreadable mess,
+are replaced with values that are injected into the entire flow control stream.
+
+When the program is ran, all the unused values are automatically removed,
+but creating a verbose linter is a great option too.
+
+It will complain that, "Hey, you have a song name in the flow control stream,
+but the last time you used it was in the play node, do you want me to remove it from the stream at that point?"
+
+Finally, does this fix a problem that people actually have,
+yes, it shows the flow control of programs graphically.
+
+And allows even the novice user, to inject variables into the stream,
+such as email by asking "What is your email Address".
+
+And then it allows to use that value later on in the flow control stream,
+or branching streams, in an alert when computer running out of disk-space or when water detected in the basement node.
+
+Here there is room for a node to suggest to the user what it needs,
+and perhaps even go as far as to offer injecting an input node that asks for email.
+
+Visual Programming is a great idea,
+but this does not mean, we need to create visual nodes with little input boxes and property sockets.
+
+Though it does require that we need to think in streams or flows, and nodes,
+so that the end result is just bunch of easy to comprehend boxes (or nodes) connected together.
+
+Visual Programming just means,
+that we have to help the user see how the entire program flows.

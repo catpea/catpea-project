@@ -1,0 +1,147 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Fixing Programming, Or, Building Your First Trillion Dollar Company
+Tuesday • April 12th 2022 • 5:18:22 pm
+
+There are low level languages,
+and high level languages.
+
+In a low level language,
+you talk to a hard drive in a way that hard drives like to be talked to.
+
+In a high level language,
+you open a Desktop Window with a simple bit of code.
+
+High level languages have a concept of objects,
+that is really fun to write out and play with.
+
+People create window objects with actions like,
+open or close.
+
+When you tell a window to open, with title more than two words,
+it pops up.
+
+You can point it at a web page,
+or put some input boxes and a button in there, to have the user say something.
+
+Sometimes objects are used to create,
+more powerful objects.
+
+Orbs connected by wires,
+or actions that have a concept of before and after where you can add more actions.
+
+And this is where the party flops,
+any programmers that venture beyond this point unravel.
+
+They may make some games,
+maybe card decks with user interfaces, maybe virtual worlds.
+
+But it all falls apart here,
+people don't do anything beyond this point.
+
+And if they try they end up with what has been refereed to as,
+leaky abstractions.
+
+Where you use windows,
+but they can't be opened, or something equally mangled.
+
+There are also folks here,
+who have been taught to map out low level stuff with objects.
+
+They create objects like Hard drive,
+or file, or file with a documents property that explains where the documents folder is.
+
+They just code themselves in a circle,
+they use high level tools for creating concepts of low level things.
+
+Things that are already done,
+and they create an unreadable mess of non-sense.
+
+Programming,
+for programming's sake.
+
+Practical Applications of Object Oriented Programming,
+are discovered by Poets and Artist, not Engineers.
+
+And there is a point there,
+where you call the program done.
+
+And let the users do all the programming,
+because there is only a few engineers and a million users.
+
+So this is a Higher Level Programming Language,
+where you don't have to worry about low level stuff.
+
+In fact if you need a special bit of functionality,
+that needs to be filled with standard programming.
+
+You describe what you need,
+with Behavior Driven Development language, which is pretty English.
+
+And wait until that functionality,
+becomes a puzzle or more precisely...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...to convert into a painting.
+
+This package is addressed to an artist,
+then you will be notified when it is looked at, approved, queued, and when the progress of the task changes.
+
+The most important object is the user,
+and here the users can move around the system, interact, create forums - or write on the wall if you like.
+
+And users have inventories,
+they have a key to their own private areas, and whatever administrative rooms they built up as part of creating their inventions.
+
+They have a passport with memberships to private communities,
+and coins, that can be spent on purchases, and purchased, of course.
+
+Similar to a user,
+is the bot.
+
+Bots help with tasks such as creation of a specific package,
+or designing a new package from scratch for some new purpose.
+
+But these bots, are extremely powerful,
+they can write poetry, create computer programs, and even analyze x-rays.
+
+Because a bot can be powered by a group of users,
+in the case of x-rays, a group of doctors from around the world.
+
+And it should be customary,
+that before a human based action taken a consensus must be reached, and then further verified by more human participants.
+
+This is very similar to a Jury Room,
+or how self checkout registers (which are robots) use humans to solve problems that they can't deal with.
+
+Finally, you need a way to automate things,
+and you should start simple and easy at first.
+
+You create a factory out of rooms,
+that accepts certain kinds of packages.
+
+That are then processed by bots,
+sent to another room, and processed by more bots.
+
+Your factory does not need to be liner,
+it can be a tree, based on some condition in the package, it can be sent to a different room, to a different group of bots.
+
+The packages that enter a room are put in a queue,
+and I recommend you use the concept of an assembly line.
+
+The bots are attached to it in a sequence,
+this will help you group small tasks without the need for networks of rooms.
+
+And that's, it,
+that everybody already understands.
+
+There are no leaky abstractions here,
+just a handful of easy to grasp things.
+
+To start, put a bounty out,
+for the most delightful implementation of this system.
+
+Emphasize small but clear to read code base,
+source lines of code wise, this is not a large program.

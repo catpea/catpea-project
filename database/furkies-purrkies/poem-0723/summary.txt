@@ -1,0 +1,148 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+A Programmer's Poem: ORM, REST, OPSEC, MOO, And A Scary Smelly Grue
+Monday • February 21st 2022 • 4:00:23 pm
+
+You know how down at the CPU level,
+you have talk in ones and zeros, XOR and AND.
+
+We created a nicer languages above that,
+like C, where you can nest functions.
+
+You can have an UPSERT function,
+that contains INSERT or UPDATE functions.
+
+If data in whatever the program is using is missing,
+then we INSERT, and if it already there then we UPDATE.
+
+So UPSERT encompasses multiple functions,
+and it is pretty readable.
+
+Now, on C level,
+we have to define things.
+
+You can't just say, name = alice,
+you have to define a name array, and remember a string terminator.
+
+To store the five letter name Alice,
+you need an array of six characters, for the name and a string terminator character.
+
+It is a good language,
+but we invented better.
+
+We have languages where we can just say name = alice,
+and everything will be taken care of for us.
+
+Even better than that,
+we have languages where you can say name = evaluate name - alice; return name
+
+This is called an eval statement,
+and everyone is scared of it, becasue you are running code inside code.
+
+Though you never use it in production,
+eval is a sign of a healthy language.
+
+If a language prevents you from evaluating code,
+then it is a language for cubicle workers, crafted to control the coders.
+
+JavaScript is a very free language,
+it will let you add a number to a letter.
+
+And will probably return the sum of the number and ASCII code of the letter,
+but it may also try to concatenate, or who cares.
+
+This language does not try to control you,
+it will let you do whatever the heck you want.
+
+Even if it is crazy,
+like adding letters to numbers, which is also crazy awesome.
+
+And a sign,
+that corporate has not meddled with the language standard.
+
+Once some big corporation steps in,
+they will strip the language of easy mistakes.
+
+Load it up on computers,
+give it to all the High Schools.
+
+Wait for them to graduate college,
+and then charge them for the enterprise version.
+
+Or for business use,
+or for business license.
+
+Or cancel the language,
+because they have something that will generate more profits.
+
+You have to stick with the rebel languages,
+that is what everyone else will be going.
+
+Unless they got trapped in a cubicle,
+then they will spout how evil eval is.
+
+Because in order to believe that t...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ages with IntelliSense,
+we need you.
+
+Because to you,
+this is a game.
+
+And the game is the solution,
+Multi User Dungeons Object Oriented to be precise, and
+
+You see, REST is good, but WikiWiki teaches us,
+the power of consistency.
+
+What if we just had Locations,
+like WikiPedia has articles.
+
+If you are allowed to cross the pathway,
+into a location, because you have a password key, then you can update your password.
+
+If you don't have this feature in your inventory,
+then you can't access that location.
+
+TO be clear I am describing a tiny mechanism that builds on top of ORM,
+and though it has paths, those are not RESTFUL paths, they are of the Dungeon World.
+
+They are an anthropomorphized world of objects,
+and it is tiny and efficient, nothing at all like some bloated VR world.
+
+Rails, , or Cake even is all the proof that Objects and Properties can be defined with a normal User Interface,
+ORM objects can be built by non-programmers.
+
+If MUD can replace the paths of REST and make them more secure,
+then then company you invent can allow for Web Application programming, to people who hate code.
+
+Not because they can't program, or don't want to learn,
+but because they can sense that it is the old way - that better abstractions can be had.
+
+Like programming web applications,
+through a kind of a game.
+
+Oh, sure is sounds goofy,
+you are walking around dungeons after all.
+
+But if Mallory touches that password door,
+
+without the correct key in his inventory, he gets eaten by a .
+
+Maybe we need to consider, that pretending abstractions are not leaky is goofy,
+and that using an intelligent system that resembles the mechanics of a real world isn't goofy.
+
+You are looking at highly sophisticated security systems,
+that are as easy to comprehend for a human as using a key to inlock a door, or check out an article from the user's home library.
+
+It may even be the key of strong AI,
+that can improve it self - because why stop here?
+
+Anyways, when you have a Grue on your blue team,
+that consistently chomps red team members, the world becomes a much happier place.
+
+For those of you struggling to come up with a name for this new and groundgreaking technology, I offer:
+Complete And Thorough Protective Electronic Armor, or C.A.T.P.E.A. for short.

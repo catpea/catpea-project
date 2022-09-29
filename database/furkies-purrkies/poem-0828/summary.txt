@@ -1,0 +1,68 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Little Froggie From Peru
+Monday • June 6th 2022 • 5:01:57 pm
+
+Upon having sculpted my ,
+I begun pondering what more can be done with little rebuilt artifacts.
+
+I came across a really sad story from Pompeii,
+about being found.
+
+There I noticed all the little bits had holes in them,
+to hang them on necklaces and such.
+
+So selling a Sorcerer’s Kit,
+is another thing that can be done.
+
+I pondered creating a low polygon version,
+which is a geometric wire frame.
+
+But this has to be designed from scratch as such,
+reducing geometry of a sculpted piece just distorts it.
+
+For blobby sculptures like the froggie,
+.
+
+Using a boolean modifier to subtract some of the bottom,
+can make a sculpture it stand flat.
+
+I think my best idea is to split the froggie,
+very much like the original.
+
+Which calls for ,
+using difference boolean modifier and parting it.
+
+Then giving it thickness with Solidify,
+followed by a hinge and a locking mechanism.
+
+This way it can become a little trinket box,
+this seems like something that should be done manually.
+
+Geometry nodes, may not be the best choice here,
+because of how complex the sculpted mesh usually is.
+
+,
+a lot of open space that a human hand can’t create.
+
+It makes a piece look intricate,
+and saves on material costs.
+
+I have noticed ,
+a golden silky filament could maybe make something, but I am not too sure.
+
+The that the Froggie originates from,
+is theorized to have faded away 1300 years ago due to climate change.
+
+I could tell the original artist was studying frogs,
+it wasn’t just from memory.
+
+They gave the frog a belly, a strong brow, a nose,
+.
+
+Whether it is jewelry, a game piece,
+or sold as an STL digital model that others can use in their own pursuits.
+
+Rebuilding a 1500 year old artifact,
+was quite an amazing adventure.

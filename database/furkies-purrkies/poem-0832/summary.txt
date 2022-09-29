@@ -1,0 +1,157 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Bling: Thinking In Geometry Nodes
+Friday • June 10th 2022 • 6:38:07 pm
+
+Blender is a program for making 3D things,
+3D game characters, and everything else.
+
+The way things are done in the 3D world,
+is that you start with a 3D primitive like a cube or a sphere.
+
+And then you apply modifications,
+for example you can extrude faces of a cube with your mouse.
+
+Or you can apply an automatic modifier,
+such as solidify.
+
+Which for an unknown reason,
+will go inside your cube, and make a little home.
+
+It will give the inside of a cube, walls,
+perhaps it sees the faces of a solid cube as a thing to solidify.
+
+You can mix and match modifiers,
+you can send a solidified cube into some other modifier.
+
+As a side note, nobody yet knows,
+what happens when you solidify a solidified cube - you get a second floor maybe.
+
+There is maybe 50 modifiers that do odd,
+but useful things like that.
+
+And then there is this really crazy one,
+called Geometry Nodes.
+
+When you select your cube,
+and apply a geometry node modifier.
+
+You get to see this beam of geometric information,
+flowing from the input of the modifier to the output.
+
+These beams or node connections, or node trees,
+or geometry node blocks are not a new idea.
+
+It is a drag and drop programming language,
+not quite a proper user interface, and not a boring old programming language.
+
+It is like a subway map,
+you can follow the connections, to get a good picture of where things are happening.
+
+Hollywood uses a similar language for advanced computer based scenes,
+and previously Blender used something similar to color 3D objects.
+
+A language called pure data allows for music creation,
+and a program called node red can help you program web servers.
+
+To return to our cube with,
+a geometry nodes modifier.
+
+If you cut the stream of the geometric information,
+inside your Geometry nodes Modifier, the cube simply disappears.
+
+That input no longer reaches the output, the geometric information is cut,
+and it won’t reach your screen.
+
+Here in this visual programming language,
+you can also modify geometry.
+
+But you don’t get something for nothing,
+like with the solidify modifier.
+
+Now you have to really sit down,
+with a pencil, and try to figure things out.
+
+This is where this poem,
+becomes a little bit unhinged, so better grab onto something.
+
+This sub modifier world,
+this world of sub primiti...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+... back on a number scale,
+so that the middle of the ten numbers is over zero, or becomes zero.
+
+We need to know the half of ten,
+and then subtract it from ten.
+
+So we are pulling the ten,
+back into the minus world.
+
+Now our numbers go from -5 to +5.
+and here things get really easy.
+
+Because we can just map -5 to +5,
+with a map numbers node.
+
+This node will ask us, what is the minimum from,
+what is the maximum from, and we enter -5 and 5.
+
+And then it asks what is the minimum to,
+and maximum to, and here we say -1 to 1.
+
+This will create a series of 10 floating point numbers, doubles,
+that are now squished between -1 and 1.
+
+And since we want things to be uniform on both sides of the ring,
+we want to run the numbers through an absolute function - to get rid of that minus.
+
+There is an inversion that you have to perform here,
+so that zeros become ones and ones become zeros.
+
+Because we didn’t start at zero, we started at one, what was once minus one,
+and then went over to one.
+
+That means the zero that was the top of the pyramid,
+is where index five is, not where index zero is, we want to keep the zeros together.
+
+Which in the world of rings means, at the beginning and at the end,
+at index 0 and also at index 9.
+
+And here finally we assign this number to the radius,
+of our 3D reference point for safe keeping.
+
+And now as we instantiate decorations on the surface of our ring,
+we have all the information we need to have a center decoration.
+
+And side decorations,
+that gently get smaller, and smaller, and smaller.
+
+What can I say,
+if something is uniform like rings.
+
+Then it is almost certainly,
+programmable.
+
+And with a little bit of patience,
+a bunch of naps, and sunny days.
+
+You can create a generator of rings,
+generator of all kinds of blings.
+
+The details on such a ring,
+are almost too much for today’s technology.
+
+We may not have rocket packs,
+but, lets face it, flying with a rocket on your back, is silly and weird.
+
+But what we have, is visual programming languages,
+that are just enough to open a whole new world of creativity and invention, and bling.
+
+Procedural Modeling,
+is here to stay...
+
+From procedural jewelry to furniture, shoes and maybe haircuts,
+and hats that perfectly match your haircuts so that everything has purrfect geometry.
