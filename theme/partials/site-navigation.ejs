@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg rounded-bottom navbar-dark bg-dark mb-3 shadow">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/"><?=website.title?><sup class="text-muted" style="font-size: .75rem"> <?=website.version?></sup></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <? for(const link of _.chain(network).filter('navigation')){ ?>
+          <li class="me-xl-2"><a class="<?=classes('nav-link', {'active text-warning': (link.url=='/'?'/index.html':link.url)==('/'+locals.filename) } )?>" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?>
+          <? if(link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-dark fw-bold text-warning px-1 border border-warning shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
+          <? if(link.upiconClasses){ ?> <sup class="fw-bold text-light" style="margin-left: -5px;"><i class="<?=classes(link.upiconClasses)?>"></i></sup> <?}?>
+          </a>
+          </li>
+        <?}?>
+      </ul>
+    </div>
+
+  </div>
+</nav>

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <?- include('partials/site-head.ejs') ?>
+  </head>
+  <body>
+
+  <div class="container">
+  <?- include('partials/site-navigation.ejs') ?>
+
+
+  <section class="container">
+    <div class="row justify-content-md-center">
+      <div class="col col-xl-6">
+        <? if(browse.home){ ?>
+          <? for(const alert of alerts){ ?>
+            <? if(alert.urgent){ ?>
+              <div class="alert alert-<?=alert.type?> bg-dark border border-<?=alert.type?> text-<?=alert.type?> shadow my-4" role="alert">
+                <?if(alert.text){?>
+                  <p>
+                    <? iff( _.chain([{success:true, name:'bi-check-circle-fill'},{info:true, primary:true, secondary:true, light:true, dark:true, name:'bi-info-circle-fill'},{warning:true, danger:true, name:'bi-exclamation-triangle-fill'}]).find(alert.type), function(icon){ ?> <i class="<?= icon.name ?> me-2"></i> <? }) ?>
+                    <?=alert.text?>
+                  </p>
+                <?}?>
+                <?if(alert.link){?><p><a href="<?=alert.link.url?>" class="alert-link text-<?=alert.type?>"><?=alert.link.title?></a></p><?}?>
+                <?if(alert.note){?><hr><p class="mb-0 small"><?=alert.note?></p><?}?>
+                <?-alert.html?>
+              </div>
+            <?}?>
+          <?}?>
+        <?}?>
+      </div>
+    </div>
+  </section>
+
+
+
+
+  <?- include('partials/site-header.ejs') ?>
+  </div>
+
+
+
+  <main class="container-fluid">
+    <!--
+      <?- include('partials/site-latest.ejs') ?>
+      <?- include('partials/site-featured.ejs') ?>
+    -->
+    <div class="row my-5">
+      <div class="col">
+        <?- include('partials/site-listing.ejs') ?>
+        <?- include('partials/site-pagination.ejs') ?>
+      </div>
+    </div>
+  </main>
+
+  <div class="container">
+    <?if(debug){?>
+      <div class="row">
+        <div class="col">
+          <div class="card text-bg-dark shadow mb-3">
+            <div class="card-body">
+              <div class="card-text text-info mb-3">Debug Table</div>
+              <dl class="row">
+                <dt class="col-sm-2 small">Order</dt><dd class="col-sm-10 small"></dd>
+                <?for(const key in browse){?>
+                <dt class="col-sm-2 small text-muted fw-lighter"><small class="float-md-end"><?=key?></small></dt><dd class="col-sm-10 small text-warning"><small><?=_.chain( JSON.stringify(browse[key]) ).plaintext().truncate({length: 1024, separator: /\W/i, omission: '...'}).value()?></small></dd>
+                <?}?>
+                <dt class="col-sm-2 small">Attributes</dt><dd class="col-sm-10 small"></dd>
+                <?for(const key in posts[0].attr){?>
+                <dt class="col-sm-2 small text-muted fw-lighter"><small class="float-md-end"><?=key?></small></dt><dd class="col-sm-10 small text-warning"><small><?=_.chain( JSON.stringify(posts[0].attr[key]) ).plaintext().truncate({length: 1024, separator: /\W/i, omission: '...'}).value()?></small></dd>
+                <?}?>
+              </dl>
+            </div>
+          </div>
+        </div>
+      </div>
+    <?}?>
+
+    <?if(debug){?>
+      <div class="row">
+        <div class="col">
+          <div class="code card shadow mb-3">
+            <div class="card-body">
+              <pre>
+              <code>
+<?=JSON.stringify({website,network}, null, '  ')?>
+              </code>
+              </pre>
+            </div>
+          </div>
+        </div>
+      </div>
+    <?}?>
+  </div>
+
+  <div class="container">
+  <?- include('partials/site-footer.ejs') ?>
+  </div>
+
+
+
+  </body>
+</html>

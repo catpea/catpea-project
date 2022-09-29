@@ -1,0 +1,32 @@
+<div class="row">
+  <? for(const post of posts){ ?>
+    <div class="col-12">
+
+      <div class="card text-bg-dark shadow my-5">
+        <div class="card-header">
+           <a href="/permalink/<?=post.attr.guid?>" class="btn-link text-light text-decoration-none">#<?=post.number?>: <?-post.attr.title.replace(/ (?=\w+$)/gm, '&nbsp;')?></a>
+           <?if(post.attr.audio){?> <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning btn-sm float-end rounded-circle"><i class="bi bi-play-circle px-0 py-1"></i></a> <?}?>
+         </div>
+
+         <div class="card-body">
+
+
+          <p class="card-text small"><?= _.chain( post.html ).plaintext().trim().truncate({length: 256, separator: /\W/i, 'omission': '...'}).value() -?> <a href="/permalink/<?=post.attr.guid?>" class="text-decoration-none">more&raquo;</a></p>
+        </div>
+        <?if(post.attr.links?.length){?>
+          <ul class="list-group list-group-flush list-group-numbered ps-4">
+            <? for(const link of post.attr.links){ ?>
+                <a href="<?= link.url ?>" class="list-group-item list-group-item-action text-bg-dark small text-muted"><?= link.title ?>
+                <small class="text-muted d-block small"><small><?=link.url?></small></small></a>
+            <? } ?>
+          </ul>
+
+        <?}?>
+        <div class="card-footer">
+          <div class="text-muted small"><?=timestamp(post.attr.date)?></div>
+        </div>
+      </div>
+
+    </div>
+  <?}?>
+</div>

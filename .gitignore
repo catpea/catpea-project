@@ -3,15 +3,18 @@ dist
 node_modules
 
 database/westland-warrior
-database/furkies-purrkies/poem-009??
-database/furkies-purrkies/poem-008??
-database/furkies-purrkies/poem-007??
-database/furkies-purrkies/poem-006??
-database/furkies-purrkies/poem-005??
-database/furkies-purrkies/poem-004??
-database/furkies-purrkies/poem-003??
-database/furkies-purrkies/poem-002??
-database/furkies-purrkies/poem-001??
+database/furkies-purrkies/poem-09??
+database/furkies-purrkies/poem-08??
+database/furkies-purrkies/poem-07??
+database/furkies-purrkies/poem-06??
+database/furkies-purrkies/poem-05??
+database/furkies-purrkies/poem-04??
+database/furkies-purrkies/poem-03??
+database/furkies-purrkies/poem-02??
+database/furkies-purrkies/poem-01??
+database/furkies-purrkies/poem-00??
+yid-*.jpg
+
 
 # Logs
 logs

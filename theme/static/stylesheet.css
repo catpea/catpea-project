@@ -1,0 +1,44 @@
+/* Webfont: Lato-Regular */@font-face {
+    font-family: 'LatoWeb';
+    src: url('fonts/Lato-Regular.eot'); /* IE9 Compat Modes */
+    src: url('fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('fonts/Lato-Regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/Lato-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+  /* older color, more purple background-color: #160020; */
+  font-family: "LatoWeb" ! important;
+  font-style: normal;
+  background-color: #231a31;
+  padding: 0;
+}
+
+a {
+  color: gold;
+}
+
+
+.shadow {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,0.75) !important;
+}
+
+
+
+.post-content img {
+  width: 50%;
+  height: auto;
+  margin-bottom: 4rem;
+}
+
+.code.card {
+  background: #002b36 ! important;
+}
+
+.code.card code {
+  color: #d33682 ! important;
+}

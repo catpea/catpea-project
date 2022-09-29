@@ -1,0 +1,22 @@
+{
+  "name": "catpea-project",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "catpea-alerts.conf.js",
+  "scripts": {
+    "publish": "./bin/publish.sh",
+    "build": "./bin/build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "front-matter": "^4.0.2",
+    "fs-extra": "^10.1.0",
+    "js-yaml": "^4.1.0",
+    "lodash-es": "^4.17.21",
+    "uuid": "^9.0.0"
+  }
+}
