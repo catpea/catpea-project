@@ -16,9 +16,9 @@ Both Athens and Naples return the same number, based on the ASCII table.
 ```JavaScript
 
 ['Athens', 'Naples']
-    .map(name=>name.split('')
-    .map(letter=>letter.charCodeAt())
-    .reduce((accumulator, asciiValue)=>accumulator+asciiValue))
+  .map(
+    name=>name.split('').map(letter=>letter.charCodeAt()).reduce((response, asciiValue)=>response+asciiValue)
+  );
 
 // Array [ 611, 611 ] :(
 
@@ -80,12 +80,12 @@ let list = [
 <ul>
 	{#each list as item, index (item.id)}
 	<li
-			draggable="true"
-			on:dragstart={(event)=>event.dataTransfer.setData("text/plain", index)}
-		  on:dragover={(event)=>(parseInt(event.dataTransfer.getData("text/plain"))==index)?null:event.preventDefault()}
-		  on:drop={(event)=>{event.preventDefault(); list.splice(index, 0, list.splice(parseInt(event.dataTransfer.getData("text/plain")), 1)[0]); list=list; console.log(`Moved: ${event.dataTransfer.getData("text/plain")} to ${index}`)}}
-		  on:click={()=>{selected=item.id; console.log(`Selected: ${selected}`)}}>
-		{item.title}
+    draggable="true"
+    on:dragstart={(event)=>event.dataTransfer.setData("text/plain", index)}
+    on:dragover={(event)=>(parseInt(event.dataTransfer.getData("text/plain"))==index)?null:event.preventDefault()}
+    on:drop={(event)=>{event.preventDefault(); list.splice(index, 0, list.splice(parseInt(event.dataTransfer.getData("text/plain")), 1)[0]); list=list; console.log(`Moved: ${event.dataTransfer.getData("text/plain")} to ${index}`)}}
+    on:click={()=>{selected=item.id; console.log(`Selected: ${selected}`)}}>
+    {item.title}
 	</li>
 	{/each}
 </ul>

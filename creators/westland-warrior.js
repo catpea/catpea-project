@@ -55,7 +55,7 @@ export default async function({dest, kind, title, after, samples, debug}){
 
 
   const features = {
-    youtubeThumbnails: true,
+    ytcover: true,
   };
 
   const attributes = {

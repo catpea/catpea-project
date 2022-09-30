@@ -1,1 +1,2 @@
 - [] forgot the atwork credit list
+- [] spelling/semtiment analisis (sock.js)
