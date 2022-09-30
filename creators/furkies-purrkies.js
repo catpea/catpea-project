@@ -5,7 +5,7 @@ import path from 'path';
 import fs from 'fs-extra';
 import frontMatter from 'front-matter';
 
-export default async function({dest, kind, title, samples, debug}){
+export default async function({db, dest, kind, title, samples, debug}){
 
 
   const number = db.length +1;
@@ -96,9 +96,11 @@ export default async function({dest, kind, title, samples, debug}){
     await fs.ensureDir(filesDir);
     await fs.writeFile(indexFile, doc);
 
-    await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'sm-'+attributes.image));
-    await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'md-'+attributes.image));
-    await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'lg-'+attributes.image));
+    await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, attributes.image));
+
+    // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'sm-'+attributes.image));
+    // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'md-'+attributes.image));
+    // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'lg-'+attributes.image));
     await fs.copyFile(path.join(samples, 'audio.mp3'), path.join(filesDir, attributes.audio));
 
 }

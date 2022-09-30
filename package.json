@@ -6,7 +6,8 @@
   "main": "catpea-alerts.conf.js",
   "scripts": {
     "publish": "./bin/publish.sh",
-    "build": "./bin/build.sh"
+    "build": "./bin/build.sh",
+    "server": "http-server -o -c-1 $(antwerp read catpea configuration.dest)"
   },
   "keywords": [],
   "author": "",
