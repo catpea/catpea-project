@@ -19,6 +19,7 @@ export default async function({db, dest, kind, title, samples, debug}){
   const audio = `${id}.mp3`;
 
   const features = {
+    video: true,
   };
 
   const attributes = {
