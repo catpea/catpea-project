@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
 ### A Strange Little Discovery
 
 I was debugging something with a simple checksum algorithm as I was deep in some complex code, and this thing got me.
@@ -21,6 +14,37 @@ Both Athens and Naples return the same number, based on the ASCII table.
   );
 
 // Array [ 611, 611 ] :(
+
+```
+
+
+
+
+
+
+
+
+
+
+### Changed File Solver
+
+Unusually short piece of code for listing file changes. Intersection means pick items that are the same, and difference pick the ones that are different.
+
+This program operates both on filenames, and a hash of the content of the file.
+I made it calculate changed files based on name __and__ file contents.
+
+
+```JavaScript
+
+function solver(current, previous){
+  const [currentNames, previousNames] = [current, previous].map(list=>list.map(i=>i[1]));
+  const [currentHash, previousHash] = [current, previous].map(list=>list.map(i=>i.join('  ')))
+  const normal = intersection(currentHash, previousHash).map(i=>i.split('  ')[1])
+  const create = difference(currentNames, previousNames);
+  const update = difference( intersection(previousNames, currentNames), normal);
+  const remove = difference(previousNames, currentNames);
+  return { create, update, remove, normal };
+}
 
 ```
 
@@ -69,29 +93,29 @@ async function createCover(selected, dest, square = false){
 ```JavaScript
 
 <script>
-let selected;
-let list = [
-	{id: 1, title: "I"},
-	{id: 2, title: "Am"},
-	{id: 3, title: "Yoda"}
-];
+  let selected;
+  let list = [
+    {id: 1, title: "I"},
+    {id: 2, title: "Am"},
+    {id: 3, title: "Yoda"}
+  ];
 </script>
 
 <ul>
-	{#each list as item, index (item.id)}
-	<li
-    draggable="true"
-    on:dragstart={(event)=>event.dataTransfer.setData("text/plain", index)}
-    on:dragover={(event)=>(parseInt(event.dataTransfer.getData("text/plain"))==index)?null:event.preventDefault()}
-    on:drop={(event)=>{event.preventDefault(); list.splice(index, 0, list.splice(parseInt(event.dataTransfer.getData("text/plain")), 1)[0]); list=list; console.log(`Moved: ${event.dataTransfer.getData("text/plain")} to ${index}`)}}
-    on:click={()=>{selected=item.id; console.log(`Selected: ${selected}`)}}>
-    {item.title}
-	</li>
-	{/each}
+  {#each list as item, index (item.id)}
+    <li
+      draggable="true"
+      on:dragstart={(event)=>event.dataTransfer.setData("text/plain", index)}
+      on:dragover={(event)=>(parseInt(event.dataTransfer.getData("text/plain"))==index)?null:event.preventDefault()}
+      on:drop={(event)=>{event.preventDefault(); list.splice(index, 0, list.splice(parseInt(event.dataTransfer.getData("text/plain")), 1)[0]); list=list; console.log   (`Moved: ${event.dataTransfer.getData("text/plain")} to ${index}`)}}
+      on:click={()=>{selected=item.id; console.log(`Selected: ${selected}`)}}>
+      {item.title}
+    </li>
+  {/each}
 </ul>
 
 {#if selected}
-selected: {selected}
+  selected: {selected}
 {/if}
 
 ```
@@ -132,7 +156,7 @@ socket.on('generate', data => {
   Readable.from(vfs)
   .pipe(map(log))
   .pipe(gulpIf(isJavaScript, babel({   })))
-  //.pipe(gulpIf(isJavaScript, uglify()))
+  .pipe(gulpIf(isJavaScript, uglify()))
   .on('error', console.log)
   .pipe(gulp.dest(path.join('dist',data.name), { sourcemaps: '.' }));
  });

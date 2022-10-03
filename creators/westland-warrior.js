@@ -20,9 +20,8 @@ function byWeight(a, b){
   return 0;
 }
 
-export default async function({dest, kind, title, after, samples, debug}){
+export default async function({db, dest, kind, title, after, samples, debug}){
 
-  const db = (await Promise.all( entries.map(src=>fs.readFile(path.join(src,'index.md'), 'utf8')))).map(text=>frontMatter(text).attributes).sort(byWeight)
   const number = db.length +1;
 
   const id = kebabCase(title);
@@ -93,7 +92,7 @@ export default async function({dest, kind, title, after, samples, debug}){
   const filesDir = path.join(baseDir, 'files');
 
   if(await fs.pathExists(baseDir)) throw new Error(`"${title}" already exists`)
-  console.log(`Creating "${title}" in "${dest}"`);
+  // console.log(`Creating "${title}" in "${dest}"`);
   await fs.ensureDir(baseDir);
   await fs.ensureDir(filesDir);
   await fs.writeFile(indexFile, doc);
@@ -103,5 +102,6 @@ export default async function({dest, kind, title, after, samples, debug}){
   await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'md-'+attributes.image));
   await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'xl-'+attributes.image));
 
+  console.log(baseDir);
 
 }

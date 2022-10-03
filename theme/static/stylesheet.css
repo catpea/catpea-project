@@ -22,6 +22,15 @@ a {
   color: gold;
 }
 
+.card-text h3 {
+  margin-bottom: 4rem;
+  border-bottom: solid 1px var(--bs-warning);
+}
+
+hr {
+  margin: 1rem 2rem;
+}
+
 
 .shadow {
   box-shadow: 0 .5rem 1rem rgba(0,0,0,0.75) !important;

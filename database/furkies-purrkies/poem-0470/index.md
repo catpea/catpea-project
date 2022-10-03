@@ -168,4 +168,4 @@ get yourself a [multimeter](https://www.amazon.com/gp/product/B00066ZZO4/ref=ppx
 
 ---
 
-(bonus: [Free Phone Ring](files/bonus-phone-ring.mp3) featuring the hoots of [The Midnight Owl](https://catpea.com/read/furkies-purrkies/220.html))
+(bonus: [Free Phone Ring](files/bonus-phone-ring.mp3) featuring the hoots of [The Midnight Owl](/permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/))

@@ -30,7 +30,7 @@ that I made this afternoon upon singing a song.
 I attach the song at the end of this poem,\
 and that will be the first power I will share some notes on.
 
-In another poem entitled "[Karaoke Pokie: A Cappella Eve With The Dr. Meow Quartet](https://catpea.com/read/furkies-purrkies/343/)"\
+In another poem entitled "[Karaoke Pokie: A Cappella Eve With The Dr. Meow Quartet](/permalink/68f9c25e-cef0-40f1-9f95-aae7944c9c52/)"\
 I sung an old song from a TV show.
 
 This afternoon I've noticed that a lot of the song stayed with me,\
@@ -167,7 +167,7 @@ it always comes put as a supporting wisdom, but I let the rhyme decide what wisd
 And if the is nothing I can say of value,\
 then I search for synonyms and sometimes even re-word the first line.
 
-My most favorite, are my funny poems, like [The Midnight Owl](https://catpea.com/read/furkies-purrkies/220/),\
+My most favorite, are my funny poems, like [The Midnight Owl](/permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/),\
 I am certain that it is humor that puts magic in poetry.
 
 ---

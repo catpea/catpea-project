@@ -1,10 +1,8 @@
 #!/bin/bash
-#
-# cd somewhere,
-# and do that somewheres thing....
-# repeat for all programs, and websites.
-
-git add .;
-git commit -m 'Version 4 Monorepo Thumbnail Cache';
-#npm version patch;
-git push;
+antwerp build catpea
+cp dist/server/www/catpea-com/SHA256SUM .cache/SHA256SUM-$(date +%Y-%m-%d-%H-%M-%S -r dist/server/www/catpea-com/SHA256SUM)
+cd dist/server/www/catpea-com
+    find . -type f -exec sha256sum {} \; > SHA256SUM;
+cd -
+antwerp upload catpea > batchfile
+echo lftp -f batchfile

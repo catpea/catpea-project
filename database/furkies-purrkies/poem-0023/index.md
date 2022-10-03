@@ -58,7 +58,7 @@ The Future is only as bright as Her Humanity,
 
 we are Her dignity, Her keepers of sanity.
 
-So, search for [video tutorials](http://catpea.com/),
+So, search for [video tutorials](https://catpea.com/),
 
 maybe open a book,
 

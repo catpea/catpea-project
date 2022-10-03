@@ -81,6 +81,27 @@
         </div>
       </div>
     <?}?>
+    
+    <?if(post.attr.artwork.length){?>
+      <div class="row">
+        <div class="col">
+            <!-- Art Credit Card -->
+          <div class="card text-bg-dark shadow mb-3">
+            <div class="card-body">
+              <a name="references"></a>
+              <h5 class="card-title">Artwork Credit<?=post.attr.artwork.length>1?'s':''?></h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <?for(let artwork of post.attr.artwork){?>
+                  <li class="list-group-item text-bg-dark">
+                    <a href="<?=artwork?>" class="card-link"><i class="bi bi-palette-fill"></i> <?=artwork?></a>
+                  </li>
+                <?}?>
+            </ul>
+          </div>
+        </div>
+      </div>
+    <?}?>
 
     <?if(debug){?>
       <div class="row">

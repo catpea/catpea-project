@@ -56,7 +56,7 @@ but now, that I have slowed down to write.
 I see my adventures as being on par with anything that Indiana Jones could live through,\
 I had so many hot flashes from near wild animal attacks, that they just became another way of measuring my adventures.
 
-And short of [losing my most precious artifact](https://catpea.com/read/furkies-purrkies/395/),\
+And short of [losing my most precious artifact](/permalink/af5aed38-7b28-4984-88bc-ee279e0c9cf4/),\
 my archaeology was always on point, to this day I keep an eye on museums.
 
 And my computer programming has been steadily advancing since I was ten or so,\

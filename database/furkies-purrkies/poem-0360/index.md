@@ -134,7 +134,7 @@ This time I unpacked over a the hiking sites,
 
 I think I was re-listening to A Walk in the Woods by Bryson.
 
-Whichever book has that damn paragraph about [that owl](https://catpea.com/read/furkies-purrkies/220.html) swooping down,
+Whichever book has that damn paragraph about [that owl](/permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/) swooping down,
 
 and freeing a man of his scalp, thinking it is a fury creature, an easy mistake to make when you fly, apparently.
 

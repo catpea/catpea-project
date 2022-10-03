@@ -90,7 +90,7 @@ To this day, I kick myself that I didn't say,\
 
 ---
 
-By far the worst animals are the Bobcat and [The Owl](https://catpea.com/read/furkies-purrkies/220/),\
+By far the worst animals are the Bobcat and [The Owl](/permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/),\
 one will Hoot Hoot and the other GrowleEEEEEEEEEEeE
 
 The Bobcat,\

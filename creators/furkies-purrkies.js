@@ -104,6 +104,8 @@ export default async function({db, dest, kind, title, samples, debug}){
     // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'lg-'+attributes.image));
     await fs.copyFile(path.join(samples, 'audio.mp3'), path.join(filesDir, attributes.audio));
 
+    console.log(baseDir);
+
 }
 
 async function readDirectory(...target){

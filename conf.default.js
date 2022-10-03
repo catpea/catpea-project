@@ -7,6 +7,7 @@ import creators from './creators/index.js';
 export default async function(){
 
   const base = '/home/meow/Universe/Development';
+
   const configuration = {
 
          src: path.join(base, 'catpea-project/database'),
@@ -20,6 +21,35 @@ export default async function(){
 
     pp: (12* 2), // per-page
   };
+
+  const publish = {
+    profiles: [
+      {
+        kind: 'lftp-batchfile',
+        silent: false,
+        
+        src:{
+          sum: 'SHA256SUM',
+        },
+
+        dest:{
+          dir: '/lamp0/web/vhosts/default/www/catpea-net',
+          sum: 'https://catpea.com/SHA256SUM',
+        },
+        header: [
+          `open sftp://xxxxxx:@xxx.xxx.xxxx.net:/`,
+        ],
+        create: {},
+        remove: {
+          disable: true,
+          order: ['tar', 'zip', 'mp3', 'png', 'jpg', 'SHA256SUM'],
+        },
+        update: {
+          order: ['tar', 'zip', 'mp4', 'mp3', 'png', 'jpg', 'txt', 'html', 'SHA256SUM'],
+        },
+      }
+    ]
+  }
 
 
   const covers = [
@@ -52,8 +82,21 @@ export default async function(){
     alerts: await alerts(),
   };
 
+
+
+
+
+
+
+
+
+
+
+
   const response = {
+
     configuration,
+    publish, 
     covers,
     site,
     creators: await creators(),

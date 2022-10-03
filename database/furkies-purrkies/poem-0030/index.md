@@ -56,7 +56,7 @@ The promise of Freedom, Reason, and Peace,
 
 is in our hands, it is our Masterpiece.
 
-Education is [fun](http://catpea.com/) it only ever seems hard,
+Education is [fun](https://catpea.com/) it only ever seems hard,
 
 because one is trying to learn too much in too little time.
 

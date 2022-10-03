@@ -18,9 +18,9 @@ features: {}
 draft: false
 ---
 
-\[Watch The Jogging Video]\[2] on YouTube
+[Watch The Jogging Video][2] on YouTube
 
-\[Visit The Research Post]\[1] that explains the program behind this little poem.
+[Visit The Research Post][1] that explains the program behind this little poem.
 
 I wrote a new workout program, Holy Molly,
 
@@ -46,6 +46,5 @@ The play-list is several hours long,
 
 it will surely make me very strong.
 
-\[1]: <https://news.catpea.com/read/research-0097>
-
-\[2]: <https://youtu.be/9XTjAm9H-vA>
+[1]: /permalink/9add1268-7755-49ec-84d4-c16bd64d628d
+[2]: https://youtu.be/9XTjAm9H-vA

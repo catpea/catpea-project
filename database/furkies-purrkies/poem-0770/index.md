@@ -22,7 +22,8 @@ Two days of painting, two days of resting,\
 a new painting every four days, for about 75
 
 I am only showing sixteen here,\
-because every time I look at [that damn Groundhog](https://www.catpea.com/read/furkies-purrkies/704), it snows.
+because every time I look at [that damn Groundhog][1], it snows.
+
 
 ---
 
@@ -116,3 +117,6 @@ beyond, poverty, climate dangers, armed conflicts and war.
 
 It would be a concept map to that remind us all,\
 that to grow up, means to grow all they way up, to become great beings.
+
+[1]: /permalink/d9527d0a-c4ed-45e5-892d-31e64f6c7534
+[2]: https://youtu.be/43zEEl3iLjc

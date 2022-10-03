@@ -67,7 +67,7 @@ they seem more intelligent.
 ---
 
 Aside from a terrible owl encounter,\
-and an [equally terrible poem](https://catpea.com/read/furkies-purrkies/220/).
+and an [equally terrible poem](/permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/).
 
 I did actually run into a creature that is rare,\
 and it was a very large porcupine.
