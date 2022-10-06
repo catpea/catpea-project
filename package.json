@@ -1,10 +1,12 @@
 {
   "name": "catpea-project",
   "type": "module",
+  "private":true,
   "version": "1.0.1",
   "description": "",
   "main": "catpea-alerts.conf.js",
   "scripts": {
+    "save": "git add .; git commit -m 'New Release'; git push;",
     "publish": "./bin/publish.sh",
     "build": "./bin/build.sh",
     "server": "http-server -o -c-1 $(antwerp read catpea configuration.dest)"

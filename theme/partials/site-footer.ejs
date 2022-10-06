@@ -1,77 +1,80 @@
 <footer class="text-bg-dark pb-2 mt-3 shadow rounded-top" style="min-height: 32rem;">
 
   <div class="text-end">
-    <a class="d-inline p-2" href="#top"><i class="bi bi-box-arrow-in-up"></i></a>
+  <a class="d-inline p-2" href="#top"><i class="bi bi-box-arrow-in-up"></i></a>
   </div>
-
-
 
   <div class="container">
     <div class="row">
 
-      <div class="col-12 col-md-12 col-lg-4 mb-md-5">
+      <div class="col-12 col-md-6 col-lg-3 mb-md-5">
+        <img class="w-100 pt-5" src="/logo.png">
+      </div>
 
-      <h5 class="mb-3 mb-lg-5 mt-5">
-        Navigation
-        <small class="text-muted">Site Navigation</small>
-      </h5>
-      <ul class="list-unstyled ms-3">
-      <? for(const link of _.chain(network).filter('navigation')){ ?>
-        <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?>
+      <div class="col-12 col-md-6 col-lg-3 mb-md-5">
+        <h5 class="mb-3 mb-lg-5 mt-5"> Navigation <small class="text-muted">Site Navigation</small> </h5>
+        <ul class="list-unstyled ms-3">
+        <? for(const link of _.chain(network).filter('navigation')){ ?>
+          <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?>
           <!-- for alerts only --><? if(link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-danger fw-bold text-light px-1 border border-warning shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
-        </a></li>
-      <? } ?>
-      </ul>
-
-
-      <h6 class="mt-5 opacity-25 text-muted">
-        Debug Information
-      </h6>
-
-        <div> <span class="opacity-25 pe-1 text-muted small d-sm-none">responsive-layout:xs</span> <span class="opacity-25 pe-1 text-muted small d-none d-sm-inline d-md-none">responsive-layout:sm</span> <span class="opacity-25 pe-1 text-muted small d-none d-md-inline d-lg-none">responsive-layout:md</span> <span class="opacity-25 pe-1 text-muted small d-none d-lg-inline d-xl-none">responsive-layout:lg</span> <span class="opacity-25 pe-1 text-muted small d-none d-xl-inline d-xxl-none">responsive-layout:xl</span> <span class="opacity-25 pe-1 text-muted small d-none d-xxl-inline">responsive-layout:xxl</span></div>
-        <div class="opacity-25 pe-1 text-muted small">posts-on-page: <?=posts.length?></div>
-        <div class="opacity-25 pe-1 text-muted small">alerts: <?=alerts.length?></div>
-        <div class="opacity-25 pe-1 text-muted small">filename: <?=locals.filename?locals.filename:'nope'?></div>
-
+          </a></li>
+        <? } ?>
+        </ul>
       </div>
 
-
-      <div class="col-12 col-md-6 col-lg-4">
-      <h5 class="mb-3 mb-lg-5 mt-5">
-        Mirrors
-        <small class="text-muted">Website Backups & Snapshots</small>
-      </h5>
-      <ul class="list-unstyled ms-3">
-      <? for(const link of _.chain(network).filter('mirror')){ ?>
-        <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><?= link.title ?></a></li>
-      <? } ?>
-      </ul>
+      <div class="col-12 col-md-6 col-lg-3">
+        <h5 class="mb-3 mb-lg-5 mt-5"> Mirrors <small class="text-muted">Website Backups & Snapshots</small> </h5>
+        <ul class="list-unstyled ms-3">
+          <? for(const link of _.chain(network).filter('mirror')){ ?>
+            <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><?= link.title ?></a></li>
+          <? } ?>
+        </ul>
       </div>
 
-
-      <div class="col-12 col-md-6 col-lg-4">
-
-
-      <h5 class="mb-3 mb-lg-5 mt-5">
-        Network
-        <small class="text-muted">Cat Pea In The Wild</small>
-      </h5>
-      <ul class="list-unstyled ms-3">
-      <? for(const link of _.chain(network).filter('social')){ ?>
-        <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><?= link.title ?></a></i>
-      <? } ?>
-      </ul>
-
-
-
+      <div class="col-12 col-md-6 col-lg-3">
+        <h5 class="mb-3 mb-lg-5 mt-5"> Network <small class="text-muted">Cat Pea In The Wild</small> </h5>
+        <ul class="list-unstyled ms-3">
+        <? for(const link of _.chain(network).filter('social')){ ?>
+          <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><?= link.title ?></a></i>
+        <? } ?>
+        </ul>
       </div>
+
     </div>
-
-
-
   </div>
 
 
 
+  <div class="row">
+    <div class="col">
+      <a class="opacity-25 pe-2 float-end text-decoration-none fw-bold fs-3 text-warning " data-bs-toggle="collapse" href="#collapseDebug" role="button" aria-expanded="false" aria-controls="collapseDebug">&pi;</a>
+
+      <div class="collapse p-5" id="collapseDebug">
+      
+
+        <div class="card text-bg-dark shadow">
+        <!-- <img src="/logo.png" class="card-img-top" alt="Cat Pea Logo"> -->
+        <div class="card-body">
+          <h5 class="card-title">Debug Information</h5>
+          <p class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item text-bg-dark">
+          <span class="d-sm-none">responsive-layout:xs</span> <span class="d-none d-sm-inline d-md-none">responsive-layout:sm</span> <span class="d-none d-md-inline d-lg-none">responsive-layout:md</span> <span class="d-none d-lg-inline d-xl-none">responsive-layout:lg</span> <span class="d-none d-xl-inline d-xxl-none">responsive-layout:xl</span> <span class="d-none d-xxl-inline">responsive-layout:xxl</span>
+          </li>
+          <li class="list-group-item text-bg-dark">posts-on-page (pp): <?=posts.length?></li>
+          <li class="list-group-item text-bg-dark">alerts: <?=alerts.length?></li>
+          <li class="list-group-item text-bg-dark">filename: <?=locals.filename?locals.filename:'nope'?></li>
+        </ul>
+        <!-- <div class="card-body">
+          <a href="#" class="card-link">Card link</a>
+          <a href="#" class="card-link">Another link</a>
+        </div> -->
+        </div>
+
+        
+      </div>
+    </div>
+  </div>
 
 </footer>

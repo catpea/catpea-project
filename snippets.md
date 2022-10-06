@@ -26,6 +26,177 @@ Both Athens and Naples return the same number, based on the ASCII table.
 
 
 
+### Convert A List Of Paths To A Tree
+
+Unusually short piece of code for converting a simple list of files into a complex data structure.
+
+A list of files may look like this
+
+```javascript
+[
+  '.checksums.json',
+  'SMARTSUM',
+  'a/a.txt',
+  'a/b/c/x.txt',
+  'b.txt',
+  'c.txt',
+  'games/dott/dott-ega.exe',
+  'games/rott/manual/index.html',
+  'games/rott/play.exe',
+  'my-documents/3d-stuff/blender/bork.blend',
+  'my-documents/3d-stuff/blender/old-version.blend',
+  'my-documents/music/some-file.mp3',
+  'sub/sub-a.txt'
+]
+```
+
+And the resulting tree like this
+
+```javascript
+{
+  'my-documents': {
+    name: 'my-documents',
+    directory: true,
+    created: false,
+    elements: {
+      music: {
+        name: 'music',
+        directory: true,
+        created: false,
+        elements: { 'some-file.mp3': { name: 'some-file.mp3', file: true } }
+      },
+      '3d-stuff': {
+        name: '3d-stuff',
+        directory: true,
+        created: false,
+        elements: {
+          blender: {
+            name: 'blender',
+            directory: true,
+            created: false,
+            elements: {
+              'bork.blend': { name: 'bork.blend', file: true },
+              'old-version.blend': { name: 'old-version.blend', file: true }
+            }
+          }
+        }
+      }
+    }
+  },
+  a: {
+    name: 'a',
+    directory: true,
+    created: false,
+    elements: {
+      b: {
+        name: 'b',
+        directory: true,
+        created: false,
+        elements: {
+          c: {
+            name: 'c',
+            directory: true,
+            created: false,
+            elements: { 'x.txt': { name: 'x.txt', file: true } }
+          }
+        }
+      },
+      'a.txt': { name: 'a.txt', file: true }
+    }
+  },
+  sub: {
+    name: 'sub',
+    directory: true,
+    created: false,
+    elements: { 'sub-a.txt': { name: 'sub-a.txt', file: true } }
+  },
+  games: {
+    name: 'games',
+    directory: true,
+    created: false,
+    elements: {
+      rott: {
+        name: 'rott',
+        directory: true,
+        created: false,
+        elements: {
+          manual: {
+            name: 'manual',
+            directory: true,
+            created: false,
+            elements: { 'index.html': { name: 'index.html', file: true } }
+          },
+          'play.exe': { name: 'play.exe', file: true }
+        }
+      },
+      dott: {
+        name: 'dott',
+        directory: true,
+        created: false,
+        elements: { 'dott-ega.exe': { name: 'dott-ega.exe', file: true } }
+      }
+    }
+  },
+  'b.txt': { name: 'b.txt', file: true },
+  'c.txt': { name: 'c.txt', file: true },
+  '.checksums.json': { name: '.checksums.json', file: true },
+  SMARTSUM: { name: 'SMARTSUM', file: true }
+}
+```
+
+This is what a programmer does for a million dollars a year. It is short, it is void of any theory, and it is just data flowing through pipes.
+A lot of company owners don't understand that they don't have to understand a program, they can reason about it from the data flow alone.
+
+Functional programming as you see here, can be represented graphically, thus it puts them into the game... hence the high pay.
+
+```JavaScript
+
+    const targets = lo.uniqBy(filtered.map(o => path.dirname(o)).filter(o => o !== '.').map(o => o.split('/')).map(o => cascade2(o)).flat(1), o => o.join())
+    
+    targets.map(o => o.map(o => [o, 'elements']).flat()).map(o => lo.set(tree, o.map(o => o), {}))
+    targets.map(o => lo.initial(o.map(o => [o, 'elements']).flat())).map(o => lo.set(tree, o.map(o => o), { name: lo.nth(o, -1), directory: true, created: false }))
+    filtered.map(o => o.split('/')).map(o => lo.initial(o.map(o => [o, 'elements']).flat())).map(o => lo.set(tree, o.map(o => o), { name: lo.nth(o, -1), file: true }))
+
+
+```
+
+To get at the data here you have to use a dig function which looks like this:
+
+```JavaScript
+
+const dig = (path, data = tree) => lo.get(data, lo.initial(path.replace(/^\//, '').replace(/\/$/, '').split(separator).map(o => [o, 'elements']).flat()))
+
+```
+
+And this is how you'd use it:
+
+```JavaScript
+
+console.log(  dig('/my-documents/3d-stuff/blender/')  )
+
+// would print
+
+{
+  name: 'blender',
+  directory: true,
+  created: false,
+  // note that it includes elements because it is not costly, and makes things simple.
+  elements: {
+    'bork.blend': { name: 'bork.blend', file: true },
+    'old-version.blend': { name: 'old-version.blend', file: true }
+  }
+}
+
+```
+
+
+
+
+
+
+
+
+
 ### Changed File Solver
 
 Unusually short piece of code for listing file changes. Intersection means pick items that are the same, and difference pick the ones that are different.
@@ -36,15 +207,97 @@ I made it calculate changed files based on name __and__ file contents.
 
 ```JavaScript
 
-function solver(current, previous){
-  const [currentNames, previousNames] = [current, previous].map(list=>list.map(i=>i[1]));
-  const [currentHash, previousHash] = [current, previous].map(list=>list.map(i=>i.join('  ')))
-  const normal = intersection(currentHash, previousHash).map(i=>i.split('  ')[1])
+function solver(current, previous, pick=['name', 'size', 'mdate', 'hash']){
+  const lookup = o => Object.entries(o.data).map(([name, fingerprints]) => ({name, hash:[name, ...Object.values(lo.pick(fingerprints, pick))].join()}));
+  const [currentNames, previousNames] = [current, previous].map(o=>Object.keys(o.data));
+  const [currentHash, previousHash] = [current, previous].map(o => lookup);
+  const normal = intersectionBy(currentHash, previousHash, o=>o.hash).map(o => o.name);
   const create = difference(currentNames, previousNames);
-  const update = difference( intersection(previousNames, currentNames), normal);
+  const update = difference(intersection(previousNames, currentNames), normal);
   const remove = difference(previousNames, currentNames);
   return { create, update, remove, normal };
 }
+
+```
+
+
+
+
+
+
+
+
+
+
+### Pretty Pagerizer
+
+I use a popular function called chunk, to split a list into groups or chunks.
+You get another list, but now it holds the chunks, and the chunks hold the items.
+
+The chunks are the things you see on a single page. ```pp``` variable means per page.
+I then enrich the chunks with browsing information, this information makes the 1,2,3,4,5,6,7... buttons on the bottom.
+
+
+But there is a nuisance here, because when you are in the middle of a list,
+then you have an even number of items going back and forth:
+
+
+```
+1 2 3 4 5 [6] 7 8 9 10 11
+
+```
+
+But as you near the end, you run out of them:
+
+```
+
+1 2 3 4 5 6 7 8 [9] 10 11
+
+```
+
+So what I do here is run a simulation, of moving through the list,
+and then as I near the end, I calculate how many places there are, basically without math.
+I speak the language of manipulating lists, like the rest of the program.
+
+
+Simulation is a powerful technique, you drop yourself in the context of your challenge,
+and now you ```"see"``` everything around you, you can taste it, sample it, inspect it.
+
+
+```JavaScript
+
+function doLayout(db,pp){
+  const layout = [];
+  const pages = chunk(db, pp)
+  let counter = 0;
+  for(const posts of pages){
+    const home = counter==0;
+    const name = counter==0?'index.html':`index-${counter}.html`;
+    const next = (counter+1>(pages.length-1)?0:counter+1);
+    const prev = (counter-1<0?(pages.length-1):counter-1);
+    const first = !counter;
+    const last = counter==pages.length-1
+    const total = pages.length;
+    const browse = {home, name,total,counter,next,prev,first,last};
+    layout.push({browse,posts});
+    counter++;
+  }
+
+  let cursor = 0;
+  const [leftSize, rightSize] = [7,7];
+  const simulation = range(layout.length);
+   for(const page of simulation ){
+     const [left,right] = partition(simulation.filter(i=>i!=cursor), o=>(indexOf(simulation,o)<cursor))
+     let back = takeRight(left,leftSize)
+     let forw = take(right,rightSize)
+     if(back.length<leftSize) forw = take(right, rightSize + (leftSize-back.length ) );
+     if(forw.length<rightSize) back =     takeRight(left,  leftSize  + (rightSize-forw.length) );
+     Object.assign(layout[cursor].browse, {back, forw})
+     cursor++
+   }
+  return layout;
+}
+
 
 ```
 
@@ -78,6 +331,7 @@ async function createCover(selected, dest, square = false){
 }
 
 ```
+ 
 
 
 
@@ -88,6 +342,15 @@ async function createCover(selected, dest, square = false){
 
 
 
+
+
+
+
+
+
+
+
+ 
 ### Quick Drag And Drop For Svelte
 
 ```JavaScript

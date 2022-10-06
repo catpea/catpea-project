@@ -24,10 +24,11 @@
       <div class="card-footer">
 
       <?if(post.attr.audio){?>
-      <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning position-relative"><i class="bi bi-play-circle"></i> Listen<?if(post.order.first){?><span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light shadow">latest</span><?}?></a>
+      <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"><i class="bi bi-play-circle"></i> Listen</a>
       <?}?>
 
-      <a href="/permalink/<?=post.attr.guid?>" class="btn btn<?=post.attr.audio?'-outline':''?>-warning"><i class="bi bi-eye-fill"></i> <?=post.attr.audio?'':'View'?></a>
+      <a href="/permalink/<?=post.attr.guid?>" class="btn btn<?=post.attr.audio?'-outline':''?>-warning position-relative"><i class="bi bi-eye-fill"></i> <?=post.attr.audio?'':'View'?><?if(post.order.first){?><span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light shadow">latest</span>
+      <?}?></a>
 
       <?if(post.attr.links?.length){?>
       <a href="/permalink/<?=post.attr.guid?>#references" title="Contains Links or References" class="btn btn-sm btn-outline-info float-end"><?=post.attr.links?.length?> Link<?=post.attr.links?.length>1?'s':''?></a>

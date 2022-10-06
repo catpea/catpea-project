@@ -82,7 +82,7 @@
       </div>
     <?}?>
     
-    <?if(post.attr.artwork.length){?>
+    <?if(post.attr.artwork.length && post.attr.artwork.filter(i=>i).length){?>
       <div class="row">
         <div class="col">
             <!-- Art Credit Card -->
@@ -92,10 +92,12 @@
               <h5 class="card-title">Artwork Credit<?=post.attr.artwork.length>1?'s':''?></h5>
             </div>
             <ul class="list-group list-group-flush">
-                <?for(let artwork of post.attr.artwork){?>
+                <?for(let artwork of post.attr.artwork.filter(i=>i)){?>
+  
                   <li class="list-group-item text-bg-dark">
-                    <a href="<?=artwork?>" class="card-link"><i class="bi bi-palette-fill"></i> <?=artwork?></a>
+                    <a class="card-link" <?-hostname(artwork).includes('unsplash.com')?'rel="nofollow" ':''?>href="<?=artwork?>"><i class="bi bi-palette-fill"></i> <?=artwork?></a>
                   </li>
+            
                 <?}?>
             </ul>
           </div>

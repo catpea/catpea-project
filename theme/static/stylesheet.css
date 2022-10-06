@@ -10,13 +10,23 @@
     text-rendering: optimizeLegibility;
 }
 
+html {
+    background-color: #231a31;
+}
+
 body {
   /* older color, more purple background-color: #160020; */
   font-family: "LatoWeb" ! important;
   font-style: normal;
   background-color: #231a31;
   padding: 0;
+  background: repeating-linear-gradient( 45deg, #2a1f3b, #2a1f3b 16px, #231a31 16px, #231a31 32px );
 }
+
+.text-bg-dark, .navbar-dark {
+  background: repeating-linear-gradient( 135deg, #011e25, #011e25 16px, #001f27 16px, #001f27 32px ) ! important;
+}
+
 
 a {
   color: gold;
@@ -36,13 +46,7 @@ hr {
   box-shadow: 0 .5rem 1rem rgba(0,0,0,0.75) !important;
 }
 
-
-
-.post-content img {
-  width: 50%;
-  height: auto;
-  margin-bottom: 4rem;
-}
+ 
 
 .code.card {
   background: #002b36 ! important;
