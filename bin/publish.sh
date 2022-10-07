@@ -1,8 +1,21 @@
 #!/bin/bash
+
+BACKUP_DIR=".cache/checksums"
+BACKUP_FILE="${BACKUP_DIR}/checksums-$(date +%Y-%m-%d-%H-%M-%S -r dist/server/www/catpea-com/checksums.json).json"
+
+# Initialization Phase
+mkdir -p $BACKUP_DIR;
+
+# Backup
+if [ ! -f "$BACKUP_FILE" ]; then cp "dist/server/www/catpea-com/checksums.json" $BACKUP_FILE; fi;
+
+# Build Phase
 antwerp build catpea
-cp dist/server/www/catpea-com/SHA256SUM .cache/SHA256SUM-$(date +%Y-%m-%d-%H-%M-%S -r dist/server/www/catpea-com/SHA256SUM)
-cd dist/server/www/catpea-com
-    find . -type f -exec sha256sum {} \; > SHA256SUM;
-cd -
-antwerp upload catpea > batchfile
-echo lftp -f batchfile
+
+# Publish Phase
+FILES=$(antwerp changes catpea);
+for FILE in $FILES; do
+  echo lftp -f $FILE;
+done;
+
+echo "Do not forget to save the files run: npm run save"

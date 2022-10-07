@@ -25,29 +25,36 @@ export default async function(){
   const publish = {
     profiles: [
       {
-        kind: 'lftp-batchfile',
+      {
+        name: 'horrendous-hosting',
+        kind: 'lftp',
+        batchfile: 'batchfile.lftp',
+        fingerprint: { mtime: true, size: true, hash: 'sha256' },
+        guarantee: ['hash'],
+        separator: '/',
         silent: false,
-        
-        src:{
-          sum: 'SHA256SUM',
+
+        src: {
+          sum: 'checksums.json',
         },
 
-        dest:{
-          dir: '/lamp0/web/vhosts/default/www/catpea-net',
-          sum: 'https://catpea.com/SHA256SUM',
+        dest: {
+          dir: '/lamp0/catpea-com',
+          sum: 'https://example.com/checksums.json',
         },
+
         header: [
-          `open sftp://xxxxxx:@xxx.xxx.xxxx.net:/`,
+          `open sftp://user:@sftp.example.com:/`,
         ],
         create: {},
         remove: {
           disable: true,
-          order: ['tar', 'zip', 'mp3', 'png', 'jpg', 'SHA256SUM'],
+          order: ['tar', 'zip', 'mp3', 'png', 'jpg', 'checksums.json'],
         },
         update: {
-          order: ['tar', 'zip', 'mp4', 'mp3', 'png', 'jpg', 'txt', 'html', 'SHA256SUM'],
+          order: ['tar', 'zip', 'mp4', 'mp3', 'png', 'jpg', 'txt', 'html', 'checksums.json'],
         },
-      }
+      },
     ]
   }
 
