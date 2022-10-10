@@ -18,4 +18,5 @@ for FILE in $FILES; do
   echo lftp -f $FILE;
 done;
 
-echo "Do not forget to save the files run: npm run save"
+echo "Do not forget to save the files run: npm run save";
+
