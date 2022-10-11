@@ -16,7 +16,6 @@ artwork:
 resources: null
 features:
   ytcover: true
-  youtubeThumbnails: true
 raw: true
 draft: false
 ---

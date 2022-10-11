@@ -82,8 +82,9 @@ export default async function({db, dest, kind, title, after, samples, debug}){
   }
 
   const content = [
-    '[Making a house with a 3D pen](https://www.youtube.com/watch?v=IxM2zHzxd14)',
-    '[3D pen, Theo Jansen mechanism](https://www.youtube.com/watch?v=ObXeT37b1Gk)',
+    `[THOUSANDS MADE FROM SELLING ANTIQUE BOTTLES?!?! HOW AND WHY!? BOTTLE FLIP!!!!](https://www.youtube.com/watch?v=AHdNltYeu1A "Play Video")`,
+    `[RIVER TREASURE SCORE!! | RARE VALUABLE COKE BOTTLE!!!! | ANTIQUE BOTTLE HUNTERS](https://www.youtube.com/watch?v=63eFkSQt-C0 "Play Video")`,
+    `[Smokey And The Bandit Trailer](https://www.youtube.com/watch?v=IzMpOvKxXdM "Play Video")`,
   ];
   const doc = `---\n${yaml.dump(attributes)}---\n\n${content.join('\n\n')}`
 

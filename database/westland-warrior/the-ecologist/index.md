@@ -15,7 +15,7 @@ artwork:
   - null
 resources: null
 features:
-  youtubeThumbnails: true
+  ytcover: true
 draft: false
 canceled-notice: >-
   Content advisory warning, viewer discretion is advised. This is best to be

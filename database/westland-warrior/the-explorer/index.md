@@ -15,7 +15,7 @@ artwork:
   - null
 resources: []
 features:
-  youtubeThumbnails: true
+  ytcover: true
 draft: false
 old-notice: >-
   I just had to update The Explorer. It was one of the original little chapters
