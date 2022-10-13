@@ -15,7 +15,9 @@ antwerp build catpea
 # Publish Phase
 FILES=$(antwerp changes catpea);
 for FILE in $FILES; do
-  echo lftp -f $FILE;
+  LINES=$(cat "$FILE" | wc -l);
+  echo "WARN: $FILE has $LINES lines.";
+  echo lftp -f "$FILE";
 done;
 
 echo "Do not forget to save the files run: npm run save";
