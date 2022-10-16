@@ -30,7 +30,7 @@
             </div>
 
             <div class="card-footer">
-              <?if(post.order.first){?><a href="/" class="btn btn-sm btn-outline-danger"><i class="bi bi-house-heart"></i> Home</a><?}?>
+              <?if(post.order.first){?><a href="/" class="btn btn-sm btn-outline-primary"><i class="bi bi-house-heart"></i> Home</a><?}?>
               <?if(!post.order.first){?><a href="/permalink/<?=post.order.next?>" class="btn btn-sm btn-outline-info"><i class="bi bi-arrow-left-circle-fill"></i> Previous</a><?}?>
 
               <?if(post.order.last){?><a href="/" class="btn btn-sm btn-outline-danger float-end"><i class="bi bi-house-heart"></i> Home</a><?}?>
