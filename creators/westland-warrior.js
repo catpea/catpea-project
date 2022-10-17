@@ -98,10 +98,10 @@ export default async function({db, dest, kind, title, after, samples, debug}){
   await fs.ensureDir(filesDir);
   await fs.writeFile(indexFile, doc);
 
-  await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, attributes.image));
-  await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'sm-'+attributes.image));
-  await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'md-'+attributes.image));
-  await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'xl-'+attributes.image));
+  // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, attributes.image));
+  // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'sm-'+attributes.image));
+  // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'md-'+attributes.image));
+  // await fs.copyFile(path.join(samples, 'image.jpg'), path.join(filesDir, 'xl-'+attributes.image));
 
   console.log(baseDir);
 
