@@ -1,0 +1,29 @@
+<ul class="nav nav-pills justify-content-end">
+    <? if(ordered){ ?>
+      <li class="nav-item">
+        <a class="nav-link active text-bg-dark shadow" aria-current="page" href="lectures.html"><i class="bi bi-sort-numeric-down-alt"></i> Show Most Recent First</a>
+      </li>
+    <?}else{?>
+      <li class="nav-item">
+        <a class="nav-link active text-bg-dark shadow" aria-current="page" href="lectures-ordered.html"><i class="bi bi-sort-alpha-down"></i> Order Sequentially</a>
+      </li>
+    <?}?>
+</ul>
+
+<div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 row-cols-xxl-3 g-4">
+  <? for(const post of posts){ ?>
+    <div class="col">
+
+      <div class="card text-bg-dark shadow my-5">
+        <div class="card-body">
+          <h3 class="card-title"><a href="/permalink/<?=post.attr.guid?>" class="text-light text-decoration-none me-3"><?-post.attr.title?></a></h3>
+         </div>
+        <div class="card-footer">
+          <div class="text-muted small">#<?=post.number?> &middot; <?=timestamp(post.attr.date)?></div>
+        </div>
+        <a href="/permalink/<?=post.attr.guid?>/<?=post.attr.file?>"><img src="/permalink/<?=post.attr.guid?>/files/md-<?=post.attr.image?>" class="card-img-bottom" alt="..."></a>
+      </div>
+
+    </div>
+  <?}?>
+</div>

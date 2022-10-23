@@ -13,6 +13,13 @@ export default async function(){
       navigation: true,
     },
     {
+      title: 'Lectures',
+      iconClasses: ['bi', 'bi-camera-reels'],
+      url: '/lectures.html',
+      navigation: true,
+      new: true,
+    },
+    {
       title: 'List',
       iconClasses: ['bi', 'bi-list-columns'],
       url: '/toc.html',

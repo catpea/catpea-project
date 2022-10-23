@@ -1,0 +1,43 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Webmaster
+Sunday • October 23rd 2022 • 12:41:00 pm
+
+The IP Address and its Subnet Mask speak binary ones and zeros. The decimal notation, is just to help you type it in faster. The subnet mask, just says all my ones identify the network, and all my zeroes tell you tell you the computer id.
+
+So when you apply a subnet mask to an IP address, it will decode it into network and computer ids.
+
+You can have multiple networks at home, and your router can easily tell what network deliver data to by applying a subnet mask to an IP address.
+
+So an IP address holds two things, network id, and computer id.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Proxy is something you can setup or purchase for your own needs, such as caching to make internet faster, or removing ads to make it safer.
+
+A Reverse proxy is not for you, it is for companies to keep their networks of computers simple. Often the main .com server is a reverse proxy. The company may have 10 servers, sometimes to do different things, sometimes to do the same things efficiently where no computer gets overloaded. When you visit the main .com reverse proxy, it will just get the data you need from one of those servers. It will proxy the data for you.

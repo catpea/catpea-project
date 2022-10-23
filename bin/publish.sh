@@ -21,4 +21,3 @@ for FILE in $FILES; do
 done;
 
 echo "Do not forget to save the files run: npm run save";
-
