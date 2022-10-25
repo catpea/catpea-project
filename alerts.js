@@ -1,7 +1,7 @@
 export default async function(){
 
   const response = [
-    {type: 'info', urgent:true,  text:`I added "Lectures" to the website menu, it contains the Westalnd Warrior video lectures. You can sort it by latest (default) or by the intended order.`, link:{ title: `Lectures`, url:'/lectures.html'}, note:``},
+    {type: 'info', urgent:false,  text:`I added "Lectures" to the website menu, it contains the Westalnd Warrior video lectures. You can sort it by latest (default) or by the intended order.`, link:{ title: `Lectures`, url:'/lectures.html'}, note:``},
     {type: 'info', urgent:false,  text:`Found a bug, I have to write a content integrity checker, some posts show markdown source, becasue it was escaped somewhere along the recent upgrades.`, note:`I will have to write a post-integrity-checker that will carefully test all the posts for a range of problems.`},
     // {type: 'warning', urgent:true,  html:`This is the new website, I am still searching for bugs, but it all seems OK.`},
     // {type: 'success', urgent:false, text:`New Backup Server Launched`, link:{title:`catpea.org`, url:'https://catpea.com'}, note:`The catpea.com server is smol, it can't handle all the mp3 files.`},
