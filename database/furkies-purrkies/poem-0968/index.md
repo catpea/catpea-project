@@ -92,5 +92,7 @@ about a mixed breed puppy well loved by his little owner.
 And while I failed to recall the melody in full,
 I still have seven days left in my scientific tail wearing research experiment science.
 
-Here is the silly puppy song,
+Here is the [silly puppy song][1],
 sung to the best of my abilities – at this point in time.
+
+[1]: files/kundel-bury.mp3
