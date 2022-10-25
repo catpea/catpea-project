@@ -16,7 +16,7 @@
         <ul class="list-unstyled ms-3">
         <? for(const link of _.chain(network).filter('navigation')){ ?>
           <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?>
-          <!-- for alerts only --><? if(link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-danger fw-bold text-light px-1 border border-warning shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
+          <!-- for alerts only --><? if(link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-dark fw-bold text-info px-1 border border-dark shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
           </a></li>
         <? } ?>
         </ul>
@@ -50,7 +50,7 @@
       <a class="opacity-25 pe-2 float-end text-decoration-none fw-bold fs-3 text-warning " data-bs-toggle="collapse" href="#collapseDebug" role="button" aria-expanded="false" aria-controls="collapseDebug">&pi;</a>
 
       <div class="collapse p-5" id="collapseDebug">
-      
+
 
         <div class="card text-bg-dark shadow">
         <!-- <img src="/logo.png" class="card-img-top" alt="Cat Pea Logo"> -->
@@ -72,7 +72,7 @@
         </div> -->
         </div>
 
-        
+
       </div>
     </div>
   </div>

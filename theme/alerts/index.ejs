@@ -13,24 +13,26 @@
 
 
   <main>
-    <section class="container">
-      <div class="row justify-content-md-center">
-        <div class="col col-xl-6">
-            <? for(const alert of alerts){ ?>
-                <div class="alert alert-<?=alert.type?> bg-dark border border-<?=alert.type?> text-<?=alert.type?> shadow my-5" role="alert">
-                  <?if(alert.text){?>
-                    <p>
-                      <? iff( _.chain([{success:true, name:'bi-check-circle-fill'},{info:true, primary:true, secondary:true, light:true, dark:true, name:'bi-info-circle-fill'},{warning:true, danger:true, name:'bi-exclamation-triangle-fill'}]).find(alert.type), function(icon){ ?> <i class="<?= icon.name ?> me-2"></i> <? }) ?>
-                      <?=alert.text?>
-                    </p>
-                  <?}?>
-                  <?if(alert.link){?><p><a href="<?=alert.link.url?>" class="alert-link text-<?=alert.type?>"><?=alert.link.title?></a></p><?}?>
-                  <?if(alert.note){?><hr><p class="mb-0 small"><?=alert.note?></p><?}?>
-                  <?-alert.html?>
-                </div>
-            <?}?>
-        </div>
+    <section class="container my-5 py-5">
+
+      <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4">
+        <? for(const alert of alerts){ ?>
+          <div class="col">
+            <div class="alert alert-<?=alert.type?> bg-dark border border-<?=alert.type?> text-<?=alert.type?> shadow h-100" role="alert">
+              <?if(alert.text){?>
+                <p>
+                  <? iff( _.chain([{success:true, name:'bi-check-circle-fill'},{info:true, primary:true, secondary:true, light:true, dark:true, name:'bi-info-circle-fill'},{warning:true, danger:true, name:'bi-exclamation-triangle-fill'}]).find(alert.type), function(icon){ ?> <i class="<?= icon.name ?> me-2"></i> <? }) ?>
+                  <?=alert.text?>
+                </p>
+              <?}?>
+              <?if(alert.link){?><p><a href="<?=alert.link.url?>" class="btn btn-sm btn-outline-<?=alert.type?>"><?=alert.link.title?> &raquo;</a></p><?}?>
+              <?if(alert.note){?><hr><p class="mb-0 small"><?=alert.note?></p><?}?>
+              <?-alert.html?>
+            </div>
+          </div>
+        <?}?>
       </div>
+
     </section>
   </main>
 

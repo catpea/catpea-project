@@ -11,18 +11,18 @@
 
   <section class="container">
     <div class="row justify-content-md-center">
-      <div class="col col-xl-6">
+      <div class="col col-lg-6 col-xl-4">
         <? if(browse.home){ ?>
           <? for(const alert of alerts){ ?>
             <? if(alert.urgent){ ?>
-              <div class="alert alert-<?=alert.type?> bg-dark border border-<?=alert.type?> text-<?=alert.type?> shadow my-4" role="alert">
+              <div class="alert alert-<?=alert.type?> bg-dark border border-<?=alert.type?> text-<?=alert.type?> glow my-4" role="alert">
                 <?if(alert.text){?>
                   <p>
                     <? iff( _.chain([{success:true, name:'bi-check-circle-fill'},{info:true, primary:true, secondary:true, light:true, dark:true, name:'bi-info-circle-fill'},{warning:true, danger:true, name:'bi-exclamation-triangle-fill'}]).find(alert.type), function(icon){ ?> <i class="<?= icon.name ?> me-2"></i> <? }) ?>
                     <?=alert.text?>
                   </p>
                 <?}?>
-                <?if(alert.link){?><p><a href="<?=alert.link.url?>" class="alert-link text-<?=alert.type?>"><?=alert.link.title?></a></p><?}?>
+                <?if(alert.link){?><p><a href="<?=alert.link.url?>" class="alert-link text-<?=alert.type?>"><?=alert.link.title?> &raquo;</a></p><?}?>
                 <?if(alert.note){?><hr><p class="mb-0 small"><?=alert.note?></p><?}?>
                 <?-alert.html?>
               </div>
