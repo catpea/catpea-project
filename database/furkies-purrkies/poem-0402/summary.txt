@@ -6,11 +6,13 @@ Tuesday • April 6th 2021 • 11:04:47 pm
 
 "The biggest thing in art, is getting the proportions right."
 
--- Abraham Lincoln
+\-- Abraham Lincoln
+
+---
 
 To get the proportions right you should use an office projector,
 
-see if a is right for you, they are often about $50.
+see if a [Pico Projector](https://www.amazon.com/pico-projector/s?k=pico+projector) is right for you, they are often about $50.
 
 There are other ways you can transfer proportions,
 
@@ -19,6 +21,8 @@ print your subject on paper, and some graphite on the back of your printout.
 Then put your graphite backed printout over your artwork paper,
 
 and mark all the important spots with a pencil, the graphite backing will leave gentle marks on your art paper.
+
+---
 
 Above all you need a good photo, preferably a portrait, possibly your own,
 
@@ -32,13 +36,15 @@ This is no coincidence, arranging light and shadow before making a portrait is a
 
 if there is just soft light shining straight at the face, you will not be able to speak with shadows.
 
-Take a good photo, put it on your computer, use to tweak the shadows, explore contrast,
+---
 
-and then project it on you art paper, get some .
+Take a good photo, put it on your computer, use [GIMP](https://www.youtube.com/watch?v=x6pXJ7Ijir0) to tweak the shadows, explore contrast,
+
+and then project it on you art paper, get some [14x17 drawing (not sketching) paper](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps\&field-keywords=Strathmore+Drawing+14%22x17%22).
 
 Start outlining where all the shadows are,
 
-use , they differ in intensity and hardness.
+use [art pencils](https://www.amazon.com/s?k=Staedtler+Lumograph+Graphite+Drawing+and+Sketching+Pencils\&ref=nb_sb_noss_2), they differ in intensity and hardness.
 
 Pencils marked HB, H, 1H, etc are hard and thus leave a light gray color on paper,
 
@@ -52,11 +58,13 @@ Don't press your pencils into the paper,
 
 don't scar the paper as that is hard to erase.
 
-And use a ,
+And use a [Blending Stump](https://www.amazon.com/s?k=Staedtler+Blending+Stump+Set\&ref=nb_sb_noss),
 
 to smooth everything out.
 
-You will also need a ,
+---
+
+You will also need a [drawing board](https://www.amazon.com/s?k=Tote+Board\&ref=nb_sb_noss_2),
 
 so that you can take your outline sketch outside, maybe a coffee shop, or a park, or a lake.
 

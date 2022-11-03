@@ -26,6 +26,8 @@ And of course, the Pine Phone Operating System,
 
 being closer to the pure Linux... is far more powerful.
 
+---
+
 It is not just Pine Phone, but also Raspberry PI,
 
 with a 4G modem, UPS/Battery and touchscreen, and a custom case.
@@ -38,9 +40,11 @@ The Raspberry PI or any Single Board Computer (SBC), is the modular phone,
 
 that people don't yet realize they want.
 
+---
+
 This is not a question of hardware,
 
-.
+[hardware is a tough business, as Samsung's exploding phones teach us](https://www.youtube.com/watch?v=dQx1I03DsmY).
 
 To this day Pine Phone, warns that dead pixels on the screen are normal,
 
@@ -54,7 +58,9 @@ The Raspberry PI and the other SBCs are an exception here,
 
 because you are buying everything a piece at a time.
 
-But this _is_ a question of software,
+---
+
+But this \_is\_ a question of software,
 
 the underlying operating systems must be easy to access.
 
@@ -66,6 +72,8 @@ What this means, is that the company that will bring the computer back,
 
 as in not bother with an alternative GUI, will easily overpower the leading giants.
 
+---
+
 An unrestricted Linux device like the Pine Phone, or Librem 5,
 
 has a lot more to offer than privacy violations, photo leaks and candy crush.
@@ -76,15 +84,13 @@ with a world of developers that feel comfortable programming for Linux or BSD.
 
 Once the restriction of the Simplified Graphical Shell (like Android or MacOS) is removed,
 
-the underlying operating system will be exposed to real developers.
-
-One of the first things people will program are clones of the leading Simplified Graphical Shells,
-
-t...
+the underlying operating system w...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...oles of today suffer from customized walled gardens as means to squeeze every cent out of a customer that already paid.
+...ffer from customized walled gardens as means to squeeze every cent out of a customer that already paid.
+
+---
 
 Apps, is what Linux does, and almost all are free,
 
@@ -93,6 +99,8 @@ certainly all the good ones, that culture of free open source would continue on 
 There would be no shortage of apps,
 
 there would be an increase in contributors, and bandwidth donors, and mirrors, and so on.
+
+---
 
 Predictably, Apps, Games, and Security would be superior to that on leading smart-phones of today,
 
@@ -105,6 +113,8 @@ are just a side road that we'll eventually forget.
 Had they stayed in the mainstream,
 
 their contributions would be more significant and more valuable pushing the evolution of Linux beyond what it is today, past a simplified desktop and into a world where the common user can write programs.
+
+---
 
 In closing, stay away from hardware,
 

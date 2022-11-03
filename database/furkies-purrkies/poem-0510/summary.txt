@@ -4,103 +4,92 @@ Audio and full text version is available advertisement free at: https://catpea.c
 A Very Brief Overview Of Linux
 Friday • July 23rd 2021 • 4:03:46 pm
 
-First of all, Linux is not an Operating System,
+First of all, Linux is not an Operating System,\
 it is a central component of an operating system, refereed to as Kernel.
 
-However once it is paired with commands,
+However once it is paired with commands,\
 which allow us to operate the system the two are installed on, we can then call the pair a Linux Kernel based Operating System.
 
-And if the commands come from the GNU project,
+And if the commands come from the GNU project,\
 then we can call it GNU/Linux.
 
-Often when people say Linux, they mean,
+Often when people say Linux, they mean,\
 that other class of operating systems that isn't Windows or Apple - which is wrong, but I think is perfectly fine.
 
-Just using the word Linux is ambiguous, but OK-ish,
+Just using the word Linux is ambiguous, but OK-ish,\
 people just rely on context to figure it out.
 
-When someone says I have installed Linux on all my computers they mean the operating system,
+When someone says I have installed Linux on all my computers they mean the operating system,\
 because you can't install the Kernel, you use it to craft a brand new new Operating System.
 
-When someone says I am compiling Linux right now,
+When someone says I am compiling Linux right now,\
 then they mean the Kernel, they are probably upgrading their Operating System Kernel to the latest version.
 
-Kernel is shipped as source code, it contains code needed to talk to the computer hardware,
+Kernel is shipped as source code, it contains code needed to talk to the computer hardware,\
 compiling is what you do with it.
 
-When someone says GNU Linux, then they are being all classy and proper,
+When someone says GNU Linux, then they are being all classy and proper,\
 and are referring to the GNU Operating System that had its own Kernel swapped out with the Linux Kernel.
 
-The GNU Kernel is named Hurd and and it is not as good as the Linux Kernel,
+The GNU Kernel is named Hurd and and it is not as good as the Linux Kernel,\
 the GNU Operating System is so powerful that it can either use the Hurd Kernel or Linux Kernel.
 
-You don't hear about the GNU Operating System very often,
+You don't hear about the GNU Operating System very often,\
 because it it is usually something that Operating System creators build on, and their creations get their own names.
 
-The GNU Operating System is often used as a base Operating System,
+The GNU Operating System is often used as a base Operating System,\
 that has more stuff piled on top of it, and only then does it get a name.
 
-I am currently writing this on [Fedora][],
-according to Wikipedia the original programmer that created Linux Kernel also uses Fedora.
+I am currently writing this on \[Fedora]\[],\
+according to Wikipedia the original programmer that created Linux Kernel [Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE) also uses Fedora.
 
-And there are many others,
+And there are many others,\
 Ubuntu, Linux Mint, SUSE, Arch Linux.
 
-They are all Linux and most of them use GNU operating system components,
+They are all Linux and most of them use GNU operating system components,\
 GNU is free, and good quality.
 
-But yes, there are Linux operating systems that are Linux but try to avoid GNU,
-Android is one of them, and then TV and close hardware things may get rid of GNU on legal basis as they don't approve of the GNU...
+But yes, there are Linux operating systems that are Linux but try to avoid GNU,\
+Android is one of them, and then TV and close ha...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-... now the program I use for recording this text is under fire, or on fire,
-I saw apologies and scalding, and lost trust, and what appears to be heavy moderation see
-
-Here, when that first heart break occurs, when trust is lost, people ask things like "",
-which is a quite a powerful question.
-
-And then later forks that create a different developer community happen,
-related ideas pop up, and lessons are learned.
-
-In summary, Linux, is the stuff that talks to hardware,
-GNU is an operating system that has a kernel named Hurd, that still needs some love.
-
-But The GNU operating system is so flexible,
-that people replaced its Hurd Kernel with Linux Kernel which is further along than Hurd.
-
-Combining the two together you get the GNU/Linux,
+...,\
 but that is still pretty bare bones, and here people add even more stuff which is what Ubuntu, Linux Mint, SUSE, Arch Linux, etc.
 
-Where nobody is allowed to make a copy of the Apple or Microsoft Operating systems,
+---
+
+Where nobody is allowed to make a copy of the Apple or Microsoft Operating systems,\
 as that would result in jail time.
 
-The Linux Family of Operating Systems is different,
+The Linux Family of Operating Systems is different,\
 they believe that if you make your own copy a lot of the code you write will benefit them too, so it is all open.
 
-And here finally, if you are wondering how to get an open Linux based Operating System going,
-I recommend, a based computer.
+And here finally, if you are wondering how to get an open Linux based Operating System going,\
+I recommend, a [Raspberry PI](https://www.raspberrypi.org/) based computer.
 
-The $150 8GB "" ,
-and there is also the 4GB (which is OK) $100 fully assembled "" that looks like a keyboard.
+The $150 8GB "[Raspberry Pi 4 Complete Starter Kit](https://www.canakit.com/raspberry-pi-4-complete-starter-kit.html)" [needs a tiny bit of assembly but there are videos showing you how to do it](https://www.youtube.com/results?search_query=raspberry+pi+4+canakit+assembly),\
+and there is also the 4GB (which is OK) $100 fully assembled "[Raspberry Pi 400 Computer Kit](https://www.canakit.com/raspberry-pi-400-desktop-computer-kit.html)" that looks like a keyboard.
 
-Other than that just search the internet for "",
+Other than that just search the internet for "[Linux Laptop](https://www.youtube.com/results?search_query=Linux+Laptop+Review)",\
 I have a cheap Walmart laptop that I installed Fedora on and everything works perfectly.
 
-I think the most outrageous Linux computer is the priced at $2,000,
-the opposite is the at just about $150,
+I think the most outrageous Linux computer is the [Librem Phone](https://puri.sm/) priced at $2,000,\
+the opposite is the [PinePhone](https://www.youtube.com/results?search_query=PinePhone+Review) at just about $150,
 
-Finally the Pi's Pines and Librem Phone combined with the high end machines over at
+Finally the Pi's Pines and Librem Phone combined with the high end machines over at <https://system76.com/>\
 pretty much create a full range of products, worthy of a powerful Apple competitor.
 
-If this text does convince somebody to get a nice Linux,
+---
+
+If this text does convince somebody to get a nice Linux,\
 there is a product that I do not recommend but must mention because it is such a crazy good idea.
 
-And that is the Linux Cheatsheet Mouspead,
-they are all overpriced, and .
+And that is the Linux Cheatsheet Mouspead,\
+they are all overpriced, and [free Linux Cheat-sheets are all over the internet](https://www.google.com/search?q=Linux%20Cheatsheet).
 
-But there is something crazy honest about those mouse pads,
+But there is something crazy honest about those mouse pads,\
 as they just capture the most important commands.
 
-It is just something I wish I had when I started learning Linux,
+It is just something I wish I had when I started learning Linux,\
 I would memorize the heck out of that thing in lickety-split.

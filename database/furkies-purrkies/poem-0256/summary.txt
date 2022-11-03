@@ -28,6 +28,8 @@ I think that the only happy thing that feeding squirrels leads to is more squirr
 
 but perhaps you could become the first person to domesticate them, and sell them as a mini kittens.
 
+---
+
 Memorizing formulas is very much the opposite of education,
 
 it is such an important lesson to be able to freely see relationships in formulas.
@@ -36,7 +38,7 @@ A simple formula can capture mountains of fascinating research,
 
 sometimes formulas leave out important extras that lead to even more curiosities.
 
-One example that comes to mind is the ,
+One example that comes to mind is the [Ohm's Law](https://en.wikipedia.org/wiki/Ohm's_law),
 
 you can use the little thing to calculate what resistor you need to light up a little LED light.
 
@@ -52,6 +54,8 @@ Same applies to stepper motors, which are useful in creating custom 3D printers,
 
 you put a resistor on the line as not to damage expensive components.
 
+---
+
 You see what the problem is, of course,
 
 in schools, they don't teach by means of practical applications.
@@ -59,6 +63,8 @@ in schools, they don't teach by means of practical applications.
 They teach by abstract means, and for questionable purposes,
 
 which makes for a curriculum so baffling that we might as well skip it by memorizing it.
+
+---
 
 If teachers gave you a 9V battery, and an LED light, and a box of resistors,
 

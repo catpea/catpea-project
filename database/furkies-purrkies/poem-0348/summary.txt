@@ -12,6 +12,8 @@ If you are forced to learn something under a threat,
 
 you are likely to memorize it, and thus create the wrong impression of the subject.
 
+---
+
 Saying "I hate math",
 
 and keeping away from mathematical things is not healthy.
@@ -36,13 +38,17 @@ It is not just one class that is broken,
 
 it is many overlapping classes, with disconnected and irrelevant subjects.
 
-There may not _be a way_ to learn it all for real,
+There may not \_be a way\_ to learn it all for real,
 
 as the class curricula evolved along side students pretending to learn.
+
+---
 
 Just in case you need to hear it - and you shouldn't need to rely on hearing somebody else say it...
 
 schools are bad for us, they don't work, they probably can't work.
+
+---
 
 A real school would pay you for grades,
 
@@ -64,6 +70,8 @@ Happy and well educated graduates,
 
 create a Happy and Well Educated, and Wise, Nation; and soon afer a Wiser World.
 
+---
+
 Right now, our wisest Politicians, the greatest beings in Politics,
 
 are fighting for a livable minim wage, which is to say doubling the minimum wage.
@@ -78,15 +86,11 @@ but the minimum wage shouldn't be $15 but, at least, $50.
 
 More than $50 per hour, 40 hours a week,
 
-full medical insurance, and lots of perks.
-
-Personally, I feel...
+full medical insurance, and lots of perk...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...uality, that companies won't even want to hire you.
-
-They prefer candidates with years of experience,
+... of experience,
 
 and anyway, you shouldn't be looking for an entry level position after years of studying.
 
@@ -94,13 +98,15 @@ Even though companies asking for years of experience for entry level positions,
 
 may still grant you a job, it will be - by their own definition - a less than entry level position.
 
+---
+
 Self Education, and Entrepreneurship, and putting yourself in positions where learning math will be relevant to your success,
 
 will help you learn for real.
 
 Would you even think to yourself "I hate math",
 
-if your company worked on .
+if your company worked on [self replicating 3D printers](https://www.youtube.com/watch?v=VV0Tjwq7Uc0).
 
 When you are working in real context, on a meaningful project,
 
@@ -123,6 +129,8 @@ but that you struggle to understand what they are doing sometimes.
 There are countless pathways that can help you learn anything,
 
 Biology, and Combinatorial Genomics will easily call to you if you take to publishing a Journal Of Anti-aging, for example.
+
+---
 
 In conclusion, we can't learn in school, because it is too abstract,
 

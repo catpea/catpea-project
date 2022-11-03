@@ -20,13 +20,17 @@ Studying Astrophysics with all the greats as you hike to your camp site,
 
 where upon your arrival you set up camp on top of ancient dune and wait for the stars to come out.
 
+---
+
 It is important to note, that falling asleep during your own lecture is amazing,
 
-when you wake up the Audio Book will still be playing, and or , or , or will surely be describing something awesome.
+when you wake up the Audio Book will still be playing, and [Carl](https://www.youtube.com/results?search_query=Carl+Sagan "Carl Sagan") or [Neil](https://www.youtube.com/results?search_query=Neil+deGrasse+Tyson "Neil deGrasse Tyson"), or [Seth](https://www.youtube.com/results?search_query=Seth+Shostak "Seth Shostak"), or [Alex](https://www.youtube.com/results?search_query=Alex+Filippenko "Alex Filippenko") will surely be describing something awesome.
 
 Rather than returning to the spot where you fell asleep,
 
 it is always better to just get to the end and keep re-listening the whole thing, until you can remember everything, and actually need a new audio book.
+
+---
 
 Your own lectures, are much more authentic than anything a Professor can regurgitate out,
 
@@ -38,7 +42,7 @@ ADVENTURE.
 
 Even if you are getting into circuit design or electronics, all you need to do is get some solar powered gear and a butane soldering iron,
 
-then wire up a solar powered wireless network in a weather proof enclosure out the deepest part of the woods, and name it .
+then wire up a solar powered wireless network in a weather proof enclosure out the deepest part of the woods, and name it [The Facility](https://thecabininthewoods.fandom.com/wiki/The_Facility).
 
 Reply to all HTTP requests with a creative login page,
 
@@ -46,11 +50,13 @@ what better way to learn UNIX then to have outrageous fun with it.
 
 Might as well learn a programming language while you're at it,
 
-how about creating a simple with some snappy and convincing bots: "Ballerina Dentata entered the chat, and started following you."
+how about creating a simple [MUD](https://en.wikipedia.org/wiki/MUD) with some snappy and convincing bots: "Ballerina Dentata entered the chat, and started following you."
 
 It should a rule that we take our education onto the Nature Trails,
 
 or places that challenge you, even if all they challenge you with, is fun and useless foolishness.
+
+---
 
 It won't take long before adventures become expeditions,
 

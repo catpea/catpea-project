@@ -12,7 +12,9 @@ Books break the shackles of time.
 
 A book is proof that humans are capable of working magic."
 
--- Carl Sagan, Cosmos
+\-- Carl Sagan, Cosmos
+
+---
 
 Don't worry, if you want something ever lasting,
 
@@ -22,6 +24,8 @@ You can't just make a doodle and hope it will last forever,
 
 you have to be deliberate about it.
 
+---
+
 It can be almost anything,
 
 one beautiful example is the teachings of Socrates.
@@ -29,6 +33,8 @@ one beautiful example is the teachings of Socrates.
 Socrates, never wrote a book,
 
 all the books are written about him.
+
+---
 
 Leonardo, the inventor,
 
@@ -38,6 +44,8 @@ Is till admired for his creations,
 
 precisely because we can understand them.
 
+---
+
 To make something last,
 
 you have use things that can stand the test of time.
@@ -45,6 +53,8 @@ you have use things that can stand the test of time.
 Poetry, personal poetry,
 
 descriptive poetry that descries an era, is another great example.
+
+---
 
 Sculptures, which are not hard to learn,
 
@@ -54,6 +64,8 @@ Make it meaningful, beautiful, and time-proof,
 
 and someone will protect it for you - probably out of beauty and admiration, too.
 
+---
+
 A journal may perish, unfortunate,
 
 but if you start HUGE (as in 11 x 14 Inches), and fill it with a thousand doodles, and little photos of where you live.
@@ -62,6 +74,8 @@ And take pictures of every page and turn it into a thick-ish pocket book,
 
 I bet people will love to carry it around, just out of how tiny, delicate, and high resolution your imagination is.
 
+---
+
 This is where things get tricky,
 
 because if you have a thought, that captures your spirit, then your spirit will become entangled in your work of art.
@@ -69,6 +83,8 @@ because if you have a thought, that captures your spirit, then your spirit will 
 Just like the Spirits of Socrates, of Leonardo,
 
 are entangled in their achievements.
+
+---
 
 My spirit-entangling thought, at the time of this writing is,
 
@@ -84,23 +100,23 @@ to help the world grow.
 
 I care not for any one person becoming superhuman,
 
-but for each and every one of us, to realize we are _not_ an ordinary creature.
+but for each and every one of us, to realize we are \_not\_ an ordinary creature.
 
 It is neither too late,
 
 not too early for this.
 
+---
+
 We can all get good at anything that moves us,
 
 we can all invent countless new things to no end.
 
-And by using books, especially narrated books,
-
-we can all transport our ...
+And by using books, espec...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...rn from them, learn from their quotes, and paper and narrated books,
+..., learn from their quotes, and paper and narrated books,
 
 inherit just the lessons that are most profound.
 
@@ -116,9 +132,13 @@ Tell your teacher that they are not good enough for you,
 
 that you know they are there to get paid, and it is time you get a real education from real teachers.
 
+---
+
 Because the beautiful future of this word,
 
 depends on a generation of great beings
+
+---
 
 I went to the woods because I wished to live deliberately,
 
@@ -148,7 +168,7 @@ and reduce it
 
 to its lowest terms...
 
--- Henry
+\-- Henry
 
 Kosmos
 

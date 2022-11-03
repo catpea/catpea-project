@@ -8,6 +8,8 @@ And it isn't about inside jokes,
 
 I think it is just that Programmers Are happy people.
 
+---
+
 At least when they are not being overprotective,
 
 of the wrong languages they became good at.
@@ -15,6 +17,8 @@ of the wrong languages they became good at.
 Or supremely questionable program ideas,
 
 that go out of control when they go public.
+
+---
 
 I've been the butt of a horrible joke once,
 
@@ -24,7 +28,7 @@ And she dragged me along with her mom and husband to one of such event,
 
 and as she was bagging all the refrigerator magnets.
 
-I slowly had a PTSD moment looking over the endless *bleeping* cubicles,
+I slowly had a PTSD moment looking over the endless \*bleeping\* cubicles,
 
 and a gent who instantly saw through that poor woman's magnet addiction, walked up to me curious why I wasn't stealing stuff.
 
@@ -39,6 +43,8 @@ and he slowly backed away to his windows 98 with solitaire sci-ency computer, sc
 I have since retired from computer scents,
 
 and today, refuse to discuss most of my ideas, perhaps short of how to properly save a file on a multi-process multi-user system.
+
+---
 
 Curiously, the same damn thing happened,
 
@@ -56,6 +62,8 @@ I remember his slowly moving away,
 
 and whispering something imperceptibly, alas, with the face of a man that is whispering "So am I"
 
+---
+
 That was the last time I took my career seriously,
 
 and with one out of control introduction where I said "I was a shit squishing redneck" before I could stop myself.
@@ -68,21 +76,13 @@ Since, I have been introducing myself as a Professional Troublemaker,
 
 which turned out to be a magical way to keep everyone away.
 
-My greatest funny mistake was to crawl out of a dark dungeon of...
+---
+
+My greatest funny mistake was to cra...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...n office meting with so much crap about Male Agents and Explorers of the Internet, and the superhighway that they ride to get to work,
-
-that only the office stonier that stopped giving a damn ages ago, will actually appreciate it for a change, as a kind of sick and sophisticated poetry.
-
-My favorite funny event, is on the internet,
-
-in a .
-
-As with all things,
-
-we have to guard against toxic environments.
+...nts.
 
 Advancing in the world of programming,
 
@@ -104,6 +104,8 @@ I can't explain this,
 
 at all.
 
+---
+
 I remember this one programming event where there was only one person on a team,
 
 and it is not that he wasn't able to solve the challenge he was presented with.
@@ -116,25 +118,29 @@ And this crude little cartoon, damn all the rest,
 
 was the winner, and the illustration and proof that programming is just as much about laughter as innovation.
 
-Last but not least, I must absolutely mention the The , here,
+---
+
+Last but not least, I must absolutely mention the The [Jargon File](http://www.catb.org/jargon/index.html), here,
 
 otherwise somewhat known as the Hacker Dictionary.
 
-The section may just be most reveling,
+The [metasyntactic variable](http://www.catb.org/jargon/html/M/metasyntactic-variable.html) section may just be most reveling,
 
 as it captures the programmer at their most air headed.
 
 I especially like the french "toto, titi, tata, tutu" and gork, which is British,
 
-I myself used the word in and have no regrets.
+I myself used the word [flarp](http://www.catb.org/jargon/html/F/flarp.html) in [my code just yesterday](https://github.com/search?q=user%3Acatpea+flarp\&type=code) and have no regrets.
 
-I also use the word during heavy lifting exercises,
+I also use the word [hork](http://www.catb.org/jargon/html/H/horked.html) during heavy lifting exercises,
 
 I use it in the "The Incredible Hork horking up a hairball" sense which as far as I can tell if yet to be cataloged.
 
+---
+
 Single word description of a programmer?
 
-
+[Throwies](https://www.youtube.com/watch?v=TrnLF04qmsM)
 
 Somber, serious, contemplative on the surface,
 

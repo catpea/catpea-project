@@ -12,6 +12,8 @@ Come back to it if you can,
 
 I hope that it will always have something new to offer.
 
+---
+
 The ultimate goal is to limit how much damage a single liar can cause to a system,
 
 that means computer programs should be used to structure a system.
@@ -24,6 +26,8 @@ Once caught,
 
 the system can be altered to prevent that attack vector from re-emerging.
 
+---
+
 Do not fall into the trap of rule and inference engines,
 
 they are a limited fairy tale, if they did work, they'd replace Linux.
@@ -34,7 +38,7 @@ question in answer out.
 
 It should be written in a language that runs in the browser,
 
-and on the server, so at the time of writing.
+and on the server, so [ES2020](https://www.youtube.com/watch?v=3oefKzjCU4w) at the time of writing.
 
 Avoid the Graphic User Interface,
 
@@ -43,6 +47,8 @@ use a Chat Interface, or a Conversational Interface.
 This is what this program does,
 
 it answers questions.
+
+---
 
 Now, this is a system that will help you launch your company,
 
@@ -53,6 +59,8 @@ but above all this is a system meant to change the world.
 It must be fully accessible to every human being on this planet,
 
 even the 290–363 Australian Aboriginal groups that speak unique languages.
+
+---
 
 Therefore, before a program is written,
 
@@ -76,6 +84,8 @@ return {value: false, text:"No."}
 
 }
 
+---
+
 Now currently, a lot of people are under the mis-impression
 
 that if someone shoplifts diapers three times...
@@ -90,13 +100,13 @@ will deny them feminine hygiene products
 
 in order to demand obedience under the 13th amendment of United States.
 
-Our simple program, will immediately cause great upset,
+---
 
-you don't need to be trying to run a sm...
+Our simple p...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...is no longer impartial in the eyes of Justice,
+...artial in the eyes of Justice,
 
 but he likable in the eyes of the city.
 
@@ -105,6 +115,8 @@ He will now be removed from decision making,
 he will now ask the 10 million line version of the program above, answer some questions,
 
 and now recommend therapy, not more abuse by prison guards and more.
+
+---
 
 Now, The People, which are in charge of a company, school, city, state, nation, and Earth,
 
@@ -127,6 +139,8 @@ this too would be a function call, described in the system.
 Furthermore, elected officials would be automatically un-elected,
 
 when they cross certain lines, such as failure to meet campaign promises.
+
+---
 
 As you can see, simple programs CAN fix the corruption of a city,
 
@@ -151,6 +165,8 @@ a system that is better than at handling elections and ejections.
 A system that grows with us,
 
 a system that is powered by the best in us.
+
+---
 
 Not for me, not for you,
 

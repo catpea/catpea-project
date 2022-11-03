@@ -18,13 +18,15 @@ And get the 8GB Raspberry PI CanaKit for $150,
 
 and one or two $90 monitors.
 
-,
+[Install node.js](https://www.youtube.com/watch?v=izOhCUdLv2s),
 
 maybe install xscreensaver, and turn on the XMatrix screensaver.
 
 And take a break, set it up all nice and beautiful...
 
 and let the damn thing haunt you from the corner of your house.
+
+---
 
 The programming language you will be learning is JavaScript,
 
@@ -42,6 +44,8 @@ In terms of knowledge, this will be more powerful,
 
 than your entire high-school education.
 
+---
+
 Hello World,
 
 that is your foot into programming.
@@ -54,9 +58,11 @@ And type up some example code,
 
 just relax.
 
+---
+
 Later, you will need to get used to github,
 
-the web is full of .
+the web is full of [github tutorials](https://www.youtube.com/watch?v=iv8rSLsi1xo).
 
 Github represents your resume,
 
@@ -64,13 +70,15 @@ you want to have between a hundred and a thousand programs.
 
 They all have to be little,
 
-little gems, like you can find on
+little gems, like you can find on [microjs.com](http://microjs.com/)
+
+---
 
 Make sure to create a test.js with every one of your programs,
 
 so that you can throw a bunch of stuff at your program to see if everything works.
 
-And use the ,
+And use the [type: 'module' in your package.json](https://nodejs.org/api/packages.html#packages_type),
 
 this way you can use the modern JavaScript imports, instead of require statements.
 
@@ -78,21 +86,25 @@ And again keep it all small,
 
 small and perfect.
 
+---
+
 You can create servers,
 
 that you can explore with your browser.
 
 You can create command line utilities,
 
-that you can , and then install on any computer with node.
+that you can [publish to npm](https://www.youtube.com/watch?v=jHDhaSSKmB0), and then install on any computer with node.
 
-The whole ,
+The whole [npm thing is just a directory of public programs and libraries](https://www.youtube.com/watch?v=8Rmj5UY5mJk),
 
 it goes really well with github, especially when it comes to quality of your resume.
 
 Try to create text games, wikis, little Linux programs that help you analyze text,
 
 spend some time using different APIs to automate YouTube or make your toaster Tweet nonsense.
+
+---
 
 It is all just fun,
 
@@ -112,7 +124,7 @@ it is very relaxing.
 
 Then brush up on weird parts of JavaScript by looking at,
 
-.
+[JavaScript interview questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript).
 
 And then, people will start paying you for playing with computers,
 
@@ -125,6 +137,8 @@ you will have to build your own company, you can't just work for somebody else.
 And then change the world,
 
 everything that you will do here, from your first cool keyboard onward, will reinforce your unique mind.
+
+---
 
 Learning programming, is a very narrow and straight road,
 

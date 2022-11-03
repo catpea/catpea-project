@@ -36,9 +36,9 @@ This is a big and in some cases controversial subject,
 
 so let me give you a real world case.
 
-Eric Steven Raymond, the person behind the , a Hacker's Dictionary,
+Eric Steven Raymond, the person behind the [Jargon File](http://catb.org/jargon/), a Hacker's Dictionary,
 
-states the following in the Education Section of his :
+states the following in the Education Section of his [Resume](http://www.catb.org/~esr/resume.html "Resume of Eric Steven Raymond"):
 
 "Education
 
@@ -49,6 +49,8 @@ I have never taken any courses in computer science or software engineering."
 Part of the reason why he says that,
 
 is to protect his hard work, he doesn't want people to think that he got his education from some mediocre minimum viable lowest-common-denominator classroom, and a teacher with little real-world experience.
+
+---
 
 The fact schools don't work very well, if at all, is not a secret,
 
@@ -62,25 +64,15 @@ And that is what a competent employer would look for,
 
 a balanced view of the world born from being a jack of all trades and a master of those that are interesting.
 
+---
+
 So,
 
-How do you become good on your own...
-
-You look at the top existing programs,
-
-and try to make smaller versions.
-
-This will help you establish a baseline,
-
-the...
+How do you become good on your ow...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...f classes moving at a snail pace,
-
-and even the programs at prestigious universities are off, where they still mention things that are irrelevant and would actually make your software slow had you employed them.
-
-were not just about politics and bureaucracy,
+... website launch problems in 2013](https://www.youtube.com/watch?v=k3M8O83n254) were not just about politics and bureaucracy,
 
 but useless and outdated technologies and methods, probably the stuff they teach in school.
 
@@ -124,9 +116,11 @@ Reading and learning from source code and then writing your own programs,
 
 is the only realistic way to learn programming for real.
 
-,
+[And you are genius level smart, we all are, but you have to start with baby steps](https://www.youtube.com/watch?v=mQPEZdBTOeE),
 
 it has to be a very comfortable on-ramp, don't start by learning CSS nobody does that, start with what you like and then look at other projects to see how you can make it better.
+
+---
 
 If you ever get stuck, or are unsure where to go next, or aren't sure where to begin,
 

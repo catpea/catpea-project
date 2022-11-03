@@ -8,6 +8,8 @@ You really are a genius,
 
 we are all super smart.
 
+---
+
 There are lots of tools,
 
 that people use to create.
@@ -28,9 +30,11 @@ Music composition,
 
 has tools like piano roll and sequencer to make composition easy.
 
-Even abstract mathematics, physics, or ,
+Even abstract mathematics, physics, or [elliptic curve cryptography](https://www.youtube.com/watch?v=dCvB-mhkT0w),
 
 is only intimidating until you find all the visualizations, introductory books and lectures.
+
+---
 
 People make complicated things seem like a big deal,
 
@@ -47,6 +51,8 @@ is a wonderful feeling.
 Isn't that the point of why we learn,
 
 it sure seems like it.
+
+---
 
 One of the most important things about learning,
 

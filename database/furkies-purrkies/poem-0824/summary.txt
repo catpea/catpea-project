@@ -4,83 +4,95 @@ Audio and full text version is available advertisement free at: https://catpea.c
 The Geometric Quest For Abstract Jewelry Goodies
 Thursday • June 2nd 2022 • 9:31:22 pm
 
-Please don’t get discouraged because of strange geometry things,
+Please don’t get discouraged because of strange geometry things,\
 it is an invitation, and so is manual modeling, and even wondering if 3D is something that you actually care for.
 
-It is all supposed to be just a beginning,
+It is all supposed to be just a beginning,\
 you are to demand an infinity to all artistic adventures you set off on.
 
-, they are just a tool,
-it is a , that you program - it is one of many things.
+[Blender’s Geometry Nodes are good to learn](https://www.youtube.com/watch?v=D5VYCxaX11U), they are just a tool,\
+it is a [geometry modifier](https://www.youtube.com/watch?v=idcFMhoSdIc), that you program - it is one of many things.
 
-Schools are not working,
+---
+
+Schools are not working,\
 and standardized education will eventually be perceived as fraud.
 
-You need to get your armour on,
+You need to get your armour on,\
 you need to stand up for your own Education, Knowledge and Excellence.
 
-Learning an Open Source program is a good investment,
+Learning an Open Source program is a good investment,\
 even better, if this is your first time learning about 3D Modeling in general.
 
-You can make a pencil case, a superhero belt, a wallet,
+---
+
+You can make a pencil case, a superhero belt, a wallet,\
 you can create animation, or jewelry, and then sell some of those things.
 
-Maybe a lot of them, but either way, expanding your talents,
+Maybe a lot of them, but either way, expanding your talents,\
 will give you ideas, it will give you more strength.
 
-Geometry nodes are new,
+---
+
+Geometry nodes are new,\
 they are odd, very odd, like a puzzle.
 
-See some of our greatest inventions,
+See some of our greatest inventions,\
 are not built on stable foundations perfectly suited to support them.
 
-But rather the things beneath are seemingly unrelated,
+But rather the things beneath are seemingly unrelated,\
 to the end product, more chaotic, or alien even.
 
-Your favorite story, your treasured paper book,
+---
+
+Your favorite story, your treasured paper book,\
 stands upon a tree, that was once likely over a hundred years old.
 
-Nuclear power, is not actually nuclear,
+Nuclear power, is not actually nuclear,\
 they are just using radioactive materials to boil water to spin a turbine like in old trains.
 
-You, you are made of Star Stuff, as Mr. Sagan was fond of saying,
+You, you are made of Star Stuff, as Mr. Sagan was fond of saying,\
 the universe was all gas until first generation stars started exploding.
 
-And your golden jewelry, doesn't just come from a dying star,
+And your golden jewelry, doesn't just come from a dying star,\
 but from an exploding supernova, only those can make heavier elements like Gold.
 
-Mitochondra in your cells,
+Mitochondra in your cells,\
 or the powerhouse of the cell as the schools brainlessly call it.
 
-That is a separate organism, with a bacterial genome,
+That is a separate organism, with a bacterial genome,\
 and although it talks to our cells it divides like bacteria.
 
-Likewise, programming 3D things, is not exactly about what you are specifically creating,
+---
+
+Likewise, programming 3D things, is not exactly about what you are specifically creating,\
 but about concepts in 3D geometry, first .
 
-,
+[At first you just learn from tutorials](https://www.youtube.com/results?sp=mAEB\&search_query=Blender+Geometry+Nodes+Tutorial),\
 and later that knowledge will come together to make more sense.
 
-But when you are making abstract jewelry,
+But when you are making abstract jewelry,\
 noting there will ever be about jewelry, that world is about geometry.
 
-The jewelry world above it,
+The jewelry world above it,\
 starts with taking what you can of the underlying geometry world.
 
-And then improving that, expanding it,
+And then improving that, expanding it,\
 to create a ring, pendant or earring, that is impossible for a human hand to make.
 
-It is just unfair to ask a human to do it,
+It is just unfair to ask a human to do it,\
 abstract geometry...
 
-In every sense,
+In every sense,\
 is not of this world.
 
-In some cases it can be said that it is an emergent phenomenon,
+In some cases it can be said that it is an emergent phenomenon,\
 born of human curiosity, the world of 3D geometry, and plenty of happy little accidents.
 
+---
 
-.
+[Getting started with abstract jewelry is fun and easy](https://www.youtube.com/watch?v=t_Xfl9Nub-I)\
+[just remember that this is a quest into the odd world of 3D geometry with its own rules](https://www.youtube.com/watch?v=nFtRnBErnmw).
 
-May you set of on countless adventures into the strange worlds of art,
+May you set of on countless adventures into the strange worlds of art,\
 for those who wander are never lost.

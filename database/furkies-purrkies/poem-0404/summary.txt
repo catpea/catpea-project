@@ -12,6 +12,8 @@ In many cases once a program goes online it becomes vulnerable to attacks,
 
 and get this: attacks that didn't exist while the program was being written.
 
+---
+
 To really write a program, a real program,
 
 you have to create a text description of it.
@@ -32,9 +34,13 @@ Fail mean that the feature you described,
 
 has not yet been implemented.
 
+---
+
 A really good description, would hold up under the stress of creating the same program,
 
 in different languages, by different development teams.
+
+---
 
 It is the English description of your invention that is the real program,
 
@@ -44,13 +50,17 @@ You don't need to learn programming languages,
 
 you need a Good Idea and a fine description.
 
+---
+
 Here are a few very brilliant programs that you can safely base your invention on,
 
-, , , , , , and .
+[UNIX](https://www.youtube.com/watch?v=tc4ROCJYbm0), [HyperCard](https://www.youtube.com/watch?v=FquNpWdf9vg), [Inform 7](https://www.youtube.com/watch?v=bTdoFHTxQRI), [WikiWikiWeb](https://www.youtube.com/watch?v=XqxwwuUdsp4), [Siri](https://www.youtube.com/watch?v=pjdBEg5T11w), [Visual Programming Languages](https://www.youtube.com/watch?v=cAiFJEcqwm4), [Infographics](https://www.youtube.com/watch?v=5Zg-C8AAIGg) and [Dashboards](https://www.youtube.com/watch?v=pV8-e_P7NWQ).
 
 This is a good starting point to thinking about Real Programming,
 
 where you deal with concepts, not code.
+
+---
 
 I think the most important type of a program the world needs today,
 
@@ -76,6 +86,8 @@ It has to be created,
 
 by a non-programmer.
 
+---
+
 It has to be revolutionary,
 
 because this will create a new computer revolution.
@@ -86,7 +98,9 @@ perhaps it is something that looks at diagrams that are drawn on paper.
 
 Maybe it is something that uses a special on-screen keyboard,
 
-where letters are replaced with words that can be strung together into commands like in the .
+where letters are replaced with words that can be strung together into commands like in the [old adventure games](https://www.youtube.com/watch?v=gKlZzAWIlJc).
+
+---
 
 Once invented all other programs can be re-developed in this language,
 

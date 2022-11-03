@@ -8,7 +8,9 @@ Monday • April 26th 2021 • 5:47:52 pm
 
 than not to be one."
 
-- William F. Shakespeare.
+\- William F. Shakespeare.
+
+---
 
 The world is your oyster,
 
@@ -17,6 +19,8 @@ the components with which you invent things are all around you.
 You do not want to invent complicated things,
 
 but rather improve the things that people are used to.
+
+---
 
 To give a few examples,
 
@@ -34,9 +38,11 @@ It is best to encourage many companies to develop the hardware,
 
 and than just make sure that your operating system of choice runs on it.
 
-And the operating system of choice today is ,
+And the operating system of choice today is [postmarketOS](https://postmarketos.org/),
 
-which is based on and comes with multiple UI styles.
+which is based on [Alpine Linux](https://alpinelinux.org/) and comes with multiple UI styles.
+
+---
 
 The RaspberryPI, it is the modern Commodore 64,
 
@@ -50,6 +56,8 @@ Plus,
 
 they will power the thing I am about to mention next.
 
+---
+
 Alexa, Siri, Cortana, and Google Assistant, are a step in the right direction,
 
 but a very small step, unfortunately.
@@ -57,6 +65,8 @@ but a very small step, unfortunately.
 But the way these technologies made it into our homes,
 
 is an amazing idea.
+
+---
 
 And before I go further, let me just emphasize,
 
@@ -69,6 +79,8 @@ but like the Assistants Above this is a tiny step.
 The average person,
 
 deserves a programming language.
+
+---
 
 And now, imagine what I would call an Agent Network,
 
@@ -90,17 +102,15 @@ Here we are replacing IFTTT,
 
 with some bots that issue commands and some bots that execute them.
 
-The real fun comes in when you replace your ,
+---
 
-and give it a human name to turn it into another assistant that Siri, for example can talk to.
-
-This gets us to a point, where there exist a chat-room with multiple robo...
+The real fun comes in when you replace your [thermostat with a Rasperry PI](https://www.olafalo.ne...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...el,
+...y bot that keeps track of presence of humans in the house.
 
-the security bot that keeps track of presence of humans in the house.
+---
 
 What we are doing here,
 
@@ -118,6 +128,8 @@ And EventEmitter flavored WikiWikiWeb,
 
 designed to outlast the house, designed long term operations.
 
+---
+
 There is never a problem with remembering what robots are in the house,
 
 as they all hang out in the lobby of the chat system.
@@ -125,6 +137,8 @@ as they all hang out in the lobby of the chat system.
 And it is not always necessary to program a thing,
 
 sometimes just logging in and typing in "@Amber Turn the heat up to 73" will suffice.
+
+---
 
 In conclusion, to think like an inventor,
 

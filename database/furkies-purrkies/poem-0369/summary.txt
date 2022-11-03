@@ -30,6 +30,8 @@ There is an exception to tension build-up,
 
 the second part of the closing should actually probably slow down or fade.
 
+---
+
 Let us begin with a clean and simple opening,
 
 you can see I divided it in two, slow and fast.
@@ -40,6 +42,8 @@ but I will play the fast part first, followed by slow.
 
 INTRO PLAYS
 
+---
+
 Now, that the song is rolling,
 
 we begin preparing for action with a two part intro.
@@ -49,6 +53,8 @@ The second part of the intro introduces drums,
 and some extra complexity for easy transition into action.
 
 INTRO PLAYS
+
+---
 
 The action is also divided in two halves,
 
@@ -61,6 +67,8 @@ is the same as both opening and warm-up added together.
 Here I rely on strings to provide all the action:
 
 ACTION1 PLAYS
+
+---
 
 And here is the center piece of the song,
 
@@ -76,6 +84,8 @@ as not to too abruptly leap into the second action part.
 
 REST PLAYS.
 
+---
+
 The second action has little-more to offer than the first,
 
 it may not be a good idea to switch too many things around especially if it is a dance song.
@@ -87,3 +97,5 @@ and in this case it is followed by the piano melody from the opening, but now ar
 Here is the song we made, in full,
 
 I hope you like it.
+
+[SONG PLAYS](files/lil-jazz.mp3 "Lil Jazz And His String Orchestra")

@@ -4,93 +4,97 @@ Audio and full text version is available advertisement free at: https://catpea.c
 Tiny Business Tutorial: Creating A Little Line Of Products
 Monday • August 16th 2021 • 4:45:19 pm
 
-The primary purpose of this tutorial is to show teenagers,
+The primary purpose of this tutorial is to show teenagers,\
 a path towards real education, with real results, that brings in a real fistful of dollars; opening real gateways towards interesting futures, that they might not have considered before.
 
-Fundamentally this is an introduction to creating 3D printable models and products,
+Fundamentally this is an introduction to creating 3D printable models and products,\
 the text version links to all the video tutorials needed to get started.
 
-It will only sound confusing until the first couple of hours of linked tutorials and related videos,
+It will only sound confusing until the first couple of hours of linked tutorials and related videos,\
 I wanted to create a very short thing that takes one from product design, to company configuration, and sales ideas.
 
-Let's get the confusing stuff out of the way, is stable enough when used with ,
-but it is best to create Pads or Extrusions in .
+---
 
-Import SVG as Geometry, and it will become a cube,
+Let's get the confusing stuff out of the way, [FreeCAD](https://www.youtube.com/results?search_query=FreeCAD+tutorial) is stable enough when used with [PrusaSlicer](https://www.youtube.com/results?search_query=PrusaSlicer+tutorial),\
+but it is best to create Pads or Extrusions in [Inkscape](https://www.youtube.com/results?search_query=Inkscape+tutorial).
+
+Import SVG as Geometry, and it will become a cube,\
 that you can then trow into a body and create a pad or Extrusion out of.
 
-The ability to import properly sized SVG canvas into a Raspberry PI case or a Wallet,
+The ability to import properly sized SVG canvas into a Raspberry PI case or a Wallet,\
 instantly creates a perfect design method.
 
-All of this is very sketchy, pun intended,
+---
+
+All of this is very sketchy, pun intended,\
 as Open Source applications are created out of other applications or libraries.
 
-They are piped together like commands on the command line,
+They are piped together like commands on the command line,\
 this is not a bug, or a flaw.
 
-Take create something impossible with it,
+Take [p5.js](https://www.youtube.com/results?search_query=P5.js+tutorial) create something impossible with it,\
 and then create an extrusion out of it.
 
-Now, apply the extrusion by means of Subtraction to the face of your wallet,
+---
+
+Now, apply the extrusion by means of Subtraction to the face of your wallet,\
 or computer case.
 
-And now you have a product,
+And now you have a product,\
 with a unique design.
 
-But don't print your product until it is sold,
+But don't print your product until it is sold,\
 call it products on demand.
 
-If someone was to ask you, "How long would it take you to print 1,000 wallets for me?",
+---
+
+If someone was to ask you, "How long would it take you to print 1,000 wallets for me?",\
 you'd say that's the old way - we don't operate like that - we only print or CNC when a sale is made we keep a very small stock of components to ship fast.
 
-One can create scenarios where someone just made a 1,000 orders,
+---
+
+One can create scenarios where someone just made a 1,000 orders,\
 but that is not how sales work, these are anomalies.
 
-If you get a 1,000 orders overnight it will only happen once,
-but if you begin getting 1,000 orders every night - then your investors will give you seed money for a 100 printers, for 10% of your profits.
-
-But, don't invent anomalous scenarios,
-either don't advertise more than you can print, or just have someone like as a backup.
-
-Product On Demand is a fancy idea,
-but no...
+If you get a 1,000 orders overnight it...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...nups that had LEGO in their childhood dream about.
-
-There is a countless number of ways to do it,
-but one of the most fascinating is to sell a 3D model, and point the customer to some metal screws, a latch, for extra $3 they can trick their wallet out.
-
-More than that, one could design a extension that would sanp on the face of the wallet,
+... that, one could design a [throwie flashlight](https://www.youtube.com/watch?v=aB9dBXGjpZY) extension that would sanp on the face of the wallet,\
 a plastic button would push an LED wire to the battery, all the customer needs fo rthat is CR2032 battery and a 5mm white LED.
 
-The software and 3D modeling, and now SVG is a little scary,
+---
+
+The software and 3D modeling, and now SVG is a little scary,\
 but that is becasue I am presenting it all at once, as a whole - which is important for a text like this - to show the whole business.
 
-Ideally, 3D is something one just kind of figures out over the course of one's teenage days,
+Ideally, 3D is something one just kind of figures out over the course of one's teenage days,\
 or early 20's, or just by going over the tutorials with helpful friends.
 
-This is not school, there is no need to waste time on math or some nonsense about the Z axis,
+This is not school, there is no need to waste time on math or some nonsense about the Z axis,\
 get a pocket protector, calculator, a scratch awl, maybe a pen flashlight to trick out your protector like no tomorrow - and get $15 electronic calipers (that's the only real tool you need).
 
-And finally there is a number of business configuration that you can employ,
+---
+
+And finally there is a number of business configuration that you can employ,\
 you can sell pre-assembled products on a website that keep track of inventory numbers great for wallets, you can sell ready to assemble kits useful for raspberry pi cases.
 
-You can sell 3D models along with links to extras, that people can print out themselves or use an online 3D printing service,
+You can sell 3D models along with links to extras, that people can print out themselves or use an online 3D printing service,\
 or you can sell licensing for other people to print and dell your products, or re-sell your models online.
 
-Lastly, you can sell entire on-line businesses, that are filled with 3D models that you hired designers to create,
+Lastly, you can sell entire on-line businesses, that are filled with 3D models that you hired designers to create,\
 here the customer would have to invest in their own 3D printers or printing service, or just sell 3D models for printing or other companies.
 
-To start begin by creating the LED flashlight out of a 5mm LED and a CR2032 battery,
-.
+---
 
-Take some tutorials,
+To start begin by creating the LED flashlight out of a 5mm LED and a CR2032 battery,\
+[while you order a cheap 3D printer like Ender 3 v2](https://www.youtube.com/watch?v=gokN9xNG94U).
+
+Take some [FreeCAD](https://www.youtube.com/results?search_query=FreeCAD+tutorial) tutorials,\
 and get something printed out.
 
-Get a feel for leveling the print bed, for what not to do in FreeCAD,
+Get a feel for leveling the print bed, for what not to do in FreeCAD,\
 and finally use your custom little flashlight at night.
 
-Now you are an inventor equipped with your first fully functional product,
+Now you are an inventor equipped with your first fully functional product,\
 a product that is sure to launch you on great many day dreams.

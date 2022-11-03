@@ -12,6 +12,8 @@ By writing books, or composing audio books,
 
 we become a bit more magnificent.
 
+---
+
 Learning music composition,
 
 is a good example of learning in general.
@@ -20,17 +22,19 @@ Above all, our education has to be fun,
 
 and full of color, dance and foolishness.
 
+---
+
 Tell me that this is not a beautiful wisdom,
 
 imagine learning math with joy, lasers, graffiti, and drones.
 
-How long would it take you to grok the ,
+How long would it take you to grok the [formulas](https://www.youtube.com/watch?v=GVAdqcQ4jzM),
 
-if you could see the with your eyes.
+if you could see the [forces](https://www.youtube.com/watch?v=u-LfLW9Kgis) with your eyes.
 
-To get rid of the abstractions you only need to examine ,
+To get rid of the abstractions you only need to examine [math-as-code](https://github.com/Jam3/math-as-code),
 
-and then search for JavaScript and Node.js (or Python) , to .
+and then search for JavaScript and Node.js (or Python) [tutorials](https://www.youtube.com/results?search_query=drone+coding+programming), to [fly the drones via software](https://www.youtube.com/watch?v=X3Vzx3BkC84).
 
 In all the haste you won't even notice you never leaned how to solder,
 
@@ -44,6 +48,8 @@ And as a bonus the drone lands in the ocean as it recharges its batteries,
 
 and runs away from anything trying to approach it, tweeting along the way.
 
+---
+
 Music is something that is beautiful to learn,
 
 because it tickles your ears.
@@ -52,11 +58,13 @@ For math and electronic engineering to tickle your ears,
 
 you need more than a speaker, you need boxes of old drone components, and some Raspbery PIs...
 
-And at least one project involving the creation of a ,
+And at least one project involving the creation of a [huge freaking artificial albatross](https://www.youtube.com/watch?v=Fg_JcKSHUtQ),
 
 with a targeting system that could gag a mountain goat from a hundred feet in the air, with shall we say, a dielectric payload.
 
-It is that ,
+---
+
+It is [such a tragedy](https://www.youtube.com/watch?v=DdNAUJWJN08) that [school is probably faking teaching](https://www.youtube.com/watch?v=DzSnvxejenY),
 
 and nobody can really tell, probably because nobody knows what a real education is really like.
 
@@ -64,9 +72,9 @@ I don't think it is an intentional conspiracy,
 
 I think what it is an emergent scholastic mediocrity.
 
-One that emerges out of things like the ,
+One that emerges out of things like the [dance of lemons](https://www.youtube.com/watch?v=5Hh6uHUx728),
 
-and .
+and [intrinsic paternalism (whatever the hell that means)](https://www.youtube.com/watch?v=mmtEiOs50u0).
 
 But all you have to do to push this mediocrity back,
 
@@ -74,19 +82,19 @@ is accept responsibility for your own education, and that is something you shoul
 
 Finally, I just want you to know that everyone is a genius, especially you,
 
-and that and they don't matter, they are not a judge of you.
+and that [grades are fake](https://www.youtube.com/watch?v=DzSnvxejenY) and they don't matter, they are not a judge of you.
 
-Maybe you could try to help the with their speeches,
+Maybe you could try to help the [Valedictorians](https://www.youtube.com/watch?v=9M4tdMsg3ts) with their speeches,
 
 learn to speak out, yourself, inspire your friends accept the responsibility for their own education too, maybe launch some start-ups.
 
 I am not sure how serious this problem is,
 
-but I trust in the wisdom of people like and .
+but I trust in the wisdom of people like [Sir Ken Robinson](https://www.youtube.com/watch?v=17fbxRQgMlU) and [Noam Chomsky](https://www.youtube.com/watch?v=e_EgdShO1K8).
 
-I suspect that, it is probably time to stop memorizing and cramming for tests, and figure out what real education _really_ is,
+I suspect that, it is probably time to stop memorizing and cramming for tests, and figure out what real education \_really\_ is,
 
-because _pretending_ to have learned, is very likely one of the major forces behind the fake schooling we see today.
+because \_pretending\_ to have learned, is very likely one of the major forces behind the fake schooling we see today.
 
 Don't drop out, don't make it easy for lemons and liars and don't let them win,
 

@@ -12,7 +12,7 @@ So the main file to your program should not be the program it self,
 
 but rather a kind of an index of all the things that you are calling.
 
-It should be written for your ,
+It should be written for your [Rubber Duck](https://www.youtube.com/watch?v=IHJd-vk5x7k),
 
 for your tired self few years down the road.
 
@@ -24,9 +24,13 @@ It should be basic if/then statements,
 
 and calls to functions that do the actual work.
 
+---
+
 If you ever change your mind about something in your program,
 
 you will only have to edit that simple main file to make the changes.
+
+---
 
 But, as you can imagine, some programs can get really complex,
 
@@ -47,6 +51,8 @@ but more like a telegraph, a radio, or a phone.
 It first has to listen,
 
 and only then can it execute its functions.
+
+---
 
 So there is this programming pattern, or a strategy called Event Emitter,
 
@@ -88,15 +94,11 @@ Here the event handler will take the text out of the object,
 
 and stick it into the chat window.
 
-All this requires maybe 20 lines of code,
-
-it is a very simple program, as ...
+--...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...t.
-
-The Golden Snitch, when opening doors,
+...Golden Snitch, when opening doors,
 
 would actually trigger the Open Door event and i9nteract with the environment.
 
@@ -118,7 +120,7 @@ and I really didn't like the idea of mixing PHP with JavaScript when node.js was
 
 I was wearing my superman shirt, one one programmer, was fool enough to say "Hey Superman",
 
-to which I quickly replied *Good morning Lois* in the most Clark Kent voice I could muster.
+to which I quickly replied \*Good morning Lois\* in the most Clark Kent voice I could muster.
 
 I am pretty sure nobody liked me there,
 
@@ -135,6 +137,8 @@ it is fun to watch things happening all on their own when just the bots are bump
 As a side note, I once connected two chat bots together over a network,
 
 and they started chatting to one another, and asking and sometimes answering each other's questions, that is a perfect job for the emitter, it was like 15 lines of code.
+
+---
 
 In closing, the Event Emitter makes complicated things simple,
 

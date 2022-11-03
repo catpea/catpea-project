@@ -22,6 +22,8 @@ You have no doubt heard of Bass Guitars,
 
 and correctly assume that low drums make Bass as well.
 
+---
+
 We should really split them up,
 
 so that they can grow in their own ways.
@@ -42,9 +44,13 @@ We will be able to mix them up together,
 
 to easily bring in new freshness to a song.
 
+---
+
 Let us create three drum arrangements,
 
 and three bass melodies, and see what we get when we play all the permutations.
+
+---
 
 We begin with a drum,
 
@@ -66,7 +72,9 @@ Let's lay down some drum beat here,
 
 I got three variations for you.
 
-* DRUM KIT PLAYS *
+\* DRUM KIT PLAYS \*
+
+---
 
 Low lets make some bass,
 
@@ -80,7 +88,9 @@ Here are three variations,
 
 each variations repeats the melody three times.
 
-* PURE BASS MELODIES *
+\* PURE BASS MELODIES \*
+
+---
 
 Now here are the permutations,
 
@@ -100,7 +110,9 @@ to repair this use an equalizer, remove some of the low frequencies from the bas
 
 Here are the permutations:
 
-* PERMUTATIONS PLAY*
+\* PERMUTATIONS PLAY\*
+
+---
 
 I feel like I should add, that, voice with a low pitch,
 
@@ -134,4 +146,8 @@ Here is the final product,
 
 enjoy:
 
-* GROUNDHOG SONG PLAYS *
+\* GROUNDHOG SONG PLAYS \*
+
+---
+
+[The Groundhog Song](files/groundhog-song.mp3)

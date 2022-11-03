@@ -4,68 +4,118 @@ Audio and full text version is available advertisement free at: https://catpea.c
 Understanding Visual Programming
 Thursday • October 6th 2022 • 10:39:23 pm
 
-Lists, you start with lists.
+Lists,
+you start with lists.
 
-You got eight questions, that you need answers for.
+You got eight questions,
+that you need answers for.
 
-That here is a list, of eight items.
+That here is a list,
+of eight items.
 
-Boxes, you send the list through a box.
+---
 
-Those boxes, process each item in your list.
+Boxes,
+you send the list through a box.
 
-Sens your eight questions, through an ask box.
+Those boxes,
+process each item in your list.
 
-And the end user, will be asked eight questions.
+Sens your eight questions,
+through an ask box.
 
-Lines, all boxes are connected with lines.
+And the end user,
+will be asked eight questions.
 
-So that you can follow, where the list is going.
 
-But it is not just about, connecting boxes.
+---
 
-Which brings us to branching logic, here is where the lines shine.
+Lines,
+all boxes are connected with lines.
 
-They let you see the fork sin the road, incomplete answers, go down one line.
+So that you can follow,
+where the list is going.
 
-Completed answers, go down a line to database-save box.
+But it is not just about,
+connecting boxes.
 
-Lines help you visualize , the network.
+---
 
-Lines also allow you, to inject more boxes.
+Which brings us to branching logic,
+here is where the lines shine.
 
-If you want to add something, you drop it on the line.
+They let you see the fork sin the road,
+incomplete answers, go down one line.
 
-Or you click the line and select what box you want to insert.
+Completed answers,
+go down a line to database-save box.
 
-The boxes, have sockets.
+Lines help you visualize ,
+the network.
 
-And this is best imagined, when looking at branching logic.
+---
 
-Is prefixed by a reducer box, that combines all eight into a single object, or unit or virtual envelope.
+Lines also allow you,
+to inject more boxes.
 
-The logic box, would have two or more output sockets.
+If you want to add something,
+you drop it on the line.
 
-Complete and incomplete, for example, and maybe error, maybe spam, maybe timed out.
+Or you click the line
+and select what box you want to insert.
 
-Now whatever boxes you connect those socket to, will get that virtual envelope.
+---
 
-You could connect complete to, human resources.
+The boxes,
+have sockets.
 
-And incomplete, to the sales department...
+And this is best imagined,
+when looking at branching logic.
 
-Where a human review the answers, and then, call that person.
+Is prefixed by a reducer box,
+that combines all eight into a single object, or unit or virtual envelope.
 
-And here we arrive a the final step, because of how important it is.
+---
 
-Do you see what we just did, we abstracted away the entire sales department,
+The logic box,
+would have two or more output sockets.
 
-With a box in our program, and that box has an output socket.
+Complete and incomplete, for example,
+and maybe error, maybe spam, maybe timed out.
 
-One the sales person, gets everything straightened out.
+Now whatever boxes you connect those socket to,
+will get that virtual envelope.
 
-The now repaired virtual envelope, will travel out the socket.
+You could connect complete to,
+human resources.
 
-And guess what, it can be connected to the human resources box.
+And incomplete,
+to the sales department...
 
-That, is Visual Programming.
+Where a human review the answers,
+and then, call that person.
+
+---
+
+And here we arrive a the final step,
+because of how important it is.
+
+Do you see what we just did,
+we abstracted away the entire sales department,
+
+With a box in our program,
+and that box has an output socket.
+
+One the sales person,
+gets everything straightened out.
+
+The now repaired virtual envelope,
+will travel out the socket.
+
+And guess what,
+it can be connected to the human resources box.
+
+---
+
+That,
+is Visual Programming.

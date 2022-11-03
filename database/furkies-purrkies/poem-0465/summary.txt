@@ -12,6 +12,8 @@ You have to follow the three steps exactly as I explain,
 
 or the whole thing will be in vain.
 
+---
+
 One, create a fun computer game,
 
 that will earn you some fame.
@@ -23,6 +25,8 @@ that will help your player become a creator.
 Three, create a marketplace and set the player free,
 
 from their poverty.
+
+---
 
 These are not easy steps top follow,
 
@@ -36,6 +40,8 @@ It is a school, that teaches abstract thinking,
 
 that helps the student learn without their account shrinking.
 
+---
+
 This is a game, that uses an abstract language to communicate,
 
 it speaks to the entire world and will erase any and all hate.
@@ -48,6 +54,8 @@ It is a school, a factory, and a marketplace,
 
 one that will never run out of space.
 
+---
+
 Make the first implementation,
 
 about audio book creation and or narration.
@@ -59,6 +67,8 @@ and include automatic song mutation.
 The third implementation can be about 3D sculpture and jeweler creation,
 
 and should also have a button for automatic permutation.
+
+---
 
 I leave all the other implementations to you,
 

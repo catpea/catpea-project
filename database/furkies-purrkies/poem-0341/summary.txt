@@ -42,7 +42,7 @@ True to their friendship,
 
 they make a little nine note melody, here it is:
 
-* BROKEN CHORDS PLAY *
+\* BROKEN CHORDS PLAY \*
 
 Someone noticed this,
 
@@ -72,21 +72,21 @@ At first I demonstrate what the instruments sound like all by themselves,
 
 and then I kind of try to make a song, it could work, but not quite, not always.
 
-* THE MACHINE MELODY PLAYS *
+\* THE MACHINE MELODY PLAYS \*
 
 But there is something, there is a french composer named Jean-Michel Jarre,
 
-that made a song named .
+that made a song named [Oxygen](https://www.youtube.com/watch?v=hD4KMp22jBg).
 
 I listened to Oxygen 2 a few times when I was little,
 
 and I always felt like it was full of Robots, Ghosts In The Machine, and Arpeggiators.
 
-Today, I attempt to create a song inspired by , a somewhat simpler version,
+Today, I attempt to create a song inspired by [Oxygen 1](https://www.youtube.com/watch?v=Sj7A8SX7ccI "Jean-Michel Jarre's Oxygen 1"), a somewhat simpler version,
 
 and I only use the Arpeggiators.
 
-has a very strong and very pretty melody,
+[Jean-Michel Jarre's Oxygen 2](https://www.youtube.com/watch?v=hD4KMp22jBg) has a very strong and very pretty melody,
 
 and an Arpeggiator just can't handle creating that, not reliably.
 
@@ -94,4 +94,4 @@ So here is my robotic and automated take on Oxygen 1,
 
 enjoy.
 
-* *
+\* [MY OXYGENE SONG PLAYS](files/meow-oxygene.mp3 "Meow Oxygene") \*

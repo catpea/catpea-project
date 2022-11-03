@@ -20,7 +20,7 @@ These were the First Superheroes,
 
 they were often attacked.
 
-
+![Socrates](files/poetry-0079-socrates.jpg)
 
 This is Socrates, he taught the children power of Wisdom,
 
@@ -34,7 +34,7 @@ He outlived the State by becoming immortal,
 
 he is often seen as the Father of Philosophy, but there were many other thinkers.
 
-
+![Hypatia](files/poetry-0079-hepatia.jpg)
 
 This is Hypatia, her tragedy, marks the end of the first Philosophers,
 
@@ -80,23 +80,15 @@ Until then, racism, xenophobia, inequality, poverty, and darkness,
 
 will keep us apart.
 
-
+![Soldier](files/poetry-0079-soldier.jpg)
 
 The Stories of Superheroes are rooted in lives of Philosophers,
 
-because a Philosopher cannot be hurt like the ordinary men.
-
-Philosophers survive for thousands of years in text,
-
-in stories, in paintings.
-
-They survive by s...
+because a Philosopher cannot be hu...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...d reject whatever else may come.
-
-The Power of Foresight does not end with the individual wielding it,
+...ing it,
 
 it can extend to guiding the word to the correct its paths.
 
@@ -124,7 +116,7 @@ In that way, you take the pain of those Punished and use it for a thing that mat
 
 preventing children from following in their footsteps.
 
-
+![Martorano](files/poetry-0079-martorano.jpg)
 
 And we get to feel others,
 
@@ -134,7 +126,7 @@ And we get to feel what they felt, when times got tough,
 
 and the power of Compassion makes us a Family.
 
-Who was it that gave [George Martorano][1] that little pencil,
+Who was it that gave \[George Martorano]\[1] that little pencil,
 
 power of compassion is incredibly complex.
 
@@ -174,4 +166,4 @@ Like Wisdom,
 
 we are Unstoppable.
 
-[1]:
+\[1]: <https://www.youtube.com/watch?v=lnuoHywbaR8>

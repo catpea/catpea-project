@@ -4,94 +4,156 @@ Audio and full text version is available advertisement free at: https://catpea.c
 The Whole Cybernetic Digital Enchilada; Or, Entry Into The World Of Programming
 Saturday • October 22nd 2022 • 10:23:01 pm
 
-Becoming a Programmer requires class, and above all patience.
+Becoming a Programmer requires class,
+and above all patience.
 
-You have to teach yourself, not to finish as soon as possible.
+You have to teach yourself,
+not to finish as soon as possible.
 
-Rather, delay as much as you can, while you study all the important things.
+Rather, delay as much as you can,
+while you study all the important things.
 
-You need an operating system, anything that costs money, is not worth the time.
+---
 
-You need Debian, a GNU/Linux based OS, because nobody here will sell you out.
+You need an operating system,
+anything that costs money, is not worth the time.
 
-There are other distributions of GNU/Linux, but Debian is the most popular and least annoying.
+You need Debian, a GNU/Linux based OS,
+because nobody here will sell you out.
 
-On a closed operating system, you maybe forced into learning a programming language...
+There are other distributions of GNU/Linux,
+but Debian is the most popular and least annoying.
 
-On a documentation website, that is just full of ads, it can happen.
+On a closed operating system,
+you maybe forced into learning a programming language...
 
-Open Source has a very kind and respectful culture, closed source will try to turn you into profit.
+On a documentation website,
+that is just full of ads, it can happen.
 
-You will need powerful hardware, open, friendly, and beautifully intimidating.
+Open Source has a very kind and respectful culture,
+closed source will try to turn you into profit.
 
-In 2020-whatever the 8GB Raspberry Pi 4, priced at a hundred bucks was the best (You will need a monitor).
+---
 
-The kit version is two hundred, but it comes with a keyboard, neat case, a fan.
+You will need powerful hardware,
+open, friendly, and beautifully intimidating.
 
-Once you put it in a case, it is about the size of two decks of cards.
+In 2020-whatever the 8GB Raspberry Pi 4,
+priced at a hundred bucks was the best (You will need a monitor).
 
-It comes with Debian pre-installed, and it has extras you can get, cameras, sensors, tiny touch-screen, etc.
+The kit version is two hundred,
+but it comes with a keyboard, neat case, a fan.
 
-You will need to pick your first Programming language, you have to pick the Language of The Web.
+Once you put it in a case,
+it is about the size of two decks of cards.
 
-Because it will be around the longest, 50 years from now the language of the web.
+It comes with Debian pre-installed,
+and it has extras you can get, cameras, sensors, tiny touch-screen, etc.
 
-Will be intricately connected, to the language the web uses today.
+---
 
-Currently that language is called JavaScript, but when you search for code you call it ES2023.
+ You will need to pick your first Programming language,
+you have to pick the Language of The Web.
 
-And ES stands for ECMA Script, it is a broad standard, JavaScript is just an implementation.
+Because it will be around the longest,
+50 years from now the language of the web.
 
-JavaScript used to be slow, and it got a bad reputation for it.
+Will be intricately connected,
+to the language the web uses today.
 
-But all the other languages are worse, slower, more mixed up, too half backed lacking memory management.
+Currently that language is called JavaScript,
+but when you search for code you call it ES2023.
 
-Or overcooked, an only in rotation, because large corporations invested money in it.
+And ES stands for ECMA Script,
+it is a broad standard, JavaScript is just an implementation.
 
-And some incompetent teachers, brought it into the already questionable standardized education setting.
+JavaScript used to be slow,
+and it got a bad reputation for it.
 
-Once you fell comfy with JavaScript, HTML, and CSS, you can explore other languages.
+But all the other languages are worse,
+slower, more mixed up, too half backed lacking memory management.
 
-But be mindful of their longevity, and usefulness in the modern world.
+Or overcooked, an only in rotation,
+because large corporations invested money in it.
 
-JavaScript is a friendly and relaxing language, with syntax that has become very beautiful in recent years.
+And some incompetent teachers,
+brought it into the already questionable standardized education setting.
 
-Plus, because it covers many areas, it always tries to invites you to a new adventures.
+Once you fell comfy with JavaScript, HTML, and CSS,
+you can explore other languages.
 
-From colorful UI-kit or Theme creation, to novel code editors, and tiny Linux command utilities.
+But be mindful of their longevity,
+and usefulness in the modern world.
 
-And there is one more thing, and I implore you to take it seriously.
+ JavaScript is a friendly and relaxing language,
+with syntax that has become very beautiful in recent years.
 
-Please, choose vim as your code editor, it may eventually become your fallback editor.
+Plus, because it covers many areas,
+it always tries to invites you to a new adventures.
 
-But it will always be there for you, and I recommend the distribution because it is simple.
+From colorful UI-kit or Theme creation,
+to novel code editors, and tiny Linux command utilities.
 
-The main thing about editors like vim and emacs, is that they use the primitive terminal for user interface.
+---
 
-That means you can connect to a remote server, and launch the vim it has, and type or program away.
+And there is one more thing,
+and I implore you to take it seriously.
 
-It is also trustworthy, I personally believe, that vi of which vim is an improvement of.
+Please, choose vim as your code editor,
+it may eventually become your fallback editor.
 
-Has been around, since before computers were invented, possibly when Humans first entered the Neander Valley.
+But it will always be there for you,
+and I recommend the [SpaceVim][1] distribution because it is simple.
 
-And started painting in earth tones, on cave walls.
+The main thing about editors like vim and emacs,
+is that they use the primitive terminal for user interface.
 
-I am sorry, it will be tough at first, and please resist the arrow keys, just use hjkl... sigh.
+That means you can connect to a remote server,
+and launch the vim it has, and type or program away.
 
-Just treat it as a game at first, give yourself plenty of time.
+It is also trustworthy, I personally believe,
+that vi of which vim is an improvement of.
 
-You will never ever, ever, regret having learned vim.
+Has been around, since before computers were invented,
+possibly when Humans first entered the Neander Valley.
 
-In 2022 , had a neat tutorial.
+And started painting in earth tones,
+on cave walls.
 
-It takes about 20 minutes to skim over the firs time, and if you repeat it, and make some notes.
+I am sorry, it will be tough at first,
+and please resist the arrow keys, just use hjkl... sigh.
 
-You won't have too much trouble at all, vim will only try to eat you, if you have no time for the tutorial.
+Just treat it as a game at first,
+give yourself plenty of time.
 
-In closing, I would like to recommend, that your first programs are Linux command line programs.
+You will never ever, ever,
+regret having learned vim.
 
-Use , which is JavaScript, for the Operating System, and not the Browser.
+In 2022 [openvim.com][2],
+had a neat tutorial.
 
-And the module, which has some useful examples, to get started, with your first command.
+It takes about 20 minutes to skim over the firs time,
+and if you repeat it, and make some notes.
 
-And then perhaps make a little program, that uses the module to just optimize images.
+You won't have too much trouble at all,
+vim will only try to eat you, if you have no time for the tutorial.
+
+---
+
+In closing, I would like to recommend,
+that your first programs are Linux command line programs.
+
+Use [nodejs][3], which is JavaScript,
+for the Operating System, and not the Browser.
+
+And the [commander][4] module, which has some useful examples,
+to get started, with your first command.
+
+And then perhaps make a little program,
+that uses the [sharp][5] module to just optimize images.
+
+[1]: https://spacevim.org/
+[2]: https://www.openvim.com/
+[3]: https://www.youtube.com/watch?v=oFdlRcRl5aQ
+[4]: https://www.npmjs.com/package/commander
+[5]: https://www.npmjs.com/package/sharp

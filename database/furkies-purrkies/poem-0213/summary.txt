@@ -12,6 +12,8 @@ the conjecture in a sentence was this:
 
 it is too easy for bad people to, not just subvert, but erase lifetimes of hard work and dedication.
 
+---
+
 It is commonly known as corruption, but that didn't matter to them,
 
 because they were not attempting to fix things, they had an idea how to replace everything.
@@ -19,6 +21,8 @@ because they were not attempting to fix things, they had an idea how to replace 
 And by everything,
 
 they meant institutions all around the world.
+
+---
 
 They were going to begin in the beginning, Henry Ford once said,
 
@@ -28,6 +32,8 @@ The idea was that if they went to the Courts, Police or Schools,
 
 they would have wanted the wrong things, that would only invite more problems.
 
+---
+
 Initially nobody knew how immune to corruption the thing was going to be,
 
 but there was a way to find out.
@@ -35,6 +41,8 @@ but there was a way to find out.
 The thing was a game, it was meant to be a simulation of a city,
 
 it was a simple program that used simple web design principles to simulate a city.
+
+---
 
 The non playable characters, were little bots that would interact with the player,
 
@@ -56,6 +64,8 @@ To their surprise there was a number of cities that were willing to participate 
 
 it took them a better part of a decade to get everything going, but the initial trials worked.
 
+---
+
 They knew that they became famous,
 
 when the UN wouldn't stop calling.
@@ -68,21 +78,23 @@ The program was adopted by almost all the cities of the world,
 
 about 10,000 running copies.
 
+---
+
 What was fascinating about this,
 
-is that it was still played as a game.
-
-There was a...
+is that it was still ...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...em of automated programs resulted in a lot of convictions being overturned.
+...ated programs resulted in a lot of convictions being overturned.
 
 This was a prison management system where the inmates were able to present their case in a way that the citizens would understand from a more humane perspective,
 
 again the entire past of that person was right there, tragedies and loss, and stress would be followed by more misfortune, deteriorating mental condition, desperate self medication to get back to a thinking state, and what was once called a Felon or Criminal, once again became a Human, a Brother, a Son, a Daughter, a Mother.
 
 Prison population dropped.
+
+---
 
 Nobody called this program a game,
 
@@ -119,6 +131,8 @@ something that they discovered was once lost in the translation.
 Every city now has a sculpture to honor them.
 
 Many of their sculptures bear the words they uttered so many times during the initial development, "Faster Horses".
+
+---
 
 In closing, the conjecture was true.
 

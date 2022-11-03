@@ -6,7 +6,7 @@ Monday • April 12th 2021 • 8:47:40 pm
 
 Imagine,
 
-two young people purchase a "Photos for Everyone" website similar to .
+two young people purchase a "Photos for Everyone" website similar to [Unsplash](https://unsplash.com/).
 
 The website costs between $12,000 - $24,000,
 
@@ -15,6 +15,8 @@ but the only way to pay it off is by sending 10% of monthly income to the mother
 If the two entrepreneurs made $240,000 the first month,
 
 $24,000 would be sent to the mother ship and the website would be all theirs.
+
+---
 
 Photography is pretty easy,
 
@@ -32,6 +34,8 @@ There are also bounties for Blog Posts, News Articles, Photography Tutorials,
 
 even adding new landmarks to the list - the chat interface uses google API for translation into most languages, and there is no learning curve.
 
+---
+
 The founders will spend $1,000 on bounties for 200 landmarks scattered throughout the world,
 
 they will pay a $5 bounty for a winning photo.
@@ -44,6 +48,8 @@ The winner claims the $5,
 
 plus a free upgrade to the Pro Account for 50 years, worth $5,000.
 
+---
+
 Chloë, lives in Paris,
 
 she is a rebel and could use the Pro Account as another way of advertising her Photography Magic.
@@ -51,6 +57,8 @@ she is a rebel and could use the Pro Account as another way of advertising her P
 She does long exposures to capture the Milky Way in the background of her photographs,
 
 so this is an easy 4.20 euros, for her.
+
+---
 
 Nadya, from Moscow, can always use extra 380 RUB,
 
@@ -63,6 +71,8 @@ and another 8 within a reasonable distance by rail.
 In total she ends up collecting $65 bucks,
 
 or 5,000 rubles and the weekend long adventure pays for it self.
+
+---
 
 The response, the traffic, the free advertising,
 
@@ -84,11 +94,13 @@ The mother ship gets their little $24,000,
 
 and turns right around to become one of the investors.
 
+---
+
 Bounties spike like crazy, there are now hundreds of thousands of dollars in bounties,
 
 Chloë and Nadya quit their day jobs and begin covering all the damn landmarks across Eurasia.
 
-,
+[The company is acquired by Getty Images](https://unsplash.com/blog/unsplash-getty/),
 
 and become another successful story on the internet.
 

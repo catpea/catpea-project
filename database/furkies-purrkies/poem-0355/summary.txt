@@ -16,7 +16,7 @@ Here is an example of a synthetic kick drum,
 
 followed by a recording of one.
 
-*DRUMS*
+\*DRUMS\*
 
 There are enough filters and knobs in computer world,
 
@@ -38,6 +38,8 @@ Take care of your drums, make a little audio or video tutorial about how they ca
 
 people who will enjoy your music will appreciate the story behind it.
 
+---
+
 There are four types of drums that stick out in modern music,
 
 a kick, a bass drum, a snare, and a tom.
@@ -46,21 +48,23 @@ Here is what a kick sounds like,
 
 that is the drum we used before.
 
-* KICKER *
+\* KICKER \*
 
 Here is a bass drum,
 
 note that it is a little bit softer.
 
-* BASS DRUM *
+\* BASS DRUM \*
 
 This is a snare drum,
 
-* SNARE *
+\* SNARE \*
 
 and here is a tom,
 
-* TOM *
+\* TOM \*
+
+---
 
 Drums most often play a melody so simple,
 
@@ -82,22 +86,26 @@ In the second half, I add the backbeat (an additional drum every other beat),
 
 and the simple beat becomes more sophisticated and more pleasant to the ear
 
-* BACK BEAT*
+\* BACK BEAT\*
+
+---
 
 To create something more complex,
 
 we mix drums together, and add additions features like clapping of hands.
 
-A musician playing drums will often sit at a ,
+A musician playing drums will often sit at a [drum kit](https://en.wikipedia.org/wiki/Drum_kit),
 
-and a drum kit includes , which is a kind of cymbal.
+and a drum kit includes [hi-hats](https://en.wikipedia.org/wiki/Hi-hat), which is a kind of cymbal.
 
 Here is the sound that hats make,
 
-* HATS PLAY *
+\* HATS PLAY \*
+
+---
 
 And here is an example of mixing drums together to create something interesting:
 
-**
+\*[DRUM SONG PLAYS](files/drum-song.mp3 "Simple Drum Song")\*
 
-(
+([(Revised Version)](files/drum-song-revised.mp3 "Revised Drum Song")

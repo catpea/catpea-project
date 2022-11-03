@@ -12,13 +12,17 @@ I got really tired after my run,
 
 but I said "Not until I write my poem, will I be done."
 
-Earlier I wrote a little programs to
+---
+
+Earlier I wrote a little programs to [make art](https://github.com/fantasyui-com/mockup)
 
 overall it was a really good start.
 
 I woke up at six in the morning,
 
 and jumped out of bed without a warning.
+
+---
 
 Now the hour nears eleven,
 

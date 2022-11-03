@@ -12,17 +12,21 @@ It gets even easier when you program for yourself,
 
 you become a master of your world of little machines.
 
+---
+
 Things get difficult when too many machines,
 
-start biting each other, this has been called .
+start biting each other, this has been called [Leaky Abstractions](https://www.youtube.com/watch?v=gRsyY0kzXfw).
 
 You can think of things inside a program as machines,
 
 some machines move objects that have named values.
 
+---
+
 Fox example a commonly used object is User,
 
-the name of a commonly used value is email, and value of email is
+the name of a commonly used value is email, and value of email is user@example.com
 
 Such an object can be passed through a machine that detects bad email addresses,
 
@@ -44,13 +48,15 @@ Or there could be a machine that right before password verification,
 
 checks if the user is suspended, and will just say "Invalid Password" instead.
 
+---
+
 If all you ever do is deal with these little object-passing machines,
 
 then that means you are a pretty good programmer.
 
 But when you search for a job,
 
-.
+[people will try to force you to know 50 different things](https://github.com/DopplerHQ/awesome-interview-questions#javascript).
 
 No one should tell you what you should excel at,
 
@@ -64,39 +70,19 @@ In the course of you mastery of programming,
 
 you will bump into every interview question there is inside out.
 
+---
+
 Interviews are strange things, because you can build your own Object Oriented Language,
 
 and when asked about Polymorphism, Encapsulation, Abstraction, and Inheritance not recognize it as a definition of Object Oriented Programming.
 
-A definition using those four beautiful words is found in a school text book,
-
-if you don't associate those four words with OOP by having encountered them in a text book, you will fail the question.
-
-Even if you build you own OOP systems, and especially if you frequently employ Poly...
+A definition using those four beautiful words is found...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-... head.
+...d drink plenty of water.
 
-There are just two types of databases, in-memory, and on file system,
-
-if you combine the two together and prefix it with a append only log, you'll have all you need.
-
-Keep your indexes in memory, name your directories after record id like in CouchDB,
-
-and updates with a version-number and a UUID so that they may be saved into that folder without overwriting anything.
-
-Conflict resolution is achieved by looking at the UUID,
-
-just a simple sort on the UUID gives you the winner and thus eventual consistency.
-
-Then just sync servers with ,
-
-remember all file names are named with a random UUID in it, no data will ever be overwritten, just updated.
-
-Nay sayers, critics, benchmark sticklers, and ACID Database Test lovers,
-
-go home, eat your vegetables, and drink plenty of water.
+---
 
 In the world of programming you are always correct,
 
@@ -110,9 +96,11 @@ It is easy to grasp what you have invented,
 
 and use what you have invented to understand, reverse engineer, and infer other technologies.
 
+---
+
 Your greatest power is simplicity and order,
 
-learn from .
+learn from [Ward Cunningham](https://www.youtube.com/user/WardCunningham).
 
 Mr. Cunningham connected WikiWikiWeb pages by removing spaces between capitalized words,
 
@@ -126,17 +114,17 @@ And best of all, if that page did not exist,
 
 it would say "Hey there, stranger, this page does not exist yet, why don't you create it."
 
-Mr. Cunningham mentions the ,
+Mr. Cunningham mentions the [HyperCard](https://www.youtube.com/watch?v=tx_WCIAM4bA),
 
-and yes, .
+and yes, [HyperCard is a wonderful idea](https://www.youtube.com/watch?v=FquNpWdf9vg).
 
 This is what being a programmer means,
 
-you start with or , and your first line of code, and then you move on to or .
+you start with [node](https://www.youtube.com/watch?v=uVwtVBpw7RQ) or [electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q) , and your first line of code, and then you move on to [OOP](https://www.youtube.com/watch?v=PFmuCDHHpwk) or [EventEmitter](https://www.youtube.com/watch?v=NtrnaTKqFPQ).
 
-Create your first , WikiWikiWeb, , or even ,
+Create your first [Game](https://www.youtube.com/watch?v=lhNdUVh3qCc), WikiWikiWeb, [MUD](https://www.youtube.com/watch?v=QzvqSVgc2t4), or even [Interactive Fiction Adventure](https://www.youtube.com/watch?v=EXW1ts6tZh4),
 
-or a , or a .
+or a [bot](https://www.youtube.com/watch?v=CeId265HGnM\&list=PLgNJO2hghbmiACV9v_sdBwRLnEdKUlZ1s), or a [music programming environment](https://www.youtube.com/watch?v=xBQef0fs-_Q).
 
 So as long as you create your own systems,
 

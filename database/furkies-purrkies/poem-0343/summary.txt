@@ -32,13 +32,13 @@ If yo have imported the song into audacity,
 
 make sure to turn on Overdub (under Transport / Transport Options ).
 
-Here is my first attempt at a song from my childhood, ,
+Here is my first attempt at a song from my childhood, [Czterej Pancerni I Pies](https://en.wikipedia.org/wiki/Four_Tank-Men_and_a_Dog),
 
 I didn't listen to it live, I would just play the song, and a second later, repeat the lyrics.
 
-* NON-SYNC VERSION *
+\* NON-SYNC VERSION \*
 
-And is the version I listened to live,
+And [here](files/czterej-pancerni.mp3 "Czterej Pancerni I Pies A Cappella") is the version I listened to live,
 
 basically singing in sync with the original performer.
 
@@ -46,7 +46,7 @@ Not only is my self-quartet more in-sync,
 
 but my singing is properly spaced to match the song.
 
-* SYNCED VERSION *
+\* SYNCED VERSION \*
 
 Don't worry is there is a little bit of silence here and there,
 
@@ -62,10 +62,10 @@ is starting with something that is already beautiful, mixing your first four rec
 
 Here is a song in English language to demonstrate the four voice a cappella effect slightly better,
 
-I sing originally written and performed by Tears For Fears, it is one of my favorite songs.
+I sing [Mad World](files/meow-world.mp3 "Mad World A Cappella") originally written and performed by Tears For Fears, it is one of my favorite songs.
 
 (I have to warn you as it is a little bit sad,
 
 still the lyrics are very beautiful, and I had an amazing time singing it.)
 
-* MAD WORLD PLAYS *
+\* MAD WORLD PLAYS \*

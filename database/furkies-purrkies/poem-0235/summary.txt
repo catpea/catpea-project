@@ -14,13 +14,15 @@ Inventing and Invention, makes us think of Pet Rocks, Chia Pets, and Cheap Junk,
 
 but the true meaning of invention is following your path of curiosities.
 
+---
+
 For example, aren't you curious about Infrared Photography?
 
 Infrared Lamps that but emit a faint red color, but light up an IR Photo,
 
 Infrared Camera for Raspberry PI Zero costs $12, and the UNIX based Raspberry PI Zero just about $20,
 
-Raspberry PI contains a with dozens of options that you can tinker with,
+Raspberry PI contains a [couple commands](https://www.raspberrypi.org/documentation/raspbian/applications/camera.md) with dozens of options that you can tinker with,
 
 from ISO, shutter speed, to options like brightness and contrast.
 
@@ -30,7 +32,7 @@ Photography, the Light Spectrum, and even let you brush against Astrography.
 
 Where you get to think about flaws in your Charge Coupled Device (CCD Sensor),
 
-and how you have to .
+and how you have to [hunt down and eliminate the dead pixels](https://astrofloyd.wordpress.com/2013/10/27/astrophotography-with-imagemagick/).
 
 And what great please it is to see that your photos are flawless,
 
@@ -38,11 +40,13 @@ and then begin stacking them to average out and remove noise,
 
 all these little triumphs add to your Knowledge and Wisdom.
 
+---
+
 It is OK to be overwhelmed, but it is not OK to shy away from something that captured your interest because it seems too confusing,
 
 the confusion just comes from not knowing all the steps to get to taking your first IR photo.
 
-, get a couple of monitors,
+[Start with the $150 8GB Raspberry PI 4](https://www.youtube.com/watch?v=sajBySPeYH0), get a couple of monitors,
 
 and create your first laboratory.
 
@@ -58,6 +62,8 @@ Another Raspberry Zero,
 
 this time with a normal $9 camera, can watch your flowers with time laps photography.
 
+---
+
 This is an example of a modern path of invention,
 
 from this point on, you get to choose your own next steps.
@@ -70,9 +76,11 @@ and for example print cases for your Raspberry PIs.
 
 After some practice with the servo motors,
 
-you can build a ,
+you can build a [Raspberry Powered Telescope](https://www.youtube.com/watch?v=yLoNKmoP8qY),
 
 that also doubles as a Deadly Space Laser, hey you never know, it is 2020 after all.
+
+---
 
 This is how the Great Beings that invented the experiment of mandatory public education, learned.
 

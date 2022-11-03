@@ -22,7 +22,7 @@ and the greatest challenges moved us the most.
 
 Today, we must fix Education for all,
 
-and it has to result in creating Wise Great Minds.
+and it **has to** result in creating Wise Great Minds.
 
 We have to fix World Poverty,
 
@@ -39,6 +39,8 @@ help them to understand the world better.
 Help them gain early insight,
 
 so that they are not easily manipulated.
+
+---
 
 At the very least,
 
@@ -60,9 +62,11 @@ How talent, and genius, and genes are a stupid myth for poor angry little men,
 
 how self education is far more meaningful, and how and noble.
 
+---
+
 You, my Dear Readers,
 
-You are full of Great Ideas.
+You are **full** of Great Ideas.
 
 The things you wish you knew when you were younger,
 

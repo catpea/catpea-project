@@ -28,6 +28,8 @@ like section hiking the Appalachian Trail over many decades...
 
 it is about making a difference, and becoming better for it, adding to greater whole.
 
+---
+
 When we go to school, and we end up thinking,
 
 if I jump through these hoops I will graduate and then I'll figure the next step.
@@ -48,15 +50,17 @@ Begin asking questions about education,
 
 don't just sit there memorizing disconnected facts, demand a real education.
 
+---
+
 We all have computers now,
 
 we should all learn about programming.
 
-We need to know that a takes an input,
+We need to know that a [function](https://www.youtube.com/watch?v=N8ap4k_1QEQ) takes an input,
 
 transforms it, often by calling other functions, and return an output, output = function(input);
 
-We need to know what a is,
+We need to know what a [loop](https://www.youtube.com/watch?v=s9wW2PpJsmQ) is,
 
 that it often processes a list of items, one at a time, calling functions with the item as input.
 
@@ -72,29 +76,25 @@ You have to do it right,
 
 that is what schools were meant to help us with.
 
+---
+
 For example, YOU NEVER, EVER, EVER, EVER, start by just creating a file,
 
-and then configuring things, NO, you start with a .
+and then configuring things, NO, you start with a [boilerplate](https://github.com/electron/electron-quick-start).
 
 Only later, when you have time to waste,
 
-you go and read the darn .
-
-I am actually serious about this,
-
-the manual will never tell you what the most important parts are relative to your use case.
-
-If you just need a window with a blank canvas,
-
-for a little 50 line wiki t...
+you go and read the darn [manual or guide](ht...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...he first one wins.
+...s.
 
 It is an arbitrary election mechanism,
 
 but no matter the circumstance, CPU core, user, or server, it is an arbitrary but consistent election process, that always returns the same winner.
+
+---
 
 What I describe here,
 
@@ -111,6 +111,8 @@ how is marking that correctly on a multiple choice exam, or even even making a f
 And before any pro complains about using this in production,
 
 this is a useful data backup mechanism, that should be used along side a proper database.
+
+---
 
 Learning for real is an adventure,
 
@@ -147,6 +149,8 @@ about its stability and your retirement plan, what does it say about the talent 
 Will your co-workers be passionate about making cute little file saving discoveries,
 
 or is it all going to be about profit maximization and promotions.
+
+---
 
 Once you retire,
 

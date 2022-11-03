@@ -18,6 +18,8 @@ Memorization in context of standardized education,
 
 is gaining a temporary ability to mindlessly recall some facts for a matching test.
 
+---
+
 Before I learned English I memorized the opening speech in Star Trek TNG,
 
 and the theme song to Cheers.
@@ -42,13 +44,15 @@ The only thing that didn't help me learn English was Shakespeare,
 
 which I tried to read because everyone said it was English.
 
-Though I struggled with the in Romeo and Juliet,
+Though I struggled with the [Balcony Scene](https://www.youtube.com/watch?v=FHoaPLO6Zd8) in Romeo and Juliet,
 
 I also fell in love with it.
 
 I memorized a lot of quotes from the back of the book,
 
 they just roll of my tongue to this day.
+
+---
 
 Learning, requires that you have a need to learn something,
 
@@ -68,29 +72,15 @@ and absorbing things, you don't memorize, memorization is thin, hollow, temporar
 
 I never sat down to memorize English words,
 
-I just had this massive overwhelming urge to understand what the were talking about.
-
-I wanted to be in on their jokes, once I learned to separate what I was hearing into words,
-
-which is just a function of beco...
+I just had this massive overwhelming urge to understand what the [Ninja Turtles](https://www.youtube.com/watch?v=YNBl-dsgNfg) were talking a...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...s.
-
-Making them feel stupid for learning at their own pace by grading them down,
-
-will probably cause great and long lasting harm to their self esteem and interests.
-
-Forcing children to learn within time constraints,
-
-and punishing them for failure, will only force them into temporary memorization as a way of protecting themselves.
-
-Unethical schools will exploit that to their advantage,
+...dvantage,
 
 they will keep the kids stressed out and purposefully force them into meaningless memorization so that everyone gets paid.
 
-There is a concept of a that somewhat shines some light on this cruelty,
+There is a concept of a [Elaborative Rehearsal](https://www.youtube.com/watch?v=DYpK7nE2Pbo) that somewhat shines some light on this cruelty,
 
 when contrasted with the notion of a Maintenance Rehearsal.
 
@@ -102,7 +92,7 @@ That means, people can only really learn what they are interested in,
 
 and will not learn if they are taught in segments by teachers.
 
-It is difficult to believe that ,
+It is difficult to believe that [schools do not work](https://www.youtube.com/watch?v=sxyKNMrhEvY),
 
 it maybe impossible for many to believe they are an insult to the younger generations.
 
@@ -120,12 +110,12 @@ later on in life, in a discussion about learning math, they will be ashamed of h
 
 This interest in making formulas come to life, with computers can be short lived,
 
-in which case the person is likely to take to electronics, .
+in which case the person is likely to take to electronics, [programming machines to take their art outside](https://www.youtube.com/watch?v=L72D_wEM3NU).
 
 Mathematics as it is taught in school, will be disabling to most students,
 
 and the result of that is they they will not look into programming, they won't want to take their art outside, and a whole world will be denied to them.
 
-The ,
+The [math taught in school is cutting people off from a whole world of sweet curiosities](https://www.youtube.com/results?search_query=raspberry+pi+projects),
 
 this has been going on for so long, that we can only be speechless...

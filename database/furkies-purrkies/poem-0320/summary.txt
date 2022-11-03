@@ -6,11 +6,13 @@ Thursday • January 14th 2021 • 11:06:46 pm
 
 To show you how easy it is to learn when you are having fun
 
-in _this_ strange poem, we will be making a minimalist song together.
+in \_this\_ strange poem, we will be making a minimalist song together.
 
 It won't be the most beautiful song as that would take a couple of days not hours,
 
 but it will be a good start.
+
+---
 
 We will be using some unusual strategies,
 
@@ -32,6 +34,8 @@ To save our ears from beeps and blips we are going to apply a hall effect with s
 
 to modernize the sound synthesizer a bit.
 
+---
+
 Let us start,
 
 with the drum kick.
@@ -52,6 +56,8 @@ We are going to do the same thing, we are going to mix laser/shoot and explosion
 
 until we have a good sounding umph.
 
+---
+
 Now a kick by it self is extremely boring,
 
 so let as add a clapping sound to it.
@@ -67,6 +73,8 @@ we are only going to put it every other kick.
 And I will use hit/hurt generator
 
 and still stack up a couple for them to get a chord, and to make sure it is not as deeply sounding as the kick.
+
+---
 
 Now with the clapping sound breaking up the monotony of our drum,
 
@@ -88,6 +96,8 @@ The high frequency sound that is most frequent throughout the song,
 
 gives the song energy.
 
+---
+
 But a song has to live, it cannot just clone it self all the time,
 
 so now that we have the kick, the clapping, and the hat.
@@ -95,6 +105,8 @@ so now that we have the kick, the clapping, and the hat.
 We have to alter, modify, warp the kick,
 
 now the song will begin moving, the kick will be out of line, but also catch our ear.
+
+---
 
 Our selection of instruments and that little variation,
 
@@ -116,6 +128,8 @@ From our perspective that just means,
 
 simplifying and modifying the beat.
 
+---
+
 Finally, a song needs a melody,
 
 where the back-beat that we just created is something that you tap your foot to, while the song is playing.
@@ -132,4 +146,4 @@ And it also means that the instrument can't be a drum,
 
 it has to be something that is long and winding, a sustained sound.
 
-*song plays*
+\*song plays\*

@@ -4,130 +4,104 @@ Audio and full text version is available advertisement free at: https://catpea.c
 The Guru
 Tuesday • February 4th 2020 • 10:29:57 pm
 
-Watch the of 41 videos.
+[Keyboards & Command Line Interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0 "Play Video")
 
-A command is a program made easy to execute. In other words by turning a
-program into a command, the programmer standardizes the execution and
+## Crash Course Computer Science
+
+Watch the [Full Playlist](https://www.youtube.com/watch?v=tpIctyqH29Q\&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) of 41 videos.
+
+## A Short Introduction To Commands
+
+A command is a program made easy to execute. In other words by turning a\
+program into a command, the programmer standardizes the execution and\
 customization of the program.
 
-Usually programs need compilation, or an interpreter, they need some
-libraries. Often programs may need to be configured somehow, be it a
-configuration file, or just editing code. Programs may be hard to run,
+Usually programs need compilation, or an interpreter, they need some\
+libraries. Often programs may need to be configured somehow, be it a\
+configuration file, or just editing code. Programs may be hard to run,\
 because every program is different.
 
-When a programmer decides to turn his program into a command, something
-wonderful happens. The programmer adds a bunch of stuff to his program to
-make it into a command, and thus standardizes the way the program is ran
+When a programmer decides to turn his program into a command, something\
+wonderful happens. The programmer adds a bunch of stuff to his program to\
+make it into a command, and thus *standardizes* the way the program is ran\
 and customized.
+
+## Commands At A Glance
 
 Here is what a command really looks like:
 
 command-name --some-argument value-of-the-argument
 
-gmail --recipient --subject "I can't even!" --message "I
+gmail --recipient alice@aol.com --subject "I can't even!" --message "I\
 can't freaking believe it, commands are cool, rawr!"
 
-Commands usually come in groups, for example there is a group of commands
-that manage files and directories, a group of commands that compress files,
+## Commands Can Do Anything
+
+Commands usually come in groups, for example there is a group of commands\
+that manage files and directories, a group of commands that compress files,\
 or download files across the internet.
 
+[Getting Around in the Unix Command Line Interface](https://www.youtube.com/watch?v=RuusmAGbnOo "Play Video")
 
+## Full Raspberry Pi Tutorial Playlist
 
+[Full Raspberry Pi Tutorial Playlist »](https://www.youtube.com/watch?v=Jj4pjfU_-jo\&list=PLsa31gkyINsly6N_usaeHrtDPYnwxO-1Y)
 
+## File Management Commands
 
-Manage files and directories with , , , ,
-, , and to name a few. If you use a file manager
-with a graphic user interface (GUI), then you don't need to worry about
-these.
-
-A group of commands for compressing files to save space ,
-, and to name a few.
-
-Some commands are so good at what they do there is only a couple of them
-and are a good example of that. cURL downloads files
-really well, it is also very frequently used for debugging or testing
-web-servers that serve files, it is a very efficient program. wget is
-awesome at resuming downloads and downloading large files, it actually has
-a feature that not only downloads a web page, but also all the images and
-other web pages that are linked to it.
-
-There are also some really eyebrow raising commands like
-which comes with an --extract-audio argument, meaning, it will make an mp3
-out of a video.
-
-I don't know what Alphabet's Terms of Service state on the subject of
-downloading their data. I don't recommend you use this command, unless you
-familiarize yourself with their Terms of Service, specifics of downloading
-content with third-party tools, and own the content yourself. Note that it
-is not just a YouTube account that may get suspended, but ...
+Manage files and directories with [touch](http://man7.org/linux/man-pages/man1/touch.1.html), [ls](http://man7.org/linux/man-pages/man1/ls.1.html), [cp](http://man7.org/linux/man-pages/man1/cp.1.html), [mkdir](http://man7.org/linux/man-pages/man1/mkdir.1.html),\
+[rmdir](http://man7.org/linux/man-pages/man1/rmdir.1.html), [mv](http://man7.org/linux/man-pages/man1/mv.1.html), and [rm](http://man7.org/linux/man-pages/man1/rm.1.html) to name a few. If you use a file manager\
+with a graphic user interface (GUI), then you don't need to worry about\
+these...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...f
-
-glovebox --lock passw0rd1
-
-glovebox --unlock passw0rd1
-
-lights --off
-
-stove --off
-
-thermostat --heat 72
-
-coffeemaker --on 6AM
-
-Please read Which "hack" this poor
-bastard's coffemaker, soon to be ruined romantic life, a particularly needy
-customer, and alcoholism. Based on a true story, apparently.
-
-Please note how the community of geeks that love this story came together
-and started re-creating these "hacker" scripts in the programming languages
-they favor; probably out of sadness.
-
-Here is the Node.js Version of . Note that once the
-telnet connection is established at line number 22, we begin using the
+...ing the\
 coffeemaker command-line interface: sys brew (line 26), sys pour (line 32).
 
-Don't think of the coffeemaker as running UNIX, just think of it as it
+Don't think of the coffeemaker as running UNIX, just think of it as it\
 being controlled by a command line interface somewhere.
 
-Any machine with a button or two is a system with enough complexity to
+Any machine with a button or two is a system with enough complexity to\
 benefit from a command-line interface.
 
-Note how you have never programmed a coffeemaker before, and yet you know
-precisely - and may even remember for months to come - the commands "sys
+Note how you have never programmed a coffeemaker before, and yet you know\
+precisely - and may even remember for months to come - the commands "sys\
 brew" and "sys pour".
 
 sys brew
 
 sys pour
 
-It seems sys is a single command that looks at the first text argument.
+It seems sys is a single command that looks at the first text argument.\
 Executing sys -h would probably print:
 
-Coffemaker Help ---- -h / --help print this text -v / --verbose print
-debugging information -b / --brew / or simply brew start brewing -p /
---pour / or simply pour start pouring -r / --reboot / or simply reboot
+Coffemaker Help ---- -h / --help print this text -v / --verbose print\
+debugging information -b / --brew / or simply brew start brewing -p /\
+\--pour / or simply pour start pouring -r / --reboot / or simply reboot\
 reboot the system ...
 
-Lack of proper etiquette, and using text (brew) instead of arguments
-(--brew/-b) can be an indication of sys being a script that does not take
-the time to parse anything it just looks at the first thing after the
-command name. It is actually difficult to parse arguments (-b/--brew), it
+Lack of proper etiquette, and using text (brew) instead of arguments\
+(--brew/-b) can be an indication of sys being a script that does not take\
+the time to parse anything it just looks at the first thing after the\
+command name. It is actually difficult to parse arguments (-b/--brew), it\
 takes no effort at all to use raw text (brew).
 
+## Smart Coffeemaker
 
+![Smart Coffeemaker](files/section8.png)
 
-can be controlled with the bootleg found on github. As a bonus, you can control burn down you entire house, plus the Coffeemaker.
+[Mr. Coffee Smart Coffeemaker enabled with WeMo](https://www.mrcoffee.com/wemo-landing-page.html) can be controlled with the bootleg [node.js client for WeMo](https://github.com/timonreinhard/wemo-client) found on github. As a bonus, you can control burn down you entire house, plus the Coffeemaker.
 
+## Smarter Coffeemaker
 
+![Smarter Coffeemaker](files/wemo-schedule.jpg)
 
-I was unable to locate the coffeemaker from the story. Personally I'd just
-stick a into a cheap one and make my own sys command
+I was unable to locate the coffeemaker from the story. Personally I'd just\
+stick a [Raspberry PI](https://www.raspberrypi.org/) into a cheap one and make my own sys command\
 (with proper argument parsing).
 
-If you are courageous enough to do this, might as well install a small web
-server, using the , and
-let people brew you one for a small while you [blog about
-the experience]() on the PI it self.
+If you are courageous enough to do this, might as well install a small web\
+server, [stream the coffeemaker](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot) using the [camera board module](https://www.raspberrypi.org/products/camera-module-v2/), and\
+let people brew you one for a small [fee of $9.95](https://stripe.com/) while you [blog about\
+the experience](https://gohugo.io/getting-started/quick-start/) on the PI it self.

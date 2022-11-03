@@ -46,4 +46,4 @@ will slowly send a signal to your body, that it must adapt.
 
 Endurance is the secret,
 
-and gradually is the method of increasing it.
+and **gradually** is the method of increasing it.

@@ -24,21 +24,25 @@ There is nothing negative in the world of programming,
 
 it is an art like everything else.
 
+---
+
 Just like it is not perfect, to sit down to learning how to paint with a cup of tea or coffee as paint,
 
 and paper that is not really all that good for water colors, and a brush that could be better.
 
+---
+
 You have to assemble your programming environment with a kind of love,
 
-and you will need a mascot to keep you company and for .
+and you will need a mascot to keep you company and for [Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
 It does not need to be a duck,
 
 I have a Fuggler, the Red Suspicions Fox, and I called him Boo Boo, or Boobs for short, after an angry dog I like.
 
-Your computer should be the ,
+Your computer should be the [8GB Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/),
 
-.
+[maybe get a Raspberry Pi 400 as your secondary](https://www.raspberrypi.org/products/).
 
 You will need a monitor, keyboard, mouse,
 
@@ -48,9 +52,9 @@ I would recommend that you get a simple monitor,
 
 the raspberry PI supports two 4K monitors but all of that is overpriced.
 
-Consider getting a ,
+Consider getting a [mechanical keyboard](https://www.youtube.com/watch?v=s6SY7AQsyI0),
 
-perhaps or
+perhaps [AKKO](https://www.amazon.com/s?k=EPOMAKER+AKKO) or [Anne Pro](https://www.amazon.com/s?k=EPOMAKER+Anne+Pro)
 
 Your programming language should be ES2021, or whatever year you are in,
 
@@ -62,27 +66,13 @@ but I don't have time to use them all, there is no point in learning a language 
 
 You have to learn the language of the web,
 
-it works in the browser, in application frameworks like or or , and on the server, and your Raspberry PI.
-
-You will need to install ,
-
-and search internet videos for .
-
-But, above all you need a reason,
-
-something you are or can be passionate about.
-
-And it has to be something that many people can work on at the same time,
-
-so something inspired by WikiWiki the program that inspired MediaWiki behind Wikipedia.
-
-See the point is to allow strangers to come in and contribute to your program,
-
-by just clicking EDIT, without signing up for anything, without giving their ema...
+it works in the browser, in application frameworks like [Electron](https://www.electronjs.org/) or [p5.js](https://p5js.org/examples/) or [Tone.js]...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...lar Expressions have named capture groups, you can actually see what a particular pattern is after.
+...tern is after.
+
+---
 
 Basically, once you take a bunch of JavaScript and node.js tutorials,
 
@@ -124,6 +114,8 @@ The issue of managing hundreds of thousands of tasks and thousands developers be
 
 when you use something like BDD, especially BDD that has been finely tuned to your program.
 
+---
+
 Programmers write programs for self education and fun,
 
 but when it comes to large applications, learn from the success of the World Encyclopedia.
@@ -138,7 +130,7 @@ so that other programmers may join you for fun or some meaningful reward.
 
 Whatever it is build it a page at a time,
 
-combine WikiWiki with BDD, maybe MUD, and make the story more important than the code as demonstrated by .
+combine WikiWiki with BDD, maybe MUD, and make the story more important than the code as demonstrated by [Literate programming](https://en.wikipedia.org/wiki/Literate_programming).
 
 Programming is just another form of art,
 

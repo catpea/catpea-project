@@ -6,7 +6,7 @@ Wednesday • January 27th 2021 • 5:34:11 pm
 
 Techno is about love of technology,
 
-and there is nothing more technological than an .
+and there is nothing more technological than an [oscillator](https://www.youtube.com/watch?v=c3udLCvoCC0).
 
 Oscillator oscillate,
 
@@ -16,9 +16,13 @@ The music oscillator is the throat of a machine,
 
 it is the thing that generates the sound.
 
+---
+
 Music is about breaking rules,
 
 a genre is about not breaking all the rules all at once.
+
+---
 
 In a techno song,
 
@@ -36,6 +40,8 @@ Interestingly enough there is a small tradition here,
 
 right after the melody is done playing turn off your beat, drums and base, just for a second.
 
+---
+
 Let us make a very simple and minimalist song,
 
 that touches upon the more important components of techno.
@@ -48,13 +54,17 @@ We will then add the mid layer,
 
 and you will hear that as the song plays, you will hear the sub layer enriched with the mid layer, and so on.
 
+---
+
 The Sub Bass Layer, is a low and boring pattern at first,
 
 but once we get to the drum and hats we are going to mess it up, and our song will become richer for it.
 
 Here is the simple version:
 
-* SOUND OF SUB BASS *
+\* SOUND OF SUB BASS \*
+
+---
 
 Now the Mid Bass Layer, it is a little bit more complex, and more notes are going to be hit,
 
@@ -64,7 +74,9 @@ I think this is the most memorable part of hearing techno for the first time,
 
 I thought to my self when I was little "that is the electronic in electronic music".
 
-* MID BASS *
+\* MID BASS \*
+
+---
 
 Now that three is something going on in our ears,
 
@@ -80,7 +92,9 @@ ones powered by electricity and controlled by good old knobs.
 
 Here is what the song sounds like with our snappy drums now,
 
-* DRUM *
+\* DRUM \*
+
+---
 
 Now we have a song going, we got bass we got drums,
 
@@ -96,7 +110,9 @@ in the second half you'll hear something come out of control.
 
 Even though we only have sub bass, mid bass and drums, it sounds like something else is going on.
 
-* SUB BASS VARIATION *
+\* SUB BASS VARIATION \*
+
+---
 
 Now we add hats to make the song come alive, to get that main energy,
 
@@ -110,21 +126,25 @@ So let us add the shaker separately in the next step,
 
 here are the hats:
 
-* HAT INTRODUCTION *
+\* HAT INTRODUCTION \*
+
+---
 
 And now let us add the shaker,
 
 I like my shaker short.
 
-* SHAKER DEMONSTRATION *
+\* SHAKER DEMONSTRATION \*
+
+---
 
 Now let us add a simple melody as the main lead,
 
 there is no trick to it just find whatever you like.
 
-* MELODY *
+\* MELODY \*
 
-This is one of my favorites, it comes from ,
+This is one of my favorites, it comes from [Chopin's Étude Op. 10, No. 12](https://www.youtube.com/watch?v=Gi5VTBdKbFM),
 
 also known as the Revolutionary Étude.
 
@@ -136,6 +156,8 @@ This is my go to song when I am studying something,
 
 my music teacher made it so that I would hate Chopin, but I failed that class.
 
+---
+
 It is important that you reach out to big names for ideas,
 
 beautiful songs are great teachers, and we should all learn from the best.
@@ -143,6 +165,8 @@ beautiful songs are great teachers, and we should all learn from the best.
 Teachers that make us pretend to learn by forcing us to memorize under a threat of repeating a year,
 
 are just frauds.
+
+---
 
 If there is one thing that you take away from this tutorial it should be that you are a genius,
 
@@ -152,4 +176,4 @@ Greatness is a reward for reading books, acquiring functional knowledge,
 
 and building a beautiful body of wisdom.
 
-* here is the song in full *
+\* here is the song in full \*

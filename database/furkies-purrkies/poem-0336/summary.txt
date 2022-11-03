@@ -20,7 +20,9 @@ The simple reasons for math, have little to do with math,
 
 and always having a cool mini calculator on you, is pretty damn cool.
 
-But , is not as cool as it looks on the surface,
+---
+
+But [TI-83](https://en.wikipedia.org/wiki/TI-83_series), is not as cool as it looks on the surface,
 
 for one it is overpriced, perhaps 10 times the price.
 
@@ -43,6 +45,8 @@ to Generative Art, Antikythera Mechanism, Even Kryptos-analysis-tools and Black 
 Softly mocking you,
 
 for not being cool, yet.
+
+---
 
 Sure, what is a TI-83 inspired Raspberry PI to you,
 
@@ -70,17 +74,11 @@ and just sell a Calculator Kit based on Raspberry PI Zero, to be assembled by th
 
 This is also something that requires that you get investors,
 
-keep the company small, don't work hard, work smart, your goal should be to become a great being, not a mere business person...
+keep the company small, don't work hard, work smart, your goal ...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...xit the stress of poverty.
-
-As a bonus you could offer a distributed social network (by wirelessly connecting all the nearby Raspberry PI Zero W/s),
-
-and other projects like Collaborative Audio Book Recording, or a Synthesizer Cluster for a Collaborative School Symphony Orchestra.
-
-You could run a ,
+...https://en.wikipedia.org/wiki/Beowulf_cluster),
 
 or build a distributed search engine, the sky is not even the limit,
 
@@ -100,29 +98,35 @@ Perhaps eventually, you may even design your own PI/s,
 
 maybe this time with an Open 5G Hat, Aural (as in Audio) Interface, and a phone network meshing all the schools together with free internet and voice.
 
+---
+
 You don't have to start big with your prototype,
 
-The is a good lesson to learn from, their entire product line is a dream.
+The [PO-128](https://teenage.engineering) is a good lesson to learn from, their entire product line is a dream.
 
 But use Linux, and High Level Programming Languages,
 
 do not limit yourself with with a micro-controller stick with general purpose operating systems that people can learn valuable lessons from.
 
+---
+
 If you want to start learning math right now,
 
-create a start-up that generates .
+create a start-up that generates [generative art](https://www.youtube.com/watch?v=4Se0_w0ISYk).
 
 There is always a need for interesting video backgrounds,
 
 and you can keep the company simple by just giving most of them them away.
 
-This is also the realm of ,
+This is also the realm of [computer games](https://pixijs.io/examples/),
 
 think: auto-playing computer games.
 
-And the on ramp is not that complex, see and ,
+And the on ramp is not that complex, see [Snap SVG](http://snapsvg.io/start/) and [P5](https://p5js.org/),
 
-and see if maybe you are more interested in 3D graphics, via .
+and see if maybe you are more interested in 3D graphics, via [three.js](https://threejs.org/).
+
+---
 
 In closing, you can't real things really well if you have no real use for them,
 
@@ -138,4 +142,4 @@ do not have your best interests in mind.
 
 Build your future
 
-- accept the responsibility for your own education.
+\- accept the responsibility for your own education.

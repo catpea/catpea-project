@@ -16,7 +16,9 @@ Finally, if he failed to clear the stalk, he would be given a new seed and would
 
 Eventually, there was no stalk that the young ninja could not leap over."
 
--- Peaceful Warrior
+\-- Peaceful Warrior
+
+---
 
 An endurance based workout,
 
@@ -34,6 +36,8 @@ If you are choking yourself, crushing yourself with overwhelming weights,
 
 you are not increasing your endurance efficiently.
 
+---
+
 Above all,
 
 in a proper endurance workout...
@@ -50,7 +54,9 @@ It is easier to prevent dehydration,
 
 than to treat it.
 
-According to Wikipedia ,
+---
+
+According to Wikipedia [sweat contains](https://en.wikipedia.org/wiki/Sweat#Composition "Sweat Contents"),
 
 sodium (0.9 gram/liter), potassium (0.2 g/L), calcium (0.015 g/L), and magnesium (0.0013 g/L).
 
@@ -58,11 +64,11 @@ This will vary, some say greatly, and there are tests that you can perform,
 
 by wearing a patch during a workout and then analyzing the minerals absorbed by the patch.
 
-Search the internet for "",
+Search the internet for "[The Gatorade Gx Sweat Patch was weird, neat, and ultimately kind of pointless](https://mashable.com/article/gatorade-gx-sweat-patch-review/)",
 
-and note that there are two more links on the bottom to the ,
+and note that there are two more links on the bottom to the [$200 LEVELEN™ Athlete Sweat Test Kit](https://www.levelen.com/shop/sweat-test/?attribute_sweat-testing-options=Endurance%2FMultiSport+%2820%25+discount%29),
 
-and the .
+and the [$1,000 MX3 Sweat Sodium Test](https://www.mx3diagnostics.com/products/sweat-sodium-test).
 
 I suspect that it would take several $50 patches to establish a decent baseline,
 
@@ -70,15 +76,15 @@ if you have a stable exercise, in a climate controlled gym.
 
 If it gets warmer and/or more humid outside, you body will try to cool it self more,
 
-if you push yourself harder everyday then your readings may fluctuate.
+if you push yourself harder...
 
-But you should be aware of ,
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-and the fact that the use of homemade solutions has not been well studied.
+...died.
 
 And you have to be careful,
 
-because .
+because [Overhydration is just as dangerous, if not more dangerous than Dehydration](https://www.youtube.com/watch?v=04er8Y2O5wo).
 
 You see there is no perfect formula here,
 
@@ -100,6 +106,8 @@ Then make sure to drink enough to replace that lost weight,
 
 in a reasonable amount of time.
 
+---
+
 Be careful and wise,
 
 as it is possible to get ill from exercise.
@@ -116,19 +124,23 @@ Endurance training isn't about how far or fast you are going,
 
 it is about whether or not it is helping your body become stronger and healthier.
 
+---
+
 An endurance race is a strange concept,
 
 we should not push our bodies to a breaking point, we have to be kind to ourselves.
 
-We need to *slowly* progress forward at our own natural pace,
+We need to \*slowly\* progress forward at our own natural pace,
 
 there is no glory in becoming ill from exercise, being healthy is the only reward that truly mattes.
+
+---
 
 My personal recommendation is dancing at your local gym,
 
 it is easy on the knees, and provides all the bored people pretending to work out with entertainment.
 
-And I recommend ,
+And I recommend [shuffle dancing](https://www.youtube.com/results?search_query=Shuffle+Dancing+Tutorial),
 
 you'll never have a bad or boring workout, all shuffle dance workouts are pure joy and cheerfulness.
 

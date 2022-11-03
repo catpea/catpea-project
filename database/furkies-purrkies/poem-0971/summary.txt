@@ -4,48 +4,79 @@ Audio and full text version is available advertisement free at: https://catpea.c
 The Strange Relationship Between Computer Programs And Their Diagrams
 Thursday • October 27th 2022 • 11:08:47 pm
 
-Diagrams are something else, it is crazy how powerful the union of a pencil and a mind can become.
+Diagrams are something else,
+it is crazy how powerful the union of a pencil and a mind can become.
 
-I started with some art paper, pacing up and down the long school halls.
+I started with some art paper,
+pacing up and down the long school halls.
 
-I understood programming instantly, it is just line by line.
+I understood programming instantly,
+it is just line by line.
 
-I had a Commodore, and it would welcome me, not with a command line, but with a REPL line, how beautiful.
+---
 
-But it still took a pencil, we really can’t learn programming without diagramming.
+I had a Commodore, and it would welcome me,
+not with a command line, but with a REPL line, how beautiful.
 
-There are no rules here, though the smaller and more colorful your diagram doodles…
+But it still took a pencil,
+we really can’t learn programming without diagramming.
 
-The more beautiful, they will become.
+There are no rules here,
+though the smaller and more colorful your diagram doodles…
 
-You won’t regret tracing some shape out first, like a portrait, and then make the diagrams turn it into most beautiful art.
+The more beautiful,
+they will become.
 
-Though it takes a computer, you can’t code without a pencil, or some colorful .5mm markers.
+You won’t regret tracing some shape out first, like a portrait,
+and then make the diagrams turn it into most beautiful art.
 
-Diagrams, will continue surprising you.
+---
 
-Imagine how much easier Memory Palaces are, when you pencil their maps a few times.
+Though it takes a computer,
+you can’t code without a pencil, or some colorful .5mm markers.
 
-How can you not remember the details of your, own works of art.
+---
 
-And if you take the diagrams, to the computer screen.
+Diagrams,
+will continue surprising you.
 
-And dare to translate the drawing process, into code, somehow.
+Imagine how much easier Memory Palaces are,
+when you pencil their maps a few times.
 
-You will discover, that the lines and circles always mean something different.
+How can you not remember the details of your,
+own works of art.
 
-A line connecting two concepts, rarely means the same thing.
+---
 
-Your diagrams, do not directly translate into code.
+And if you take the diagrams,
+to the computer screen.
 
-In fact they are just receptacles, for unique code snippets, that combine to create your program.
+And dare to translate the drawing process,
+into code, somehow.
 
-The program diagram, replaces the file pane in your code editor.
+You will discover,
+that the lines and circles always mean something different.
 
-When connecting two things, two nodes, with a line, or an edge.
+A line connecting two concepts,
+rarely means the same thing.
 
-The nodes represent a major step, and the edges, a way to connect them together.
+Your diagrams,
+do not directly translate into code.
 
-Both lines and edges, hold custom rarely reusable code.
+In fact they are just receptacles,
+for unique code snippets, that combine to create your program.
 
-Even though programming is all about imagination, diagrams are more dream-like than code.
+The program diagram,
+replaces the file pane in your code editor.
+
+When connecting two things, two nodes,
+with a line, or an edge.
+
+The nodes represent a major step,
+and the edges, a way to connect them together.
+
+Both lines and edges,
+hold custom rarely reusable code.
+
+Even though programming is all about imagination,
+diagrams are more dream-like than code.

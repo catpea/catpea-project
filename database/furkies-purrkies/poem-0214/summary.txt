@@ -8,7 +8,7 @@ It felt so healthy to sit down to the first version,
 
 the promise of creating a program that will change the world felt amazing.
 
-They settled on trusty bare bones ,
+They settled on trusty bare bones [express](https://expressjs.com/),
 
 and the first routes they put in were view and edit.
 
@@ -16,13 +16,17 @@ Carl Sagan once said, that if you wish to make an apple pie from scratch,
 
 you must first invent the universe.
 
-the inventor of WikiWiki,
+---
+
+[Ward Cunningham](https://github.com/WardCunningham) the inventor of WikiWiki,
 
 has absolutely solved the problem of starting in the beginning.
 
 With just a few lines of code he opened the gateway to content creation,
 
 in the most simplest way possible.
+
+---
 
 They already knew how to solve the problem of two users editing the same file at the same time,
 
@@ -52,9 +56,13 @@ and users will be called to take a look at the different version and manually pi
 
 this time everyone will be careful to just wait until the latest version is compiled.
 
+---
+
 So, they had a collaborative editing platform in less than 100 lines of code,
 
 basically a blank Wikipedia.
+
+---
 
 So now came the big question,
 
@@ -66,21 +74,11 @@ after the oldest city in the world, but settled on Night City instead.
 
 And so it was, just like Wikipedia once had its first article,
 
-cosmopolis now held the first city:
-
-This was both exiting and terrifying, this program was meant to bring peace to the world.
-
-and they only h...
+cosmopolis now held the first city: h...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...test city.
-
-As a whole they already created a very simple,
-
-but living simulation.
-
-For example one internal bot would be responsible for generating weather in Night City,
+...g weather in Night City,
 
 the bot actually got its information from Detroit's own weather service.
 
@@ -108,9 +106,13 @@ but when a real person took over for an account,
 
 they could go to a local store and buy and deliver the groceries for a small payment.
 
+---
+
 Even in the early tests, it was becoming more an more obvious,
 
 that a powerful automated framework that could help people make money could be built.
+
+---
 
 As with every program the girls were worried about its adoption,
 
@@ -120,9 +122,13 @@ and in the end large cities would go online within weeks,
 
 because it helped people put food on the table by trading small services.
 
+---
+
 Cosmopolis 2.0 was what got the attention of United Nations,
 
 but that is a story for another time.
+
+---
 
 Personal Note,
 
@@ -138,4 +144,4 @@ I recommend learning JavaScript, which is currently called ES2020, to actually e
 
 Your browser has one built in, as JavaScript is the language of the web, look up how to open the web console in your browser of choice.
 
-The industry standard for server-side JavaScript applications like our Imaginary Cosmopolis is , if interested you can to help you get started.
+The industry standard for server-side JavaScript applications like our Imaginary Cosmopolis is [Node.js](https://nodejs.org/en/), if interested you can [search for video tutorials](https://www.youtube.com/results?search_query=nodejs%20tutorial) to help you get started.

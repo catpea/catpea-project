@@ -12,7 +12,7 @@ Yes,
 
 it is all connected.
 
-You can learn the nearly instantly,
+You can learn the [Melbourne Shuffle](https://www.youtube.com/watch?v=1oTUupME0-M) nearly instantly,
 
 if you start with Alan Walker's Faded.
 
@@ -26,25 +26,31 @@ The only other thing you have to remember,
 
 is that the leg you lift goes forward, and then you switch legs.
 
+---
+
 The sound controls your body,
 
 start with a slower song or a different genre and it will be a lot harder,
 
 for a person who is just starting, it may be too hard to try to dance to a different song.
 
+---
+
 And music is basically a program,
 
-it is assembled into a song.
+it is [just Drums, Bass, Chords, and Melodies](https://learningmusic.ableton.com/) assembled into a song.
 
 You can easily break down Drums, Bass, Chords, and Melodies into their structure,
 
 you can hear it in your ear, you can write it down on paper, in color, with squiggles and emphasis.
 
-But there is a better way, even better than ,
+---
+
+But there is a better way, even better than [LMMS](https://www.youtube.com/watch?v=TrMTlpeSw8Y\&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M),
 
 and that is programming.
 
-A ,
+A [song you program can play forever](https://www.youtube.com/watch?v=TK1mBqKvIyU),
 
 and the programming language that you learn along the way, is actually a method for interfacing with technology,
 
@@ -54,7 +60,7 @@ the command line, automation of the command line, and writing commands you can u
 
 is the first, and really the only way to get computers to work for us, not against us.
 
-And on the other spectrum, ,
+And on the other spectrum, [you can write a program](https://www.youtube.com/watch?v=OLLwG_SN8oo),
 
 that will control your dance, the very way you move.
 

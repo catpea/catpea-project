@@ -4,94 +4,172 @@ Audio and full text version is available advertisement free at: https://catpea.c
 Cleaning Up The Cat Pea
 Monday • October 3rd 2022 • 8:12:35 pm
 
-I had to write three programs, to get the new website operational.
+I had to write three programs,
+to get the new website operational.
 
-I named the programs, , , and .
+I named the programs,
+[antwerp], [stellar-fox], and [rsend].
 
-I upgraded rsend, I use it for the raspberry pi.
+I upgraded rsend,
+I use it for the raspberry pi.
 
-Antwerp is a code generator, or more commonly known as...
+---
 
-A static site generator, it takes a directory of text files.
+Antwerp is a code generator,
+or more commonly known as...
 
-And processes them, into HTML code.
+A static site generator,
+it takes a directory of text files.
 
-HTML is a way, of describing text documents. It is exactly, like the languages; that word processors abstract away from you.
+And processes them,
+into HTML code.
 
-When you click make text bold, that information is store in something very similar to HTML.
+HTML is a way, of describing text documents.
+It is exactly, like the languages; that word processors abstract away from you.
 
-There are many static code generators, but none of them ever fit my needs.
+When you click make text bold,
+that information is store in something very similar to HTML.
 
-For example, I would like to have thumbnails of videos I mentioned, made into a perfect square, that I can use as cover.
+---
 
-Nothing seems to do that for me, so I have to write the program my self.
+There are many static code generators,
+but none of them ever fit my needs.
 
-Stellar Fox named after a building in a Funky Koval comic book, that I read many times, and still am yet to understand it.
+For example, I would like to have thumbnails of videos I mentioned,
+made into a perfect square, that I can use as cover.
 
-Is an unusual piece of software, that that up as a surprise.
+Nothing seems to do that for me,
+so I have to write the program my self.
 
-Because when I signed up to host the website, I discovered that I had to write the HTTP server.
+---
 
-This is not normal, at all, under no circumstance should a person looking to host a website...
+Stellar Fox named after a building in a Funky Koval comic book,
+that I read many times, and still am yet to understand it.
 
-Be asked to write the HTTP server, but I loved every second of it.
+Is an unusual piece of software,
+that that up as a surprise.
 
-Just to let you know, there are thee main concerns.
+Because when I signed up to host the website,
+I discovered that I had to write the HTTP server.
 
-First the errors, if a file is missing, send a 404 error, as soon as you can.
+This is not normal, at all,
+under no circumstance should a person looking to host a website...
 
-Unless the website is live, where errors scare people.
+Be asked to write the HTTP server,
+but I loved every second of it.
 
-Then redirect them to the homepage, all the errors on a live site become redirects.
+Just to let you know,
+there are thee main concerns.
 
-THen handle normal redirects, one such case is when a person requests a directory....
+First the errors, if a file is missing,
+send a 404 error, as soon as you can.
 
-But does not put a slash in the address bar the server will know it is a folder and can send HTML.
+Unless the website is live,
+where errors scare people.
 
-But the browser will think that it is still in the parent directory, and all the links will be broken.
+Then redirect them to the homepage,
+all the errors on a live site become redirects.
 
-So when a slash is forgotten, you send a redirect, and put that slash in there.
+---
 
-This is very clunky, and kind of silly.
+THen handle normal redirects,
+one such case is when a person requests a directory....
+ 
+But does not put a slash in the address bar
+the server will know it is a folder and can send HTML.
 
-And then the third concern, after errors and redirects.
+But the browser will think that it is still in the parent directory,
+and all the links will be broken.
 
-Is the actually opening and streaming of files, streaming means you don't read the whole file from disk to memory.
+So when a slash is forgotten,
+you send a redirect, and put that slash in there.
 
-But rather, read a chunk of the file, and send it to the browser, and keep sending new chunks...
+This is very clunky,
+and kind of silly.
 
-Without ever storing anything big in memory, this wya you can serve a lot of visitors at the same time.
+---
 
-rsend, is short for remote destination data sending, and this is a huge problem.
+And then the third concern,
+after errors and redirects.
 
-My tiny website with some 1,000 posts, already takes up 5GB of data.
+Is the actually opening and streaming of files,
+streaming means you don't read the whole file from disk to memory.
 
-And I am not able to quickly send all of that data, each time I make a change.
+But rather, read a chunk of the file,
+and send it to the browser, and keep sending new chunks...
 
-I need a program to calculate what has changed, while timestamps work sometimes.x
+Without ever storing anything big in memory,
+this wya you can serve a lot of visitors at the same time.
 
-In a general purpose program like rsend, some of the new files can be extracted from a backup and be backdated.
+---
 
-So timestamps can't be trusted, I have to basically add all the letters in a file, and create a fingerprint.
+rsend, is short for remote destination data sending,
+and this is a huge problem.
 
-The smaller and faster the fingerprint, the higher the chance of not picking up some changes.
+My tiny website with some 1,000 posts,
+already takes up 5GB of data.
 
-So this becomes a CPU intensive process, and it takes a while.
+And I am not able to quickly send all of that data,
+each time I make a change.
 
-In the case of this website, I kind of can use timestamps, so I have to give rsend for multiple fingerprinting methods.
+I need a program to calculate what has changed,
+while timestamps work sometimes.x 
 
-A proper cryptographic one, and home baked hokey one that will work on a raspberry pi.
+In a general purpose program like rsend,
+some of the new files can be extracted from a backup and be backdated.
 
-There was a lot of tiny little bugs, in the user interface of the website.
+So timestamps can't be trusted,
+I have to basically add all the letters in a file, and create a fingerprint.
 
-But I fixed most of it today, maybe all of it.
+The smaller and faster the fingerprint,
+the higher the chance of not picking up some changes.
 
-I just squished another one, as I was writing this line.
+So this becomes a CPU intensive process,
+and it takes a while.
 
-I highly recommend programming, but I think the word learning is wrong choice here.
+---
 
-To cover a broad range of things, across multiple decades.
+In the case of this website, I kind of can use timestamps,
+so I have to give rsend for multiple fingerprinting methods.
 
-I think it is best to think of this talent, as Living With Programming.
+A proper cryptographic one,
+and home baked hokey one that will work on a raspberry pi.
 
-You have to dance around the complexity, and soak it all up just as a function of dance.
+---
+
+There was a lot of tiny little bugs,
+in the user interface of the website.
+
+But I fixed most of it today,
+maybe all of it.
+
+I just squished another one,
+as I was writing this line.
+
+---
+
+I highly recommend programming,
+but I think the word learning is wrong choice here.
+
+To cover a broad range of things,
+across multiple decades.
+
+I think it is best to think of this talent,
+as Living With Programming.
+
+You have to dance around the complexity,
+and soak it all up just as a function of dance.
+
+
+
+
+
+
+
+
+
+
+
+[antwerp]: https://www.npmjs.com/package/antwerp
+[stellar-fox]: https://www.npmjs.com/package/stellar-fox
+[rsend]: https://www.npmjs.com/package/rsend

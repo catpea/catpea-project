@@ -16,15 +16,15 @@ My smallest product,
 
 was 6x4 pixels small.
 
-I generated my own via the
+I generated my own [color swatches](https://colorhunt.co/) via the [HSL Color Model](https://www.youtube.com/watch?v=NAw2_NtGNaA)
 
 randomly colored my some of my pixels, and then re-sized my little 6x4 creation to 4K (3840 × 2160).
 
-I resized it using ,
+I resized it using [ImageMagick](https://www.youtube.com/watch?v=Sy_2Dncb26s),
 
 which by default will blur the end result to create a beautifully smooth background.
 
-I uploaded them to as 4K Desktop Backgrounds,
+I uploaded them to [Creative Market](https://creativemarket.com/) as 4K Desktop Backgrounds,
 
 and a made $60 in sales, before I shut the experiment down.
 
@@ -32,9 +32,9 @@ I had another $60 there already,
 
 from a much more complex product.
 
-One that took months, and generated 30,000 designs, and had a variation that was connected to .
+One that took months, and generated 30,000 [Bootstrap Card](https://getbootstrap.com/docs/5.0/components/card/) designs, and had a variation that was connected to [Stripe](https://www.youtube.com/watch?v=1XKRxeo9414).
 
-( helps with Graphic User Interface design, and Stripe is a Payment Processing Gateway)
+([Bootstrap](https://www.youtube.com/watch?v=I7CfaDYzTVM) helps with Graphic User Interface design, and Stripe is a Payment Processing Gateway)
 
 I fully embrace failure in my product design,
 
@@ -44,17 +44,19 @@ Make your products small and beautiful,
 
 and learn from your failures.
 
-I classified my computer creations as ,
+I classified my computer creations as [Minimum Viable Products](https://www.youtube.com/watch?v=kmfC-i9WgH0),
 
 and I continue my search for tiny and valuable things, I am currently looking at automatically generating dance and workout music.
+
+---
 
 If you don't like computers,
 
 then that maybe even better.
 
-,
+[Adam Savage of Myth Busters fame has a small video about hand made products](https://www.youtube.com/watch?v=nZZlEbttaO0),
 
-in which he mentions markets like .
+in which he mentions markets like [Etsy](https://www.youtube.com/watch?v=_UISLd3-KN8).
 
 Hand made does not mean hard work,
 
@@ -62,13 +64,15 @@ you kind of probably should sell products that are not yet assembled - so produc
 
 You can manufacture them by looking around for a local business that will help you machine parts,
 
-or online where you can 3D print prototypes or laser cut leather, or wood, or acrylic, with and
+or online where you can 3D print prototypes or laser cut leather, or wood, or acrylic, with [Shapeways](https://www.youtube.com/watch?v=yaxwSVr3cl8) and [Ponoko](https://www.youtube.com/watch?v=ZOTUw6Iz2GY)
 
-You can also find a ,
+You can also find a [Maker Space](https://www.youtube.com/watch?v=wti6FMvDAE4),
 
 where you maybe able to find the tools and advice you need.
 
-I know that selling is not a way to build a business,
+---
+
+I know that selling [cute wooden charms](https://www.youtube.com/watch?v=ZOTUw6Iz2GY) is not a way to build a business,
 
 but holding your first product in your hands is a very educational experience, and money well spent.
 
@@ -78,11 +82,11 @@ where you can beautifully feature your diagrams, sketches, and ideas.
 
 Your earliest products,
 
-are priceless, .
+are priceless, [in 30 years as you look through your portfolio your silly wooden charms will make you very proud](https://www.youtube.com/watch?v=ex2ALzWigB8).
 
 The distance to a good product from a silly little charm,
 
-is actually just a few more sketches, and a CNC & Laser Cutter shop .
+is actually just a few more sketches, and a CNC & Laser Cutter shop [where you can design a range of pricey wallets](https://www.trayvax.com/).
 
 Or, wallet kits, where you ship a futuristic wallet along with a little screwdriver and shiny brass screws,
 
@@ -94,7 +98,9 @@ and passing on the savings.
 
 And if you prefer more modern technology,
 
-then , here it makes even greater sense to ship it as a kit, and of course you don't need to include the .
+then [design a range of cases for the Raspberry PI](https://www.etsy.com/search?q=Raspberry+PI+Case), here it makes even greater sense to ship it as a kit, and of course you don't need to include the [Raspberry PI](https://www.youtube.com/watch?v=EKPobkb1N6o\&t=20).
+
+---
 
 Just accept failure as part of progress,
 
