@@ -16,7 +16,7 @@ artwork:
   - https://en.wikipedia.org/wiki/File:Color_diagram_Charles_Hayter.jpg
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
