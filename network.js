@@ -17,7 +17,7 @@ export default async function(){
       iconClasses: ['bi', 'bi-camera-reels'],
       url: '/lectures.html',
       navigation: true,
-      new: true,
+
     },
     {
       title: 'List',
