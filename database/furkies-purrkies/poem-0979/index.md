@@ -13,7 +13,7 @@ image: poem-0979-illustration.jpg
 images: null
 artwork:
   - https://unsplash.com/photos/Xn4PKeYa0Eg
-  - https://unsplash.com/photos/5xf-OUM83RA
+  - https://unsplash.com/photos/P33WCCRZl94
 resources: null
 features:
   video: true
