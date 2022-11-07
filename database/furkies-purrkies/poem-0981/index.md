@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/Kl4NIz8FeVc
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
