@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/PW6CGOj9tbo
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
@@ -75,7 +75,7 @@ take to adventure and books.
 ---
 
 Finally, Daniel Dennett asked the correct question,
-“]If Brains are Computers, Who Designs the Software?][1]”
+“[If Brains are Computers, Who Designs the Software?][1]”
 
 We do, we design the software, we are supposed to get it from the best books,
 but we inherit it, from whatever culture we are born into.
