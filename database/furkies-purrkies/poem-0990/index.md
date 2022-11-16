@@ -1,7 +1,7 @@
 ---
 id: poem-0990
 guid: 313894aa-5c1a-40ea-b352-b1a29fec1089
-title: The Brilliance Of Content Of Character; Or, Live So Sturdily, As To Put To Route All That Is Not Life
+title: The Brilliance Of Content Of Character; Or, Live So Sturdily, As To Put To Rout All That Is Not Life
 description: null
 tags:
   - furkies-purrkies
