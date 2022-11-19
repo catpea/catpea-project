@@ -12,6 +12,8 @@ if [ ! -f "$BACKUP_FILE" ]; then cp "dist/server/www/catpea-com/checksums.json" 
 # Build Phase
 antwerp build catpea
 
+
+ 
 # Publish Phase
 FILES=$(antwerp changes catpea);
 for FILE in $FILES; do
