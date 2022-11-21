@@ -286,6 +286,8 @@ draft: false
 
 [Mark DiMarco: User Interface Algorithms](https://www.youtube.com/watch?v=90NsjKvz9Ns "Play Video")
 
+[An Intro to UI/UX in Games | Creative Assembly](https://www.youtube.com/watch?v=p7SlpT2GFGs "Play Video")
+
 ### Ghost In The Shell
 
 [Ghost In The Shell - Film Analysis - Motoko's Dilemma](https://www.youtube.com/watch?v=l9v8FzQ2btg "Play Video")
