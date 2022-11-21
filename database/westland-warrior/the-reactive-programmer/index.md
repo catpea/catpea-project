@@ -7,7 +7,7 @@ tags:
   - westland-warrior
 date: '2022-06-26T18:14:29.881Z'
 lastmod: null
-weight: 15700
+weight: 15450
 audio: null
 image: warrior-the-reactive-programmer-cover.jpg
 images: null

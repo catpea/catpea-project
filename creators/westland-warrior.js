@@ -1,5 +1,6 @@
 import { v4 as uuid } from 'uuid';
-import { kebabCase } from 'lodash-es';
+import { kebabCase, cloneDeep } from 'lodash-es';
+
 import yaml from 'js-yaml';
 import path from 'path';
 import chalk from 'chalk';
@@ -20,7 +21,9 @@ function byWeight(a, b){
   return 0;
 }
 
-export default async function({db, dest, kind, title, after, samples, debug}){
+export default async function({db:raw, dest, kind, title, after, samples, debug}){
+
+  const db = cloneDeep(raw).sort(byWeight);
 
   const number = db.length +1;
 
@@ -34,8 +37,8 @@ export default async function({db, dest, kind, title, after, samples, debug}){
   if(after){
     const target = db.filter(o=>o.title==after).pop();
     if(!target){
-    console.log(`Title named "${chalk.bgRed.white(after)}" was not found. Check spelling and try again.`)
-    process.exit()
+      console.log(`Title named "${chalk.bgRed.white(after)}" was not found. Check spelling and try again.`)
+      process.exit()
     }
 
     const targetLocation = db.indexOf(target);
@@ -45,13 +48,15 @@ export default async function({db, dest, kind, title, after, samples, debug}){
     }else{
       let next = db[targetLocation+1];
       let diff = next.weight - target.weight;
+      // let diff = target.weight - next.weight;
       weight = target.weight + parseInt(diff*.1);
+      // console.log(`THERE IS AN ERROR HERE: the difference between next (${next.title}) and target (${target.title}) was ${diff}, new weight set to ${weight} (/home/meow/Universe/Development/catpea-project/creators/westland-warrior.js)`);
     }
 
     if(debug) console.log(`The weight of ${after} is ${target.weight}, it ${last?chalk.bgRed.white('is'):chalk.green('is not')} the last record, therefore new-record weight is set to ${weight}`);
   }
 
-
+  // process.exit();
 
   const features = {
     ytcover: true,

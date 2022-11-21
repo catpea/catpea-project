@@ -7,7 +7,7 @@ tags:
   - westland-warrior
 date: '2022-10-02T21:46:23.539Z'
 lastmod: null
-weight: 14320
+weight: 15210
 audio: null
 image: the-linux-lord-cover.jpg
 images: null
@@ -145,7 +145,7 @@ draft: false
 
 [A Tour of my Emacs Configuration](https://www.youtube.com/watch?v=Gi7yBMYZylU "Play Video")
 
-### Raspberry 
+### Raspberry
 
 [Raspberry Pi versus AWS // How to host your website on the RPi4](https://www.youtube.com/watch?v=QdHvS0D1zAI "Play Video")
 

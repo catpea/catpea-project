@@ -7,7 +7,7 @@ tags:
   - westland-warrior
 date: '2022-10-31T00:55:54.027Z'
 lastmod: null
-weight: 15220
+weight: 15520
 audio: null
 image: the-full-stack-developer-cover.jpg
 images: null

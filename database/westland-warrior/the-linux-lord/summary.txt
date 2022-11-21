@@ -93,7 +93,7 @@ Sunday • October 2nd 2022 • 5:46:23 pm
 
 [A Tour of my Emacs Configuration](https://www.youtube.com/watch?v=Gi7yBMYZylU "Play Video")
 
-### Raspberry 
+### Raspberry
 
 [Raspberry Pi versus AWS // How to host your website on the RPi4](https://www.youtube.com/watch?v=QdHvS0D1zAI "Play Video")
 
