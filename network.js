@@ -137,7 +137,7 @@ export default async function(){
     },
     {
       title: 'YouTube',
-      url: 'https://www.youtube.com/channel/UC6Og8hy_iEgZutvp0SQmNzQ',
+      url: 'https://www.youtube.com/@catpea',
       social: true,
     },
     {
