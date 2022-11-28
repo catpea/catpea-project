@@ -28,6 +28,10 @@ draft: false
 
 [The Surprising Truth About Learning in Schools | Will Richardson | TEDxWestVancouverED](https://www.youtube.com/watch?v=sxyKNMrhEvY "Play Video")
 
+[Faster than a calculator (Math Mnemonics) | Arthur Benjamin | TEDxOxford](https://www.youtube.com/watch?v=e4PTvXtz4GM "Play Video")
+
+### Trouble
+
 [The gambler's fallacy (Applied to real life decision making)](https://www.youtube.com/watch?v=4eVluL-idkM "Play Video")
 
 [Peter Principle: When People Get Promoted Into Maximum Incompetence](https://www.youtube.com/watch?v=IbFr5DAyZBM "Play Video")
@@ -37,6 +41,17 @@ draft: false
 [Why do so many incompetent men become leaders? | Tomas Chamorro-Premuzic](https://www.youtube.com/watch?v=zeAEFEXvcBg "Play Video")
 
 [Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc "Play Video")
+
+[Liar's Dividend](https://www.youtube.com/watch?v=gYCYlAtYXl0 "Play Video")
+
+[Illusory Truth Effect](https://www.youtube.com/watch?v=7LMLq64tfDE "Play Video")
+
+[Should you trust unanimous decisions? - Derek Abbott](https://www.youtube.com/watch?v=heCSbA8w57A "Play Video")
+
+[Why incompetent people think they're amazing - David Dunning](https://www.youtube.com/watch?v=pOLmD_WVY-E "Play Video")
+
+[Calling Bullshit 1.3: Brandolini's Bullshit Asymmetry Principle](https://www.youtube.com/watch?v=-Mtmi8smpfo "Play Video")
+
 
 ### Evolutionary Thinking
 
@@ -60,7 +75,7 @@ draft: false
 
 [How to Find New Mental Models in the World](https://www.youtube.com/watch?v=HLEXjdJggRk "Play Video")
 
-### A Look At The Universe
+### Broader Context
 
 [The Egg - A Short Story](https://www.youtube.com/watch?v=h6fcK_fRYaI "Play Video")
 
@@ -82,11 +97,7 @@ draft: false
 
 ### Theories
 
-[Liar's Dividend](https://www.youtube.com/watch?v=gYCYlAtYXl0 "Play Video")
-
-[Illusory Truth Effect](https://www.youtube.com/watch?v=7LMLq64tfDE "Play Video")
-
-[Faster than a calculator | Arthur Benjamin | TEDxOxford](https://www.youtube.com/watch?v=e4PTvXtz4GM "Play Video")
+[Principle of Humanity](https://www.youtube.com/watch?v=7n6-f6rEdtM "Play Video")
 
 [René Girard Explains Mimetic Desire](https://www.youtube.com/watch?v=OgB9p2BA4fw "Play Video")
 
@@ -94,23 +105,17 @@ draft: false
 
 [The Chilling Effect: How surveillance leads to self censorship](https://www.youtube.com/watch?v=E-hSQUugzQM "Play Video")
 
-[Why incompetent people think they're amazing - David Dunning](https://www.youtube.com/watch?v=pOLmD_WVY-E "Play Video")
-
 [Epistemic Humility: The Key to Better Decisions](https://www.youtube.com/watch?v=93s9vky6pn0 "Play Video")
 
-[Principle of Humanity](https://www.youtube.com/watch?v=7n6-f6rEdtM "Play Video")
+### Science
 
-[Should you trust unanimous decisions? - Derek Abbott](https://www.youtube.com/watch?v=heCSbA8w57A "Play Video")
-
-[Calling Bullshit 1.3: Brandolini's Bullshit Asymmetry Principle](https://www.youtube.com/watch?v=-Mtmi8smpfo "Play Video")
+[Richard Feynman. Why.](https://www.youtube.com/watch?v=36GT2zI8lVA "Play Video")
 
 [Understanding Quantum Mechanics: Schrödinger's Cat Experiments](https://www.youtube.com/watch?v=GerzZ6GDe-0 "Play Video")
 
 [How to detect baloney the Carl Sagan way | Michael Shermer | Big Think](https://www.youtube.com/watch?v=mn7jVTGjb-I "Play Video")
 
 [The scientific method is crap: Teman Cooke (About improving scientific thinking)](https://www.youtube.com/watch?v=j12BBcKSgEQ "Play Video")
-
-[Richard Feynman. Why.](https://www.youtube.com/watch?v=36GT2zI8lVA "Play Video")
 
 ### Paradoxes
 
