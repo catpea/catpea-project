@@ -15,13 +15,13 @@ artwork:
   - https://unsplash.com/photos/6EdFFNU4Qlw
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
 
 Don’t tell anyone you are doing it,
-don’t even mention the world.
+don’t even mention the word.
 
 Find a narrated version of Bill Bryson’s.
 Short History of Nearly Everything.
