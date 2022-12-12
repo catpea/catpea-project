@@ -116,7 +116,7 @@ I dreamed about just exposing JavaScript as a kind of database,
 for a long time, I really let it sink in, and internalize.
 
 I think I had the idea before I came across redis,
-but reddis has done it well.
+but redis has done it well.
 
 My idea might have been inspired by memcache,
 which I guessed to be a key=value store, no queries, just key ids.
@@ -140,10 +140,10 @@ that you don't id yourself was the same idea I had once used in a big program.
 So we became were instant friends,
 Oumuamua is my second Couch inspired program.
 
-The first one is [und][3], and works with the filesystem,
+The first one is [und][3], and works with the file-system,
 it actually has a spellchecked README, I think.
 
-On the filsystem, und allows for saving files,
+On the file-system, und allows for saving files,
 by multiple CPU cores withut any conflict or need for MUTEXES and such.
 
 Oumuamua is written for the browser,
@@ -171,9 +171,9 @@ So as long as everyone has all the revisions,
 a matter of just downloading them.
 
 Then they will resolve to the same version of data,
-eveywhere...
+everywhere...
 
-Becasue when we are not sure about something,
+Because when we are not sure about something,
 we simply sort the bunch alphabetically...
 
 And choose the thing on top,

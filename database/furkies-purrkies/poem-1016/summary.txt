@@ -89,7 +89,7 @@ as it will be the last thing to run out of electricity.
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ts,
+...s,
 in history.
 
 That is what a real database does,
@@ -111,9 +111,9 @@ So as long as everyone has all the revisions,
 a matter of just downloading them.
 
 Then they will resolve to the same version of data,
-eveywhere...
+everywhere...
 
-Becasue when we are not sure about something,
+Because when we are not sure about something,
 we simply sort the bunch alphabetically...
 
 And choose the thing on top,
