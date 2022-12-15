@@ -73,3 +73,9 @@ hr {
 .code.card code {
   color: #d33682 ! important;
 }
+
+
+.custom-tooltip {
+  --bs-tooltip-bg: var(--bs-warning);
+  --bs-tooltip-color: var(--bs-dark);
+}
