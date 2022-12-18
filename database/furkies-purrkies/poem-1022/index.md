@@ -12,6 +12,7 @@ audio: poem-1022.mp3
 image: poem-1022-illustration.jpg
 images: null
 artwork:
+  - https://unsplash.com/photos/ySCscdfF1Ns
   - https://unsplash.com/photos/tSIJrcbxC-8
   - https://unsplash.com/photos/OtXJhYjbKeg
   - https://unsplash.com/photos/x6cY0k_VlXM
