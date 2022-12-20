@@ -148,8 +148,6 @@ draft: false
 
 [Parov Stelar - Chambermaid Swing (Doc-Terry's Video Club Mix) HD](https://www.youtube.com/watch?v=QN4tPpJngyM "Play Video")
 
-[AronChupa, Little Sis Nora - Llama In My Living Room](https://www.youtube.com/watch?v=l-sZyfFX4F0 "Play Video")
-
 [Throttle - Hit The Road Jack (Official Music Video)](https://www.youtube.com/watch?v=a_cHddNaKQo "Play Video")
 
 [Hit the Road Jack (Wolfgang Lohr & Maskarade Remix)](https://www.youtube.com/watch?v=MPmD6hFaomk "Play Video")
