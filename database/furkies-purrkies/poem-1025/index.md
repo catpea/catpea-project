@@ -20,7 +20,7 @@ raw: true
 draft: false
 ---
 
-What artist can’t tell you, won’t tell you,
+What artists can’t tell you, won’t tell you,
 is that [they traced what they first drew][1].
 
 Tracing helps you study your art,
