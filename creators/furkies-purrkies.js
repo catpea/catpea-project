@@ -7,6 +7,11 @@ import frontMatter from 'front-matter';
 
 export default async function({db, dest, kind, title, samples, debug}){
 
+  const dupeTitle = db.find(o=>o.title===title);
+  if(dupeTitle){
+    console.log(`Oh noes, ${dupeTitle.id} is already using that title!`);
+    process.exit(0);
+  }
 
   const number = db.length +1;
 
