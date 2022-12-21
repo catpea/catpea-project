@@ -21,11 +21,24 @@ draft: false
 
 [History Channel- Camera Obscura (Speechless)](https://www.youtube.com/watch?v=Q0ZvWedVp20 "Play Video")
 
+
+
 [3 Hacks MOST Used by Pros to Achieve a BETTER Portrait](https://www.youtube.com/watch?v=12okNLYlxIE "Play Video")
 
 [How a Professional Artist ACTUALLY makes Paintings](https://www.youtube.com/watch?v=4ZKUKCnkZ6E "Play Video")
 
 [15 ways how to trace or transfer a photo, image, or drawing](https://www.youtube.com/watch?v=VtqWOSFJ2bE "Play Video")
+
+
+
+[Testing the Secret Optical Tool that Let you Draw like a Photo - Camera Lucida](https://www.youtube.com/watch?v=WpwpdGyx880 "Play Video")
+
+[What is a CAMERA LUCIDA and HOW do I make one?](https://www.youtube.com/watch?v=rI8GERkFN0I "Play Video")
+
+[DIY Camera Lucida Project](https://www.youtube.com/watch?v=ugv0XhUd2l4 "Play Video")
+
+[History of the Camera Lucida Drawing Tool](https://www.youtube.com/watch?v=R_p9z-tRzCs "Play Video")
+
 
 [The GRID METHOD - Is It Cheating or Tool of the Masters?](https://www.youtube.com/watch?v=bKtURFkwX6k "Play Video")
 
