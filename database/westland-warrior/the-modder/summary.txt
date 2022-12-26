@@ -1,0 +1,101 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Modder
+Sunday • December 25th 2022 • 3:35:23 pm
+
+[How to block Ads WITHOUT Adblock or software using your router!](https://www.youtube.com/watch?v=zySaQ-3tY7E "Play Video")
+
+[Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!](https://www.youtube.com/watch?v=18VM1xZQdXc "Play Video")
+
+[How To Restore Dislikes on YouTube](https://www.youtube.com/watch?v=lz8-fdVtox8 "Play Video")
+
+### PI Hole
+
+[Block EVERY Online Ad with THIS - Pi-Hole on Raspberry Pi](https://www.youtube.com/watch?v=KBXTnrD_Zs4 "Play Video")
+
+[You're running Pi-Hole wrong! Setting up your own Recursive DNS Server!](https://www.youtube.com/watch?v=FnFtWsZ8IP0 "Play Video")
+
+[BLOCK EVERYTHING w/ PiHole on Docker, OpenDNS and IFTTT](https://www.youtube.com/watch?v=dH3DdLy574M "Play Video")
+
+[Set Up Your Own VPN at Home With Raspberry Pi!](https://www.youtube.com/watch?v=rtUl7BfCNMY "Play Video")
+
+### Hosts Files And DNS
+
+[Block Ads and Unwanted Sites Without a Browser Addon](https://www.youtube.com/watch?v=KA6A3oeocHY "Play Video")
+
+### User Scripts via (Tampermonkey, Greasemonkey, ViolentMonkey)
+
+[TamperMonkey Tutorial | Add Custom JavaScript to YouTube.com](https://www.youtube.com/watch?v=f03HZgCTOfU "Play Video")
+
+[Introduction to Greasemonkey](https://www.youtube.com/watch?v=EiYi4EuqgpE "Play Video")
+
+[Automated Form Fills with Tampermonkey](https://www.youtube.com/watch?v=KnCvr2TMIv0 "Play Video")
+
+### Intro To Reversing
+
+[Introduction to Linux - Installation and the Terminal - bin 0x01](https://www.youtube.com/watch?v=navuBR4aJSs "Play Video")
+
+[Writing a simple Program in C](https://www.youtube.com/watch?v=JGoUaCmMNpE "Play Video")
+
+[Writing a simple Program in Python - bin 0x03](https://www.youtube.com/watch?v=ajy1PHWYeyQ "Play Video")
+
+[How a CPU works and Introduction to Assembler - bin 0x04](https://www.youtube.com/watch?v=6jSKldt7Eqs&t=12s "Play Video")
+
+[Reversing and Cracking first simple Program - bin 0x05](https://www.youtube.com/watch?v=VroEiMOJPm8 "Play Video")
+
+[Simple Tools and Techniques for Reversing a binary - bin 0x06](https://www.youtube.com/watch?v=3NTXFUxcKPc "Play Video")
+
+[Uncrackable Programs? Key validation with Algorithm and creating a Keygen - Part 1/2 - bin 0x07](https://www.youtube.com/watch?v=qS4VWL5R_OM "Play Video")
+
+[Uncrackable Program? Finding a Parser Differential in loading ELF ...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...=eoRVEw5gL8c "Play Video")
+
+[20W Fiber Laser IC Decapsulation](https://www.youtube.com/watch?v=AGXzE6qgipw "Play Video")
+
+[Threat Models - Hardware Wallet Research #1](https://www.youtube.com/watch?v=MoGzPQhwW9s "Play Video")
+
+[Looking at the PCB & Chips - Hardware Wallet Research #2](https://www.youtube.com/watch?v=KGmyDiLrqSo "Play Video")
+
+[27c3: Reverse Engineering the MOS 6502 CPU (en)](https://www.youtube.com/watch?v=fWqBmmPQP40 "Play Video")
+
+### Software Hacking
+
+[SQL injection: XKCD's Little Bobby Tables explained (security@cambridge)](https://www.youtube.com/watch?v=oqGtAwPCbWk "Play Video")
+
+[Reverse Engineering Obfuscated JavaScript](https://www.youtube.com/watch?v=8UqHCrGdxOM "Play Video")
+
+[Custom Chromium Build to Reverse Engineer Pop-Under Trick](https://www.youtube.com/watch?v=y6Uzinz3DRU "Play Video")
+
+[How To Obfuscate JavaScript Code - Live Blogger](https://www.youtube.com/watch?v=G3M5deXo7aQ "Play Video")
+
+[Altera Software Dongle Teardown 💙](https://www.youtube.com/watch?v=8qmU7SZu_-I "Play Video")
+
+### Curses And Challenges
+
+[The Curse of Cross-Origin Stylesheets - Web Security Research](https://www.youtube.com/watch?v=bMPAXsgWNAc "Play Video")
+
+[Solving a JavaScript crackme: JS SAFE 2.0 (web) - Google CTF 2018](https://www.youtube.com/watch?v=8yWUaqEcXr4 "Play Video")
+
+[Nintendo Hire me!!!!!!!!](https://www.youtube.com/watch?v=6sHSDoJ5a1s "Play Video")
+
+[Solving Nintendo HireMe!!! with "Basic" Math](https://www.youtube.com/watch?v=thbZwi6WwIE "Play Video")
+
+[Researching MissingNo Glitch in Pokemon](https://www.youtube.com/watch?v=p8OBktd42GI "Play Video")
+
+### Insecure Smart TV
+
+[How hackers get into your smart TV](https://www.youtube.com/watch?v=I7cPDl-1_Rg "Play Video")
+
+[FBI issues warning on smart TV security](https://www.youtube.com/watch?v=qIhKiR39IK0 "Play Video")
+
+[Hacking through Smart TV](https://www.youtube.com/watch?v=qWtVFfxRB1Y "Play Video")
+
+[Black Hat 2013 - The Outer Limits: Hacking The Samsung Smart TV](https://www.youtube.com/watch?v=mnvbN-k944k "Play Video")
+
+[Do You Need to Get a Hardware Firewall?](https://www.youtube.com/watch?v=4k2ZMUzfiBU "Play Video")
+
+[Firewall Comparison, Which Ones We Use and Why We Use Them: Untangle / pfsense / Ubiquiti](https://www.youtube.com/watch?v=bK2_ROQrMcM "Play Video")
