@@ -146,8 +146,6 @@ draft: false
 
 [How the Sony Playstation Portable PSP Security was defeated | MVG](https://www.youtube.com/watch?v=qIxKPu20R58 "Play Video")
 
-[SUPER EASY PS4 CONTROLLER LED MOD](https://www.youtube.com/watch?v=NQwZOmqSPEY "Play Video")
-
 [Building the best Dreamcast with the PixelFX DCDigital HW2! Dreamcast HDMI up to 1440p and more!](https://www.youtube.com/watch?v=n7VPxVv9m-s "Play Video")
 
 [N64Digital Installation Guide! Get the best analog and digital video from your N64!!](https://www.youtube.com/watch?v=PCSo8WoKcqQ "Play Video")
@@ -203,6 +201,8 @@ draft: false
 [Hacking through Smart TV](https://www.youtube.com/watch?v=qWtVFfxRB1Y "Play Video")
 
 [Black Hat 2013 - The Outer Limits: Hacking The Samsung Smart TV](https://www.youtube.com/watch?v=mnvbN-k944k "Play Video")
+
+[DEF CON 27 - Pedro Cabrera Camara - SDR Against Smart TVs URL and Channel Injection Attacks](https://www.youtube.com/watch?v=t8WwRiQyFMI "Play Video")
 
 [Do You Need to Get a Hardware Firewall?](https://www.youtube.com/watch?v=4k2ZMUzfiBU "Play Video")
 

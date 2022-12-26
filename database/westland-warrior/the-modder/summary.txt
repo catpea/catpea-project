@@ -52,11 +52,7 @@ Sunday • December 25th 2022 • 3:35:23 pm
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...=eoRVEw5gL8c "Play Video")
-
-[20W Fiber Laser IC Decapsulation](https://www.youtube.com/watch?v=AGXzE6qgipw "Play Video")
-
-[Threat Models - Hardware Wallet Research #1](https://www.youtube.com/watch?v=MoGzPQhwW9s "Play Video")
+...t Research #1](https://www.youtube.com/watch?v=MoGzPQhwW9s "Play Video")
 
 [Looking at the PCB & Chips - Hardware Wallet Research #2](https://www.youtube.com/watch?v=KGmyDiLrqSo "Play Video")
 
@@ -95,6 +91,8 @@ Sunday • December 25th 2022 • 3:35:23 pm
 [Hacking through Smart TV](https://www.youtube.com/watch?v=qWtVFfxRB1Y "Play Video")
 
 [Black Hat 2013 - The Outer Limits: Hacking The Samsung Smart TV](https://www.youtube.com/watch?v=mnvbN-k944k "Play Video")
+
+[DEF CON 27 - Pedro Cabrera Camara - SDR Against Smart TVs URL and Channel Injection Attacks](https://www.youtube.com/watch?v=t8WwRiQyFMI "Play Video")
 
 [Do You Need to Get a Hardware Firewall?](https://www.youtube.com/watch?v=4k2ZMUzfiBU "Play Video")
 
