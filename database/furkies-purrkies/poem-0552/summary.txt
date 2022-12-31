@@ -25,7 +25,7 @@ The stores I see online are not quite there yet,\
 people don't seem to advertise 3D models as proper products with a standalone website.
 
 To get a good idea what 3D products look like,\
-vist [Thingverse](https://www.thingiverse.com), [Cults3D](https://cults3d.com/), \[Youmagine]\[], and [Pinshape](https://pinshape.com).
+vist [Thingverse](https://www.thingiverse.com), [Cults3D](https://cults3d.com/), Youmagine, and [Pinshape](https://pinshape.com).
 
 ---
 
@@ -63,7 +63,7 @@ You can't give something legs unless you want to print supports,\
 for example when building a simple wallet, one side should be flat.
 
 You can't put a latch on the bottom, as the printers don't like complex shapes on the bottom.\
-though when slicing a model, one...
+though when slicing a model, one has a...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 

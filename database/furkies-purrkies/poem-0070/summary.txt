@@ -48,7 +48,7 @@ I was staying up in the trees, on top of ancient dunes,
 
 the only light was that of stars, and the moon's.
 
-I called them \[Nordhouse Skylands]\[1],
+I called them [Nordhouse Skylands][1],
 
 but, if you go out there, be ready for his smart little hands,
 
@@ -66,13 +66,13 @@ And just keep your adventure pack by the door,
 
 if life ever gets you down, smile! and head for that Lake Michigan shore.
 
-You can park at the \[Nurnberg Trailhead]\[2],
+You can park at the [Nurnberg Trailhead][2],
 
 and don't forget to bring a little bit of stinky cheese,
 
 and piece of stale bread.
 
-\*\*\*
+***
 
 [Raccoon photo](https://commons.wikimedia.org/wiki/File:Raccoon_\(Procyon_lotor\)_2.jpg):
 
@@ -80,6 +80,6 @@ and piece of stale bread.
 
 [license](https://creativecommons.org/licenses/by-sa/2.5/deed.en).
 
-\[1]: <https://goo.gl/maps/wsX31CTTXR4bzhza8>
+[1]: <https://goo.gl/maps/wsX31CTTXR4bzhza8>
 
-\[2]: <https://goo.gl/maps/PhyA8hEuiAZnBmt1A>
+[2]: <https://goo.gl/maps/PhyA8hEuiAZnBmt1A>

@@ -63,7 +63,7 @@ guts of which can be insecure, because it just c...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ideo clip-art such as slow motion or time lapse and maybe even tilt shift videos.
+...ven tilt shift videos.
 
 Video products are similar to graphics, here you will film falling snow, Urban Sunsets,\
 busy intersections, and sell that as clip-art, that others may include in their title screes or in the background of their credits, or even ads.
@@ -80,7 +80,7 @@ is yet another idea worth exploring, here you would be building a video fitness 
 ---
 
 On the other side of video is of course audio,\
-and here you have, \[lmms], another program you can study - here - to create custom music for your inventions.
+and here you have, [lmms](https://www.youtube.com/results?search_query=LMMS+Tutorial), another program you can study - here - to create custom music for your inventions.
 
 Simple drum songs go a long way to aid in workouts,\
 and as with everything else you can get local musicians to build up a fetching library of song, that will make your company shine.

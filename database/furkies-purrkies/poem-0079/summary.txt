@@ -88,7 +88,7 @@ because a Philosopher cannot be hu...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ing it,
+...wielding it,
 
 it can extend to guiding the word to the correct its paths.
 
@@ -126,7 +126,7 @@ And we get to feel what they felt, when times got tough,
 
 and the power of Compassion makes us a Family.
 
-Who was it that gave \[George Martorano]\[1] that little pencil,
+Who was it that gave [George Martorano][1] that little pencil,
 
 power of compassion is incredibly complex.
 
@@ -166,4 +166,4 @@ Like Wisdom,
 
 we are Unstoppable.
 
-\[1]: <https://www.youtube.com/watch?v=lnuoHywbaR8>
+[1]: https://www.youtube.com/watch?v=lnuoHywbaR8

@@ -56,7 +56,7 @@ export default async function(){
       url: 'https://archive.org/details/audiobook_202211',
       navigation: true,
       external: true,
-      new: true,
+      new: false,
     },
 
     {

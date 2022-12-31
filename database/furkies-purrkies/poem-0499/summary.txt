@@ -51,9 +51,7 @@ My recent study of music theory, was not just about learning,\
 but checking how useful music theory is in composition.
 
 Here it took multiple days,\
-begun with [The Learning Music Tutorial](https://learningmusic.ableton.com/) and Closed With \[Music Theory Tutorial Videos].
-
-I found that [LMMS](h...
+begun with [The Learning Music Tutorial](https://learningmusic.ableton.com/) and Closed With [Music Theory Tutorial Videos](https://www.youtube.com/...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
