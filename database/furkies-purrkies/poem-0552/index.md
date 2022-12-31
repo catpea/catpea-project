@@ -39,7 +39,7 @@ The stores I see online are not quite there yet,\
 people don't seem to advertise 3D models as proper products with a standalone website.
 
 To get a good idea what 3D products look like,\
-vist [Thingverse](https://www.thingiverse.com), [Cults3D](https://cults3d.com/), \[Youmagine]\[], and [Pinshape](https://pinshape.com).
+vist [Thingverse](https://www.thingiverse.com), [Cults3D](https://cults3d.com/), Youmagine, and [Pinshape](https://pinshape.com).
 
 ---
 

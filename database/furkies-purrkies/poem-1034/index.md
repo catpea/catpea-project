@@ -15,12 +15,14 @@ artwork:
   - https://unsplash.com/photos/MpHLtE-BEQI
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
 
-Preface: a world renowned publication has published an article with a title so evil, that as they exit journalism, the rest of us enter a new era. Where we must remind each other, that we are all amazing, and fully capable of genius. The article hit on four disgusting myths, in just the headline alone. Effective Education, IQ, Genetics, Culture and Poverty (they called it socioeconomics).
+Preface,
+
+A world renowned publication has published an article with a title so evil, that as they exit science journalism, the rest of us enter a new era. Where we must remind each other, that we are all amazing, and fully capable of genius. The article hit on four disgusting myths, in just the headline alone. Effective Education, IQ, Genetics, Culture and Poverty (they called it socioeconomics).
 
 I must be brief,
 because this is a world emergency.

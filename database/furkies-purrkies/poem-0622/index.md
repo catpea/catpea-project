@@ -42,7 +42,7 @@ Second step is creating something that fixes that problem,\
 and note that big companies are blocked from fixing this problem, as they just want to [sell, sell, sell](https://www.youtube.com/watch?v=MoKLovtnbGY).
 
 So as long as it is not illegal for them,\
-\[companies don't care about Human Rights, you, your privacy, or anything else, they only care about profit, profit, profit]\[2].
+companies don't care about Human Rights, you, your privacy, or anything else, they only care about profit, profit, profit.
 
 ---
 

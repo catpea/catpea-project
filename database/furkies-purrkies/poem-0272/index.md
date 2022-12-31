@@ -144,7 +144,7 @@ and that he is helping the world grow, is an perfect example of a Great Being.
 
 The title of this text,
 
-comes from a question asked by a young \[presumably religions] lady: "[What if you're wrong?](https://www.youtube.com/watch?v=6mmskXXetcg)"
+comes from a question asked by a young (presumably religious) lady: "[What if you're wrong?](https://www.youtube.com/watch?v=6mmskXXetcg)"
 
 I urge you to look it up on the internet to hear his response,
 

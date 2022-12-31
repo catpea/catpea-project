@@ -198,7 +198,7 @@ And we get to feel what they felt, when times got tough,
 
 and the power of Compassion makes us a Family.
 
-Who was it that gave \[George Martorano]\[1] that little pencil,
+Who was it that gave [George Martorano][1] that little pencil,
 
 power of compassion is incredibly complex.
 
@@ -238,4 +238,4 @@ Like Wisdom,
 
 we are Unstoppable.
 
-\[1]: <https://www.youtube.com/watch?v=lnuoHywbaR8>
+[1]: https://www.youtube.com/watch?v=lnuoHywbaR8

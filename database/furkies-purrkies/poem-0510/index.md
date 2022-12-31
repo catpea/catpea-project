@@ -54,7 +54,7 @@ because it it is usually something that Operating System creators build on, and 
 The GNU Operating System is often used as a base Operating System,\
 that has more stuff piled on top of it, and only then does it get a name.
 
-I am currently writing this on \[Fedora]\[],\
+I am currently writing this on Fedora,\
 according to Wikipedia the original programmer that created Linux Kernel [Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE) also uses Fedora.
 
 And there are many others,\

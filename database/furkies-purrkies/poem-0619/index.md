@@ -103,7 +103,7 @@ and clean dust off of shelves.
 The CEO approached me,\
 as I was cutting paper to size.
 
-The question of "What do you want to do \[in life]?",\
+The question of "What do you want to do (in life)?",\
 seemed genuine.
 
 But during an unpaid internship,\

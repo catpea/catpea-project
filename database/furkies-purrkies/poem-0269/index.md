@@ -20,7 +20,7 @@ draft: false
 
 Wisdom has many names and can be viewed in many different ways,
 
-most popular perspective is that \[non-academic] Philosophy leads to wisdom.
+most popular perspective is that (non-academic) Philosophy leads to wisdom.
 
 One particularly beautiful view,
 

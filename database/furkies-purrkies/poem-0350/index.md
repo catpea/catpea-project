@@ -28,7 +28,7 @@ I must first give you an example of a Real School, and an Example of a Fake One.
 
 ---
 
-[Y Combinator is a \[kind of a\] Real School](https://www.youtube.com/watch?v=oXwFeOv5z0I) even though it has been built as a Start-up Accelerator,
+[Y Combinator is a "kind of a" Real School](https://www.youtube.com/watch?v=oXwFeOv5z0I) even though it has been built as a Start-up Accelerator,
 
 I write this in the year 2021, and at the moment it is as perfect of an example as one could possibly ask for, though it will evolve towards it original goal and not a replacement school.
 

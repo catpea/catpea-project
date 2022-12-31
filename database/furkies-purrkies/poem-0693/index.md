@@ -213,7 +213,7 @@ is yet another idea worth exploring, here you would be building a video fitness 
 ---
 
 On the other side of video is of course audio,\
-and here you have, \[lmms], another program you can study - here - to create custom music for your inventions.
+and here you have, [lmms](https://www.youtube.com/results?search_query=LMMS+Tutorial), another program you can study - here - to create custom music for your inventions.
 
 Simple drum songs go a long way to aid in workouts,\
 and as with everything else you can get local musicians to build up a fetching library of song, that will make your company shine.

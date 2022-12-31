@@ -95,7 +95,7 @@ and it is not about just barely making it.
 It is about,\
 going all the way out.
 
-\--
+---
 
 Computers are not getting faster,\
 not at all.

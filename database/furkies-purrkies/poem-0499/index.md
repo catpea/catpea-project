@@ -67,7 +67,7 @@ My recent study of music theory, was not just about learning,\
 but checking how useful music theory is in composition.
 
 Here it took multiple days,\
-begun with [The Learning Music Tutorial](https://learningmusic.ableton.com/) and Closed With \[Music Theory Tutorial Videos].
+begun with [The Learning Music Tutorial](https://learningmusic.ableton.com/) and Closed With [Music Theory Tutorial Videos](https://www.youtube.com/results?search_query=Music+Theory+Tutorial).
 
 I found that [LMMS](https://www.youtube.com/results?search_query=LMMS+Tutorial) makes it so that there is no need to practice the Piano,\
 and that the next step should be replacing LMMS with an [Object Oriented Programming](https://www.youtube.com/results?search_query=JavaScript+OOP+Tutorial) layer over [Tone.js](https://tonejs.github.io/).

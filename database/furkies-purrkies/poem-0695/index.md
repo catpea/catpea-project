@@ -19,7 +19,7 @@ features:
 draft: false
 ---
 
-I am deeply embarrassed to say that I finished ホイスト (Hoist\[o]),\
+I am deeply embarrassed to say that I finished ホイスト (HoistU!),\
 this is my first Pop Surrealist work of art.
 
 I am so embarrassed about the underwear situation,\

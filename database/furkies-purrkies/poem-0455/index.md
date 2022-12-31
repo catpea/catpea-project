@@ -140,7 +140,7 @@ in a precinct where hurting the people you are supposed to protect is tolerated,
 
 And hurting may include [striking their head which is likely to cause permanent damage](https://www.youtube.com/watch?v=esPRsT-lmw8),
 
-[and you will be encouraged to stretch testimony and force people to perjure themselves](https://www.youtube.com/watch?v=d-7o9xYp7eE), and p\[probably as a matter of training and routine.
+[and you will be encouraged to stretch testimony and force people to perjure themselves](https://www.youtube.com/watch?v=d-7o9xYp7eE), and probably as a matter of training and routine.
 
 "Do you know what you did wrong?"
 
