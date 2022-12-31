@@ -15,9 +15,7 @@
         <h5 class="mb-3 mb-lg-5 mt-5"> Navigation <small class="text-muted">Site Navigation</small> </h5>
         <ul class="list-unstyled ms-3">
         <? for(const link of _.chain(network).filter('navigation')){ ?>
-          <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?>
-          <!-- for alerts only --><? if(link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-dark fw-bold text-info px-1 border border-dark shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
-          </a></li>
+          <li class="mb-2"><a class="btn-link text-muted text-decoration-none" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes(link.iconClasses)?>"></i> <?}?><?= link.title ?></a></li>
         <? } ?>
         </ul>
       </div>
@@ -63,7 +61,6 @@
           <span class="d-sm-none">responsive-layout:xs</span> <span class="d-none d-sm-inline d-md-none">responsive-layout:sm</span> <span class="d-none d-md-inline d-lg-none">responsive-layout:md</span> <span class="d-none d-lg-inline d-xl-none">responsive-layout:lg</span> <span class="d-none d-xl-inline d-xxl-none">responsive-layout:xl</span> <span class="d-none d-xxl-inline">responsive-layout:xxl</span>
           </li>
           <li class="list-group-item text-bg-dark">posts-on-page (pp): <?=posts.length?></li>
-          <li class="list-group-item text-bg-dark">alerts: <?=alerts.length?></li>
           <li class="list-group-item text-bg-dark">filename: <?=locals.filename?locals.filename:'nope'?></li>
         </ul>
         <!-- <div class="card-body">
