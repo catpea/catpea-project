@@ -12,7 +12,7 @@ audio: poem-1034.mp3
 image: poem-1034-illustration.jpg
 images: null
 artwork:
-  - https://unsplash.com/photos/MpHLtE-BEQI
+  - https://unsplash.com/photos/aq3h5cb0GPM
 resources: null
 features:
   video: true
