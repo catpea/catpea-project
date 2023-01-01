@@ -12,7 +12,7 @@ audio: poetry-0117.mp3
 image: poetry-0117-illustration.jpg
 images: null
 artwork:
-  - null
+  - https://unsplash.com/photos/uWdzlMWijiI
 resources: []
 features: {}
 draft: false
