@@ -68,6 +68,8 @@ draft: false
 
 "The limits of my language are the limits of my world" - said he.
 
+[Wittgenstein Ludwig at a Cambridge class](https://www.youtube.com/watch?v=xfdutZhUQIE "Play Video")
+
 Read that as "All the things I talk about, are within the limits of the slice of the world that I was born and grew into."
 
 I think, he is talking about formation of small cults, or endless groups of people sharing incompatible concepts, to mutually reinforce bonds.
@@ -76,11 +78,9 @@ But there is a super-culture, the unity that we all agree on. It is a culture of
 
 Thank you Mr. Wittgenstein, we'll eventually create what you were once looking for.
 
-[Wittgenstein Ludwig, Cambridge class (Very Abstract)](https://www.youtube.com/watch?v=lVQNSsuvEg8 "Play Video")
+[Wittgenstein Ludwig, Cambridge class](https://www.youtube.com/watch?v=lVQNSsuvEg8 "Play Video")
 
-[Wittgenstein: This is a very pleasant pineapple ❤️ (Very Abstract)](https://www.youtube.com/watch?v=628eVJgHD6I "Play Video")
-
-[Wittgenstein Ludwig at a Cambridge class (And... Culture)](https://www.youtube.com/watch?v=xfdutZhUQIE "Play Video")
+[Wittgenstein: This is a very pleasant pineapple](https://www.youtube.com/watch?v=628eVJgHD6I "Play Video")
 
 [Ludwig Wittgenstein - Death Scene (Derek Jarman's film)](https://www.youtube.com/watch?v=7TM0zA2_5UE "Play Video")
 
