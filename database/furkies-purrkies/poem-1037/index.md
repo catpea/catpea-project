@@ -12,7 +12,7 @@ audio: poem-1037.mp3
 image: poem-1037-illustration.jpg
 images: null
 artwork:
-  - https://unsplash.com/photos/nTfGYGPURFA
+  - https://en.wikipedia.org/wiki/DALL-E
 resources: null
 features:
   video: true
