@@ -24,7 +24,7 @@ draft: false
 This here is a real Doctor’s advice,
 for humans, cats, squirrels and cute mice.
 
-Cute furry creature with all their their fluff,
+Cute furry creatures with all their their fluff,
 can very easily get really buff.
 
 So as long as you like peanuts and protein,
