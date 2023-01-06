@@ -1,6 +1,9 @@
 export default async function(){
 
   const response = [
+
+    {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
+
     {type: 'warning', urgent:false, text:`100 Hour All-In-One Audiobook Uploaded To The Internet Archive. All poems joined together in a latest-first sequence, as a single 4.3GB mp3 file.`, link:{title:`Download the 4.3GB mp3 at Archive.org`, url:'https://archive.org/details/audiobook_202211'}, note:'Every once in a while I smush all the files and upload them to the Internet Archive as a kind of an Audio Book.'},
     {type: 'info', urgent:false,  text:`I added "Lectures" to the website menu, it contains the Westalnd Warrior video lectures. You can sort it by latest (default) or by the intended order.`, link:{ title: `Lectures`, url:'/lectures.html'}, note:``},
 
