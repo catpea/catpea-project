@@ -15,12 +15,10 @@ artwork:
   - https://huggingface.co/spaces/anzorq/finetuned_diffusion
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
-
-Photobashing Generative AI Into Masterpieces In Krita
 
 Art Generators will only get better,
 but real art requires a heart.
