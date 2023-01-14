@@ -1,0 +1,101 @@
+---
+id: poem-1049
+guid: ac86c0bf-2e7d-4118-9330-3c4fc9064305
+title: Getting Generative Artificially Created Art Out Into The Real World
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-01-14T03:29:50.005Z'
+lastmod: null
+weight: 104900
+audio: poem-1049.mp3
+image: poem-1049-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+---
+
+I bought a bunch of 4x4 frames, thinking it is the perfect size,
+for 512px x 512px images that the AI usually generates.
+
+I grabbed a random sample of about 16 Generative AI Creations,
+I have collected about 370 samples for lowbrow art research.
+
+And went to the local Pharmacy where they have a photo section,
+I left the pharmacy with an envelope 16 glossy 4x4 photos.
+
+---
+
+First of all, they can look blurry at 256x256,
+they look OK at 512x512, and 1024x1024 would be perfect, if it worked.
+
+At the 1024 pixel setting, I end up generating,
+beautiful chimeras, fantasy horror type thing, which scares me.
+
+At 4x4 inches, 512x512 pixels is OK,
+but I think all my samples needed sharpening, retouching, and even spicier colors.
+
+---
+
+Second of all, buy your picture frames at a Dollar Store,
+do not attempt to fix a frame, trim the photo to fit it.
+
+White frames, look plain, if that is all you have,
+pick up some colorful paper too.
+
+Pay attention to the frame quality,
+make sure that it has a leg to stand on, three of my frames are wall only.
+
+---
+
+And don’t just take your memory stick to the photo station,
+the photo station is not a good place to pick your favorite art.
+
+Select all you need at home,
+and then just hit the print all button when you are at the store.
+
+I paid 39 cents per photo,
+and that is probably very high, I remember once paying 12 cents.
+
+---
+
+Now, the could be better, part,
+4x4 is cute as heck, but 8x11 is better…
+
+But Mona Lisa’s 30.31 x 20.87 inches,
+should be the true minimum.
+
+All things considered that means, learning Krita,
+to repaint, mix and match, photobash, and fix anything AI probably messed up.
+
+For knick-knacks 4x4 is great, especially if the picture is something,
+never seen before.
+
+There you go, Generative AI, is not to intimidate an artist,
+but make one.
+
+The one thing that is consistent in all my generations,
+is fascinating, detail, color, and subject.
+
+The major part of my prompt was,
+“Oh my god it is so fluffy I could die”, and internet meme about fluffy things.
+
+Followed by, sharp details,
+and vibrant colors.
+
+In closing, AI is really helpful, where it comes to challenging ourselves,
+it encourages us to new colors, detailed outrageous shapes…
+
+And fascinating detail, where it reminds us,
+that not everything must make perfect sense, sometimes it is all about color.
+
+AI can make a cute kick-knack for your desk,
+that will help you to try out new art ideas.
+
+It can get you stated with reference images,
+and it can make for some cute gifts and interesting conversations.
