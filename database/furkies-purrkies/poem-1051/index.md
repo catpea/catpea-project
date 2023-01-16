@@ -20,7 +20,7 @@ raw: true
 draft: false
 ---
 
-There is still time ,and future is still yours,
+There is still time, and future is still yours,
 but only you can open those doors.
 
 ---
