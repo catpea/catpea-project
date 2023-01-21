@@ -12,7 +12,8 @@ audio: poem-1055.mp3
 image: poem-1055-illustration.jpg
 images: null
 artwork:
-  - https://catpea.com
+- https://en.wikipedia.org/wiki/Stable_Diffusion
+- https://catpea.com
 resources: null
 features:
   video: true
