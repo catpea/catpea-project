@@ -35,14 +35,14 @@ Intricate AI Art can be very beautiful. And from time to time, a machine will cr
 We have entered a New Renascence, learn how to use the free and Open Source Stable Diffusion, and begin creating your art.
 
 
----
 
-<div class="alert alert-warning bg-outline-warning text-warning" role="alert">
-  <h4 class="alert-heading">Excessive Advertising Warning</h4>
-  Some videos may contain excessive and annoying advertising, please consider using <a href="https://www.youtube.com/results?search_query=SpopnsorBlock" class="alert-link">SponsorBlock</a> and or <a href="https://www.youtube.com/results?search_query=ublock+origin" class="alert-link">uBlock Origin</a>.
+<div role="alert" class="alert m-5 border-1 border-warning bg-outline-warning text-warning">
+  Sorry, some videos may contain excessive and annoying advertising, please consider using
+  <a href="https://www.youtube.com/results?search_query=SpopnsorBlock" class="alert-link">SponsorBlock</a>
+  and/or
+  <a href="https://www.youtube.com/results?search_query=uBlock+Origin" class="alert-link">uBlock Origin</a>.
 </div>
 
----
 
 [SELL YOUR ART ONLINE AS AN ARTIST IN 2023 (Non-AI)](https://www.youtube.com/watch?v=UYvcKVrE5jw "Play Video")
 
