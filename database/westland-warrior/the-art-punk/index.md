@@ -7,7 +7,7 @@ tags:
   - westland-warrior
 date: '2022-02-06T16:30:56.588Z'
 lastmod: null
-weight: 14600
+weight: 14450
 audio: null
 image: warrior-the-art-punk-cover.jpg
 images: null
