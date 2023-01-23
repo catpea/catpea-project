@@ -54,7 +54,7 @@ We have entered a New Renascence, learn how to use the free and Open Source Stab
 
 [I Tried Selling AI Art For 30 Days ($80)](https://www.youtube.com/watch?v=2psSl6oM0vw "Play Video")
 
-[Get $300 PER DAY For FREE From AI Art (New Method)](https://www.youtube.com/watch?v=TYCNoN9OQww "Play Video")
+[Get $300 PER DAY For FREE From AI Art](https://www.youtube.com/watch?v=TYCNoN9OQww "Play Video")
 
 [Best AI Art Generator for Print on Demand](https://www.youtube.com/watch?v=4_A7FmtWInc "Play Video")
 
