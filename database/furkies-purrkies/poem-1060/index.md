@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
@@ -142,7 +142,7 @@ don’t make a fool of yourself.
 Point is, Indoctrination is everywhere,
 it is the common cold, the rhinovirus, for our mind.
 
-[Cornell West in Astra Taylor’s Examined Mind captures it most poetically][1],
+[Cornell West in Astra Taylor’s Examined Life captures it most poetically][1],
 they virus is in out tacit assumptions, our un-articulated presuppositions.
 
 One you look for it,
