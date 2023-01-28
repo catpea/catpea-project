@@ -13,14 +13,13 @@ image: poem-1063-illustration.jpg
 images: null
 artwork:
   - https://catpea.com
+  - https://en.wikipedia.org/wiki/Midjourney
 resources: null
 features:
   video: true
 raw: true
 draft: false
 ---
-
-Art Is Calling; Or, Get A Digital Pen And Tablet Right Now
 
 There is a sense of urgency in the air,
 because right now Art Generators are still primitive.
