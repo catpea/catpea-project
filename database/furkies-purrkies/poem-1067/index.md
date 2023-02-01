@@ -29,7 +29,7 @@ so that the school can stay in business.
 All of this is very unfair,
 because learning is what you already do.
 
-Infective schools,
+Ineffective schools,
 are just a way to make money.
 
 But you still need to get to the real books,
