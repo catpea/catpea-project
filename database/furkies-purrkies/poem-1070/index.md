@@ -20,8 +20,6 @@ raw: true
 draft: false
 ---
 
-A Parle With Nature
-
 A huge thunderstorm was approaching Nordhouse,
 where I was camping in a bald spot down by an ancient dune.
 
