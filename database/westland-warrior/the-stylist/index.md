@@ -42,6 +42,14 @@ draft: false
 
 [How An Artist Creates 3D-Looking Balloons With Graffiti](https://www.youtube.com/watch?v=jDdavtRMav4 "Play Video")
 
+### Mural Art
+
+[PAINTING A MURAL OUTSIDE](https://www.youtube.com/watch?v=JZ84oE26j9c "Play Video")
+
+[5 Things to Know Before Getting into Painting Murals & Street Art](https://www.youtube.com/watch?v=tkDRustkGig "Play Video")
+
+[How $150,000 Hyperrealistic Murals Come To Life](https://www.youtube.com/watch?v=XQReUpt6-bk "Play Video")
+
 ### Neon Splatter
 
 [Blue Man Group Paint Drum in NEON LIGHTS](https://www.youtube.com/watch?v=ZSeTJu3vEIo "Play Video")
@@ -101,6 +109,37 @@ draft: false
 [【八代亜紀が突然来店】日光一筆龍 高瀬 昼めし旅 H29.6放送 Nikko One-stroke Dragon TV](https://www.youtube.com/watch?v=_TzyhVesUtw "Play Video")
 
 [Wood Carving Dragon| To use technic of Japanese traditional wood carving](https://www.youtube.com/watch?v=MXFthspqglM "Play Video")
+
+### Abstract Art
+
+[What Is Abstract Art?](https://www.youtube.com/watch?v=wSEtfqGWlN8 "Play Video")
+
+[Basic Designs in Abstract Art](https://www.youtube.com/watch?v=bJ9T0RF7EI4 "Play Video")
+
+[Becoming an Artist: Yayoi Kusama I Tate Kids](https://www.youtube.com/watch?v=IG_8vNTAXbY "Play Video")
+
+[The Turbulent Life Of Pablo Picasso](https://www.youtube.com/watch?v=BtLOzMXb42E "Play Video")
+
+[How to paint like Picasso. (Speed paint + Tutorial)](https://www.youtube.com/watch?v=xly15nMW48Q "Play Video")
+
+### Cubism
+
+[What is Cubism? Art Movements & Styles](https://www.youtube.com/watch?v=V6ZT1705Slw "Play Video")
+
+[How to Draw Cubism Art](https://www.youtube.com/watch?v=V15rXg1nJ6w "Play Video")
+
+[Abstract Painting Techniques with Acrylic | How to Paint with Masking Tape | Beginners Tutorial](https://www.youtube.com/watch?v=RvyI-KG3kjQ "Play Video")
+
+
+### Modernism
+
+[Introduction to Modernism](https://www.youtube.com/watch?v=SozfIGPf58o "Play Video")
+
+[Modernism: WTF? An introduction to Modernism in art and literature](https://www.youtube.com/watch?v=c_pywMFS8G0 "Play Video")
+
+[Postmodernism: WTF? An introduction to Postmodernist Theory | Tom Nicholas](https://www.youtube.com/watch?v=o6s_sW6FZ2g "Play Video")
+
+[Why Modern Art Is So Expensive | So Expensive](https://www.youtube.com/watch?v=YooFwA7xj18 "Play Video")
 
 ### Wood Carving
 
