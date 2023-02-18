@@ -1,0 +1,130 @@
+---
+id: poem-1084
+guid: e5b031ce-9a8b-4320-83c9-d23f78166272
+title: Kingdoms Of Lowbrow
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-02-17T23:58:25.442Z'
+lastmod: null
+weight: 108400
+audio: poem-1084.mp3
+image: poem-1084-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+---
+
+If you have never experienced lowbrow worlds,
+Then give [Tchaikovsky's Capriccio Italien][1] a listen,
+
+I think of it,
+as the Hymn of The Kingdoms of Lowbrow.
+
+It is beauty, and motion,
+and unimaginable fairy tales.
+
+And none of the creatures you hear in the song,
+are __anywhere__ near human, they are new.
+
+---
+
+That is not a rider you may hear,
+that is a Bunny Rabbit dressed up as Napoleon.
+
+Even the sad clowns,
+are happy philosophers.
+
+The cannons fire candy,
+the dragons breathe glitter.
+
+The cute Chibi dancing couple,
+yeah, they can fly.
+
+The sunset ten minutes into he song,
+has a gentle smile, as it crown the castles.
+
+---
+
+Lowbrow,
+is the new Renaissance!
+
+---
+
+And for a fairy tale to survive,
+It needs mood, human expression, beauty.
+
+It must move the viewer, make them jump, or laugh,
+and it must be a discovery, that they can’t contain.
+
+---
+
+The white bunny at 12 minutes in,
+never stops, it is the time, the prime mover, it brings the seasons.
+
+And it is not just a jumping bunny,
+it is passionate about being swift and dynamic.
+
+The many castles and the final kingdom at the end of the song,
+show an entire new world of new creatures.
+
+And my goodness,
+none of them, none, have ever been imagined before.
+
+The Fairy tale Kingdoms of Lowbrow,
+and Artificial Intelligence, create a new universe…
+
+More captivating,
+than anything else, hence the Renaissance.
+
+----
+
+Lowbrow is not just characters,
+it is a long running living thriving candy land.
+
+And the creatures with animal ears, or tails,
+never have to explain what exactly they are.
+
+Strange Beauty in lowbrow is critical,
+but the central point is the details.
+
+The expressions, the store displays,
+the necklaces, the castles, the jesters, the royalty.
+
+A hand made lowbrow-painting,
+wold take several hundred hours.
+
+And you need a series of three to five,
+at least.
+
+---
+
+The wold of lowbrow is new,
+it does not compare to anything.
+
+It makes art critics feel dread,
+because a full lowbrow painting...
+
+The hundreds and hundreds of feet of intricate captivating detail,
+created with the help of AI is beyond today’s art.
+
+Hence, worlds of lowbrow,
+are the rebirth of art.
+
+---
+
+Here, you always walk away from the paintings
+knowing that you didn’t see enough.
+
+And can’t ever remember all the little beauty,
+anyways.
+
+These are the works of art that create a destination,
+that one always returns to, for more.
+
+[1]: https://www.youtube.com/watch?v=dyy0p90GO2w&t=3s
