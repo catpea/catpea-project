@@ -20,8 +20,6 @@ raw: true
 draft: false
 ---
 
-A Minimalist Strategy For Artificial Intelligence Based Art Product Creation
-
 The point is to create an online store,
 with one of the large marketplaces that take 50% of your sale.
 
