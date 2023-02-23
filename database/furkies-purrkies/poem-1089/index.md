@@ -20,7 +20,7 @@ raw: true
 draft: false
 ---
 
-This evening I though back to my earliest days and came up with a serious of simple questions that I remember asking when little. I tried to get the language model AI to give me as much detail as it could, this is this result.
+This evening I though back to my earliest days and came up with a series of simple questions that I remember asking when little. I tried to get the language model AI to give me as much detail as it could, and I asked it to behave as human as it can, as these things go with language models, asking questions influences the answers. The following are the results of this experiment.
 
 ### What Is Money?
 
