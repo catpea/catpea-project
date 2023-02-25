@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
@@ -104,7 +104,7 @@ the JavaScript funcion node in Node-RED, is probably the prettiest invitation to
 A lot of programmers, prefer to imagine lines between their program parts,
 who needs graphics when you have imagination.
 
-A very pretty example of that is gmic,
+A very pretty example of that is [gmic](https://gmic.eu/),
 it is basically the filter part of a proper graphics editing program, it comes with ton of good filters.
 
 While it has a GUI, there are plugins for it for Krita and GIMP,
