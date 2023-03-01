@@ -1,6 +1,8 @@
 /conf.js
 *.lftp
 
+/audiobook.mp3
+
 dist
 .cache
 node_modules
