@@ -1,7 +1,7 @@
 ---
 id: poem-1095
 guid: ac43d651-bf83-49e5-acce-d949a6ed1568
-title: Civilization Woes; An Adventurers Guide
+title: Civilization Woes; An Adventurer's Guide
 description: null
 tags:
   - furkies-purrkies
@@ -35,7 +35,7 @@ but sometimes civilization comes your way too.
 The modern hunter, will pickle the woods with satellite linked motion capture cameras, that automatically upload to online hunter forums.
 
 Every once in a while, those really do create a superstar streamer,
-or worse, to everyone scarring disgust, and new found trail-mix snake repulsion.
+or worse, to everyone scarring disgust.
 
 ---
 
