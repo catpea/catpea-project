@@ -1,1 +1,2 @@
-echo FINISH ME: ffmpeg -f concat -i /home/meow/Universe/Development/catpea-project/dist/server/www/catpea-com/audiolist -c copy ../catpea-com/../../../../../audiobook.mp3
+#!/bin/bash
+ffmpeg -f concat -i dist/server/www/catpea-com/audiolist -c copy ~/audiobook.mp3
