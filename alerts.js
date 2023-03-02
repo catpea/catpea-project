@@ -1,6 +1,6 @@
 export default async function(){
   const response = [
-    {type: 'warning', urgent:true, text:`Updated Audiobook (116 Hours) Uploaded To Internet Archive.`, link:{title:`Download the 5.2GB mp3 at Archive.org`, url:'https://archive.org/details/audiobook_202303'}},
+    {type: 'info', urgent:true, text:`Updated Audiobook (116 Hours) Uploaded To Internet Archive.`, link:{title:`Download the 5.2GB mp3 at Archive.org`, url:'https://archive.org/details/audiobook_202303'}},
     // {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
     // {type: 'info', urgent:false,  text:`I added "Lectures" to the website menu, it contains the Westalnd Warrior video lectures. You can sort it by latest (default) or by the intended order.`, link:{ title: `Lectures`, url:'/lectures.html'}, note:``},
     // {type: 'info', urgent:false,  text:`Bug, this one was in new video chapter injection function, where I was calculating where to put new posts. I use a concept of weight where light posts are on top and heavy on the bottom, I forgot to sort the posts before calculating order, so 5 of them or so are out of whack now.`, note:`I will have to reorder some posts. They all have permalink addresses now, so urls won't change, only change will be in where the next/previous buttons point to.`},
