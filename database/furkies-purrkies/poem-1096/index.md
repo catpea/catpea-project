@@ -12,7 +12,7 @@ audio: poem-1096.mp3
 image: poem-1096-illustration.jpg
 images: null
 artwork:
-  - https://unsplash.com/photos/QyjwUq5Amp8
+  - https://unsplash.com/photos/f8nHGR0kOqA
 resources: null
 features:
   video: true

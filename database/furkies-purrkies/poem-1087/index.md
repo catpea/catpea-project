@@ -12,7 +12,7 @@ audio: poem-1087.mp3
 image: poem-1087-illustration.jpg
 images: null
 artwork:
-  - https://unsplash.com/photos/SPIE2JfFNl0
+  - https://unsplash.com/photos/LEgwEaBVGMo
 resources: null
 features:
   video: true
