@@ -58,7 +58,7 @@ draft: false
 
 [LEIGH HUTCHINS - SWAMP STOMP](https://www.youtube.com/watch?v=qf5ZevfJTzU "Play Video")
 
-[Fliegt die Kiste? | Zwei Himmelhunde auf dem Weg zur Hölle](https://www.youtube.com/watch?v=aIp4lt5pIuQ "Play Video")
+[Lo Chiamavano Trinità](https://www.youtube.com/watch?v=fSo1tRjfb9M "Play Video")
 
 ### Bang Bang
 
