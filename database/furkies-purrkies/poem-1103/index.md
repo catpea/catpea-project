@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/8SPzV0PKClg
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 ---
@@ -260,9 +260,9 @@ who wasn't able to join them in the first session.
 ---
 
 Lastly, I have a book recommendation by the funny Mr. Bill Bryson,
-there are two reasons why this book is special.
+[A Short History Of Nearly Everything][5]
 
-The opening, describes fake education,
+There are two reasons why this book is special, the opening, describes effects of ineffective education,
 and the book it self, shows yo how a normal person learns.
 
 My favorite part is the “Not Another Phylum” bit,
@@ -302,3 +302,4 @@ you must become a teacher.
 [2]: https://www.youtube.com/watch?v=UgkAHehlzzo
 [3]: https://www.youtube.com/watch?v=sOMjEJ3JO5Q
 [4]: https://www.youtube.com/watch?v=k6_QUhUPrF4
+[5]: https://www.youtube.com/results?search_query=a+short+history+of+nearly+everything
