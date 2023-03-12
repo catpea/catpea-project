@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 It will bring light wherever there is darkness,

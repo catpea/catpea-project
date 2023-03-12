@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 I parked at a little wooded rest area,

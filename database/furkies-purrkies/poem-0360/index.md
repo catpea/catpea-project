@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 I pulled up to the gate at Ludington State Park,

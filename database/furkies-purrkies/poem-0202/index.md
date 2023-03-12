@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Once and for all, learn to see Your Life as a Whole,

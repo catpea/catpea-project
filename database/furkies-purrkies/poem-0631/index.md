@@ -17,6 +17,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 I have made one mistake in Art when I begun,\

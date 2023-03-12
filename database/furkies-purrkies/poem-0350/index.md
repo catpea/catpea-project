@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Let me start by giving you the answer first:

@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 You are not ordinary, nor are you standard, nor should you ever be standardized in any way.

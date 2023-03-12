@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 We are all artists, and powerful learners,\

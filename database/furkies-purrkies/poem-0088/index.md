@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Your Lifeline - the cumulative choices you made that affected your entire life,

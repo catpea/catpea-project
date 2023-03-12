@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 A hole in the window curtain,

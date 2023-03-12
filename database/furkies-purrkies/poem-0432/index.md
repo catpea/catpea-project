@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 "He was given a corn seed and told to plant it.

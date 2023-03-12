@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 We can't hop all the hoops and hope for best,\

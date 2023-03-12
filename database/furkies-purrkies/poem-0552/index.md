@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 3D models for printing on 3D printers,\

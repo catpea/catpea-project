@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Long ago, I have discovered that revealing the fraud of modern education,\

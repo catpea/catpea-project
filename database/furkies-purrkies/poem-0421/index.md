@@ -17,6 +17,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Today's smart phones,

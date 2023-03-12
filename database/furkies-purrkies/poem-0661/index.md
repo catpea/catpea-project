@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 This course is based on the pricey "[The Giants of Philosophy](https://www.audible.com/series/The-Giants-of-Philosophy-Audiobooks/B08D6T4RDC)" series of 12 audio books,\

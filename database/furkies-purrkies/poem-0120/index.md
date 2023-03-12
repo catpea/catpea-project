@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Anything that can go wrong may go wrong,

@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 There cannot exist a Manual Of Life,\

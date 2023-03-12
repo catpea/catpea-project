@@ -18,6 +18,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Imagine,

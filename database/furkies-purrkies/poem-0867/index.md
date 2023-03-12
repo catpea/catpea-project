@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 This is a time of war, famine, an old nuclear threat,\

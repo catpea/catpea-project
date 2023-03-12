@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 Don't give up on Knowledge and Wisdom, don't let fake schools get to you, or derail you,\

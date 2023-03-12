@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 I know all too well that writing books is hard,

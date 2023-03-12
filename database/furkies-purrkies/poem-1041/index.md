@@ -1,7 +1,9 @@
 ---
 id: poem-1041
 guid: c13e2d54-1564-46a0-b254-12ea1313d0bd
-title: "Become An Artist Right This Moment; Or, Inspiration, Shape, Color, Canvas, And Meaning Of Art"
+title: >-
+  Become An Artist Right This Moment; Or, Inspiration, Shape, Color, Canvas, And
+  Meaning Of Art
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Use an [office or mini projector][0], on a canvas or a wall,

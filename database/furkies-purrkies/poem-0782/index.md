@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 Digital Painting is such a wonderful thing,\

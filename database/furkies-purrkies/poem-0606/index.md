@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 A week before Philosophy finals, where we spent the semester going over Descartes,\

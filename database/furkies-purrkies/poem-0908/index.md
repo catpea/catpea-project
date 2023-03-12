@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 5
 ---
 
 Applying your reference image directly to your canvas,\

@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 Let me show you a couple of strange ways,\

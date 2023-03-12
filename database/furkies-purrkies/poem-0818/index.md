@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 I just figured out how to identify locations of parts of a cube,\

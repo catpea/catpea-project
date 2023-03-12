@@ -19,6 +19,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 What if [the new school format is right in front of us](https://svelte.dev/tutorial/basics),\

@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 Life, in large part is about becoming a noble, dignified, and thus great being;

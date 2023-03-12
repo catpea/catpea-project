@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 I started by learning [Hard Surface Modeling in Blender](https://www.youtube.com/watch?v=9xAumJRKV6A),\

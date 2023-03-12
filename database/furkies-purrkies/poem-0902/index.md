@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 5
 ---
 
 Your paintings must speak, and there is no way in heck,\

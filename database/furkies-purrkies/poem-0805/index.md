@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 A dream of creating a real open and free World School,\

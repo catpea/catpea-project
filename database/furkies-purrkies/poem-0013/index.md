@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 The heaviest burden: What, if some day or night, a demon were to steal after you into your loneliest loneliness and say to you:

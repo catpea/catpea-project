@@ -1,7 +1,9 @@
 ---
 id: poem-1071
 guid: 09f734de-e275-43af-959c-3490499f19c7
-title: "Health, Books, and Adventure; Or, How To Prevent Your Elder Self From Yelling At You"
+title: >-
+  Health, Books, and Adventure; Or, How To Prevent Your Elder Self From Yelling
+  At You
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 The beautiful lessons we learn are little flowers,

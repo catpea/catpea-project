@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 Upon having sculpted my [little Peru froggie friend](https://www.clevelandart.org/art/1955.375#),\

@@ -1,7 +1,9 @@
 ---
 id: poem-1034
 guid: cfde3368-482a-499b-b350-2c6f0a0574b8
-title: Resist Concepts Like Standardized Education, IQ, Genetics, and Individual Socioeconomics
+title: >-
+  Resist Concepts Like Standardized Education, IQ, Genetics, and Individual
+  Socioeconomics
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Preface,

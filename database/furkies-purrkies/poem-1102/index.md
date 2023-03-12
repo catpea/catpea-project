@@ -1,7 +1,9 @@
 ---
 id: poem-1102
 guid: d0721956-b319-45b8-a4ff-b36fb2b0cdfa
-title: The Rebirth Of Venus; Or, The Making Of An Art Show In The Age Of Generative AI
+title: >-
+  The Rebirth Of Venus; Or, The Making Of An Art Show In The Age Of Generative
+  AI
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 6
 ---
 
 Once you are ready to display you art,

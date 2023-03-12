@@ -1,7 +1,9 @@
 ---
 id: poem-0996
 guid: 27e21555-adbd-428f-a210-9d13e517494e
-title: Building Your First Software Empire; Or, Self Editable Applications Are Just Operating Systems
+title: >-
+  Building Your First Software Empire; Or, Self Editable Applications Are Just
+  Operating Systems
 description: null
 tags:
   - furkies-purrkies
@@ -16,10 +18,10 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
-
 
 Self editable applications are a big deal,
 because they help you build easy to manage business empires.

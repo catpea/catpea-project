@@ -18,6 +18,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 Value or DARKENESS CONTROL, is in deed a thing,\

@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 In the morning I came up with this beauuuuutiful idea for the video book chapter,\

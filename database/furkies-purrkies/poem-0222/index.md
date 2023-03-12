@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 We have traveled to watch Alpha Orionis undergo Supernova,

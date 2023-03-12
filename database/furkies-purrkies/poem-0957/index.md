@@ -1,7 +1,7 @@
 ---
 id: poem-0957
 guid: 6cf99549-d36a-4e1a-af24-c4820733ed69
-title: Unstoppably Brilliant 
+title: Unstoppably Brilliant
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Don't look to the teacher for approval,

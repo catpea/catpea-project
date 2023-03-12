@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 One late afternoon I hopped on my bicycle to ride the trail,

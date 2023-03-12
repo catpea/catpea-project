@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 It has been a quarter of a century, but I still remember the sounds of New York,

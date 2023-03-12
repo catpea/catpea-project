@@ -23,6 +23,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 5
 ---
 
 Thus far we discovered the [Image Reference Tool in Krita](https://www.youtube.com/watch?v=0uCH2z_zLmc),\

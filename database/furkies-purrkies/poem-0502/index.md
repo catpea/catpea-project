@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Wise beings are wise equally, but the wisdom that we hold within,\

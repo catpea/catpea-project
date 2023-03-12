@@ -18,6 +18,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 People are tricked into thinking that music theory is required for making music,

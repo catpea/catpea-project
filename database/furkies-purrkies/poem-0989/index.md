@@ -1,7 +1,7 @@
 ---
 id: poem-0989
 guid: a8c3e75c-760c-497e-83a0-2b12425e04e9
-title: 'What If No Other Subject Can Compare To Programming'
+title: What If No Other Subject Can Compare To Programming
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 What if programming is so special,

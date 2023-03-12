@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Sometime around 8th grade we should be able to program, paint, compose music, and write poetry,\

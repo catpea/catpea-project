@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 To rise, to become strong, to grow and to break away and become more authentic,

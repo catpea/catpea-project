@@ -1,7 +1,7 @@
 ---
 id: poem-1014
 guid: 53143161-35ee-4d47-b04c-763ecdbdb9aa
-title: 'Programming Bytes; Or, The Terrible Mambas Doth Linger In Pairs'
+title: Programming Bytes; Or, The Terrible Mambas Doth Linger In Pairs
 description: null
 tags:
   - furkies-purrkies
@@ -17,8 +17,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 When I was a baby,

@@ -1,7 +1,9 @@
 ---
 id: poem-0985
 guid: 4ae98927-7c33-4d1d-84c5-0b4fb76265ec
-title: Our Full Heritage & Culture; Or, Nine Thousand Nine Hundred Books Towards Wisdom And World Peace
+title: >-
+  Our Full Heritage & Culture; Or, Nine Thousand Nine Hundred Books Towards
+  Wisdom And World Peace
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Humanity’s greatest thoughts, ideas,

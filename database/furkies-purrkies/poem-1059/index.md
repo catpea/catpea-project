@@ -1,7 +1,9 @@
 ---
 id: poem-1059
 guid: 1f5edd56-362e-4a5d-aba6-bd1f5f56a59c
-title: Speed Thy Slowly; Or, Art Is Not Really A Destination But A Road That Takes You Wherever You Need To Be Next
+title: >-
+  Speed Thy Slowly; Or, Art Is Not Really A Destination But A Road That Takes
+  You Wherever You Need To Be Next
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 It may not be very fair to call generative art,

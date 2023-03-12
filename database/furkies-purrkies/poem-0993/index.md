@@ -1,7 +1,7 @@
 ---
 id: poem-0993
 guid: 26988f9e-3044-45aa-8d0e-69abde2b6782
-title: 'Our Culture, Is Philosophy'
+title: Our Culture, Is Philosophy
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Philosophy is not at the center of human development,

@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 [Variables](https://www.youtube.com/watch?v=J0y6XXdm4KI), [functions](https://www.youtube.com/watch?v=bOkuPo5VbTg), [if statements](https://www.youtube.com/watch?v=IsG4Xd6LlsM), [loops](https://www.youtube.com/watch?v=6Hb0qZ3PVWI),\

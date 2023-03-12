@@ -13,7 +13,7 @@ if [ ! -f "$BACKUP_FILE" ]; then cp "dist/server/www/catpea-com/checksums.json" 
 antwerp build catpea
 
 
- 
+
 # Publish Phase
 FILES=$(antwerp changes catpea);
 for FILE in $FILES; do
@@ -23,3 +23,9 @@ for FILE in $FILES; do
 done;
 
 echo "Do not forget to save the files run: npm run save";
+
+echo updating chapter 06, if you are working on chapter 7, update the regenerate.sh file.
+cd dist/chapters/chapter-06;
+git add .;
+git commit -m "content updates";
+git push;

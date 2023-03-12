@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 I still have a world to go before I feel comfortable dancing to my dance songs,

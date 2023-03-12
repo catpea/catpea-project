@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 You have to believe in yourself and realize that you are a Genius, fight for it, rage for it, it is there in all of us,\

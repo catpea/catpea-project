@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Poetically speaking, it is a description of an anonymous voting mechanism,

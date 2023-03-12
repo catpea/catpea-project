@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 Consciousness is not as simple as it seems,

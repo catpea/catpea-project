@@ -1,7 +1,9 @@
 ---
 id: poem-1036
 guid: 4c79192d-c048-4dde-858c-513e51455cc8
-title: How To Become Smart? Or, Don't Get Tricked Into Thinking That You Are Not Smart
+title: >-
+  How To Become Smart? Or, Don't Get Tricked Into Thinking That You Are Not
+  Smart
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Preface,

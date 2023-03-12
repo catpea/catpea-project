@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 We the warriors in pursuits of excellence, band together in sincerity and truth.

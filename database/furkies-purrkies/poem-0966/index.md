@@ -1,7 +1,9 @@
 ---
 id: poem-0966
 guid: 9c340683-d8d9-412b-96c0-b6aae0928bf2
-title: The Whole Cybernetic Digital Enchilada; Or, Entry Into The World Of Programming
+title: >-
+  The Whole Cybernetic Digital Enchilada; Or, Entry Into The World Of
+  Programming
 description: null
 tags:
   - furkies-purrkies
@@ -10,14 +12,15 @@ lastmod: null
 weight: 96600
 audio: poem-0966.mp3
 image: poem-0966-illustration.jpg
-images: null    
+images: null
 artwork:
   - https://unsplash.com/photos/uyfohHiTxho
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Becoming a Programmer requires class,

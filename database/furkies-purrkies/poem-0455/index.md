@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 No, you are not immune to the effects of indoctrination,

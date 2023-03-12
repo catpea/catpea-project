@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 And it doesn't take very much at all,

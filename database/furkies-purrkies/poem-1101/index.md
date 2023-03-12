@@ -1,7 +1,9 @@
 ---
 id: poem-1101
 guid: a9a0f3f2-86c9-4e10-af81-583719c06232
-title: Programming Programming; Or, Notes On Making Program Structure More Informative
+title: >-
+  Programming Programming; Or, Notes On Making Program Structure More
+  Informative
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 6
 ---
 
 Foreword

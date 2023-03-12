@@ -1,7 +1,9 @@
 ---
 id: poem-0974
 guid: 83bca2eb-c645-42c3-a0bf-f55e48599497
-title: Social Application Development; Or, Self Editable Applications In The Twenty Twenty-Something
+title: >-
+  Social Application Development; Or, Self Editable Applications In The Twenty
+  Twenty-Something
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 There is a way to account for every feature request,

@@ -1,7 +1,9 @@
 ---
 id: poem-0960
 guid: feaa6892-0259-4f5a-a5ac-bce940d488d0
-title: Your First Programming Business; Or, Learning Programming The Easy Breezy Peasy Wheezy Way
+title: >-
+  Your First Programming Business; Or, Learning Programming The Easy Breezy
+  Peasy Wheezy Way
 description: null
 tags:
   - furkies-purrkies
@@ -12,12 +14,14 @@ audio: poem-0960.mp3
 image: poem-0960-illustration.jpg
 images: null
 artwork:
-  - https://www.pexels.com/photo/woman-wearing-white-cowboy-hat-and-red-top-riding-on-horse-2986105/
+  - >-
+    https://www.pexels.com/photo/woman-wearing-white-cowboy-hat-and-red-top-riding-on-horse-2986105/
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 At the moment the most popular code editor,

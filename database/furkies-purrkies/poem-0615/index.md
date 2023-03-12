@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 [Erica was right](https://www.youtube.com/watch?v=9M4tdMsg3ts),\

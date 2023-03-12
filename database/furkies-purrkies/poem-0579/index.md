@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 It will all start with a young lady [tracking the loss of species](https://www.fws.gov/news/ShowNews.cfm?ref=u.s.-fish-and-wildlife-service-proposes-delisting-23-species-from-&_ID=37017),\

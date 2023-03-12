@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 We, or the younger generations may find ourselves in situations where life does not make sense,

@@ -1,7 +1,9 @@
 ---
 id: poem-1022
 guid: 44cc7ffe-1d2c-4dae-9bc3-07a715273017
-title: Fifteen Strange But True Facts About Animals That You Will Wish You Didn't Know
+title: >-
+  Fifteen Strange But True Facts About Animals That You Will Wish You Didn't
+  Know
 description: null
 tags:
   - furkies-purrkies
@@ -19,8 +21,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Before we sent a man to the moon,

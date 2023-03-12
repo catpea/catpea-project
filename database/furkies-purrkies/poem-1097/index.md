@@ -1,7 +1,9 @@
 ---
 id: poem-1097
 guid: 8bb5539b-277b-445b-bbb5-c32669749fde
-title: Learn How To Generate Art; It Is Like Stencils, It Is Just Another Cool And Inviting Form Of Art
+title: >-
+  Learn How To Generate Art; It Is Like Stencils, It Is Just Another Cool And
+  Inviting Form Of Art
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 My first month with art generators was focused on creating art products,

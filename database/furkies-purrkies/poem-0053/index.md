@@ -17,6 +17,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 from [The Warrior Book](https://westland-valhalla.github.io/warrior/)

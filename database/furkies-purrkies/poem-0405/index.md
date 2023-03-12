@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Forgive me, Dear Reader, as this poem does not yet end with an answer,

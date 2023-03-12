@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 A sketch is a question about your source image,\

@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 5
 ---
 
 When it comes to a Bush Baby,\

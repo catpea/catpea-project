@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 When taking your first steps into Philo Sophia,

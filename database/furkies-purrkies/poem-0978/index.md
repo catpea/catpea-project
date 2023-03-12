@@ -1,7 +1,9 @@
 ---
 id: poem-0978
 guid: ce777fe2-49b2-425a-b037-17de3da3f80a
-title: Don't Generalize, Specialize; Or, How To Invent And Program Useful Web Applications
+title: >-
+  Don't Generalize, Specialize; Or, How To Invent And Program Useful Web
+  Applications
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 An application taken to its ultimate generic general purpose form,

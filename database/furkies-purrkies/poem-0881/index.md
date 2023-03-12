@@ -19,6 +19,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 5
 ---
 
 When learning hair,\

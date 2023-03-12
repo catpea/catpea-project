@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 I had a strange dream, Dear Reader, and at first I thought it was too odd to share,

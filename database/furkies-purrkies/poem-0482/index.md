@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Uninterrupted Growing Up is a big deal for our minds as we grow,\

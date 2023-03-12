@@ -24,7 +24,28 @@
       <div class="card-footer">
 
       <?if(post.attr.audio){?>
-      <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="right-click + save to download" ><i class="bi bi-play-circle"></i> Listen</a>
+        // this is the original.
+        <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="right-click + save to download" ><i class="bi bi-play-circle"></i> Listen</a>
+      <?}?>
+
+      <?if(post.attr.audio){?>
+
+      <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"
+         data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip"
+          data-bs-title="right-click + save to download" ><i class="bi bi-play-circle"></i> Listen</a>
+
+      <div class="btn-group">
+        <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="right-click + save to download"><i class="bi bi-play-circle"></i> Listen</a>
+        <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+          <span class="visually-hidden">Toggle</span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">Alternative Link #1</a></li>
+          <!-- <li><hr class="dropdown-divider"></li>
+          <li><a class="dropdown-item" href="#">Separated link</a></li> -->
+        </ul>
+      </div>
+
       <?}?>
 
       <a href="/permalink/<?=post.attr.guid?>" class="btn btn<?=post.attr.audio?'-outline':''?>-warning position-relative"><i class="bi bi-eye-fill"></i> <?=post.attr.audio?'':'View'?><?if(post.order.first){?><span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light shadow">latest</span>

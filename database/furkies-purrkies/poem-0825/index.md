@@ -17,6 +17,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 We should try to extend the ancient or medieval art styles,\

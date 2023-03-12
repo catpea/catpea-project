@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 No worries, the only real darkness is the Twilight of Hesitation,

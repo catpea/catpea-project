@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 (La Liberté Éclairant Le Monde is French for Liberty Enlightening the World)

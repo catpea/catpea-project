@@ -24,6 +24,7 @@ resources:
     src: files/emergence.mp3
 features: {}
 draft: false
+chapter: 1
 ---
 
 Go placidly amid the noise and haste,

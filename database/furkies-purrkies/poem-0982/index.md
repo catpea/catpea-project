@@ -1,7 +1,9 @@
 ---
 id: poem-0982
 guid: faa9b086-6b76-4e40-b88d-3cdf543b4a7b
-title: Programming For Your Users, Yourself, And The Older You; Or Writing Valuable, Maintainable, And Non Crazy Code
+title: >-
+  Programming For Your Users, Yourself, And The Older You; Or Writing Valuable,
+  Maintainable, And Non Crazy Code
 description: null
 tags:
   - furkies-purrkies
@@ -16,10 +18,10 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
-
 
 This is a poem that asks you to hide a File Manager like program,
 beneath your phone or web application.

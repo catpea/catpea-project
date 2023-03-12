@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Woodland Adventures are pretty goofy, one moment you are tired and deprived,

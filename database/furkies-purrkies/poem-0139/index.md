@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Nope, we may not finish school, get a job, buy a house, and worry about old age;

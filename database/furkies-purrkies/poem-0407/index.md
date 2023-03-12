@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 The Trembling Giant is a clonal colony of aspen determined to be a single living organism,

@@ -1,7 +1,9 @@
 ---
 id: poem-1078
 guid: 13af831c-331d-4d23-b0be-85279ab89951
-title: Learn Programming Today; Because After Generative Art, Comes Your Generative Software
+title: >-
+  Learn Programming Today; Because After Generative Art, Comes Your Generative
+  Software
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 It seems really cute that you can generate some cats,

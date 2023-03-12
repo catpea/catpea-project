@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 I took the [Blender Doughnut Tutorial](https://www.youtube.com/watch?v=TPrnSACiTJ4) today,\

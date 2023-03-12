@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Somehow wisdom got replaced with Movies, Drama, and Music,\

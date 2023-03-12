@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Let me just open by hypothesizing [why schools are not teaching](https://www.youtube.com/watch?v=sxyKNMrhEvY),

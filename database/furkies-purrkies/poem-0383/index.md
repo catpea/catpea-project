@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Programming is simple, friendly, rewarding, fun, and relaxing,

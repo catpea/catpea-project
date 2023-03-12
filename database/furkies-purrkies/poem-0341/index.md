@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 A chord is when a person presses more than one piano keys to enrich a sound,

@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Of all the filthy creatures from The Baltic Sea to Lake Michigan,

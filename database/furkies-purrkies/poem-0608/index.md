@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 A season of Teenage Mutant Ninja Turtles and Inspector Gadget with closed captions,\

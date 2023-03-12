@@ -1,7 +1,7 @@
 ---
 id: poem-1038
 guid: a1d99c10-2b33-442d-9ce3-f38dbb001d8b
-title: 'Ad Astra; Or, Can The World Unite?'
+title: Ad Astra; Or, Can The World Unite?
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 All cultures must advance forward,

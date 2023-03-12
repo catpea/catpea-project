@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Summer and Winter, Spring, and Autumn are my favorite seasons,

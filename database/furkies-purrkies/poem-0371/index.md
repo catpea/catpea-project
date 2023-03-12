@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 What we learn must be meaningful to us, it has to make us happy and fulfilled,

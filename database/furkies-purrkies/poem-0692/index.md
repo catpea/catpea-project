@@ -18,6 +18,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 This is a pretty important idea, so I'll leave the flourish for another poem,\

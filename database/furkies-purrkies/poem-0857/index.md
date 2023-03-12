@@ -17,6 +17,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 While painting, programming, composing, writing, rhyming, singing, sculpting,\

@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Culture switching is the best way to learn, it is about discovering that not only one's own culture is fluid,

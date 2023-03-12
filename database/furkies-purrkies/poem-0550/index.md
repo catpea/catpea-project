@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 Yes. Using the Free Open Source Blender, a 3D Modeling program\

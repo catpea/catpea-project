@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Our [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases),

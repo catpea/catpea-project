@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Above all, school pays for a hotel of your choice, including food and whatever else you need,

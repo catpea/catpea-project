@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 It has been said that in order to become a Real Mountain Woman, or a Mountain Man,\

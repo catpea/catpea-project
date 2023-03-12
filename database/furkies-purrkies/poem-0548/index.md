@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 You know that scene in 1989 Batman, where he grabs Vicki Vale,\

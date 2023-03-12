@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Here was what Kilgore Trout cried out to me in my father's voice:

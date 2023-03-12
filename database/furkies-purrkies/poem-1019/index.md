@@ -1,7 +1,9 @@
 ---
 id: poem-1019
 guid: bdadb39f-c850-4adc-98b3-8c195b3bbd67
-title: Thinking Outside Windows, Where Developer Experience And Power User Experience Is One And The Same
+title: >-
+  Thinking Outside Windows, Where Developer Experience And Power User Experience
+  Is One And The Same
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Preface

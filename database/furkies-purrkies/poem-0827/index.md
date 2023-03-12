@@ -17,6 +17,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 Not everything has to be complicated,\

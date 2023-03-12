@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Each human being contains precisely one labyrinth mostly consisting of a single long winding road with plenty of forks.

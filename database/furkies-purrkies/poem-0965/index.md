@@ -1,7 +1,9 @@
 ---
 id: poem-0965
 guid: 3a06ad1c-595d-434c-a140-e46dd6161f77
-title: Simple Explanation Of How Individualized Education Can Guide Us Toward World Peace
+title: >-
+  Simple Explanation Of How Individualized Education Can Guide Us Toward World
+  Peace
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Preface: Human Beings are not machines, they are not computer programs,

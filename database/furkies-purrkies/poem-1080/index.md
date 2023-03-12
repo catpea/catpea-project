@@ -1,7 +1,9 @@
 ---
 id: poem-1080
 guid: e4b64470-78f4-409c-ac6f-8f9c737c7be3
-title: Bula, Lola, Lulu, and Kiki - They Save; Or Generating Products With Artificial Intelligence
+title: >-
+  Bula, Lola, Lulu, and Kiki - They Save; Or Generating Products With Artificial
+  Intelligence
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Aside from the title image, the four products come with a song,

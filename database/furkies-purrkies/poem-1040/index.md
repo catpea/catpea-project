@@ -1,7 +1,9 @@
 ---
 id: poem-1040
 guid: fad0adac-70e2-49d4-88c3-65ca81855fa5
-title: Life Is Art; Or, To Repair Mistakes Out Of Reach, Become A Great Being And Teach
+title: >-
+  Life Is Art; Or, To Repair Mistakes Out Of Reach, Become A Great Being And
+  Teach
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 I think everything is art,

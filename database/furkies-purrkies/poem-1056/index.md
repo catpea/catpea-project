@@ -1,7 +1,9 @@
 ---
 id: poem-1056
 guid: 6b303e0e-69ca-4682-8578-d3dfb9976596
-title: "Oumuamua Rising; Or, Don’t Just Invent Stories, Chronicle, By Letting A Story Tell It Self"
+title: >-
+  Oumuamua Rising; Or, Don’t Just Invent Stories, Chronicle, By Letting A Story
+  Tell It Self
 description: null
 tags:
   - furkies-purrkies
@@ -12,13 +14,14 @@ audio: poem-1056.mp3
 image: poem-1056-illustration.jpg
 images: null
 artwork:
-- https://en.wikipedia.org/wiki/Stable_Diffusion
-- https://catpea.com
+  - https://en.wikipedia.org/wiki/Stable_Diffusion
+  - https://catpea.com
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 I think we will be struck by the urge to write, thrice,

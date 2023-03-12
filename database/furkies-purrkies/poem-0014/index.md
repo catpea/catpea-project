@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 A truly brave man is ever serene; he is never taken by surprise; nothing ruffles the equanimity of his spirit.

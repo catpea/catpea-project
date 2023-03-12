@@ -18,6 +18,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 I set my brushes aside some years ago,\

@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 Today, I gave myself [20 minutes to paint something](https://youtu.be/uViGnooaf8w),\

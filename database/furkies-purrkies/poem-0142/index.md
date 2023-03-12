@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 A Powerful Summer Storm approached with mighty thunder and powerful showers,

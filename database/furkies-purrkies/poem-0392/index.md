@@ -17,6 +17,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Being a good programmer is very easy,

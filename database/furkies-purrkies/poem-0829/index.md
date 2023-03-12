@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 The world is meant to be a safe and happy place, and human beings are not born evil,\

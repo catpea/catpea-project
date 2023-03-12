@@ -29,6 +29,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 An enchanted ring, is a ring that cannot be made by the human hand,\

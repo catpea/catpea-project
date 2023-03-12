@@ -18,6 +18,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 The Time Of Heroes Is Not Dead,

@@ -1,7 +1,9 @@
 ---
 id: poem-1004
 guid: 17f655e8-1a02-4040-94da-7e9ff2da9bb1
-title: Confusing Programming Can Be Pretty Colorful If You Build Everything Out Of Interesting Little Machines
+title: >-
+  Confusing Programming Can Be Pretty Colorful If You Build Everything Out Of
+  Interesting Little Machines
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Programming, is just about making

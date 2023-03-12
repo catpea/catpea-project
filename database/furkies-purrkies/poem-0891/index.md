@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 5
 ---
 
 I thought I'd mention [a video on how to set up grids under Krita](https://www.youtube.com/watch?v=uHCGgKzVP6M),\

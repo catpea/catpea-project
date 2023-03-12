@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Who -- constructing the world for herself or himself, understands, and in a balance; that it is all of us or none; that we must each strive to live above the common level of life,

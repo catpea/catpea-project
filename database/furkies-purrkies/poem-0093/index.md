@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 See Companion Chapter in [The Warrior](https://westland-valhalla.github.io/warrior/the-trainer.html)

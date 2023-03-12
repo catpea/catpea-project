@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 5
 ---
 
 I spent the afternoon writing a tiny HTTP server,\

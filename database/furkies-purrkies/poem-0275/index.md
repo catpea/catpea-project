@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 School, wisdom, philosophy, job, university, career, writing, politics, adventure, grades, greatness, soul,

@@ -1,7 +1,9 @@
 ---
 id: poem-1060
 guid: 4a184e3e-b6bd-4d4e-9f0a-9c64551eb610
-title: Undulations Of Human Kind; Or, On Escaping Indoctrination And Becoming A Citizen Of The World
+title: >-
+  Undulations Of Human Kind; Or, On Escaping Indoctrination And Becoming A
+  Citizen Of The World
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 Who or what has us trapped?

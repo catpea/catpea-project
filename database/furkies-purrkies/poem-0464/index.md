@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 3
 ---
 
 Real Education and Cultural Convergence is one sure way towards World Peace,

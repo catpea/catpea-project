@@ -72,7 +72,7 @@ async function loadMetadata(db){
 
 async function updateMetadata(db){
 
-  const chapterSize = 256;
+  const chapterSize = 220;
   const furkies = db.filter(o=>o.database==='furkies-purrkies');
   const chapters = chunk(furkies, chapterSize);
 
@@ -101,13 +101,14 @@ async function updateMetadata(db){
         draft: false,
       }, record.attr);
 
-      let reconstruction = '---';
+      let reconstruction = '---\n';
       reconstruction += yaml.dump(frontObject);
       reconstruction += '---\n';
       reconstruction += '\n';
       reconstruction += record.md;
-      console.log(reconstruction);
-      //await writeFile(path.join(record.src, 'index.md'), reconstruction)
+      // console.log(reconstruction);
+      // await fs.writeFile(path.join(record.src, 'index.md'), reconstruction)
+      // console.log(record.attr.id, record.attr.chapter);
 
     }
     chapterNumber++;

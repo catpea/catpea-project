@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Disclaimer, this work of unchecked fancy is loosely inspired

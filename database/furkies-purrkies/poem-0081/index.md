@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 1
 ---
 
 Philosophy, and her Daughters the Sciences, are a way to put ourselves to words,

@@ -16,6 +16,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Here our Heroines discovered that Social Networks could be used as Human Intelligence based Computer,

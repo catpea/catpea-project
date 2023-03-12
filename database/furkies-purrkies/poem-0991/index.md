@@ -1,7 +1,9 @@
 ---
 id: poem-0991
 guid: 27ad5677-e992-4954-ac7f-b8a57f45f7f2
-title: Beyond The Within And Without; Or, Self Education Is Not Just About Wisdom Or Greatness
+title: >-
+  Beyond The Within And Without; Or, Self Education Is Not Just About Wisdom Or
+  Greatness
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +18,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 A systems upgrade,

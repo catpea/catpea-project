@@ -17,8 +17,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 A self referential system, is something that curves on it self,

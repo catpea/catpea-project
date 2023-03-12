@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 3
 ---
 
 I have challenged myself to learning the free open source Blender 3D modeling program,\

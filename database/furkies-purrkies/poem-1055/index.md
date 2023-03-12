@@ -1,7 +1,9 @@
 ---
 id: poem-1055
 guid: 6dbde373-484a-4b56-a699-de570afbe464
-title: "A Note From A Teacher: Parents Don't Be Mean, Buy Your Little Ones A Powerful Stable Diffusion Machine"
+title: >-
+  A Note From A Teacher: Parents Don't Be Mean, Buy Your Little Ones A Powerful
+  Stable Diffusion Machine
 description: null
 tags:
   - furkies-purrkies
@@ -12,13 +14,14 @@ audio: poem-1055.mp3
 image: poem-1055-illustration.jpg
 images: null
 artwork:
-- https://en.wikipedia.org/wiki/Stable_Diffusion
-- https://catpea.com
+  - https://en.wikipedia.org/wiki/Stable_Diffusion
+  - https://catpea.com
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 I hope that I don’t come across as a hater,

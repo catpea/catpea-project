@@ -1,7 +1,7 @@
 ---
 id: poem-1030
 guid: 5cd6d1ff-bc20-4215-ad06-a2050daad80b
-title: 'The Future Of Internet, Is Self Hosted'
+title: The Future Of Internet, Is Self Hosted
 description: null
 tags:
   - furkies-purrkies
@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   video: true
-raw: true
 draft: false
+raw: true
+chapter: 5
 ---
 
 The final version of the ad industry,

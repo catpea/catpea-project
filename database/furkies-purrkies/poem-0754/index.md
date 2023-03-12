@@ -16,6 +16,7 @@ artwork:
 resources: null
 features: {}
 draft: false
+chapter: 4
 ---
 
 My $2 macro lens arrived today, I attached it to my phone camera,\

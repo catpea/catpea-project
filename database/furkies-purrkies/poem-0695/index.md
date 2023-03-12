@@ -17,6 +17,7 @@ resources: null
 features:
   portfolioJpg: true
 draft: false
+chapter: 4
 ---
 
 I am deeply embarrassed to say that I finished ホイスト (HoistU!),\

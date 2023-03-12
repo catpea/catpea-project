@@ -18,6 +18,7 @@ artwork:
 resources: []
 features: {}
 draft: false
+chapter: 2
 ---
 
 Developing quality custom software will help you show off some of your work,

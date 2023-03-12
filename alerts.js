@@ -1,5 +1,13 @@
 export default async function(){
   const response = [
+
+
+
+
+
+
+
+    {type: 'info', urgent:true,  text:`Website upgrade, possible outages in next couple of weeks ahead.`,  note:`Gandi the domain registrar got bought out and prices are going up. I am transferring the domain names to porkbun.com and trying to divide the text content from audio files to find better hosting companies. But there will be some bugs and outages along the way.`, link:{title:`Youtube is a reliable backup for now`, url:'https://www.youtube.com/@catpea'}},
     // {type: 'danger', urgent:true,  text:`Heavy wet snowfall, Is causing such a toll, For it has created a power outage, That might delay poetry's show.`,  note:`Lost power twice, It was not very nice, The transformer started flashing, and ate a poem that was becoming dashing.`},
     {type: 'info', urgent:false, text:`New Audiobook Release. The mp3 is 116 hours long and 5.2GB in size, beginning with "What Is The Meaning Of Life?" (March 1st 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/116-hours-of-poems'}},
     // {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
