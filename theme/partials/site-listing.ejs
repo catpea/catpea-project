@@ -23,26 +23,21 @@
       </div>
       <div class="card-footer">
 
-      <?if(post.attr.audio){?>
-        // this is the original.
+      <!-- ORIGINAL <?if(post.attr.audio){?>
         <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="right-click + save to download" ><i class="bi bi-play-circle"></i> Listen</a>
-      <?}?>
+      <?}?> -->
 
       <?if(post.attr.audio){?>
-
-      <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"
-         data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip"
-          data-bs-title="right-click + save to download" ><i class="bi bi-play-circle"></i> Listen</a>
 
       <div class="btn-group">
-        <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="right-click + save to download"><i class="bi bi-play-circle"></i> Listen</a>
+        <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"><i class="bi bi-play-circle"></i> Listen</a>
         <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
           <span class="visually-hidden">Toggle</span>
         </button>
         <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">Alternative Link #1</a></li>
-          <!-- <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="#">Separated link</a></li> -->
+          <li><a class="dropdown-item" href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>">Alternative Link #1</a></li>
+          <li><hr class="dropdown-divider"></li>
+          <li><a class="dropdown-item" href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>">Default Link</a></li>
         </ul>
       </div>
 
