@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [Noam Chomsky - On Being Truly Educated ❤️](https://www.youtube.com/watch?v=eYHQcXVp4F4 "Play Video")

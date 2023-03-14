@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Introduction to Interactive Fiction](https://www.youtube.com/watch?v=dJoe9BQ6z6c "Play Video")

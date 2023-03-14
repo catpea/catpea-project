@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Digital Photo Forensics: How To analyze Fake Photos](https://www.youtube.com/watch?v=G1Y0UTMTF7o "Play Video")

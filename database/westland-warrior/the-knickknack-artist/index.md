@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [SMALL canvas and BIG brush Painting](https://www.youtube.com/watch?v=k_rwgbvVicE "Play Video")

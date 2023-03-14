@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Drew Struzan - Tracing](https://www.youtube.com/watch?v=0fEMJp70tGU "Play Video")

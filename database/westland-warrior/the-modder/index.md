@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [How to block Ads WITHOUT Adblock or software using your router!](https://www.youtube.com/watch?v=zySaQ-3tY7E "Play Video")

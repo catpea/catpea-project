@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Level Up Your Character Design with Knight Zhang](https://www.youtube.com/watch?v=CjiKlLE3NuI "Play Video")

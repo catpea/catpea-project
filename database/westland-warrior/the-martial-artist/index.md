@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How to Escape a Standing Rear Choke](https://www.youtube.com/watch?v=sKIwNvoCvQU "Play Video")

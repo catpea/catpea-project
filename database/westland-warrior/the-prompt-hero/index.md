@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [Artists References & Style Guides - For MidJourney & AI Art - These are the ones I depend on.](https://www.youtube.com/watch?v=jfIlMsKR4Fo "Play Video")

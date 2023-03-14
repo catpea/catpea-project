@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Eleanor Roosevelt’s Fight for Human Rights](https://www.youtube.com/watch?v=NtG9z2rwmUU "Play Video")

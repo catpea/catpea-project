@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Vildmarksäventyr i Jougdadalen - Vandring, packrafting & Öringfiske](https://www.youtube.com/watch?v=OioTTh0RfMk "Play Video")

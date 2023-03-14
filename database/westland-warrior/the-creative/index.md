@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [How to Skip Annoying Sponsor Segments on YouTube SponsorBlock](https://www.youtube.com/watch?v=38dWa26l_ic "Play Video")

@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [The Lost 1984 Video: young Steve Jobs introduces the Macintosh](https://www.youtube.com/watch?v=2B-XwPjn9YY "Play Video")

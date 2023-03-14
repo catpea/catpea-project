@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [I Bought a Longboard!](https://www.youtube.com/watch?v=dMeKjQbqy_Y "Play Video")

@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [How AI Image Generators Work](https://www.youtube.com/watch?v=1CIpzeNxIhU "Play Video")

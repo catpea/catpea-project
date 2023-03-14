@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How I Became a Web Developer in 3 Months](https://www.youtube.com/watch?v=ASbijZRU2Uo "Play Video")

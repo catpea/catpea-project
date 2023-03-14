@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [What is DNS (Domain Name System)?](https://www.youtube.com/watch?v=nyH0nYhMW9M "Play Video")

@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Nordhouse Dunes: Backpacking in a Snowstorm on Lake Michigan](https://www.youtube.com/watch?v=68jy3_ABvRo "Play Video")

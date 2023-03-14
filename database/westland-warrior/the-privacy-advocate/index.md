@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Stop Watching Us: The Video](https://www.youtube.com/watch?v=aGmiw_rrNxk "Play Video")

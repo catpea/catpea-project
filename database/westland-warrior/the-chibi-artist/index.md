@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Tips and Tricks: Chibi Basics! ♡ iiKiui](https://www.youtube.com/watch?v=7kyA56xPTes "Play Video")

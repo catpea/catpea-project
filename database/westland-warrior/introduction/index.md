@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Finding Joe](https://www.youtube.com/watch?v=s8nFACrLxr0 "Play Video")

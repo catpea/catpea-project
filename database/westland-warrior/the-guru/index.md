@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Keyboards & Command Line Interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0 "Play Video")

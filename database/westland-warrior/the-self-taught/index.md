@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [6 Problems with our School System](https://www.youtube.com/watch?v=okpg-lVWLbE "Play Video")

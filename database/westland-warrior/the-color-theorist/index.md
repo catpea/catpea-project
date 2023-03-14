@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [COLOR THEORY BASICS: Use the Color Wheel & Color Harmonies to Choose Colors that Work Well Together](https://www.youtube.com/watch?v=YeI6Wqn4I78 "Play Video")

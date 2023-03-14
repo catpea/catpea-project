@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 Take a look at [Finetuned Diffusion](https://huggingface.co/spaces/anzorq/finetuned_diffusion) if you wish to run some tests.

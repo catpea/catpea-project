@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Into the Wild: My Journey on the Appalachian Trail](https://www.youtube.com/watch?v=IJduf7v4Wwo "Play Video")

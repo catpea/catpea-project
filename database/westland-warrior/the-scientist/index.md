@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Introduction to Fusion](https://www.youtube.com/watch?v=jf_4z4AKwJg "Play Video")

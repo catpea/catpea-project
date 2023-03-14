@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [THE GREAT GIANA SISTERS - Live on Pocket Operator PO-28 'Robot'❤️](https://www.youtube.com/watch?v=t_XH4du6BvE "Play Video")

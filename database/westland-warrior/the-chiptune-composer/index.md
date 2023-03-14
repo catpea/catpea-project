@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How Oldschool Sound/Music worked](https://www.youtube.com/watch?v=q_3d1x2VPxk "Play Video")

@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [What is Music Theory?](https://www.youtube.com/watch?v=5Of7ccsPkmw "Play Video")

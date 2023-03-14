@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [My thoughts for the Call to Unite](https://www.youtube.com/watch?v=QU4Q17t4muY "Play Video")

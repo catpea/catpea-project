@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [What are Geometry Nodes?](https://www.youtube.com/watch?v=kMDB7c0ZiKA "Play Video")

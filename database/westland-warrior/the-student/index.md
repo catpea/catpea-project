@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Astra Taylor on the Unschooled Life](https://www.youtube.com/watch?v=LwIyy1Fi-4Q "Play Video")

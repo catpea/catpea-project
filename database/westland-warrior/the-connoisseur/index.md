@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Paqui One Chip Challenge ft. My Mom](https://www.youtube.com/watch?v=CXhAen3DaXw "Play Video")

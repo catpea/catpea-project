@@ -21,6 +21,7 @@ old-notice: >-
   I just had to update The Explorer. It was one of the original little chapters
   (just 5 videos), and back then I didn't know how long these chapters should
   be. An explorer is a very important person, one of the pillars of growing up.
+chapter: 1
 ---
 
 ## The Explorer

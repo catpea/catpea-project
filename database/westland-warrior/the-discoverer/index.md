@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Clyde Tombaugh: The Man who Discovered the Planet Pluto](https://www.youtube.com/watch?v=BFs3GC58O5U "Play Video")

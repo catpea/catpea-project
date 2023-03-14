@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How I Became a Professional Drone Pilot](https://www.youtube.com/watch?v=jBJNzO3SVX0 "Play Video")

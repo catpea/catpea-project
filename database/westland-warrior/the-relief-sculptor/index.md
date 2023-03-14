@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [My First Time Trying BAS RELIEF Clay Sculpting! (Pronounced 'Ba or Bah')](https://www.youtube.com/watch?v=yrPzvoGLEIc "Play Video")

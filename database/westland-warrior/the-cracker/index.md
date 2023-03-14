@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [Keygen Music: From Cracktros to Demoscene to 8-bit Black Metal](https://www.youtube.com/watch?v=wYnBaNlRFoo "Play Video")

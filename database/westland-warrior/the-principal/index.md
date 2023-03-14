@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Why most students are getting the least out of school by Dan Cardinali](https://www.youtube.com/watch?v=qzALINIvYNQ "Play Video")

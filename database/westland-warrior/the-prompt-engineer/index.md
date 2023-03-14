@@ -16,8 +16,9 @@ artwork:
 resources: null
 features:
   ytcover: true
-raw: true
 draft: false
+raw: true
+chapter: 1
 ---
 
 [How to use AI Art and ChatGPT to Create a Insane Web Designs](https://www.youtube.com/watch?v=8I3NTE4cn5s "Play Video")

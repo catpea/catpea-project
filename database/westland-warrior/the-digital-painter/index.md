@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How to Find Your Art Style](https://www.youtube.com/watch?v=FwoRtaPyAEU "Play Video")

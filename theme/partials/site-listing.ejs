@@ -20,6 +20,11 @@
         <?if(post.snip){?>
           <p class="card-text small text-muted"><?= post.snip?>...</p>
         <?}?>
+        <?if(website.variant == 'github'){?>
+          <?if(post.order.first){?>
+            <div class="text-info"><small>Sorry, but there is an up to 15 minute delay between publishing this text, and the audio becoming available.</small></div>
+          <?}?>
+        <?}?>
       </div>
       <div class="card-footer">
 
@@ -29,17 +34,23 @@
 
       <?if(post.attr.audio){?>
 
-      <div class="btn-group">
-        <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"><i class="bi bi-play-circle"></i> Listen</a>
-        <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-          <span class="visually-hidden">Toggle</span>
-        </button>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>">Alternative Link #1</a></li>
-          <li><hr class="dropdown-divider"></li>
-          <li><a class="dropdown-item" href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>">Default Link</a></li>
-        </ul>
-      </div>
+        <?if(website.variant == 'gandi'){?>
+          <div class="btn-group">
+            <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"><i class="bi bi-play-circle"></i> Listen</a>
+            <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+              <span class="visually-hidden">Toggle</span>
+            </button>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>">Alternative Link #1</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>">Default Link</a></li>
+            </ul>
+          </div>
+        <?}?>
+
+        <?if(website.variant == 'github'){?>
+          <a href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>" class="btn btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
+        <?}?>
 
       <?}?>
 
@@ -51,6 +62,8 @@
       <?}?>
 
       </div>
+
+
     </div>
   </div>
 

@@ -8,7 +8,8 @@
   "scripts": {
     "save": "git add .; git commit -m 'New Release'; git push;",
     "publish": "./bin/publish.sh",
-    "server": "http-server -o -c-1 $(antwerp read catpea configuration.dest)"
+    "github-server": "http-server -o -c-1 $(antwerp read catpea-github configuration.dest)",
+    "gandi-server": "http-server -o -c-1 $(antwerp read catpea-gandi configuration.dest)"
   },
   "keywords": [],
   "author": "",

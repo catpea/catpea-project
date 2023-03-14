@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Rocky IV Training Montage](https://www.youtube.com/watch?v=B_9FyTiq3SA "Play Video")

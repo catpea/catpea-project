@@ -24,6 +24,7 @@ canceled-notice: >-
   place in this world. It is meant to inspire us to Knowledge, Wisdom,
   Greatness, and Change. Every new day can mark a new beginning, it will never
   be too late.
+chapter: 1
 ---
 
 [Hamilton - Moby Dick : Call Me Ishmael](https://www.youtube.com/watch?v=GEcE1FLRDL0 "Play Video")

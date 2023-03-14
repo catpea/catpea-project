@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [The Making of a Polymer Clay Doll ○ NEPHELE ○](https://www.youtube.com/watch?v=HWGx023Ubrw "Play Video")

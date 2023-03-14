@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Gemma O'Brien - Blurring the boundaries of typography, illustration and art](https://www.youtube.com/watch?v=Z7Z2ZD7HiXs "Play Video")

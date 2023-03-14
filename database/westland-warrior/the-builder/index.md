@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Warmest Tent on Earth - Pitching in the Siberian Arctic Winter - Ненецкая палатка чум](https://www.youtube.com/watch?v=8gI6q4R8ih4 "Play Video")

@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Steve Jobs Interview about the Blue Box Story](https://www.youtube.com/watch?v=HFURM8O-oYI\&t=13 "Play Video")

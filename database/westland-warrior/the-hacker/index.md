@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [What is a Hacker? with Emmanuel Goldstein.](https://www.youtube.com/watch?v=5vjMnUX6v4M "Play Video")

@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 ## A Warrior is She that thrives and triumphs where’er She be

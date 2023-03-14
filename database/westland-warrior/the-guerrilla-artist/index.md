@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Illicit bust of Edward Snowden stuck to a war monument in Brooklyn removed](https://www.youtube.com/watch?v=V-fy0scYqN8 "Play Video")

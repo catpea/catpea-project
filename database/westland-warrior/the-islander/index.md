@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [North Manitou Island](https://www.youtube.com/watch?v=WQcRZvJyJPE "Play Video")

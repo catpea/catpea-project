@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [HIKING POLŌLU VALLEY & FINDING WATERFALLS IN HAWAII I Big Island, HI](https://www.youtube.com/watch?v=8biVeUlxDsA "Play Video")

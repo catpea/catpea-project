@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Roundtable Rival - Lindsey Stirling](https://www.youtube.com/watch?v=jvipPYFebWc "Play Video")

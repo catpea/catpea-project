@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [The first 20 hours, how to learn anything by Josh Kaufman](https://www.youtube.com/watch?v=5MgBikgcWnY "Play Video")

@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [My Fantasy Art Career with Fantasy Artist Kiri Leonard](https://www.youtube.com/watch?v=z9gJyyLqrAE "Play Video")

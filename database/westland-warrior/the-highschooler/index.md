@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Hans Zimmer - interview influences and backgrounds](https://www.youtube.com/watch?v=voytGLvtsy0 "Play Video")

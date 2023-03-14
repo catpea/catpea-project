@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Where do math symbols come from?](https://www.youtube.com/watch?v=eVm063xmnow "Play Video")

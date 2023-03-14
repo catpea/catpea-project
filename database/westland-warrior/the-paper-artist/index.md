@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Lacy Barry, This artist turns paper into extravagant sculptures](https://www.youtube.com/watch?v=LdE_Im2iZA4 "Play Video")

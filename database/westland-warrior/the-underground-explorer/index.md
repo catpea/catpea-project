@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Stealth Camping In Storm Drain](https://www.youtube.com/watch?v=KJ7F3xpGFfo "Play Video")

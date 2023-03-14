@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Scared of SOLO Wild Camping? Tips for conquering the fear of Wild Camping ALONE in the UK](https://www.youtube.com/watch?v=nWh82qkr6Ss "Play Video")

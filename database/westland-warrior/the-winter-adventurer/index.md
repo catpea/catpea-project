@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [冬景色／森 麻季 (Winter Scenery)](https://www.youtube.com/watch?v=Vh8XTbjMlvc "Play Video")

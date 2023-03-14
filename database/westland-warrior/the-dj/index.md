@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [How To DJ For Beginners | Alison Wonderland](https://www.youtube.com/watch?v=rzg8OPPKVdM "Play Video")

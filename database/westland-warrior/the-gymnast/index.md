@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Kerri Strug's Unforgettable Determination to Win Gymnastics Olympic Gold](https://www.youtube.com/watch?v=O4um3YEX51k "Play Video")

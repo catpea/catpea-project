@@ -17,6 +17,7 @@ resources: []
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [Yuki Chizui of Nadeshiko Sushi](https://www.youtube.com/watch?v=PAQEOYYhp78 "Play Video")

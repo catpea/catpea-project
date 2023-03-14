@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [TOP 10 AMAZING DIGITAL ARTISTS. To Follow .PERIOD.](https://www.youtube.com/watch?v=aXX8PrLJ7ng "Play Video")

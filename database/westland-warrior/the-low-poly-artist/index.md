@@ -17,6 +17,7 @@ resources: null
 features:
   ytcover: true
 draft: false
+chapter: 1
 ---
 
 [From 3D Model to Foam Pattern | Cosplay Tutorial](https://www.youtube.com/watch?v=wRBk9npIevQ "Play Video")
