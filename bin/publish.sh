@@ -19,11 +19,11 @@ git commit -m "Blog updates";
 git push;
 cd -;
 
-
-echo
-echo
-echo GANDI/lftp: updating catpea.github.io
-lftp -f $(antwerp read catpea-gandi configuration.home)/gandi-hosting-batchfile.lftp;
+#
+# echo
+# echo
+# echo GANDI/lftp: updating catpea.github.io
+# lftp -f $(antwerp read catpea-gandi configuration.home)/gandi-hosting-batchfile.lftp;
 
 
 echo
@@ -36,4 +36,4 @@ echo
 echo
 echo reminders:
 echo github website location: $(antwerp read catpea-github configuration.dest)
-echo gandi website location: $(antwerp read catpea-gandi configuration.dest)
+# echo gandi website location: $(antwerp read catpea-gandi configuration.dest)

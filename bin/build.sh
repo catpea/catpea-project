@@ -16,16 +16,16 @@ antwerp build catpea-github
 # # Backup
 # if [ ! -f "$BACKUP_FILE" ]; then cp "$(antwerp read catpea-gandi configuration.dest)/checksums.json" $BACKUP_FILE; fi;
 
-echo
-echo
-echo BUILDING: gandi
-antwerp build catpea-gandi
-# Publish Phase
-FILES=$(antwerp changes catpea-gandi);
-for FILE in $FILES; do
-  LINES=$(cat "$FILE" | wc -l);
-  echo "WARN: $FILE has $LINES lines.";
-  echo lftp -f "$FILE";
-done;
+# echo
+# echo
+# echo BUILDING: gandi
+# antwerp build catpea-gandi
+# # Publish Phase
+# FILES=$(antwerp changes catpea-gandi);
+# for FILE in $FILES; do
+#   LINES=$(cat "$FILE" | wc -l);
+#   echo "WARN: $FILE has $LINES lines.";
+#   echo lftp -f "$FILE";
+# done;
 
 echo "Do not forget to save the files run: ./bin/publish.sh";

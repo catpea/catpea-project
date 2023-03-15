@@ -66,18 +66,27 @@ export default async function(){
       navigation: true,
     },
 
+
+
     {
-      title: 'Backup Server at catpea.org',
+      title: 'catpea.org',
       url: 'https://catpea.org',
       superImportant: true,
       mirror: true,
     },
+
+
+
+
     {
-      title: 'Cat Pea Audio Book (4GB/92hrs)',
-      url: 'https://archive.org/details/912-poems',
+      title: 'Cat Pea Audio Book (116hrs)',
+      url: 'https://archive.org/details/116-hours-of-poems',
       veryImportant: true,
       mirror: true,
     },
+
+
+
     {
       title: "Vercel Mirror",
       url: "https://catpea.vercel.app/",
@@ -93,13 +102,18 @@ export default async function(){
       url: "https://catpea.pages.dev/",
       mirror: true,
     },
+
+
+
     {
       title: "Poetry At YouTube",
       url: "https://www.youtube.com/playlist?list=PLOo-pqnffyOqsK6hf5tFwMqzvhogksrgW",
       mirror: true,
     },
+
+
     {
-      title: "Bitbucket Mirror",
+      title: "Bitbucket Snapshot",
       url: "https://catpea.bitbucket.io/",
       mirror: true,
     },
