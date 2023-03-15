@@ -5,25 +5,23 @@ export default async function(){
 
 
     {
-      type: 'warning',
+      type: 'success',
       urgent: true,
-      text: `This is the new server (on vercel) and domain name registrar (porkbun) version of the website. Everything should be working soon.`,
+      text: `This is the new server (back on vercel) and new domain name registrar (porkbun). Everything should be working now, but since this is a new setup outages are still possible.`,
       note: `
-        Just as predicted the website went down during transfer.
-        DNS information was not transferred between the registrars, the DNS record was blank the website disapeared.
         New/updated mirrors: catpea.github.io, catpea.pages.dev, catpea.onrender.com, and the old youtube.com/@catpea.
       `,
-      link:{title:`catpea.github.io`, url:'https://catpea.github.io/'}
+      link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
   },
 
 
-    {
-      type: 'info',
-      urgent:false,
-      text:`Website upgrade, possible outages in next couple of weeks.`,
-      note:`Gandi the domain registrar got bought out and prices are going up. I am transferring the domain names to porkbun.com and trying to divide the text content from audio files to find better hosting companies. But there will be some bugs and outages along the way. You can bookmark the YouTube mirror to serve as backup. It is updated daily.`,
-      link:{title:`YouTube Backup`, url:'https://www.youtube.com/@catpea'}
-    },
+    // {
+    //   type: 'info',
+    //   urgent:false,
+    //   text:`Website upgrade, possible outages in next couple of weeks.`,
+    //   note:`Gandi the domain registrar got bought out and prices are going up. I am transferring the domain names to porkbun.com and trying to divide the text content from audio files to find better hosting companies. But there will be some bugs and outages along the way. You can bookmark the YouTube mirror to serve as backup. It is updated daily.`,
+    //   link:{title:`YouTube Backup`, url:'https://www.youtube.com/@catpea'}
+    // },
     // {type: 'danger', urgent:true,  text:`Heavy wet snowfall, Is causing such a toll, For it has created a power outage, That might delay poetry's show.`,  note:`Lost power twice, It was not very nice, The transformer started flashing, and ate a poem that was becoming dashing.`},
     {type: 'info', urgent:false, text:`New Audiobook Release. The mp3 is 116 hours long and 5.2GB in size, beginning with "What Is The Meaning Of Life?" (March 1st 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/116-hours-of-poems'}},
     // {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
