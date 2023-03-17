@@ -1,0 +1,109 @@
+---
+id: poem-1110
+guid: 2f171e18-c4fc-483c-a6fb-8221435f22ce
+title: Our Philosophers; Or, A Note About Inheriting Their Wisdom And Culture
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-03-17T02:23:20.023Z'
+lastmod: null
+weight: 111000
+audio: poem-1110.mp3
+image: poem-1110-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+You have a Great Family in time,
+they are the Philosophers who wrote their thoughts down with you in mind.
+
+If you spend enough time listening to their books,
+you will inherit the tools they used in their great adventures.
+
+---
+
+Not only will you discover the wisdom of philosophers,
+but also that it is your inheritance, their wisdom belongs to you.
+
+And to really understand a philosopher, you don’t really study the book, harder,
+but you get to know what they are like as a person.
+
+Just exactly the same way that you got to know adults when you were little,
+by asking “who would I need to be to act, to to speak, to write like that.”.
+
+Philosophers are very delicate people,
+and survives at the same time.
+
+Their suffering is no match,
+for the vastness of their content of character.
+
+When you get to know a philosopher,
+a being who cared about you enough…
+
+To share with you what she or he has learned,
+to spare you the worst of it.
+
+You discover a friendship,
+that is what their books really are, an invitation to a friendship in time.
+
+To truly inherit from the works of philosophers,
+you must use your heart.
+
+Memorizing facts, is like ineffective education,
+it means nothing of consequence.
+
+You have to know the context of a philosopher’s life,
+and all the different epochs.
+
+What they wrote in their 20s,
+is very different from what they wrote in their 70s.
+
+The treasures in philosophy books,
+requires knowing the author, the same way you know your neighbor.
+
+---
+
+
+And when you try to get to know a great being,
+you cannot help but to enter their culture.
+
+Your book friends, philosophers, will bring you entire lifetimes of wisdom,
+and pull you up into the culture of greatness.
+
+Here you will understand the road ahead of you,
+a bit better.
+
+Reject fake education,
+and self educate…
+
+By dancing between your noblest curiosities,
+that will put what you learn into real world context…
+
+And unlike a textbook, have you revisit time and again,
+as your curiosities grab you by you button in eternal returns.
+
+---
+
+Find narrated book summaries first,
+listen to the many stories of the lives of philosophers.
+
+So that once you are ready to hear the works of a philosopher,
+you are familiar with the world they lived in.
+
+---
+
+Finally real education, is a very pleasant experience,
+it is about answering the questions selected by your unique curiosities.
+
+Once you find enough answers, about life, universe, our inventions,
+it will all settle on a magnificent plateau.
+
+Upon which, your own wisdom,
+on it way to greatness, will begin to sprout.
