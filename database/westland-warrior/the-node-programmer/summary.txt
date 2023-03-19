@@ -1,0 +1,105 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Node Programmer
+Sunday • March 19th 2023 • 4:47:54 pm
+
+[Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=ec8vSKJuZTk "Play Video")
+
+[JavaScript is the new C (A picture of a programmer)](https://www.youtube.com/watch?v=6_C9h1dPp54 "Play Video")
+
+[I tried 10 code editors](https://www.youtube.com/watch?v=8PhdfcX9tG0 "Play Video")
+
+[7 Full Stack App Ideas for Developers w/ Instructions Included](https://www.youtube.com/watch?v=JTOJsU3FSD8 "Play Video")
+
+[Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8 "Play Video")
+
+[Ranking The Most Popular Javascript Frameworks 2023](https://www.youtube.com/watch?v=ZRT5UAuDvYQ "Play Video")
+
+[Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4 "Play Video")
+
+[How to Master NodeJS?](https://www.youtube.com/watch?v=CCRTu3AQQeY "Play Video")
+
+### Introduction To Node
+
+[Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8 "Play Video")
+
+
+### Filesystem
+
+[Reading and Writing Files with Node.js | Node JS Beginners Tutorial](https://www.youtube.com/watch?v=yQBw8skBdZU "Play Video")
+
+[I used 3 different File System APIs in Node.js](https://www.youtube.com/watch?v=msnTtrx2C4s "Play Video")
+
+[Understanding File System | Understanding Node.js Core Concepts](https://www.youtube.com/watch?v=hNzRoZti6vI "Play Video")
+
+### Command Line
+
+[I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY "Play Video")
+
+[Easy Way to Create CLI Scripts with JavaScript and Node](https://www.youtube.com/watch?v=dfTpFFZwazI "Play Video")
+
+[Node.js Tutorial - 58 - Building CLI Tools](https://www.youtube.com/watch?v=y-zS9XV_kRM "Play Video")
+
+### HTTP
+
+[Your First Node.js Web Server](https://www.youtube.com/watch?v=VShtPwEkDD0 "Play Video")
+
+[HTTP Module in Node.js](https://www.youtube.com/watch?v=VLXAzzRjQws "Play Video")
+
+[node http is beautiful](https://www.youtube.com/watch?v=aTThXMRxmiE "Play Video")
+
+[NodeJS Essentials 08: Net & HTTP Module](https://www.youtube.com/watch?v=UAhWwSJbRnI "Play Video")
+
+[How an HTTP Proxy works and How to Build one? (Node JS)](https://www.youtube.com/watch?v=KOibBdrdyY0 "Play Video")
+
+### Network
+
+[TCP Networking - Node.js Basics Part 12](https://...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...
+[The past, current state & future of JavaScript frameworks](https://www.youtube.com/watch?v=5EsLj3JOdE0 "Play Video")
+
+[The Best Backend JavaScript Frameworks of 2022 🎉](https://www.youtube.com/watch?v=Nn4wVTlIdIk "Play Video")
+
+[I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE "Play Video")
+
+### Content Management Systems
+
+[Top 10 Headless CMS's You Should Check Out (and what they are!)](https://www.youtube.com/watch?v=hhX8nCnaNFM "Play Video")
+
+[Exploring keystone js](https://www.youtube.com/watch?v=IIQfR_97hys "Play Video")
+
+[Headless CMS & GraphQL API with KeystoneJS](https://www.youtube.com/watch?v=3cH1BXJbfa4 "Play Video")
+
+[March 31 2022: learning apostrophe cms](https://www.youtube.com/watch?v=QESHA9WKsbs "Play Video")
+
+[Strapi (Headless CMS) Crash Course](https://www.youtube.com/watch?v=KttoG7wDJP0 "Play Video")
+
+### Security
+
+[OWASP Top 10 Web Application Security Risks 2021](https://www.youtube.com/watch?v=laJD2h3FVeA "Play Video")
+
+[Node JS Security](https://www.youtube.com/watch?v=QaI7abh4n-8 "Play Video")
+
+[How to Create a Secure REST API with Node.js and Express](https://www.youtube.com/watch?v=Tw5LupcpKS4 "Play Video")
+
+[Understanding and Avoiding the Most Common Node.js Security Mistakes](https://www.youtube.com/watch?v=QSMbk2nLTBk "Play Video")
+
+[The State of Node.js Security](https://www.youtube.com/watch?v=14IJEjTcG9g "Play Video")
+
+[A Common Bypass Pattern To Exploit Modern Web Apps by Simon Scannell](https://www.youtube.com/watch?v=V-DdcKADnFk "Play Video")
+
+[How to Analyze Code for Vulnerabilities](https://www.youtube.com/watch?v=A8CNysN-lOM "Play Video")
+
+[7 Security Risks and Hacking Stories for Web Developers](https://www.youtube.com/watch?v=4YOpILi9Oxs "Play Video")
+
+[how hackers hack any website in 9 minutes 6 seconds?!](https://www.youtube.com/watch?v=bUH07lrBYgw "Play Video")
+
+[Cybersecurity Expert Demonstrates How Hackers Easily Gain Access To Sensitive Information](https://www.youtube.com/watch?v=aP8yrkkLWlM "Play Video")
+
+[World's Most Famous Hacker Kevin Mitnick & KnowBe4's Stu Sjouwerman Opening Keynote](https://www.youtube.com/watch?v=iFGve5MUUnE "Play Video")
+
+[How hacking actually looks like.](https://www.youtube.com/watch?v=jTIUgshJjds "Play Video")
