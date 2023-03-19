@@ -1,0 +1,77 @@
+---
+id: poem-1112
+guid: 1f19348a-e454-4e70-8325-934fcf717ffc
+title: When A Wild Goose In On The Loose, Protect Your Caboose
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-03-19T02:57:32.367Z'
+lastmod: null
+weight: 111200
+audio: poem-1112.mp3
+image: poem-1112-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+Please don’t get me wrong, I love geese,
+and wish for nothing less than hugs and peace.
+
+But I yelled and honked at one thrice today,
+because there was a lot of traffic speeding our way.
+
+I said “Goose! have you no brains?”,
+“this street has like six busy lanes”.
+
+It baffles me that they dangerously walk the ground,
+when they can just fly around.
+
+And I kept proper and respectful distance,
+and was even ready to get out and give assistance.
+
+---
+
+As far at the scientists know,
+geese are just angry Brontosaurus that don’t grow.
+
+And though we are always told,
+that Vikings were first to this part of the world...
+
+Legends say they didn’t settle it __because__ of a goose,
+it was said she was mightier than a rabid moose.
+
+And was often seen after dark,
+dining on a freshly cooked shark.
+
+So, she scared all the fierce vikings away,
+and some say, she haunts the east coast to this day.
+
+Alas, she allowed pilgrims to stay,
+because she got them to feed her candy corn all day.
+
+---
+
+And though in Michigan it gets really cold,
+or, so I am told.
+
+The local geese don’t fly away at all,
+they just hang out behind the local mall.
+
+They are tough birds that we should all admire,
+but golly, you definitely don’t want face one in a quagmire.
+
+The particular specimen I came across today,
+stopped __all the traffic__ and got her way.
+
+After I yelled, she turned around and didn’t care,
+she instead lifted her fat feathery fluffy butt in the air.
+
+And looking me square in the eye took an angry toxic dump,
+giving me a hot-flash, and making me jump.
