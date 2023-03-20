@@ -1,7 +1,7 @@
 ---
 id: poem-1112
 guid: 1f19348a-e454-4e70-8325-934fcf717ffc
-title: When A Wild Goose In On The Loose, Protect Your Caboose
+title: When A Wild Goose Is On The Loose, Protect Your Caboose
 description: null
 tags:
   - furkies-purrkies
