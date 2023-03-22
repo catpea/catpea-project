@@ -4,15 +4,15 @@ export default async function(){
 
 
 
-    {
-      type: 'success',
-      urgent: false,
-      text: `This is the new server (back on vercel) and new domain name registrar (porkbun). Everything should be working now, but since this is a new setup outages are still possible.`,
-      note: `
-        New/updated mirrors: catpea.github.io, catpea.pages.dev, catpea.onrender.com, and the old youtube.com/@catpea.
-      `,
-      link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
-  },
+  //   {
+  //     type: 'success',
+  //     urgent: false,
+  //     text: `This is the new server (back on vercel) and new domain name registrar (porkbun). Everything should be working now, but since this is a new setup outages are still possible.`,
+  //     note: `
+  //       New/updated mirrors: catpea.github.io, catpea.pages.dev, catpea.onrender.com, and the old youtube.com/@catpea.
+  //     `,
+  //     link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
+  // },
 
 
     // {
