@@ -9,13 +9,13 @@
   <div class="col">
     <div class="card h-100 text-bg-dark shadow position-relative">
       <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.image?>"><span class="position-absolute text-light d-block p-2" style="top: 1rem ! important; left: 1rem ! important;  text-shadow: 1px 1px var(--bs-dark);" ><i class="bi bi-zoom-in text-light"></i></span></a>
-      <a href="/permalink/<?=post.attr.guid?>/<?=post.attr.file?>"><img src="/permalink/<?=post.attr.guid?>/files/md-<?=post.attr.image?>" class="card-img-top" alt="..."></a>
+      <a href="/permalink/<?=post.attr.guid?>/"><img src="/permalink/<?=post.attr.guid?>/files/md-<?=post.attr.image?>" class="card-img-top" alt="..."></a>
       <div class="small text-muted mt-2">
 
       </div>
       <div class="card-body">
 
-        <h5 class="card-title text-warning"><a href="/permalink/<?=post.attr.guid?>" class="text-decoration-none">#<?=post.number?>: <?-post.attr.title.replace(/ (?=\w+$)/gm, '&nbsp;')?></a></h5>
+        <h5 class="card-title text-warning"><a href="/permalink/<?=post.attr.guid?>/" class="text-decoration-none">#<?=post.number?>: <?-post.attr.title.replace(/ (?=\w+$)/gm, '&nbsp;')?></a></h5>
         <h6 class="card-subtitle mb-3 text-muted small"><?=timestamp(post.attr.date)?> <?-post.text.length?'• <i class="bi bi-device-hdd"></i>'+numeral(post.text.length).format('0,0b'):''?><?-post.attachments.length?`<i class="bi bi-paperclip text-info"></i>${post.attachments.length}`:''?></h6>
         <?if(post.snip){?>
           <p class="card-text small text-muted"><?= post.snip?>...</p>
@@ -33,32 +33,14 @@
       <?}?> -->
 
       <?if(post.attr.audio){?>
-
-        <?if(website.variant == 'gandi'){?>
-          <div class="btn-group">
-            <a href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>" class="btn btn-warning"><i class="bi bi-play-circle"></i> Listen</a>
-            <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-              <span class="visually-hidden">Toggle</span>
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>">Alternative Link #1</a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/permalink/<?=post.attr.guid?>/files/<?=post.attr.audio?>">Default Link</a></li>
-            </ul>
-          </div>
-        <?}?>
-
-        <?if(website.variant == 'github'){?>
           <a href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>" class="btn btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
-        <?}?>
-
       <?}?>
 
-      <a href="/permalink/<?=post.attr.guid?>" class="btn btn<?=post.attr.audio?'-outline':''?>-warning position-relative"><i class="bi bi-eye-fill"></i> <?=post.attr.audio?'':'View'?><?if(post.order.first){?><span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light shadow">latest</span>
+      <a href="/permalink/<?=post.attr.guid?>/" class="btn btn<?=post.attr.audio?'-outline':''?>-warning position-relative"><i class="bi bi-eye-fill"></i> <?=post.attr.audio?'':'View'?><?if(post.order.first){?><span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light shadow">latest</span>
       <?}?></a>
 
       <?if(post.attr.links?.length){?>
-      <a href="/permalink/<?=post.attr.guid?>#references" title="Contains Links or References" class="btn btn-sm btn-outline-info float-end"><?=post.attr.links?.length?> Link<?=post.attr.links?.length>1?'s':''?></a>
+      <a href="/permalink/<?=post.attr.guid?>/#references" title="Contains Links or References" class="btn btn-sm btn-outline-info float-end"><?=post.attr.links?.length?> Link<?=post.attr.links?.length>1?'s':''?></a>
       <?}?>
 
       </div>
