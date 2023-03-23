@@ -16,7 +16,7 @@
       <div class="col-lg-4">
         <div class=" sticky-md-top py-3">
           <div class="card text-bg-dark shadow">
-            <img src="files/lg-<?=post.attr.image?>" class="card-img-top" alt="...">
+            <img src="/permalink/<?=post.attr.guid?>/files/lg-<?=post.attr.image?>" class="card-img-top" alt="<?=post.attr.title?>">
             <div class="card-body" style="min-height: 9rem;">
               <h5 class="card-title text-warning"><?=post.attr.title?></h5>
               <p class="card-text small text-muted"><?=timestamp(post.attr.date)?></p>
@@ -24,7 +24,7 @@
             <div class="card-footer" style="min-height: 4rem;">
               <div class="d-grid gap-2 col-8 mx-auto">
                 <?if(post.attr.audio){?>
-                <a href="files/<?=post.attr.audio?>" class="btn btn-lg btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
+                  <a href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>" class="btn btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
                 <?}?>
               </div>
             </div>
@@ -81,7 +81,7 @@
         </div>
       </div>
     <?}?>
-    
+
     <?if(post.attr.artwork.length && post.attr.artwork.filter(i=>i).length){?>
       <div class="row">
         <div class="col">
@@ -93,11 +93,11 @@
             </div>
             <ul class="list-group list-group-flush">
                 <?for(let artwork of post.attr.artwork.filter(i=>i)){?>
-  
+
                   <li class="list-group-item text-bg-dark">
                     <a class="card-link" <?-hostname(artwork).includes('unsplash.com')?'rel="nofollow" ':''?>href="<?=artwork?>"><i class="bi bi-palette-fill"></i> <?=artwork?></a>
                   </li>
-            
+
                 <?}?>
             </ul>
           </div>
