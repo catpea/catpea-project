@@ -11,8 +11,15 @@
          </div>
           <ul class="list-group list-group-flush list-group-numbered ps-sm-4">
             <? for(const link of post.attr.links){ ?>
-                <a href="<?= link.url ?>" class="list-group-item list-group-item-action text-bg-dark small"><?= link.title ?>
+
+              <? if(link.url.startsWith('files/')){ ?>
+                <a href="/permalink/<?=post.attr.guid?>/<?= link.url ?>" class="list-group-item list-group-item-action text-bg-dark small text-muted"><?= link.title ?>
+                  <small class="text-muted d-block small"><small><?=link.url?> (local file)</small></small></a>
+              <? }else{ ?>
+                <a href="<?= link.url ?>" class="list-group-item list-group-item-action text-bg-dark small text-muted"><?= link.title ?>
                 <small class="text-muted d-block small"><small><?=link.url?></small></small></a>
+              <? } ?>
+
             <? } ?>
           </ul>
         <div class="card-footer">
