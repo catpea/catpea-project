@@ -21,8 +21,6 @@ draft: false
 chapter: 6
 ---
 
-Chaos To Chaos; Or, Learn As If You Were To Live Forever, A Kind Of A Sci-Fi Poem
-
 Asking AI to write verse,
 and keep it terse…
 
