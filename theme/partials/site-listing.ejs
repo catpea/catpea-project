@@ -22,7 +22,9 @@
         <?}?>
         <?if(website.variant == 'github'){?>
           <?if(post.order.first){?>
-            <div class="text-info"><small>Sorry, but there is an up to 15 minute delay between publishing this text, and the audio becoming available.</small></div>
+            <?if(post.attr.audio){?>
+              <div class="text-info"><small>Sorry, but there is an up to 15 minute delay between publishing this text, and the audio becoming available.</small></div>
+            <?}?>
           <?}?>
         <?}?>
       </div>

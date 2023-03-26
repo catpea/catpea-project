@@ -1,0 +1,97 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Bobby Tables
+Sunday • March 26th 2023 • 2:27:31 pm
+
+[What is SQL?](https://www.youtube.com/watch?v=27axs9dO7AE "Play Video")
+
+[SQL Explained in 100 Seconds](https://www.youtube.com/watch?v=zsjvFFKOm3c "Play Video")
+
+### Bobby Tables
+
+[Little Bobby Tables and what he teaches us about SQL Injection](https://www.youtube.com/watch?v=YFVfUpf9XEk "Play Video")
+
+[Tables...Bobby Tables - Matt Collier: OKC SQL](https://www.youtube.com/watch?v=afOPIyelJ6I "Play Video")
+
+[SQL injection: XKCD's Little Bobby Tables explained (security@cambridge)](https://www.youtube.com/watch?v=oqGtAwPCbWk "Play Video")
+
+[This Is How Your Website Will Get Hacked: SQL Injection](https://www.youtube.com/watch?v=ZsdJza3ZY3U "Play Video")
+
+[Hacking Websites with SQL Injection - Computerphile](https://www.youtube.com/watch?v=_jKylhJtPmI "Play Video")
+
+[SQL Injections Explained - The #1 Way Websites Are Hacked](https://www.youtube.com/watch?v=C18cc3_7z_Q "Play Video")
+
+[I hacked my own app to show you how hackers do it.. (SQL Injection)](https://www.youtube.com/watch?v=bCNzez540a8 "Play Video")
+
+[SQL Injection For Beginners](https://www.youtube.com/watch?v=cx6Xs3F_1Uc "Play Video")
+
+[SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ "Play Video")
+
+### OWASP
+
+[2021 OWASP Top Ten Overview](https://www.youtube.com/watch?v=uu7o6hEswVQ "Play Video")
+
+[2021 OWASP Top Ten: Broken Access Control](https://www.youtube.com/watch?v=K2PiHznrPBs "Play Video")
+
+[2021 OWASP Top Ten: Cryptographic Failures](https://www.youtube.com/watch?v=2CMNNAJ6Ixc "Play Video")
+
+[2021 OWASP Top Ten: Injection](https://www.youtube.com/watch?v=GSuZPwsil0g "Play Video")
+
+[2021 OWASP Top Ten: Insecure Design](https://www.youtube.com/watch?v=4pCiYtVrxBM "Play Video")
+
+[2021 OWASP Top Ten: Security Mis-configuration](https://www.youtube.com/watch?v=2FJIIN5TZNU "Play Video")
+
+[2021 OWASP Top Ten: Vulnerable and Outdated Components](https://www.youtube.com/watch?v=AyD7KjOGOO4 "Play Video")
+
+[2021 OWASP Top Ten: Identification and Authentication Failures](https://www.youtube.com/watch?v=I1pe08TihKM "Play Video")
+
+[2021 OWASP Top Ten: Software and Data Integrity Failures](https://www.youtube.com/watch?v=TwfLvG0D6dc "Play Video")
+
+[2021 OWASP Top Ten: Security Logging and Monitoring Failures](https://www.youtube.com/watch?v=t_VWIGfkakc "Play Video")...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ch?v=WzfDLqt-WIg "Play Video")
+
+[7 Database Design Mistakes to Avoid (With Solutions)](https://www.youtube.com/watch?v=s6m8Aby2at8 "Play Video")
+
+[Database Design for Facebook: A Social Network Database Example](https://www.youtube.com/watch?v=sougyTO_Wjw "Play Video")
+
+### Finale
+
+[Top 25 SQL Interview Questions and Answers(The BEST SQL Interview Questions)](https://www.youtube.com/watch?v=AK7_m-aThfw "Play Video")
+
+[IQ15: 6 SQL Query Interview Questions](https://www.youtube.com/watch?v=uAWWhEA57bE "Play Video")
+
+[Data Analyst VS Data Scientist VS Data Engineer](https://www.youtube.com/watch?v=rKpdsnjJjOM "Play Video")
+
+[What is a Data Scientist? A day in the life & industry breakdown](https://www.youtube.com/watch?v=E1pNOqyq8s8 "Play Video")
+
+[real talk about my Data Scientist jobs + salary for entry level data science](https://www.youtube.com/watch?v=5O9abIxIqNA "Play Video")
+
+[Software Engineering vs Data Science in Practice](https://www.youtube.com/watch?v=uQLxLpq-gwc "Play Video")
+
+[The Essential Tools for Data Science](https://www.youtube.com/watch?v=pAXeCpwKgYg "Play Video")
+
+[Machine Learning vs Data Engineering - What's the difference?](https://www.youtube.com/watch?v=cbsEWplQH0k "Play Video")
+
+[Data Engineering Course for Beginners](https://www.youtube.com/watch?v=dvviIUKwH7o "Play Video")
+
+[Why NOT to become a Data Engineer](https://www.youtube.com/watch?v=UjYc8uH6lHw "Play Video")
+
+[The Highest Paid Job Family in Data Science (is it right for you?)](https://www.youtube.com/watch?v=Vk2tuJ683JU "Play Video")
+
+[How I Would Learn Data Science in 2022](https://www.youtube.com/watch?v=Rt6eb9VOFII "Play Video")
+
+[What do Data Scientist, Data Analyst & Data Engineer do? What makes them different?](https://www.youtube.com/watch?v=amFDLwTdSgc "Play Video")
+
+[Why I Left Data Science for Software Engineering](https://www.youtube.com/watch?v=eWB9nykFjCU "Play Video")
+
+[Why you should not be a data scientist](https://www.youtube.com/watch?v=sOZ8MxFw8TQ "Play Video")
+
+[Why being a data scientist is awesome!](https://www.youtube.com/watch?v=DoFZtsV25Zw "Play Video")
+
+[Data Scientist vs. Web Developer Battle](https://www.youtube.com/watch?v=BxGa0DoUcRw "Play Video")
+
+[10 Programmer Stereotypes](https://www.youtube.com/watch?v=_k-F-MMvQV4 "Play Video")
