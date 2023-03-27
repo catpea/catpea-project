@@ -2,15 +2,15 @@ export default async function(){
   const response = [
 
 
-        {
-          type: 'warning',
-          urgent: false,
-          text: `Fixed a lot of links, they got broken because of the switch over.`,
-          note: `
-            The new servers just demand that directories are followed by slash for relative paths (images within posts) to properly join and resolve into a valid URL.
-          `,
-          // link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
-      },
+      //   {
+      //     type: 'warning',
+      //     urgent: false,
+      //     text: `Fixed a lot of links, they got broken because of the switch over.`,
+      //     note: `
+      //       The new servers just demand that directories are followed by slash for relative paths (images within posts) to properly join and resolve into a valid URL.
+      //     `,
+      //     // link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
+      // },
 
 
   //   {
