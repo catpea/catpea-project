@@ -1,0 +1,122 @@
+---
+id: poem-1121
+guid: 01b5c0cd-ff56-42d2-be8b-ea27651cc0b7
+title: The Human Super-Culture Of Greatness At A Glance
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-03-28T03:11:14.785Z'
+lastmod: null
+weight: 112100
+audio: poem-1121.mp3
+image: poem-1121-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/CLjfYycHgGc
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+A word of caution, ideas of lifting one self up to some superior position are always fraudulent,
+and always aimed at people suffering a terrible poverty of mind.
+
+The whatever leaders that present a shortcut to self betterment are both actors and criminals.
+
+There are no shortcuts to greatness,
+just like there are no shortcuts to growing up.
+
+In fact the definition of greatness,
+is simply [growing all the way up][0].
+
+A set of lectures on the subject is merely a way to sell you an impression of greatness,
+the real thing cannot be bought.
+
+Today greatness arises from authentic friendships across time,
+with all the world’s greatest thinkers.
+
+A friendship with the author of a book you are reading,
+is the only way to properly understand it.
+
+And in befriending a Philosopher, and thus understanding their way of thinking,
+you cannot help but to pick up the best parts of their culture.
+
+---
+
+This is a unique time in Human History,
+Schools are not working, and we can’t be certain if they ever really worked, or if students were always just forced into pretending.
+
+Using money as the prime mover of everything,
+time and again, seems to be causing economic failures, and taking us back to war.
+
+Most importantly,
+infective schools are failing to lift communities all around the world to higher cultures.
+
+Despite what standardized education teachers are saying,
+a teacher is in fact a kind of a parent, and certainly a guardian.
+
+Cultures that push children into uneducation, crime, addiction, violence, indoctrination and servitude,
+can be corrected with inspiring and effective schools.
+
+However, today we see that High School and College can often fracture children into addiction,
+and they certainly push them into poverty.
+
+Not only by taking every penny they have, but also, every penny they can get via student loan programs,
+programs that cannot be forgiven by bankruptcy.
+
+Finally, Culture of Greatness is a super-culture,
+that extends invitation to all.
+
+It is a culture of greatness of heart, of greatness of mind,
+of great class, of clear thinking, of knowledge and resulting wisdom, and transcendence of our own limits.
+
+It is a culture of leaving behind bad ideas,
+and avoiding the repetition of mistakes.
+
+The culture of Greatness, extends all other cultures,
+into standing up for goodness, for Human rights, equality, and world peace.
+
+It helps the children that we are ailing to protect,
+to independently discover their own meaning by walking into the philosophy section of the local library, and not leaving until all is light.
+
+---
+
+The finest way to begin,
+is by making use of the unusual invention of narrated books.
+
+They are no doubt shamed, and looked down upon by bullies,
+but they are in fact music to our ears.
+
+And libraries will fight tooth and nail,
+to make them available free of charge.
+
+Two staring points come to mind,
+the beautiful [Story Of Philosophy by Will Durant][1].
+
+And the overwhelmingly fascinating [Giants Of Philosophy][2],
+wonderfully voiced by Charlton Heston.
+
+These two works represent an introduction to many great beings,
+they are an easy start of a quest that is sure to take an entire lifetime.
+
+Be messy when listening and re-listening your philosophy books,
+back a backpack, live in a tent for a while, even if it is your own backyard.
+
+Know that every great being that has chosen to share,
+thought about you, cared about you, and saw you as hope and dream.
+
+In their weakness, out on the edges of their limits,
+they trusted in your strengths to understand and rise to stand on their shoulders.
+
+Whoever you are, no mater how bad it gets,
+make sure that the philosophy books are playing in your headphones.
+
+They will heal you, replenish you, protect you,
+and gently and privately, bring you into the culture of greatness.
+
+[0]: https://en.wikipedia.org/wiki/Loevinger%27s_stages_of_ego_development
+[1]: https://www.youtube.com/results?search_query=The+Story+of+Philosophy+Will+Durant
+[2]: https://duckduckgo.com/?q=Giants+Of+Philosophy
