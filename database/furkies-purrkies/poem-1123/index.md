@@ -15,7 +15,7 @@ artwork:
   - https://www.pexels.com/photo/person-working-remotely-3987066/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
