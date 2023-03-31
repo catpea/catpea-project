@@ -22,7 +22,7 @@ chapter: 6
 ---
 
 As a rule of thumb,
-do the exercises that king of feel dumb.
+do the exercises that kind of feel dumb.
 
 Nobody knows why this works,
 but it comes with all the perks.
