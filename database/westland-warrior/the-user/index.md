@@ -1,8 +1,25 @@
-Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
---------------------------------------------------------------------------------
-
-The Sysop
-Sunday • April 2nd 2023 • 8:05:38 pm
+---
+id: the-user
+guid: 04cbea90-386f-4edb-b6a7-5e14243f4e9b
+title: The User
+description: null
+tags:
+  - westland-warrior
+date: '2023-04-03T00:05:38.050Z'
+lastmod: null
+weight: 15901
+audio: null
+image: the-user-cover.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  ytcover: true
+raw: true
+draft: false
+chapter: 1
+---
 
 [What is Linux?](https://www.youtube.com/watch?v=zA3vmx0GaO8 "Play Video")
 
