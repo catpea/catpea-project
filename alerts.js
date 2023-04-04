@@ -1,16 +1,13 @@
 export default async function(){
   const response = [
-
-
-// 
-//
-// {
-// type: 'warning',
-// urgent: true,
-// text: `Possible delays due to heavy thunderstoms.`,
-// },
-//
-//
+    // {
+    //   type: 'warning',
+    //   urgent: true,
+    //   text: `Possible publishing delays due to thunderstoms.`,
+    //   note: `A thunderstorm is forecasted for my area and may cause publishing delays. According to AI the reason for the storm is "because of the butterfly wings in the Amazon that created a ripple effect of energy, which is then channeled through the clouds in the form of a mighty storrm" Storm or no storm, I urge everyone to grab onto theit butts and stay safe anyway. We must all remember that weather, like good poetry, can be damn unpredictable.`
+    // },
+    //
+    //
 
 
 
