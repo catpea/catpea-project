@@ -33,7 +33,7 @@ We provide it here in full.
 
 ---
 Right, Left, Left Left,
-We now know, right from left.
+We don't know, right from left.
 
 Four, three, two one,
 We don't need no cars no more.
