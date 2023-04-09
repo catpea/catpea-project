@@ -1,0 +1,97 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Frontend Developer
+Sunday • April 9th 2023 • 12:05:53 pm
+
+[HTML & CSS: Creating and Viewing an HTML File](https://www.youtube.com/watch?v=fALDrmrdXlc "Play Video")
+
+[HTML & CSS: The Many HTML Tags](https://www.youtube.com/watch?v=j5a6TygkF4k "Play Video")
+
+[HTML & CSS: Creating and Using a CSS File](https://www.youtube.com/watch?v=7E_bH6mJgzI "Play Video")
+
+[HTML & CSS: The Many CSS Commands and Media Queries](https://www.youtube.com/watch?v=v5ho12-Z5N0 "Play Video")
+
+### JavaScript
+
+[JavaScript: Basics](https://www.youtube.com/watch?v=kccz9Go4yOA "Play Video")
+
+[JavaScript: Functions](https://www.youtube.com/watch?v=ySZgjf_IpOM "Play Video")
+
+[JavaScript: External Libraries](https://www.youtube.com/watch?v=uoB0oAX3cvM "Play Video")
+
+[JavaScript: The Document Object Model (DOM) and Browser API](https://www.youtube.com/watch?v=Jqv6u8ec3fQ "Play Video")
+
+[JavaScript: Event-Driven Programming in JavaScript](https://www.youtube.com/watch?v=ouHMLTfLDSo "Play Video")
+
+
+### Full Stack Development
+
+[What is Full Stack Development | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=EKKLkzReZR4 "Play Video")
+
+[How does an application work | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=39kav7demMk "Play Video")
+
+[Let's look into using HTML | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=QEav1U6uA10 "Play Video")
+
+[Lets learn more about CSS | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=D2MnCeS0vZs "Play Video")
+
+[Using External Stylesheets & Multiple Pages | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=UIqFkwmMRJU "Play Video")
+
+[Using Javascript to Create a Header | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=EF9I1-nZcqc "Play Video")
+
+[Rendering Posts using Javascript | Beginner's Series to Full Stack Web Development](https://www.youtube.com/watch?v=6_IjklVSQAA "Play Video")
+
+[Using Functions in Javascript | Beginner's Guide to Full Stack Development](https://www.youtube.com/watch?v=jOQARdz9ZgA "Play Video")
+
+[Making your first Node REST API | Beginner's Guide to Full Stack Development](https://www.youtube.com/watch?v=d-XefYh_SDw "Play Video")
+
+[Using MongoDB to Store our Posts | Beginner's Guide to Ful...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...el](https://www.youtube.com/watch?v=gUs-Sissb48 "Play Video")
+
+[API Routes](https://www.youtube.com/watch?v=0gor32MSyiA "Play Video")
+
+[Svelte State Management Guide (Sharing Data Between Components)](https://www.youtube.com/watch?v=4dDjQiOVrOo "Play Video")
+
+[Simple SvelteKit Page Transitions](https://www.youtube.com/watch?v=gkw1wFIXM_8 "Play Video")
+
+### Svelte Libraries
+
+[10 Awesome Svelte UI Component Libraries](https://www.youtube.com/watch?v=RkD88ARvucM&t=118 "Play Video")
+
+[What Svelte UI Library Should You Use?](https://www.youtube.com/watch?v=O0mNU0maItY "Play Video")
+
+[Svelte Headless UI Component Library](https://www.youtube.com/watch?v=7mE1UbRwU3w "Play Video")
+
+[How To Make and Publish a Svelte Library - Weekly Svelte](https://www.youtube.com/watch?v=_TymiadmPrc "Play Video")
+
+[Introduction To 3D With Svelte (Threlte)](https://www.youtube.com/watch?v=89LYeHOncVk "Play Video")
+
+### WebSockets
+
+[What are WebSockets? How is it different from HTTP?](https://www.youtube.com/watch?v=xTR5OflgwgU&t=25 "Play Video")
+
+[WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more](https://www.youtube.com/watch?v=2Nt-ZrNP22A "Play Video")
+
+[A Beginner's Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4 "Play Video")
+
+Please note how the following video shows use of plain functions to communicate between server and client.
+Web sockets make your code extremely uniform, you are just distributing plain old functions between server and client.
+
+[WebSockets with NodeJS (Express) and WebSocket API](https://www.youtube.com/watch?v=wV-fDdHhGqs "Play Video")
+
+### WebSocket/Socket.io Example
+
+[12.1: Introduction to Node - WebSockets and p5.js Tutorial](https://www.youtube.com/watch?v=bjULmG8fqc8 "Play Video")
+
+[12.2: Using Express with Node - WebSockets and p5.js Tutorial](https://www.youtube.com/watch?v=2hhEOGXcCvg "Play Video")
+
+[12.3: Connecting Client to Server with Socket.io - WebSockets and p5.js Tutorial](https://www.youtube.com/watch?v=HZWmrt3Jy10 "Play Video")
+
+[Learn Socket.io In 30 Minutes](https://www.youtube.com/watch?v=ZKEqqIO7n-k "Play Video")
+
+[Interview with Senior JS Developer](https://www.youtube.com/watch?v=Uo3cL4nrGOk "Play Video")
+
+[JavaScript Is Weird](https://www.youtube.com/watch?v=sRWE5tnaxlI "Play Video")
