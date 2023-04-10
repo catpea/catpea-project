@@ -1,7 +1,7 @@
 ---
 id: poem-1134
 guid: ee3bda24-844c-4b87-8128-cb4a982ca911
-title: Standardized Education Is Impossible Fantasy, Because Learning Requires A Unique Sequence
+title: Standardized Education Is An Impossible Fantasy, Because Learning Requires A Unique Sequence
 description: null
 tags:
   - furkies-purrkies
