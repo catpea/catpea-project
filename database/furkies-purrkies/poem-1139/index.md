@@ -15,7 +15,7 @@ artwork:
   - https://www.pexels.com/photo/black-and-silver-laptop-computer-on-round-brown-wooden-table-1181243/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
