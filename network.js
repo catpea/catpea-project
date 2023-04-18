@@ -42,13 +42,13 @@ export default async function(){
       title: 'Art',
       iconClasses: ['bi', 'bi-palette'],
       url: '/portfolio.jpg',
-      navigation: true,
+      navigation: false,
     },
     {
       title: 'Code',
       iconClasses: ['bi', 'bi-code-slash'],
       url: '/snippets.html',
-      navigation: true,
+      navigation: false,
     },
     {
       title: 'Audiobook',
