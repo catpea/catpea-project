@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-Programming Is Not Hard; You Just Need Real Context (I am still recording audio)
+Programming Is Not Hard; You Just Need Real Context
 Tuesday • April 18th 2023 • 11:23:00 pm
 
 Allow me to explain to you completely and in context,
@@ -26,14 +26,14 @@ but the underlying data structure is the same a grid, rows, columns cells or fie
 
 ---
 
-Here is where ineffective education fails,
-because the next thing textbooks talk about is the different types of joins.
+The next thing textbooks talk about,
+is the different types of joins.
 
 But there is only one type of join that you should ever remember,
 the LEFT JOIN, or the one to many relationship.
 
-Now before we go any further, we need to understand what we are doing,
-this is again where schools fail.
+Now before we go any further,
+we need to understand what we are doing, speaking in abstract terms is useless for understanding databases.
 
 You cannot understand databases, without a reason, a picture,
 an idea, and our idea here is to create an internet version of a music player with multiple users.
@@ -67,11 +67,13 @@ And that would be pretty cute,
 but nobody has time for that.
 
 We just use a left join everywhere,
-this way, we create a con...
+this way, we create a consistent tree.
+
+The account is ro...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...e password matches, during login.
+...gin.
 
 You encrypt the password user is sending again,
 and compare if the encrypted strings match.
@@ -130,3 +132,5 @@ which trigger one or more queries on your database…
 
 And return the table data,
 that you then use in your interface.
+
+[1]: https://nobackend.org/dreamcode.html

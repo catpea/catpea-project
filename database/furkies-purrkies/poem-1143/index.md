@@ -1,21 +1,21 @@
 ---
 id: poem-1143
 guid: a132dd21-fe71-497b-ac47-2de2a82d80b3
-title: Programming Is Not Hard; You Just Need Real Context (I am still recording audio)
+title: Programming Is Not Hard; You Just Need Real Context
 description: null
 tags:
   - furkies-purrkies
 date: '2023-04-19T03:23:00.171Z'
 lastmod: null
 weight: 114300
-audio:
+audio: poem-1143.mp3
 image: poem-1143-illustration.jpg
 images: null
 artwork:
   - https://www.pexels.com/photo/network-servers-on-an-enclosure-6466141/
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 6
@@ -43,14 +43,14 @@ but the underlying data structure is the same a grid, rows, columns cells or fie
 
 ---
 
-Here is where ineffective education fails,
-because the next thing textbooks talk about is the different types of joins.
+The next thing textbooks talk about,
+is the different types of joins.
 
 But there is only one type of join that you should ever remember,
 the LEFT JOIN, or the one to many relationship.
 
-Now before we go any further, we need to understand what we are doing,
-this is again where schools fail.
+Now before we go any further,
+we need to understand what we are doing, speaking in abstract terms is useless for understanding databases.
 
 You cannot understand databases, without a reason, a picture,
 an idea, and our idea here is to create an internet version of a music player with multiple users.
@@ -138,7 +138,7 @@ and you should never do that anyway.
 
 ---
 
-Now, to make the website go, you now create beautiful function names,
+Now, to make the website go, you now create [beautiful function names][1],
 that you will use for your API.
 
 JavaScript, the only language that works in he browser,
@@ -231,3 +231,5 @@ which trigger one or more queries on your database…
 
 And return the table data,
 that you then use in your interface.
+
+[1]: https://nobackend.org/dreamcode.html
