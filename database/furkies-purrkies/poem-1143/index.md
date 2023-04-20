@@ -15,7 +15,7 @@ artwork:
   - https://www.pexels.com/photo/network-servers-on-an-enclosure-6466141/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
