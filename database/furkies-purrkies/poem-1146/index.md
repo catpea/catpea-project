@@ -39,7 +39,7 @@ an integrated body of knowledge, nobody caress what the classes add up to.
 ---
 
 Parents are happy that they have a free babysitter,
-and political hopefuls are happy to make fale education improvement promises.
+and political hopefuls are happy to make fake education improvement promises.
 
 Unusually, even smart people are in the wrong, thinking that improving education,
 is about getting the students to study harder.
@@ -70,7 +70,7 @@ where people pay to use the tools and ideas you program.
 There are many standard platforms, but they never match what you need exactly,
 so you are challenged to learn how to build custom platforms.
 
-In the beginning you explore the language, then database workflows,
+In the beginning you explore the language, then database work-flows,
 then start building your first API platforms, followed by the User Interface…
 
 And finally, come to the point, where you program something you invented,
