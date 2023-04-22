@@ -1,0 +1,92 @@
+---
+id: poem-1146
+guid: a0556a77-58b4-4bda-8038-f54638404f56
+title: Little Empires
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-04-22T03:27:27.918Z'
+lastmod: null
+weight: 114600
+audio: poem-1146.mp3
+image: poem-1146-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/hZWK1jcYy8g
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 6
+---
+
+Somehow, we ended up not noticing how ineffective education has become,
+probably because everybody is too desperate for a paycheck.
+
+There is no room for effort to teach,
+when everything is about desperately trying to put food on the table.
+
+You will see that teachers treat memorization,
+the same as comprehension, and state tests and politicians tests don’t care.
+
+There is another lie here that you might not have noticed,
+the subject divisions are wrong, they never add up.
+
+And what is worse, nobody cares that you receive,
+an integrated body of knowledge, nobody caress what the classes add up to.
+
+---
+
+Parents are happy that they have a free babysitter,
+and political hopefuls are happy to make fale education improvement promises.
+
+Unusually, even smart people are in the wrong, thinking that improving education,
+is about getting the students to study harder.
+
+But you can’t improve a disconnected education,
+or shreds and patches of failed promises and half measures.
+
+You can’t just hope to smush disconnected bits of whatever is easy to teach,
+into an integrated body of knowledge.
+
+It all has to grow in a very precise way,
+almost exactly like life on earth grew to perfectly adapt to its chemical signature.
+
+Real education is about gradually adapting,
+to more and more ideas, as they integrate and snap together to form a seamless body.
+
+---
+
+There is  thought experiment you can conduct,
+to get a better picture.
+
+A real class, a real subject, with a beautiful on-ramp,
+and a sturdy promise of building little empires that get you out of poverty.
+
+That is Computer Programming aimed at launching on-line platforms,
+where people pay to use the tools and ideas you program.
+
+There are many standard platforms, but they never match what you need exactly,
+so you are challenged to learn how to build custom platforms.
+
+In the beginning you explore the language, then database workflows,
+then start building your first API platforms, followed by the User Interface…
+
+And finally, come to the point, where you program something you invented,
+or expand on existing ideas to make them better.
+
+Look, at, the graduation day, you are leaving school,
+with a dozen or so small side projects, that probably pay the bills…
+
+But most importantly, you are walking out of there, ready to co-found a company with your friends,
+knowing exactly what you have to build to succeed at scale.
+
+Here all the classes you took, integrated together into enabling you,
+to create little empires.
+
+And grant you the power of code, where you create companies and products,
+just out of thoughts and ideas alone.
+
+You see, real education, comes together,
+to make you powerful.
