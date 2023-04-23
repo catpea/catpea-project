@@ -1,0 +1,94 @@
+---
+id: poem-1147
+guid: c0b028dc-ebd4-41a8-b98c-611b5b8816b3
+title: Early Artificial Intelligence Has Already Changed Education
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-04-23T02:53:29.427Z'
+lastmod: null
+weight: 114700
+audio: poem-1147.mp3
+image: poem-1147-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+Artificial Intelligence gives students superpowers,
+that will help them rise out of poverty.
+
+---
+
+Previously, in the world of programming, just because you were able to make a platform,
+or build a product, did not mean you would make a sale.
+
+This was not about advertising, success has never been a function of advertising,
+success is purely about authentic usefulness.
+
+Today, Artificial Intelligence, or whatever you wish to call it,
+gives young business owners the ability to create useful services.
+
+Previously,
+we could ask.
+
+“What could you possibly do,
+that some gigantic corporation couldn't do ten times better better?”
+
+But now with generative text and graphics, and music right around the corner,
+the answer to that question becomes: “EVERYTHING”.
+
+Being small give you the advantage,
+of being able to take care of your earliest customers.
+
+As you grow, you hire help,
+by that time you will have a growing knowledge-base, and AI can take it from there.
+
+Armed with AI, that is free an open source,
+if you have a gaming rig to run it on…
+
+You are not only as capable as world’s best artists and writers,
+but you get to command an infinite army of them,
+
+---
+
+Previously,
+you could make an argument.
+
+That just because you can build online websites,
+does not mean you will have something to put int there.
+
+Now you build a website,
+and expand the artistic, musical, and writing abilities of every one of your users.
+
+You help them compose music, maybe in your website,
+or maybe by just presenting them with automated lectures.
+
+You help them, illustrate the classics, like Alice In Wonderland,
+in a way that called to them.
+
+Here they can even shorten the books and tweak the plot,
+exactly like Hollywood does.
+
+Your users wold be able to modernize old stories,
+bring Beowulf into the modern age, let magic grant him and his love, a forever.
+
+---
+
+Yes, an argument against programming, couple of years ago,
+could at least sound, somewhat, kind of, reasonable…
+
+But with powerful, free and open source AI,
+not learning programming is like not learning to write...
+
+Because today programming with AI in mind,
+can lift students out of poverty.
+
+With the rise of the AI,
+programming has become as important as reading, writing and arithmetic.
