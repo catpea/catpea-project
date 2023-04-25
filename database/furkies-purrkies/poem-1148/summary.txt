@@ -1,8 +1,14 @@
-To come up with a series of start-up or side-project ideas,
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Building On Principle; Or, How To Come Up With Neat Little Startup Ideas
+Sunday • April 23rd 2023 • 9:11:27 pm
+
+To come up with a series of startup or side-project ideas,
 all you need to do is sit down to a blank business project…
 
 And wait until you get stuck confused, or uncomfortable,
-the solution to the your issue will be a start-up idea.
+the solution to the your issue will be a startup idea.
 
 ---
 
@@ -89,7 +95,7 @@ and nowhere private to easily version your files.
 
 ---
 
-That should be your first start-up,
+That should be your first startup,
 you ask your customer for a company name.
 
 And then let them map everything out,
@@ -109,10 +115,10 @@ runs on the customers computer.
 The premium version,
 runs on your company servers, supports multiple users.
 
-Finished on unfinished, any idea, side-project, or start-up on your servers,
+Finished on unfinished, any idea, side-project, or startup on your servers,
 can be listed for sale.
 
-Potential buyers, can review the code, the to-do lists, and commit logs,
+Potential buyers, can review the code, the todo lists, and commit logs,
 and either buy, or make an offer.
 
 ---
@@ -143,17 +149,11 @@ or ORM models, are you annoyed that you can’t see the data users table.
 Are you scared of persistent WebSocket connections costing too much,
 can you come up with an idea where you can use HTTP somehow?
 
-All of these things, lead to start-up ideas,
+All of these things, lead to startup ideas,
 some small some big.
 
 Small ideas are not bad ideas,
 it may even be better to have 5 small companies than one big one.
 
 And finally, does the paperwork and billing for five little companies scare you,
-because that is a neat start-up idea too...
-
---------------------------------------------------------------------------------
-Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
-
-Building On Principle; Or, How To Come Up With Neat Little Start-up Ideas
-Sunday • April 23rd 2023 • 9:11:27 pm
+because that is a neat startup idea too...
