@@ -1,14 +1,14 @@
 ---
 id: poem-1150
 guid: 056f1dcd-bace-4acb-9184-7e428fffbc18
-title: Programming Interviews Are A Mistake (Still Recording)
+title: Programming Interviews Are A Mistake
 description: null
 tags:
   - furkies-purrkies
 date: '2023-04-26T03:29:39.020Z'
 lastmod: null
 weight: 115000
-audio:
+audio: poem-1150.mp3
 image: poem-1150-illustration.jpg
 images: null
 artwork:
@@ -21,7 +21,7 @@ draft: false
 chapter: 6
 ---
 
-The way to fix it, is to setup a respectful paid internship,
+Programmers are misunderstood, and way to fix it, is to setup a respectful paid internship,
 or simply pay the potential hires for learning and volunteering.
 
 ---
@@ -66,7 +66,7 @@ But really using our fine navigational skills,
 to start memorizing all the interesting places of a new city.
 
 To distract or pull a programmer out of that,
-is a mistake as stupid; as annoying your car mechanic, pilot, dentist, and surgeon.
+is a mistake so foolish; as annoying your car mechanic, pilot, dentist, and surgeon.
 
 ---
 
