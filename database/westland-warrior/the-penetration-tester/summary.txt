@@ -1,0 +1,92 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Penetration Tester
+Sunday • April 30th 2023 • 2:07:59 pm
+
+[4 Most Difficult IT Security Certifications](https://www.youtube.com/watch?v=cWlVxMu2AJM "Play Video")
+
+[DevSecOps : What, Why and How](https://www.youtube.com/watch?v=DzX9Vi_UQ8o&t=55 "Play Video")
+
+["I rob banks for a living," but it's all totally legal🎙Darknet Diaries Ep. 66: Freakyclown](https://www.youtube.com/watch?v=HDy_sYYw5PE "Play Video")
+
+[Who Stole the NSA's Top Secret Hacking Tools?🎙Darknet Diaries Ep. 53: Shadow Brokers](https://www.youtube.com/watch?v=Zje2Pqmh-I0 "Play Video")
+
+[This Hacker Makes $160K a Day ⁠— After He Got Out of Federal Prison🎙Darknet Diaries Ep. 60: dawgyg](https://www.youtube.com/watch?v=nDgUsOS7kpE "Play Video")
+
+## D3FC0N
+
+[James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo "Play Video")
+
+[BiC Village - Ochuan Marshall - The Last Log4J Talk You Ever Need](https://www.youtube.com/watch?v=qGDpBCEKvlQ "Play Video")
+
+[Jacob Baines - Do Not Trust the ASA, Trojans](https://www.youtube.com/watch?v=NlcTJAWTSLc "Play Video")
+
+[Melvin Langvik - Taking a Dump In The Cloud](https://www.youtube.com/watch?v=27fv-maYVm0 "Play Video")
+
+## Black Hat
+
+[Keynote - Our Kryptonite: A Defendable Internet](https://www.youtube.com/watch?v=VRmrn1zO2GM "Play Video")
+
+[Confidence in Chaos: Strategies for World-Class Security Operations](https://www.youtube.com/watch?v=D17-yJg3ML0 "Play Video")
+
+[Real-World Detection Evasion Techniques in the Cloud](https://www.youtube.com/watch?v=sSLUjr3PQmM "Play Video")
+
+[{JS-ON: Security-OFF}: Abusing JSON-Based SQL Queries](https://www.youtube.com/watch?v=V-VZ5WbR8uE "Play Video")
+
+[Keynote - Cybersecurity: The Next Generation](https://www.youtube.com/watch?v=uPM_IgTdHCk "Play Video")
+
+## NullCon
+
+[Panel Session | Elements Of A Successful Security Strategy: A Comprehensive Approach](https://www.youtube.com/watch?v=UHe3dtLV1_U "Play Video")
+
+[The Silent Spy Among Us: Modern Attacks Against Smart Intercoms by Vera Mens | Nullcon Berlin 2023](https://www.youtube.com/watch?v=YttsyG5295o "Play Video")
+
+[Keynote | Server Side Prototype Pollution: Blackbox Detection Without The DoS by Gareth Heyes](https://www.youtube.com/watch?v=LD-KcuKM_0M "Play Video")
+
+[Raining CVEs On WordPress Plugins With Semgrep by Shreya Poheka...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...WaFcW9&index=5&pp=iAQB "Play Video")
+
+[HackThisSite Basic Challenge 6](https://www.youtube.com/watch?v=t506xILCFIc&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=6&pp=iAQB "Play Video")
+
+[HackThisSite Basic Challenge 7](https://www.youtube.com/watch?v=vWf2CuLOrOM&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=7&pp=iAQB "Play Video")
+
+[HackThisSite Basic Mission 8](https://www.youtube.com/watch?v=Pl9m3AqvrZc&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=8&pp=iAQB "Play Video")
+
+[HackThisSite Basic Mission 9](https://www.youtube.com/watch?v=BCzYtsNsosg&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=9&pp=iAQB "Play Video")
+
+[HackThisSite Basic Mission 10](https://www.youtube.com/watch?v=35Uzjw2H8Uw&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=10&pp=iAQB "Play Video")
+
+[HackThisSite Basic Mission 11](https://www.youtube.com/watch?v=XTMq1TggJaM&list=PLjrF25Df7idwsxy0Oex2nSOcqHHWaFcW9&index=11&pp=iAQB "Play Video")
+
+## Goat Juice
+
+[Hacking the OWASP WebGoat - by Omar Santos](https://www.youtube.com/watch?v=cUqyPHtqvJA "Play Video")
+
+[Hacking the OWASP Juice Shop Part 1 - by Omar Santos](https://www.youtube.com/watch?v=w2lGZ7ESO84 "Play Video")
+
+[Hacking the OWASP Juice Shop Part 2 - by Omar Santos](https://www.youtube.com/watch?v=-nVCzf4sZd8 "Play Video")
+
+[Pentesting OWASP Juice Shop - Part 1](https://www.youtube.com/watch?v=Cz37iejTsH4 "Play Video")
+
+[Pentesting OWASP Juice Shop - Part 2](https://www.youtube.com/watch?v=523l4Pzhimc "Play Video")
+
+[Pentesting OWASP Juice Shop - Part 3](https://www.youtube.com/watch?v=F8iRF2d-YzE "Play Video")
+
+[Pentesting OWASP Juice Shop - Part 4](https://www.youtube.com/watch?v=1hhd9EwX7h0 "Play Video")
+
+[Pentesting OWASP Juice Shop - Part 5](https://www.youtube.com/watch?v=lGVAXCfFwv0 "Play Video")
+
+
+## Finale
+
+[Scammers Who Scam Scammers, Hackers Who Hack Hackers: Exploring a Sub-economy on Cybercrime Forums](https://www.youtube.com/watch?v=5bNQnNdZeb0 "Play Video")
+
+[How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY "Play Video")
+
+[Harvard CS50 – Full Computer Science University Course (24 hours)](https://www.youtube.com/watch?v=8mAITcNt710 "Play Video")
+
+[DEF CON 30 - Winn Schwartau - My First Hack Was in 1958](https://www.youtube.com/watch?v=kibTTcIRXHg "Play Video")
