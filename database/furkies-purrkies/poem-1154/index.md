@@ -1,14 +1,14 @@
 ---
 id: poem-1154
 guid: 7b5b6c86-b637-4ec1-a931-f67f909f1c07
-title: The Funny World Of Programming (I am still recording audio)
+title: The Funny World Of Programming
 description: null
 tags:
   - furkies-purrkies
 date: '2023-04-30T03:47:14.494Z'
 lastmod: null
 weight: 115400
-audio:
+audio: poem-1154.mp3
 image: poem-1154-illustration.jpg
 images: null
 artwork:
@@ -31,7 +31,7 @@ The mightiest hacker,
 is always the programmer.
 
 They are looking at security top-down,
-whereas hackers look at it blind-up.
+whereas plain hackers look at it blind-up.
 
 If we just had one paragraph to describe what they want,
 I’d say privilege escalation, to put it simply, to get to the next level.
@@ -53,11 +53,13 @@ which is great, because it means stuff runs fast on new computers.
 But old also means, limited,
 wise, but limited.
 
-Take the HTTP protocol that you use every where,
+---
+
+Let us examine the HTTP protocol that you use every where,
 it is often called stateless.
 
 But, what that means,
-is that a servers not only has no memory for you, and thus or of you.
+is that a server has no memory for you, and thus or of you.
 
 But no single server, is ever expected,
 to handle all the requests you are making.
@@ -121,7 +123,7 @@ So a hacker can manipulate that state,
 it is all just user=bob, or account id=5.
 
 When your username and password passes the test,
-the browser gives you the thing it can remember you by.
+the server gives you the thing it can remember you by.
 
 So that your browser can send it in,
 next time you make a request.
@@ -272,18 +274,22 @@ and in a real world scenario…
 Your website will be exposed to tens of thousands,
 of automated bots scanning for vulnerabilities, and errors that programmers make.
 
+---
+
 There are no jobs more exciting, than programming,
 none, and no sport, no computer game, no game of chess, will ever come close.
 
-If all of this scares you... it means there is nothing you can do,
+There is only one thing you can do here, and in fact you can't stop your self from doing it,
 to prevent yourself from learning programming by building a honey pot.
 
 A website specifically designed to trap bots and hackers,
 so that you can learn what they are up to, and how to defeat them.
 
+Don't be scared, this,
+is an invitation.
+
 [Welcome, to the world of programming][3],
 it will be fun, and pretty funny, too.
-
 
 [0]: https://en.wikipedia.org/wiki/Alice_and_Bob
 [1]: https://en.wikipedia.org/wiki/List_of_data_breaches

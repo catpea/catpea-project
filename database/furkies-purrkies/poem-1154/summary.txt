@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-The Funny World Of Programming (I am still recording audio)
+The Funny World Of Programming
 Saturday • April 29th 2023 • 11:47:14 pm
 
 There used to be just two kinds of hackers,
@@ -14,7 +14,7 @@ The mightiest hacker,
 is always the programmer.
 
 They are looking at security top-down,
-whereas hackers look at it blind-up.
+whereas plain hackers look at it blind-up.
 
 If we just had one paragraph to describe what they want,
 I’d say privilege escalation, to put it simply, to get to the next level.
@@ -36,11 +36,13 @@ which is great, because it means stuff runs fast on new computers.
 But old also means, limited,
 wise, but limited.
 
-Take the HTTP protocol that you use every where,
+---
+
+Let us examine the HTTP protocol that you use every where,
 it is often called stateless.
 
 But, what that means,
-is that a servers not only has no memory for you, and thus or of you.
+is that a server has no memory for you, and thus or of you.
 
 But no single server, is ever expected,
 to handle all the requests you are making.
@@ -91,13 +93,11 @@ is that you can forge, manipulate requests to a server.
 You can send whatever memories you want,
 a hacker can tell the server that they are anybody.
 
-They are after all sending in ...
+They are after all sending in the ...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...they don’t have anything in common.
-
-You can’t call them geniuses, or brilliant, of gifted,
+...eniuses, or brilliant, of gifted,
 they don’t belong to any group.
 
 They don’t dress the same, they don’t really care about their fancy cars,
@@ -143,18 +143,22 @@ and in a real world scenario…
 Your website will be exposed to tens of thousands,
 of automated bots scanning for vulnerabilities, and errors that programmers make.
 
+---
+
 There are no jobs more exciting, than programming,
 none, and no sport, no computer game, no game of chess, will ever come close.
 
-If all of this scares you... it means there is nothing you can do,
+There is only one thing you can do here, and in fact you can't stop your self from doing it,
 to prevent yourself from learning programming by building a honey pot.
 
 A website specifically designed to trap bots and hackers,
 so that you can learn what they are up to, and how to defeat them.
 
+Don't be scared, this,
+is an invitation.
+
 [Welcome, to the world of programming][3],
 it will be fun, and pretty funny, too.
-
 
 [0]: https://en.wikipedia.org/wiki/Alice_and_Bob
 [1]: https://en.wikipedia.org/wiki/List_of_data_breaches
