@@ -1,0 +1,137 @@
+It is hard to find the motivation to learn programming,
+which is little more than functions filled with ifs, loops, and other functions, if you are not sure what to aim at, or what to dream about.
+
+And it does not help, when people fail to give you simple answers,
+and instead babble about thinking up, backwards upside down pyramids, and building or inventing on principle.
+
+So without getting into details,
+I present to you with your imaginary company;
+
+Your Company, Inc. Which sells monthly subscriptions to its product,
+they may offer a lifetime license for a dollop, that is OK too.
+
+This simple product called “Marketplace” is a store that sells files,
+or images created by AI, but there is a twist to it.
+
+---
+
+But first, let us take on the role,
+of Your Company customer.
+
+This is a person that loves the idea of AI art,
+especially selling entire packs of dozens of related images.
+
+That then can be used to decorate a room,
+or an cheerful office, or make a bunch of t-shirts with a common theme.
+
+This is where the twist begins,
+because they already had an on-line store.
+
+But no one was buying anything,
+there was no community, no chatter…
+
+And advertising brought in visitors,
+but nobody really signed up.
+
+This is where this young lady had a brilliant idea,
+she would allow users to open up their own AI art stores inside it.
+
+And while she would still hope to sell her own products,
+she would make the bigger money…
+
+By taking a small percent,
+of whatever other users sold.
+
+Let us call her Alice and name her business,
+Alice’s Marketplace.
+
+---
+
+So Marketplace, the Your Company, Inc Product,
+is not an e-commerce store that sell files.
+
+It is a multi-store marketplace,
+where every registered user can open their own store inside it...
+
+And the owner of the marketplace,
+takes a small percent of every sale.
+
+They don’t telly need to sell anything,
+and they may not really need to do much advertising either.
+
+Because when a user opens up a store they are presented with a todo list,
+where they have to create at least ten art packs.
+
+Use AI to create good product and store descriptions,
+and spend time working on their brand, like logo image, bio, and graphic theme.
+
+Most importantly, they have to advertise their products,
+not all at once, but weekly, may...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...king huge amounts.
+
+---
+
+The second experiment, deal with making important parts of your code public,
+code is hard to keep secret anyway, any of your customers can leak it.
+
+So make it open source, where critics, other programmers, penetration testers,
+and even black hat hackers can examine it.
+
+You may setup a bug bounty program, where you pay a thousand bucks per bug,
+and half jokingly take that money out of your lead programmers golden parachute.
+
+You won’t open source everything, not your User Interface stuff,
+not most of your plugins that add that fancy functionality.
+
+Just the core, where Authentication, Authorization,
+and Throttling is located at.
+
+(Throttling is used to prevent DoS attacks, where too many requests are sent to your website at the same time,
+and while Authentication is just Passwords and Session Cookies.
+
+Authorization is embedded in the code, and constantly evaluates, what groups the user belongs to,
+and if that group can execute some core API function in your program.)
+
+This isn’t as scary as it sounds, because you can pay a penetration tester or two,
+to go over the code before you release it.
+
+Though, I think it would benefit code quality quite a lot,
+if your wrote your Marketplace program, that the code will be public from the get go.
+
+---
+
+See, programming is not like math, where you memorize it and it is useless,
+programming is exactly the same as superpowers of superheroes.
+
+Except,
+it is not a silly fantasy.
+
+Learning programming, will grant you the ability,
+to make invented ideas into actual reality.
+
+A programmer is like a real magician,
+programmers can use code spells to make things appear in reality.
+
+---
+
+Traditionally becoming a programmer is something you do on your own,
+you learn in a sequence that makes it fun, and at the pace lets you dream.
+
+As a side effect, it will teach you,
+to tell effective and ineffective education apart.
+
+Beyond programming, as you grow, you will take to your own narrated non-fiction book,
+in your own sequence, at a pace that makes you wise and without being slowed down by school.
+
+Here, you will find, that every human being is charged with growing all the way up,
+until they rise to stand as a great independent being, capable of making lasting and positive contributions.
+
+--------------------------------------------------------------------------------
+
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+
+Your Company, Inc; A Programmer’s Journey
+Tuesday • May 2nd 2023 • 10:55:34 pm
