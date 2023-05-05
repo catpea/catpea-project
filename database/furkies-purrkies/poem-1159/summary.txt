@@ -11,7 +11,7 @@ The way a language expresses things is referred to with the pretty word syntax,
 when you mistype something in your code, you get a SYNTAX ERROR.
 
 Those three things are functions, ifs and loops,
-and your programming langue both comes with some functions, like exit...
+and your programming language both comes with some functions, like exit...
 
 And lets you make your own, that then can call other function,
 including functions you made, so you are constantly nesting function calls.
@@ -23,33 +23,50 @@ and to make it useful it should return something, such as 0, or a sting of lette
 
 ---
 
-There is a bit of a problem with getting into programming,
-because most languages want you to import stuff.
+There are only few languages that are worth the while,
+C or C++ are low level, Python just calls C/C++ when it wants to be useful…
 
-PHP, Perl’s younger friend, who has been considering retirement,
-just comes in a world of functions, it is a [huge, scary and really neat list][0].
+...and JavaScript,
+and here most programmers grew up laughing at JavaScript.
 
-in JavaScript you have to ask for extra libraries by name,
-because you wouldn't want to load everything into a browser.
+But as it become the language of the web,
+it got so much attention that it beat the crap out of everything else.
 
-In C, a low level language, you have to include even the base language functions,
-because if you are not going to use something, you don’t want to put it into a microchip for example.
+This is the language you need to learn,
+at first ignore people who will try to force you into Python, go and Rust.
 
----
+And stay away from C/C++ classes,
+and especially from Swift, C#, TypeScript, and Java.
 
-The standard JavaScript language functions are included by default,
-but any extra functionality, or libraries, need an import statement.
+College version of C/C++ will teach you infective programming,
+that will prevent you from creating useful things.
 
-And JavaScript got consistent import statements, just like now,
-so your web code, and serve code, can use the same import syntax.
+And, Java, Swift, C#, and TypeScript, are a way to trick you,
+companies behind those languages will eventually charge you money in some way.
 
-Overall, imports are a bigger problem when starting in a language like C,
-where you have to know where everything is at, from the get go.
+JavaScript has bragging rights,
+it is a clean, spiritual successor to Perl, which was a beautiful language.
 
-Just be aware that, imports are a thing,
-and [there are countless JavaScript libraries to pick from][1]
+But, it only sat on the server, it had clunky GUI libraries,
+and it didn’t run in the browser.
 
-And like with functions, you should make your own,
+The one thing about language wars is that as passionate as programmers are about their language,
+corporations are not passionate about programmers.
+
+Your choice of language must be strategic, it has to be an open language,
+ad it has to deliver on all fronts.
+
+If you learn C/C++, Python, Go, or Rust,
+you will somewhat comically discover, you still have to learn JavaScript.
+
+But if you start with JavaScript, and find a reason to switch to something else,
+JavaScript will wait for you, like a good friend…
+
+And upon your return, it will bring you, real...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ould make your own,
 a library is just a collection of functions that someone wants to share.
 
 I once wrote a function called [oneof][2], that would pick a random item from a list,
