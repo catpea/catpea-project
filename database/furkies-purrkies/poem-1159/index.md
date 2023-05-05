@@ -28,7 +28,7 @@ The way a language expresses things is referred to with the pretty word syntax,
 when you mistype something in your code, you get a SYNTAX ERROR.
 
 Those three things are functions, ifs and loops,
-and your programming langue both comes with some functions, like exit...
+and your programming language both comes with some functions, like exit...
 
 And lets you make your own, that then can call other function,
 including functions you made, so you are constantly nesting function calls.
@@ -37,6 +37,53 @@ including functions you made, so you are constantly nesting function calls.
 
 To define a function you have to give it a name, such as signIn(),
 and to make it useful it should return something, such as 0, or a sting of letters.
+
+---
+
+There are only few languages that are worth the while,
+C or C++ are low level, Python just calls C/C++ when it wants to be useful…
+
+...and JavaScript,
+and here most programmers grew up laughing at JavaScript.
+
+But as it become the language of the web,
+it got so much attention that it beat the crap out of everything else.
+
+This is the language you need to learn,
+at first ignore people who will try to force you into Python, go and Rust.
+
+And stay away from C/C++ classes,
+and especially from Swift, C#, TypeScript, and Java.
+
+College version of C/C++ will teach you infective programming,
+that will prevent you from creating useful things.
+
+And, Java, Swift, C#, and TypeScript, are a way to trick you,
+companies behind those languages will eventually charge you money in some way.
+
+JavaScript has bragging rights,
+it is a clean, spiritual successor to Perl, which was a beautiful language.
+
+But, it only sat on the server, it had clunky GUI libraries,
+and it didn’t run in the browser.
+
+The one thing about language wars is that as passionate as programmers are about their language,
+corporations are not passionate about programmers.
+
+Your choice of language must be strategic, it has to be an open language,
+ad it has to deliver on all fronts.
+
+If you learn C/C++, Python, Go, or Rust,
+you will somewhat comically discover, you still have to learn JavaScript.
+
+But if you start with JavaScript, and find a reason to switch to something else,
+JavaScript will wait for you, like a good friend…
+
+And upon your return, it will bring you, really neat,
+syntax updates that will make you feel warm and fuzzy.
+
+And say things like,
+“Oh wow, the nullish coalescing operator, is really cute”.
 
 ---
 
