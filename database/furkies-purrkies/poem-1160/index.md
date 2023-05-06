@@ -1,21 +1,21 @@
 ---
 id: poem-1160
 guid: af95d6c2-8932-4561-ae90-03a28f1aa899
-title: (Still Recording) Dancing With Dumbbells; Or, Strange Workout Music Observations, And A Bit Of Good Advice
+title: Dancing With Dumbbells; Or, Strange Workout Music Observations, And A Bit Of Good Advice
 description: null
 tags:
   - furkies-purrkies
 date: '2023-05-06T03:42:25.435Z'
 lastmod: null
 weight: 116000
-audio: 
+audio: poem-1160.mp3
 image: poem-1160-illustration.jpg
 images: null
 artwork:
   - https://unsplash.com/photos/JsuBKjHGDMM
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 6
@@ -89,7 +89,7 @@ but once sped up those old songs can still pack a punch.
 But, it is always a hit or miss, you will end up skipping songs,
 some only seem like a good idea but are un-dancable.
 
-Bring back old songs that you haven’t worked out to in a long while,
+Bringing back old songs that you haven’t worked out to in a long while,
 doesn't work either, it may last for a day, or two…
 
 But once you danced to a song for a few days,
@@ -97,11 +97,11 @@ you never get it back.
 
 ---
 
-Finally, my best advice is, get that darn interval timer,
-and make sure it has a vibrate function, or vibrates your phone.
+Finally, my advice is, get that darn interval timer,
+and make sure it has a vibrate function.
 
 This way you can listen to your music,
-and fell the clip on timer vibrate on your belt.
+and fell the clip-on timer vibrate on your belt.
 
 Rest periods are the first big thing in your way,
 so keep your songs slow and keep narrowing that rest gap.
