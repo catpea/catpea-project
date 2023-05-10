@@ -1,7 +1,7 @@
 ---
 id: poem-1163
 guid: b9489c19-59a1-486b-a156-443158391ce6
-title: Power Programming With Application Models, One Way Programs, And Metadata
+title: Power Programming With One Way Programs, Metadata, And Application Models
 description: null
 tags:
   - furkies-purrkies

@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-Power Programming With Application Models, One Way Programs, And Metadata
+Power Programming With One Way Programs, Metadata, And Application Models
 Monday • May 8th 2023 • 10:07:14 pm
 
 (I am pretty much making up all these names as I go,
