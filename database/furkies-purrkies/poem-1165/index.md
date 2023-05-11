@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
@@ -65,7 +65,7 @@ their lack of comprehension of context.
 You may not even need to generate any strange images,
 just sit on top of what AI chokes on.
 
-You only need very pleasant and basic lectures in p5.js,
+You only need very pleasant and basic lectures in [p5.js][p5],
 to [begin generating image challenges that AI has never seen][unseen].
 
 The pre-AI generative art, is all about visual complexity,
@@ -137,6 +137,7 @@ and how can you build on that.
 And what in the world,
 are you going to call your company name?
 
+[p5]: https://p5js.org/
 [captcha]: https://github.com/ZYSzys/awesome-captcha
 [unseen]: https://showcase.p5js.org
 [svelte]: https://svelte.dev/tutorial/basics
