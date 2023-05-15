@@ -1,0 +1,123 @@
+---
+id: poem-1169
+guid: 418f12ef-0607-4712-b58f-546a7e4dffdb
+title: Programming, Wisdom, And The Future
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-05-15T02:36:16.228Z'
+lastmod: null
+weight: 116900
+audio: poem-1169.mp3
+image: poem-1169-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/6-r3PPi8zRA
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+The younger generations deserve, at leas as much as we hoped we would receive when we were little,
+and certainly more more than ineffective education, even when laced with interesting animations about [squaring a circle][1] and such.
+
+Because, that by it self, is useless; to address reality of today’s existence,
+and the danger of poverty, and more failure and war.
+
+Today, students are treated as a resource,
+that can be mined for money they don’t have but can get via unforgivable loans.
+
+We interrupt their growing up, damage their natural curiosity,
+and force them into poverty.
+
+While driving an ineffective education into them,
+and then blaming them for the results.
+
+---
+
+We have to admit to the younger generation that out education was worthless,
+that we could have replaced years of ineffective education.
+
+With a happy vacation and a dozen,
+of narrated science popularizer books.
+
+It would certainly make our education more effective,
+and more meaningful, as we could finally explain concepts without memorization.
+
+And we have to help students to effective education that can address their poverty,
+an education where every lecture counts.
+
+Today that aim has been obscured by mediocre teachers and liars,
+and presented as only for the select few, the few that are naturally smart.
+
+The myth of the gifted, of the genius,
+invented by the fools, to wipe their ass with the future of human kind.
+
+Unlike teaching irrelevant things,
+where teachers can just make up a grade, to stay under the radar.
+
+Teaching relevant things that have bearing on real life,
+if self evaluating, as we can expect it to improve life and future.
+
+And there in only one self evaluating subject with an easy on-ramp for all,
+and you have to remember, that you have been lied to as I say this…
+
+Is learning how to program brilliant custom and useful web applications,
+don’t laugh, don’ trivialize it.
+
+It is the only subject, that will give you evidence of profound and positive change,
+and it encompasses all the old subjects as well.
+
+Depending whether you want math and physics in game development,
+chemistry in simulation, or art in design.
+
+As it encompasses all the other subjects it leaves room,
+for adventure and narrated books…
+
+Especially those held in high regard,
+by all the world’s intellectuals.
+
+Don’t dismiss programming applications,
+you wouldn't want to dismiss learning how to speak or use hammer and nails.
+
+It is just a tool, a tool that you are being tricked out of using,
+as it demands that the teacher isn’t a pretender merely regurgitating slides.
+
+---
+
+Listen to me, you have been tricked, you have been lied to,
+the singe most important thing you have to learn, has been denied to you.
+
+Or taught so badly,
+that it has tricked you into thinking that you can understand it.
+
+---
+
+Learn programming on your own,
+take to adventure and narrated books for everything else.
+
+The books written by great beings,
+is the second subject that has been taken from you.
+
+It is just reading, writing, arithmetic,
+Software Development, and Philosophy.
+
+The rest of the journey, is something you build,
+whilst standing on the solders of giants…
+
+Aiming in the only direction away from more war,
+up.
+
+Don’t wait for change to come your way,
+break the cycle, and accept the responsibility for your own self education.
+
+Take to the countless great books,
+forged in lived lived well, by great minds…
+
+As you are charged with growing __all__ the way up, until you too;
+become a great being and leave profound and positive contributions behind.
+
+[1]: https://www.youtube.com/watch?v=YokKp3pwVFc
