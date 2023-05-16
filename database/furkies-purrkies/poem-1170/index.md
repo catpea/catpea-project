@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
@@ -27,7 +27,7 @@ it is the operating system of your mind.
 ---
 
 It is your ability to rise, adapt, to deal with hardships,
-and to cheerfully and unbreakably move through life.
+and to cheerfully and unbreakably dance through life.
 
 Philosophy is also the cradle,
 for your own, original, sense of humour.
