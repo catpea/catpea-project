@@ -1,21 +1,21 @@
 ---
 id: poem-1170
 guid: 1d862ac4-69c4-4795-9776-d1bb5ffa920d
-title: And What The Heck Is Philosophy Anyways? (Still Recording)
+title: And What The Heck Is Philosophy Anyway?
 description: null
 tags:
   - furkies-purrkies
 date: '2023-05-16T03:46:53.775Z'
 lastmod: null
 weight: 117000
-audio:
+audio: poem-1170.mp3
 image: poem-1170-illustration.jpg
 images: null
 artwork:
   - https://catpea.com
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 6
