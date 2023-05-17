@@ -15,13 +15,13 @@ artwork:
   - https://unsplash.com/photos/GAVXs1uZeQk
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
 ---
 
-Philosophy is a mind multiplier, it will help your meet your elder self,
+Philosophy is a mind multiplier, it will help you meet your elder self,
 and your projection will help you understand what their regrets are.
 
 Your elder self is such a certainty, that you can even ask them to keep you company,
