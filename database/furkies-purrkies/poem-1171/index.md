@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/GAVXs1uZeQk
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 6
@@ -86,7 +86,7 @@ is a way, for you, yourself, to by your own hand, pull wisdom, out of the univer
 out of starry nights, beautifully fragrant summer days, and snowy adventures.
 
 Philosophy is a way for Humanity to remember where it is going,
-for Humans to remember that they are born Noble with Dignity and without any bullshit sin.
+for Humans to remember that they are born Noble with Dignity.
 
 ---
 
