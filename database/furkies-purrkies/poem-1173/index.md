@@ -1,0 +1,120 @@
+---
+id: poem-1173
+guid: 5f672d0b-aae9-4fc9-b12b-7659fae17af9
+title: Speed Thy Slowly; Or, The Calm, Life Long, Easy, Peasy, Workout
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-05-19T03:15:51.273Z'
+lastmod: null
+weight: 117300
+audio: poem-1173.mp3
+image: poem-1173-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/2I5OSH1QoFE
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+It is hard to begin working out,
+by just going to the gym, and waiting for it to happen.
+
+The workouts starts with changes at home,
+interestingly enough…
+
+The more you want to be fit,
+the more interesting the changes.
+
+At the very least,
+we have to get rid of the TV, and the toaster.
+
+For many, it is a good idea to get rid of,
+the microwave, the oven, and the refrigerator.
+
+And some individuals that need help,
+will need to get rid of their job.
+
+It is different for every one,
+but it is about ending the comforts.
+
+With comfort,
+comes the overeating cycle.
+
+With comfort,
+you don’t have the energy to fight.
+
+---
+
+You may ask yourself,
+what the hell am I going to eat.
+
+What am I going to do before sleep,
+how am I even going to fall asleep.
+
+---
+
+The true answers are,
+you already ate, you ate ahead of time.
+
+The thing you are going to do,
+before going to sleep.
+
+Learn how to walk, faster and faster,
+until that walking becomes shuffling.
+
+Get an interval timer,
+and learn to rest less and shuffle more.
+
+Until your shuffling becomes,
+jogging.
+
+And here you join the gym,
+because of the roof.
+
+You should never be interrupted,
+by the weather.
+
+And work out daily,
+take to dumbbells,
+
+Start with 3lb per hand,
+and begin walking back and forth.
+
+While lifting, and again,
+using an interval timer to eliminate rest.
+
+This will be easy on your knees,
+and slowly turn into dancing with dumbbells.
+
+At which point, you will need faster music,
+and then instead of lifting both dumbbells at he same time.
+
+Do it left right, which is twice as fast,
+keep the weights low.
+
+---
+
+There is just one shortcut, camping,
+walking in the woods, sleeping in a tent.
+
+Switching your daily routine,
+roasting sausages on an open fire.
+
+---
+
+The great rewards at first,
+are regaining the ability to twist and turn and bend down.
+
+And at last, the final reward,
+is extra 30, maybe 50 years of life.
+
+There isn’t really a rule or sequence,
+just give up comforts…
+
+And gradually,
+increase complexity of your workout challenges.
