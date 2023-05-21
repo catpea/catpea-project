@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/x5JU6lc82EA
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
