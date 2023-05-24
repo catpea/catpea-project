@@ -1,0 +1,132 @@
+---
+id: poem-1178
+guid: 2986f9ee-5d5c-4b0b-bc97-e6ec62e9a626
+title: Hello Teacher, Tell Me What’s My Lesson
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-05-24T03:14:23.661Z'
+lastmod: null
+weight: 117800
+audio: poem-1178.mp3
+image: poem-1178-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/dPh3kn80Us8
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+A school cannot be a bureaucratic factory,
+that processes input into output.
+
+Though a factory of this kind,
+is great for processing meat.
+
+Though like with all black boxes,
+garbage in, garbage out.
+
+---
+
+Feeding a school bad education,
+will only produce bad results.
+
+---
+
+Furthermore, though some politicians want it to be one,
+under the banner of “Struggle!”, poverty is not a system.
+
+It is an unintentional error,
+that is supported by an uneducated Humanity.
+
+And even more than that, I will say,
+that lack of effective education, drags the world into war.
+
+---
+
+Some of the smartest people I’ve met,
+still believe that serving god and country is noble.
+
+Still believe that, to improve education,
+students must work harder.
+
+But the truth is, we are all one family,
+and we may not send children to war.
+
+And no amount of effort, will make a person educated,
+if the materials are an educational fantasy.
+
+And just to drive the point further,
+you knowing, by heart…
+
+That mitochondria is a powerhouse of the cell,
+is ridiculous, embarrassing, and serves as an insult to the younger generations.
+
+---
+
+The dream of school is a beautiful dream,
+but real education is always effective, and always profound.
+
+It is not marked by a GPA, or a diploma, or some worthless career,
+that means nothing in the long run.
+
+A real education is marked b greatness,
+by the student growing all the way up and making lasting positive contributions.
+
+---
+
+Under the threat of poverty and fake education,
+there are only four subjects that work.
+
+The three beautiful originals, and a new meta subject,
+that encompasses everything else…
+
+And grants the student a tool,
+to lift themselves out of poverty.
+
+That subject is computer programming,
+here mitochondria does make sense.
+
+A student can simulate a cell, and walk away form their computer program,
+with pride and dignity, and above all great integrated knowledge.
+
+Here subjects have no need for divisions,
+and there is a clear aim, financial independence and exit from poverty.
+
+---
+
+Stop using school as a baby sitter for you kids,
+organize real lectures that result in children learning programming.
+
+Compile a large free and open library of video lectures,
+presentations, narrated books, and on-line classes.
+
+Get all the parents together,
+and create a startup accelerator to fund the waves of projects.
+
+---
+
+Stop propagating the stupid idea that only rare and special people,
+are gifted or brilliant , or can be geniuses, and successful.
+
+Brilliance and genius, and the underlying wisdom and knowledge,
+is merely a simple function of real education.
+
+If you are an adult,
+that is your job.
+
+If you are a student,
+don't gamble with your future.
+
+Programming is just a way to create tools,
+that will help you, to get to wherever you are going.
+
+It will keep you from getting scared or depressed,
+programming is an endless trail of meaningful rewards.
+
+And wherever you are headed, please remember,
+that in the absence of teachers, you are the teacher.

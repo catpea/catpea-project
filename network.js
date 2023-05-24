@@ -56,7 +56,7 @@ export default async function(){
       url: 'https://archive.org/details/116-hours-of-poems',
       navigation: true,
       external: true,
-      new: true,
+      // new: true,
     },
 
     {
