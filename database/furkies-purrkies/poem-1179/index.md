@@ -112,4 +112,4 @@ The one thing that philosophers always agree on,
 and the reason why they send their works into the future…
 
 Is that you, the educated, and the great,
-and the great many other like you, are the change.
+and the great many other like you, are the change, you are the prime movers.
