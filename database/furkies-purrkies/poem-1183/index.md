@@ -15,7 +15,7 @@ artwork:
   - https://en.wikipedia.org/wiki/The_Death_of_Socrates
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
