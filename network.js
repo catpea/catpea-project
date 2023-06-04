@@ -53,10 +53,10 @@ export default async function(){
     {
       title: 'Audiobook',
       iconClasses: ['bi', 'bi-book'],
-      url: 'https://archive.org/details/116-hours-of-poems',
+      url: 'https://archive.org/details/129-hours-of-poems',
       navigation: true,
       external: true,
-      // new: true,
+      new: true,
     },
 
     {
@@ -78,12 +78,12 @@ export default async function(){
 
 
 
-    {
-      title: 'Cat Pea Audio Book (116hrs)',
-      url: 'https://archive.org/details/116-hours-of-poems',
-      veryImportant: true,
-      mirror: true,
-    },
+    // {
+    //   title: 'Cat Pea Audio Book (129hrs)',
+    //   url: 'https://archive.org/details/129-hours-of-poems',
+    //   veryImportant: true,
+    //   mirror: true,
+    // },
 
 
 
@@ -113,7 +113,7 @@ export default async function(){
 
 
     {
-      title: "Bitbucket Snapshot",
+      title: "Old Bitbucket Snapshot",
       url: "https://catpea.bitbucket.io/",
       mirror: true,
     },
