@@ -15,14 +15,14 @@ artwork:
   - https://unsplash.com/photos/PEvI6UOCEYE
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
 ---
 
-Ancient warriors did not have Vendi Mocha’s With Sprinkles and Pumpkins,
-if they did, they would fight so much, they’d become chonks.
+Ancient warriors did not have Vendi Mochas with sprinkles and pumpkins,
+if they did, they wouldn't fight so much, they’d become chonks.
 
 And caffeinated sugar drinks kick you out of trance.
 and the one thing you don’t want to be alert for, is damn your two hour workout.
