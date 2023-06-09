@@ -15,7 +15,7 @@ artwork:
   - https://nodered.org
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
