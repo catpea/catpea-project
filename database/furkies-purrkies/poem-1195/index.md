@@ -1,14 +1,14 @@
 ---
 id: poem-1195
 guid: 66c14252-01a8-4656-a73c-aa89739228b6
-title: A Long Camping Adventure At Lake Michigan (Recording In Progress...)
+title: A Long Camping Adventure At Lake Michigan
 description: null
 tags:
   - furkies-purrkies
 date: '2023-06-10T03:33:17.792Z'
 lastmod: null
 weight: 119500
-audio:
+audio: poem-1195.mp3
 image: poem-1195-illustration.jpg
 images: null
 artwork:
@@ -22,7 +22,7 @@ chapter: 6
 ---
 
 I arrived in Ludington, Michigan at 5AM, or so,
-I parked at the near by huge-market parking lot and took a long nap.
+I parked at the near by huge supermarket parking lot and took a long nap.
 
 I like driving at night, there is no traffic,
 and that stretch of the woods, and it seems safe.
@@ -87,23 +87,23 @@ and that is when I remembered.
 That on the first day, the campers were bringing towels,
 to the restroom area, which made me wonder if there were showers.
 
-As the sun went down, like the raccoons I was,
-I silently tiptoes to the litte building…
+As the sun went down, I put my raccoon hat on,
+and silently tiptoed to the interesting little building…
 
 As I wasn’t sure if the Jack Pine Wildebeests,
 were allowed to take showers.
 
 And in no time I was enjoying a hot long shower,
-that probably used up all the hot ware.
+that probably used up all the hot water.
 
-Since not once in my life had I been that clean before,
+Not once in my life had I been that clean before,
 certainly not by stealing a hot shower.
 
 All the local mosquitoes, immediately, fell,
 in a fragrant mist of deadly deed that I whipped out of my fanny pack - I was expecting them.
 
 Now smelling of sophistication, irish soap, and pinetrees,
-that the bugspray pine scent cleverly mixed into the bug spray.
+that the bug spray people cleverly added to the deadly broth.
 
 I made my way back,
 [that’s were I ran into that darn owl][2].
@@ -131,12 +131,6 @@ and just as the end of summer was nearing…
 
 I got in my car, and drove directly to Nordhouse,
 for long and restful thee week stay.
-
-Where I was welcomed back to my raccoon squad,
-and befriended Friday, the smartest raccoon in the world.
-
-An educator, that spent his free time, teaching younger racons.
-how to unzip peoples tents and leave paw prints on their inflatable pillows.
 
 [1]: https://www.dnr.state.mi.us/publications/pdfs/RecreationCamping/ludington_cg.pdf
 [2]: /permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/
