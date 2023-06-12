@@ -1,7 +1,7 @@
 ---
 id: poem-1197
 guid: c2b0de1e-f63e-4761-b148-75756c4959be
-title: Hackers Are Philosophers Too
+title: The Insult Of Graduation; Or, Hackers Are Philosophers Too
 description: null
 tags:
   - furkies-purrkies
@@ -12,7 +12,7 @@ audio: poem-1197.mp3
 image: poem-1197-illustration.jpg
 images: null
 artwork:
-  - https://catpea.com
+  - https://en.wikipedia.org/wiki/File:Glider_trail.png
 resources: null
 features:
   video: true
@@ -21,40 +21,81 @@ draft: false
 chapter: 6
 ---
 
-Out of the night that covers me,
+No one knows errors better than computer people,
+and in their haste to grasp the world.
 
-Black as the Pit from pole to pole,
+It was not room for improvement they saw,
+it was a simple parade of errors.
 
-I thank whatever gods may be
+Even great philosophers are surprised,
+as they are still pondering the death of gods and such.
 
-For my unconquerable soul.
-
----
-
-In the fell clutch of circumstance
-
-I have not winced nor cried aloud.
-
-Under the bludgeonings of chance
-
-My head is bloody, but unbowed.
+Hackers, just get right to it,
+and error is an error.
 
 ---
 
-Beyond this place of wrath and tears
+More than errors,
+hackers think in systems.
 
-Looms but the Horror of the shade,
+Networks of things,
+within and without.
 
-And yet the menace of the years
+In what we call a nation,
+they see odd borders, and misunderstandings.
 
-Finds, and shall find, me unafraid.
+They see,
+unnecessary communication problems.
+
+They see,
+potential, where we see, unmovable things.
 
 ---
 
-It matters not how strait the gate,
+To paraphrase an old file,
+they have no nationality, race, or skin color.
 
-How charged with punishments the scroll.
+They are above these strange little boxes,
+and they never look down.
 
-I am the master of my fate:
+---
 
-I am the captain of my soul.
+But above all, the hacker,
+is a display of the profound power of self education.
+
+In contrast to __standardized__ education,
+each hacker is a superpower.
+
+They know no bounds,
+they have no limits.
+
+And if ever challenged,
+they will peal whatever it is down to its atoms.
+
+---
+
+Hackers are not limited to the computer world,
+they are everywhere and into everything.
+
+While there will never be a definition,
+they are the creatives, that undo the borders first.
+
+---
+
+I suspect, just because they travel far,
+and their journey is always at an upwards angle.
+
+They are aware, of the noble call,
+to greatness.
+
+By instinct alone, they may know the higher they rise,
+the less growing-all-the-way-up they have left.
+
+But they bother not with status,
+nor with milestone, or accomplishment.
+
+Or to quote another poet,
+triumph or disaster, seeing both as an impostor.
+
+And one of the greatest lessons we can learn from them,
+is that real education is permanent and unending.
