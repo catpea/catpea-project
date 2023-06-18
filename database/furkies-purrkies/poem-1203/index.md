@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/n9Rf4ddmRtQ
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
@@ -137,7 +137,7 @@ must not be denied, nor put off for later.
 If you allow the world to stand uneducated,
 it will continue repeating the same mistakes with all lessons lost.
 
-Begin your self eduction immediately,
+Begin your self education immediately,
 start with the narrated books at the library.
 
 Do not let the men who sold the world for an easy paycheck,’
