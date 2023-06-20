@@ -1,7 +1,7 @@
 ---
 id: poem-1205
 guid: d7a640ec-83b9-4027-b7f0-1e6d79882d5c
-title: The Fraud Of Subject Divisions (Recording In Progress)
+title: The Fraud Of Subject Divisions
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/fRqIGd79dpA
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 6
@@ -112,7 +112,7 @@ But Descartes it is, as both were taking on indoctrination,
 in as far as they could.
 
 It is a filthy, old trick,
-Dawkins in his response to “What if you’re wrong?” undermine religion fro the correct angle.
+Dawkins in his response to “[What if you’re wrong?][1]” undermine religion fro the correct angle.
 
 And this is where the fool that taught philosophy in my college,
 should have been headed towards.
@@ -134,3 +134,5 @@ is an insult.
 
 And that the words Philosophy Class,
 are an oxymoron – because if it was Philosophy the teacher would be fired.
+
+[1]: https://www.youtube.com/watch?v=zPsmYWbY-VA
