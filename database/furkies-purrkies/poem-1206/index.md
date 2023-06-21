@@ -1,0 +1,117 @@
+---
+id: poem-1206
+guid: 666dddd6-e0dc-40b4-a38d-6cbe3c742219
+title: Visual Programming Is Great For Learning And Growing
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-06-21T03:18:52.091Z'
+lastmod: null
+weight: 120600
+audio: poem-1206.mp3
+image: poem-1206-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 6
+---
+
+At every step of creating a visual programming language,
+there is always a pleasant surprise.
+
+Even at the database end, at the very bottom,
+it is just two tables nodes and connections.
+
+---
+
+A visual programming language has nodes with anchors,
+where anchors can be connected together.
+
+Each node represents something that can be done,
+set thermostat, reboot computer, play a sound.
+
+Nodes can be as complex as rxjs components,
+of mouse listeners, mouse up, mouse down, mouse move…
+
+For example, could create a generic drag and drop system,
+where one could drop a file onto a web page, and upload it.
+
+The visual part of a programming language,
+are the boxes that represent nodes and lines that display the connections.
+
+Here programs can get pretty huge,
+and still remain readable, as the lines lead the way.
+
+---
+
+An important feature of a visual programming language,
+is the node edit button.
+
+And here, the screen changes from visual programming,
+or node orchestration, to a code editor.
+
+This may sound bad, but the programming behind a node,
+is tiny, it maybe five lines of code, 50 would be too much.
+
+This code, lives as a file, inside a mono repository,
+and can be edited as a standard code editor.
+
+It is just a proper JavaScript, or npm, or node_module,
+a good visual programming language is respectful of code.
+
+---
+
+Now, the most confusing part, may seem,
+like the node anchors and connections between them.
+
+But actually, that is an instance of an object, called a writable,
+that allows a change to whatever it is holding, and then announces that change.
+
+It is a connector, a pipe, an inter-dimensional straw,
+whatever you put into the input, will notify whatever is listening at the output end.
+
+If we had two nodes, a and b, putting something into the connection on a end,
+would notify b that new data arrived.
+
+But the details of this are very fluid and flexible,
+they are meant to be customizable in the node editor.
+
+The short version is that, the connection, takes an output anchor writable,
+and gives it to whatever node it is connected for monitoring.
+
+On the write end you have to say output.set(“hello world”) setting a value,
+and on the monitoring end you say, subscribe to input anchor, and here is a function.
+
+This function, just has one argument,
+and it will be the hello world set in the output.
+
+---
+
+It may sound a little bit annoying,
+without seeing the program in operation…
+
+But this whole thing is so simple, and powerful, customizable and flexible,
+that is serves as the perfect foot in the door, of starting point for a person new to programming.
+
+Without ever being anything like training wheels,
+this is a proper code editor, that creates perfectly usable code.
+
+The programmer can return to it, after a long time,
+and have no problems rediscovering how their old programs work.
+
+All the flows are right there on the screen,
+all the code is within the nodes or reusable components.
+
+The more the programmer learn,
+the more powerful their nodes can grow.
+
+I think programming a visual programming language,
+can make for a Summer well spent.
+
+What is especially interesting about such a quest,
+is that eventually you end up programming it, with it self.
