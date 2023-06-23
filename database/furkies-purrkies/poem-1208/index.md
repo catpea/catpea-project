@@ -1,14 +1,14 @@
 ---
 id: poem-1208
 guid: d6a574ca-d3f0-4c5d-b8bd-72f540aa15e5
-title: Music, Fitness And Your Natural Jiggling Frequency (Recording In Progress)
+title: Music, Fitness And Your Natural Jiggling Frequency
 description: null
 tags:
   - furkies-purrkies
 date: '2023-06-23T03:39:46.258Z'
 lastmod: null
 weight: 120800
-audio:
+audio: poem-1208.mp3
 image: poem-1208-illustration.jpg
 images: null
 artwork:
@@ -21,7 +21,7 @@ draft: false
 chapter: 6
 ---
 
-Joggers have the most run at a pace that their body dictates,
+Joggers have the most fun at a pace that their body dictates,
 I call it The Goldilocks Pace, it is, just right.
 
 The Goldilocks Pace also exists in high intensity training,
@@ -37,7 +37,7 @@ And even if they were,
 adjusting your weights or weight-vest will alter your that Jiggling Frequency.
 
 And now your song, will be out of sync,
-with what your body is willing to flow with.
+with what your body is wishing to flow with, your Jiggling Frequency.
 
 ---
 
