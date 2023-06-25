@@ -40,7 +40,10 @@ Sunday • June 25th 2023 • 1:33:48 pm
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...
+...watch?v=myEeo2rZc3g&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&index=8&pp=iAQB "Play Video")
+
+### Mapping
+
 [I only ever use *these* RxJS operators to code reactively](https://www.youtube.com/watch?v=Byttv3YpjQk "Play Video")
 
 [Map, switchMap, mergeMap, flatMap, concatMap, exhaustMap in RxJS - what is the difference?](https://www.youtube.com/watch?v=2zJRw3Cl_Vs "Play Video")
@@ -74,8 +77,6 @@ Sunday • June 25th 2023 • 1:33:48 pm
 [Callbacks vs Promises vs RxJs Observables vs async/ await (try one more time 1!!1! you can do this!)](https://www.youtube.com/watch?v=jgWnccjXR4I "Play Video")
 
 [RxJS Crash Course](https://www.youtube.com/watch?v=tGWBy6Vqq9w "Play Video")
-
-[7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg "Play Video")
 
 [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE "Play Video")
 

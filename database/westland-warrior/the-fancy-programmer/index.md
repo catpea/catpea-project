@@ -57,6 +57,8 @@ chapter: 1
 
 [BehaviorSubject | RxJS TUTORIAL](https://www.youtube.com/watch?v=-mwNLRbfKmU&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&index=12&pp=iAQB "Play Video")
 
+[scan() vs reduce() | RxJS TUTORIAL](https://www.youtube.com/watch?v=myEeo2rZc3g&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&index=8&pp=iAQB "Play Video")
+
 ### Mapping
 
 [I only ever use *these* RxJS operators to code reactively](https://www.youtube.com/watch?v=Byttv3YpjQk "Play Video")
@@ -92,8 +94,6 @@ chapter: 1
 [Callbacks vs Promises vs RxJs Observables vs async/ await (try one more time 1!!1! you can do this!)](https://www.youtube.com/watch?v=jgWnccjXR4I "Play Video")
 
 [RxJS Crash Course](https://www.youtube.com/watch?v=tGWBy6Vqq9w "Play Video")
-
-[7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg "Play Video")
 
 [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE "Play Video")
 
