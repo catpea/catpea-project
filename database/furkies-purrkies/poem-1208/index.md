@@ -1,7 +1,7 @@
 ---
 id: poem-1208
 guid: d6a574ca-d3f0-4c5d-b8bd-72f540aa15e5
-title: Music, Fitness And Your Natural Jiggling Frequency
+title: Music, Fitness, And Your Natural Jiggling Frequency
 description: null
 tags:
   - furkies-purrkies
