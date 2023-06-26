@@ -95,6 +95,6 @@ chapter: 1
 
 [RxJS Crash Course](https://www.youtube.com/watch?v=tGWBy6Vqq9w "Play Video")
 
-[Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE "Play Video")
-
 [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg "Play Video")
+
+[Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE "Play Video")
