@@ -8,7 +8,7 @@ The Teenagers need but a LINE 1 PRINT HELLO WORLD,
 followed by LINE 2 GOTO LINE 1; and they can take it from there.
 
 For them programming flows, and eventually they will say,
-usernames map get account from username and now accounts filter pastdue.
+usernames map get account from username and now accounts filter past-due.
 
 But as we grow life will flourish, and the fascination of GOTO and PRINT,
 or Array Map, Filter, Reduce…
@@ -50,7 +50,7 @@ Node-RED is a JavaScript based visual programming system,
 that allows custom JavaScript inside the visual programming nodes.
 
 And while learning a Visual Programming Language is neat,
-it is that litte JavaScript code editor inside a node.
+it is that little JavaScript code editor inside a node.
 
 That serves as the true starting point,
 to learning programming.
