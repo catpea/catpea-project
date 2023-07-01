@@ -2,8 +2,8 @@
 
 echo
 echo
-echo GITHUB/chapters updating chapter 06, if you are working on chapter 7, update the regenerate.sh file.
-cd dist/chapters/chapter-06;
+echo GITHUB/chapters updating chapter 07, if you are working on chapter 7, update the file.
+cd dist/chapters/chapter-07;
 git add .;
 git commit -m "Chapter content updates.";
 git push;
