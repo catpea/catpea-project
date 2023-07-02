@@ -2,7 +2,8 @@
 
 echo
 echo
-echo GITHUB/chapters updating chapter 07, if you are working on chapter 7, update this build file.
+echo GITHUB/chapters updating chapter 07, if you are working on chapter 08, update this build file!
+echo you must cd and push 08 now, not 07;
 echo NOTE: antwerp will generate into "dist/chapters/chapter-07" but to set it up:
 echo       you need to create a github repo first, then clone it and then run build.
 echo       REMEMBER to setup pages branch "main" folder "/docs"
