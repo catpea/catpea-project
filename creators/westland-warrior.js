@@ -88,9 +88,8 @@ export default async function({db:raw, dest, kind, title, after, samples, debug}
   }
 
   const content = [
-    `[THOUSANDS MADE FROM SELLING ANTIQUE BOTTLES?!?! HOW AND WHY!? BOTTLE FLIP!!!!](https://www.youtube.com/watch?v=AHdNltYeu1A "Play Video")`,
-    `[RIVER TREASURE SCORE!! | RARE VALUABLE COKE BOTTLE!!!! | ANTIQUE BOTTLE HUNTERS](https://www.youtube.com/watch?v=63eFkSQt-C0 "Play Video")`,
-    `[Smokey And The Bandit Trailer](https://www.youtube.com/watch?v=IzMpOvKxXdM "Play Video")`,
+    `[⚠️ Excessive Advertising: SponsorBlock - Skip Sponsored Ads On YouTube](https://www.youtube.com/watch?v=rv-r852OXck "Play Video")`,
+    `[⚠️ Excessive Advertising: How to Block Ads with uBlock Origin](https://www.youtube.com/watch?v=TUWMaK5xvX4 "Play Video")`,
   ];
   const doc = `---\n${yaml.dump(attributes)}---\n\n${content.join('\n\n')}`
 
