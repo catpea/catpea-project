@@ -1,0 +1,202 @@
+---
+id: poem-1226
+guid: 1e56943d-3e5e-4645-8d24-32cfb48e2c79
+title: Of Serenity, And Courage - It Is Not Just The Narrated Books
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-07-11T03:18:05.888Z'
+lastmod: null
+weight: 122600
+audio: poem-1226.mp3
+image: poem-1226-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/tk4OYV3L8Ts
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 7
+---
+
+It is impossible to learn from a good narrated book,
+when we are threatened by major trouble.
+
+Though narrated books can take away aches and pains,
+and help with sleep and minor fears.
+
+This is just one of the benefits,
+as great books are meant for wisdom and greatness.
+
+---
+
+This is why walking great adventure trails,
+or even camping in a tiny wilderness for a good while…
+
+Is a key component,
+of the act of inheritance of wisdom from books.
+
+You need to make room,
+room in all the paces where greatness resides.
+
+Greatness of spirit or soul, greatness of heart,
+and greatness of mind, and vision, thought, and invention.
+
+---
+
+Right past the early reading, writing,
+and arithmetic.
+
+Schools stop working, they do not teach beyond basics,
+the education we __do__ get is purely out our own brilliance.
+
+Subject divisions are wrong,
+as they render everything boring.
+
+They exist purely for bookkeeping,
+and the teachers.
+
+---
+
+One fun way to learn math for example,
+is to learn programming first and build screensavers and generative art.
+
+Such a thing is but one step away from launching a business,
+and making something out of it, even if just for pocket change.
+
+Just teaching math, is bat shit crazy,
+it shows a fundamental misunderstanding of the human condition.
+
+The lectures, can’t work,
+they only sell the students out for easy paychecks.
+
+---
+
+The GPA, or the Grade Point Average,
+is one other major problem.
+
+Because the students believe that it will stick around,
+and can influence their future.
+
+They give up real education,
+in favor of pretending to learn to keep the GPA up.
+
+That means cramming,
+it is just temporary memorization.
+
+Students are aware they have been betrayed,
+they just don’t even want to learn for real until after they are out of the GPA threat.
+
+The GPA, is not the worst of it,
+being held back, for a young person, is a good as a prison sentence.
+
+Very often people who are being bullied,
+can’t learn.
+
+So first, they notice that teachers ignore their bullies,
+and then the same teachers hold them back a year…
+
+Permanently painting them as inferior,
+meanwhile their bullies just laugh, memorize.
+
+---
+
+This betrayal pushes some students into drug use,
+for some to ease anxiety, for others to cut off distraction.
+
+I repeat,
+schools don’t work.
+
+---
+
+Now, there is another problem here,
+and this deals with how they are treated at home.
+
+And whether or not, they have a safe place whey they can learn,
+by buying mountains of gadgets, they never use again.
+
+If they come home and use the smartphone,
+to doom scroll in hopes of alleviating their depression, they were betrayed at home too.
+
+They won’t say anything,
+because that home is all they know.
+
+It may even seem outrageous and funny to them,
+that they need a little laboratory with computers, and maybe even tutors.
+
+---
+
+You can see what a terrible injustice this is,
+schools betray them, bullies attack them.
+
+They come home and get yelled at for bad grades,
+and maybe even have their phone taken away.
+
+So that, they can’t even tune out their sadness,
+betrayed by all.
+
+---
+
+They are supposed to be exploring, learning,
+living in a kind of serenity, that makes books call to them.
+
+That makes the presence of a computer,
+transform into a question of learning programming.
+
+If they learn programming, which is very easy,
+they will never have to fear poverty.
+
+But again, they are being cut off from this,
+by being attacked, and forced directly into poverty and mind numbing jobs.
+
+---
+
+Adventure trails, back packing, and camping, are the perfect detox,
+and in fact serve as a model for a healthier existence.
+
+But these adventures have to be frequent,
+not Peace Corps maybe, not every year, not just the holidays...
+
+You will be on the right path,
+if your kids start wondering if you are hoping to leave them in the wilderness.
+
+Or worst yet,
+the god damned Europe, or something.
+
+---
+
+Remember the reason - it is to bring them the serenity,
+which is a prerequisite to learning for real.
+
+You are healing them,
+helping them learn for real, from books written by great beings.
+
+---
+
+The alternative to Serenity,
+is Courage.
+
+But asking a student to rise that early on,
+to rise against, odds, against corruption, recruiters, teachers, and their parents.
+
+Will make them alone,
+will put them into perfect isolation.
+
+They will be forced to learn life by helping people,
+who in return, will think of them as weirdos.
+
+No alcohol, no drugs, no hookups, no fuck-ups,
+no regrets, just wisdom, dignity and perpetual isolation.
+
+Asking a young person for courage,
+is a terrible way to raise a great being.
+
+---
+
+Take your kids shopping, electronics, solar batteries,
+backpacks, and all the expensive things that go in them.
+
+Set them free from the stress of betrayal,
+grant them the serenity they need to become great beings and fix the word.
