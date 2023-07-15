@@ -1,0 +1,108 @@
+---
+id: poem-1230
+guid: 9089ff69-f1f7-44f6-b986-09f30b09499c
+title: The Great Weight-loss Adventure
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-07-15T03:23:37.362Z'
+lastmod: null
+weight: 123000
+audio: poem-1230.mp3
+image: poem-1230-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/iBFBdFHVxeY
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 7
+---
+
+The key is to practice dance,
+and enter a hit-every-beat trance.
+
+The first challenge is the hardest,
+you must use an interval timer to cut out rest.
+
+Resting or music at the wrong speed,
+can only distract and impede.
+
+What you really need to know,
+is that a workout must flow.
+
+No sitting, breaks, divisions, interactions,
+your workout must have no distractions.
+
+---
+
+And let me be very clear,
+about what you are about to hear.
+
+Energy can only come from one source,
+and it is an infinite force.
+
+It is the beat of drums,
+as ancient of a secret as it comes.
+
+Dancing! or synchronizing with the beat,
+will quickly help you become an athlete.
+
+And get this, your body only aches when you stop,
+so just don’t let the beat drop.
+
+---
+
+Moreover, the plumper you start,
+the more your body will turn to art.
+
+Muscles need a challenge, and all that added weight,
+actually turns out to be pretty great.
+
+---
+
+Finally, here is a REVOLUTIONARY way to get started,
+seriously, it is not at all, for the fainthearted.
+
+In order to save and extend your own life,
+cut off all the plugs to kitchen appliance with a knife.
+
+Do unplug them before starting this revolt,
+unless, you need a jolt.
+
+Your first challenges are camping, and walking a long trail,
+and it will become your most magnificent tail to tell.
+
+Drive to the camping store,
+get all the equipment for this great war.
+
+You will be roasting sausages over a fire,
+so get a roasting stick made out of thick wire.
+
+Once you get out there,
+your girth will keep you safe from wild bear.
+
+The only things to worry about,
+is mosquitoes, your sharp knife, and doubt.
+
+So, get fat bug repellent sticks,
+and duct tape your pants to keep out ticks.
+
+And, get some eye protection and gloves as a rule,
+a huge knife a pretty dangerous tool.
+
+---
+
+And, really, just ignore the doubt,
+it is something that you have the right to do without.
+
+Yes, this war will be life long,
+but everyone wants you to be healthy and strong.
+
+Rest assured, if all they do is make you fatter.
+your plans, career and job just, do not matter,
+
+Your body urgently demands that you rise and rebel,
+so take to great adventure, and be well.
