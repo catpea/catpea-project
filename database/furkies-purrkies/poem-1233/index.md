@@ -1,21 +1,21 @@
 ---
 id: poem-1233
 guid: 84fa96bd-b13e-4e5d-a6f5-d91ec6f89567
-title: The Betrayal Of Subject Divisions, And Why Real Education Is Replaced With Memorization (Still Recording)
+title: The Betrayal Of Subject Divisions, And Why Real Education Is Replaced With Memorization
 description: null
 tags:
   - furkies-purrkies
 date: '2023-07-18T03:32:58.558Z'
 lastmod: null
 weight: 123300
-audio: 
+audio: poem-1233.mp3
 image: poem-1233-illustration.jpg
 images: null
 artwork:
   - https://unsplash.com/photos/U1bgZ7JKNFw
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 7
@@ -26,6 +26,14 @@ they are created to look like education for the purpose of extracting a paycheck
 
 That there exists a field of Biology or Astrophysics,
 does not mean that such a class should exist in school.
+
+These fields should be touched upon by many beautifully fascinating lectures,
+which would paint an enormous and well contextualized picture from many perspectives.
+
+But should never be targeted directly, because separated from what makes those subject beautiful,
+they will push students away, by being colorless, and boring, and mechanical.
+
+---
 
 Teachers are mimicking the appearance of a teacher,
 but they are not enhancing your minds.
