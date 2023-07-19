@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/U1bgZ7JKNFw
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
