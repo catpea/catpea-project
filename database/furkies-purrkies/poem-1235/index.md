@@ -1,14 +1,14 @@
 ---
 id: poem-1235
 guid: f6ff0836-7475-4a27-a979-5741700660bc
-title: Recording In Progress - Answers Are Found In The Quest For Greatness, Not In The Search For Meaning
+title: Answers Are Found In The Quest For Greatness, Not In The Search For Meaning
 description: null
 tags:
   - furkies-purrkies
 date: '2023-07-20T03:47:48.538Z'
 lastmod: null
 weight: 123500
-audio:
+audio: poem-1235.mp3
 image: poem-1235-illustration.jpg
 images: null
 artwork:
@@ -21,16 +21,14 @@ draft: false
 chapter: 7
 ---
 
-Answers Are Found In The Quest For Greatness, Not In The Search For Meaning
-
-Remember that the victors rewrite history,
+Remember that, unfortunately, the victors rewrite history,
 and that historians are not immune to paving those roads with good intentions.
 
 Asking about meaning, is more like driving meaning into something,
 and it is likely that it was far too complex at the time, for us to grasp now.
 
-But when you set off, on a pleasant and interesting quest for greatness,
-you become more focused on independently building your self up.
+But you do get a better view, when you set off on a pleasant and interesting quest for greatness,
+you become more focused on independently building your self up - and thus wiser.
 
 The first few steps are funny,
 and may even lead you into a loop.
@@ -41,7 +39,7 @@ written by modern, clear thinking, great beings - you will learn.
 I think the first big lesson,
 is to solve your contradictions.
 
-System of indoctrinations,
+Systems of indoctrinations,
 want you to take things on faith, and avoid exactly that.
 
 ---
@@ -51,6 +49,11 @@ and I solved it by realizing that schools were fake, and that nobody cared.
 
 Here, I begun learning on my own, computers first, to fight poverty,
 and philosophy second, because how can you not love wisdom.
+
+---
+
+Strange things and fraud, are quite common,
+and you don't have to look to the murky corners to find them.
 
 ---
 
