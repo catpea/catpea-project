@@ -248,4 +248,4 @@ No provision in this declaration shall be interpreted as allowing any State, gro
 
 The realization of this Declaration requires the collective effort and commitment of individuals, communities, governments, and international institutions. It necessitates the dismantling of systems and structures that perpetuate poverty, indoctrination, and war. By embracing compassion, wisdom, and cooperation, humanity can foster a harmonious and sustainable world where every person thrives, contributing to the shared progress and welfare of all.
 
-Note: The words "question their tacit assumptions and unarticulated presuppositions" have been breathtakingly composed by Cornel West.
+Note: The words "question their tacit assumptions and unarticulated presuppositions" have been composed by Cornel West.
