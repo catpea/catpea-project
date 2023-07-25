@@ -1,0 +1,266 @@
+---
+id: poem-1240
+guid: f20b41d9-10f8-4847-91b3-8bcc7b431f7f
+title: Thinking Creatures
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-07-25T03:00:45.787Z'
+lastmod: null
+weight: 124000
+audio: poem-1240.mp3
+image: poem-1240-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/Ttz7B0gn0j0
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 7
+---
+
+Reality can be either,
+something, or nothing.
+
+And if it was nothing,
+there would be nothing to ask this question.
+
+---
+
+Nothing, is hard,
+it maybe impossible.
+
+It certainly is,
+unimaginable.
+
+Across your entire existence you emits,
+infrared radiation.
+
+Some of it pierces the sky,
+and once it gets out there it travels forever.
+
+People who are long gone,
+will carry on making their impression on the universe.
+
+I repeat, a reality or a universe of nothing,
+is impossible.
+
+And even if you had nothing,
+subatomic particles do not obey rules of time.
+
+If you have nothing,
+for long enough…
+
+Something,
+must emerge.
+
+---
+
+We live in a particle soup,
+and it will be particles all the way down.
+
+And back and forth in time,
+as if a clock meant nothing.
+
+---
+
+Space, is a really good name,
+for what surrounds us.
+
+Because it probably,
+goes on forever.
+
+This something, that we live in,
+is running an infinite number of experiments.
+
+Down from the very depths of the subatomic world,
+all the way to super clusters of stars and beyond.
+
+Both as a function of shifting constants,
+and its size and flexibility.
+
+And in some places,
+likely very far apart.
+
+Too far apart to cross,
+in any meaningful way.
+
+Dust will fuse into to stars,
+and whatever dirt remains will form a planet.
+
+There are so many of them,
+that eventually…
+
+One planet, right upon its creation,
+will immediate burp up a little creature.
+
+It won’t be life yet,
+but it won’t be just more dust.
+
+There are so many,
+of these burps happening throughout the infinity.
+
+That one little thing somewhere,
+will be shoved into a process of evolution.
+
+The process of evolution is as simple,
+as igniting a star, it just happens.
+
+And with that little something being guided by evolution,
+life and consciousness will emerge.
+
+Not everywhere, but there is so much space,
+so many experiments.
+
+---
+
+There is a moment,
+where evolution brighten up a mind.
+
+And the creature,
+begins to think, to plan, to prepare.
+
+They will continue evolving,
+and those who survive by their wits.
+
+Will eventually,
+form a tribe.
+
+They will huddle up,
+protect each other.
+
+---
+
+And this,
+is where Humanity begun.
+
+---
+
+You are the distant descendant,
+of powerful survivors and warriors.
+
+Who eventually begun building cities,
+and got stung by a wrinkle in our evolution.
+
+---
+
+Before we were fully conscious,
+we survived by listening to our elders.
+
+And this trait remains with us today,
+we blindly believe, protect, are are willing to die for.
+
+Whatever it is,
+that we are born into.
+
+To repair this,
+we invented books.
+
+Those who wanted larger cities and more power,
+invented their books too.
+
+---
+
+You are a thing,
+of the universe of something.
+
+The exact process that got you here
+can be estimated, but never really known in full.
+
+Science can only measure what is available,
+but so much has faded away in time…
+
+But you are you,
+and no one is like you.
+
+You are so complex in your mind,
+that you will only happen once.
+
+The fingers on your hands,
+show the number of decades you have.
+
+They remind you to be healthy,
+and live your live cautiously and wisely.
+
+Each decade,
+is infinitely precious,
+
+Be of good cheer, but also please make sure,
+that the older you will love it all as well.
+
+---
+
+Just like the ball of dirt,
+burped up a thing that needed evolution.
+
+Your body emerged a brain, consciousness,
+a mind, that now requires another process.
+
+---
+
+From a very crude perspective,
+though easy to explain to people with computers.
+
+Your mind is a computer,
+that requires an operating system.
+
+And the operating system requires upgrades,
+to make it efficient and secure against attackers.
+
+---
+
+Just as critical as the coalescing of a sun,
+of the evolution of a thing of dust.
+
+Is your inheritance of the best of wisdom,
+that was left behind by the previous generations.
+
+Your attackers will hope to use indoctrination,
+to feed off of you.
+
+And you need the wisdom,
+to rise above them.
+
+---
+
+Your love of wisdom,
+begins with education.
+
+But it does not end,
+at merely leading a beautiful existence.
+
+You have to create the books,
+for the next generations.
+
+Bring in as much of what you held dear,
+and add the wisdom you synthesized on your own.
+
+---
+
+You are not to just learn from others,
+but to grow up, and, all the way up.
+
+And become a great beings,
+just like your teachers.
+
+In a way you are connection,
+that will help humanity.
+
+In its endless march, forward,
+towards more wisdom, and more greatness.
+
+---
+
+But what you must understand,
+is that you are an independent consciousness.
+
+Once you inherit all the knowledge you need,
+where you go and what you do is yours to decide.
+
+You are not a tool, you are not a stepping stone,
+you are an irreplaceable miracle of the universe.
+
+And whatever it is that you do,
+can only make the universe even more beautiful.
