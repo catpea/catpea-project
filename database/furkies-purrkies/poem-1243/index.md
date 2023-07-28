@@ -1,7 +1,7 @@
 ---
 id: poem-1243
 guid: 1d89fe65-c73e-4659-88ce-d76649c93efa
-title: The Skinny, On Where Fitness Fits
+title: Outlive Yourself; Or, The Skinny, On Where Fitness Fits
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/AWy1dEWerE4
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
