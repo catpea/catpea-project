@@ -53,7 +53,7 @@ export default async function(){
     {
       title: 'Audiobook',
       iconClasses: ['bi', 'bi-book'],
-      url: 'https://archive.org/details/129-hours-of-poems',
+      url: 'https://archive.org/details/catpea',
       navigation: true,
       external: true,
       new: true,
