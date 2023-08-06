@@ -12,10 +12,10 @@ audio: poem-1252.mp3
 image: poem-1252-illustration.jpg
 images: null
 artwork:
-  - https://catpea.com
+  - https://unsplash.com/photos/JIdmuiF9luY
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
@@ -72,7 +72,7 @@ no lasting effort has been put towards that.
 The news gets worse, great effort has been put,
 into allowing humanity to drift towards further division and stratification.
 
-That appears to always work fo the bad people,
+That appears to always work for the bad people,
 and results in tragedy, injustice, eventual economic failure and war.
 
 Because wealthy liars and pretenders head directly for prestigious leadership positions,
