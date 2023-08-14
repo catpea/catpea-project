@@ -1,14 +1,14 @@
 ---
 id: poem-1260
 guid: 45d8f9c6-633a-4d51-bac4-22fb4e7c04fe
-title: "RECORDING IN PROGRESS: A Trail Towards Real Education; Or, Disconnected And Out Of Context Education Is Too Primitive"
+title: A Trail Towards Real Education
 description: null
 tags:
   - furkies-purrkies
 date: '2023-08-14T03:44:52.469Z'
 lastmod: null
 weight: 126000
-audio:
+audio: poem-1260.mp3
 image: poem-1260-illustration.jpg
 images: null
 artwork:
@@ -22,7 +22,7 @@ chapter: 7
 ---
 
 When students ask why the need math,
-they are not saying they don’t need math.
+they are __not__ saying they don’t need it.
 
 And they still believe in the teachers,
 even after they reply with that old:
@@ -128,10 +128,10 @@ just get in the way of real education and the success that it must stand for.
 The future generations deserve better,
 they depend on us, to guide them towards real and effective education.
 
-Today, the best we have, are the great adventure trails,
-and the many narrated books written by clear thinking great beings…
+Today, the most profound we have, are still the great adventure trails,
+combined with the many narrated books written by clear thinking great beings…
 
-These eventually help the students understand,
+These out in nature, and away from punishment, eventually help the students understand,
 that to grow up, means to grow all the way up.
 
 Until they too,
