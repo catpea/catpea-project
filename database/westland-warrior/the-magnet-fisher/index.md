@@ -79,7 +79,7 @@ chapter: 1
 
 [Unbelievable!! Two Safes Found with Cash & Jewlery Inside (Magnet Fishing)](https://www.youtube.com/watch?v=T_05QWGzzhY "Play Video")
 
-### Crusty Treasurez
+### Crusty Treasures
 
 [Magnet Fishing GONE CRAZY *Police Everywhere*](https://www.youtube.com/watch?v=ZSHBmS_GG7o "Play Video")
 
