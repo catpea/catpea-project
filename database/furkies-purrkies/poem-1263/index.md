@@ -1,14 +1,14 @@
 ---
 id: poem-1263
 guid: c4f1e201-15e9-48c8-92ff-5c1d4cf5a258
-title: "RECORDING IN PROGRESS: Knowledge Artists; Or What Do Science Popularizers Do?"
+title: Knowledge Artists; Or What Do Science Popularizers Do?
 description: null
 tags:
   - furkies-purrkies
 date: '2023-08-17T03:36:27.805Z'
 lastmod: null
 weight: 126300
-audio:
+audio: poem-1263.mp3
 image: poem-1263-illustration.jpg
 images: null
 artwork:
@@ -39,8 +39,8 @@ which is similar to memorizing the landmarks of a city.
 Which also looks indistinguishable from actually knowing the city,
 where state tests and funding is concerned.
 
-But real education, will take you along on countless adventures,
-in varied contexts; that will result in you knowing the city by heart.
+But real education, will take you along on countless adventures in varied contexts;
+that will result in you knowing the city by heart.
 
 ---
 
@@ -70,7 +70,7 @@ who present beautiful, unforgettable and coherent narrative.
 ---
 
 Science popularizers provide beauty, context and content,
-orienting the your student in correct directions.
+orienting the student in correct directions.
 
 One fact that fake education obscures,
 is that in everything is cross connected.
@@ -132,7 +132,7 @@ of a long gone star.
 
 ---
 
-The is one more step in self education,
+The is one more component self education,
 and it comes naturally, after the Popularizers help us to solid ground.
 
 It may seem overwhelming to hear of it now,
@@ -159,6 +159,6 @@ Armed with the ability to visualize and simulate,
 we will not be limited to observe sleepy light slowly move across the universe.
 
 But also, we will be able to bring new light,
-to corners of complexity, that are yet been discovered.
+to corners of complexity, that are yet to be discovered.
 
 [1]: https://github.com/Jam3/math-as-code
