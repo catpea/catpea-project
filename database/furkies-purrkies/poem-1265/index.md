@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/a-man-standing-on-a-wooden-walkway-with-a-view-of-mountains-0gMsj5ybwms
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
