@@ -37,7 +37,7 @@ npm run save;
 
 
 echo
-echo
+echo "CONTENT PUBLISHED"
 echo reminders:
 echo github website location: $(antwerp read catpea-github configuration.dest)
 # echo gandi website location: $(antwerp read catpea-gandi configuration.dest)

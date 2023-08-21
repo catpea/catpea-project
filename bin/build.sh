@@ -27,5 +27,6 @@ antwerp build catpea-github
 #   echo "WARN: $FILE has $LINES lines.";
 #   echo lftp -f "$FILE";
 # done;
-
-echo "Do not forget to save the files run: ./bin/publish.sh";
+echo
+echo "BUILD COMPLETE!";
+echo "note: do not forget to run: ./bin/publish.sh";

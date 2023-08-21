@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/2cSiUpeySm0
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
@@ -30,7 +30,7 @@ in sitting around.
 Lifting something heavy for a minute or two, during a 45 minute stay a the gym is not a workout,
 the same way that a salad with some bits of chicken, is not a chicken.
 
-It is the middle-agers,
+It is the middleagers,
 who need to be mimicking the teenagers - not the other way around.
 
 ---
