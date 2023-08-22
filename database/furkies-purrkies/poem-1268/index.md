@@ -21,8 +21,8 @@ draft: false
 chapter: 7
 ---
 
-Hair is a three dimensional object,
-that quietly sits on a person noodle whilst casting shadows.
+Hair,
+is a three dimensional object.
 
 Take time to try to create a 3D shape,
 with sharp edges in a paint-over to see it in full.
