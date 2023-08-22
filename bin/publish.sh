@@ -14,14 +14,14 @@ git push;
 cd -;
 
 
-# echo
-# echo
-# echo GITHUB: updating catpea.github.io
-# cd $(antwerp read catpea-github configuration.dest)
-# git add .;
-# git commit -m "Blog updates";
-# git push;
-# cd -;
+echo
+echo
+echo GITHUB: updating catpea.github.io
+cd $(antwerp read catpea-github configuration.dest)
+git add .;
+git commit -m "Blog updates";
+git push;
+cd -;
 
 #
 # echo
