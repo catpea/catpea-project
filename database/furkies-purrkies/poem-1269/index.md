@@ -1,7 +1,7 @@
 ---
 id: poem-1269
 guid: a062b68d-b526-4ea3-b83f-e4bb6949c64a
-title: What Is Freedom Of Will
+title: What Is Freedom Of Will?
 description: null
 tags:
   - furkies-purrkies
@@ -184,7 +184,7 @@ prompted my co workers to call me buzzword boy.
 They made a little website with my picture,
 where I could not look more fat, even if I tried.
 
-This helped me lose 187 pounds,
+This helped me lose 100 pounds,
 and started me on a life long journey toward becoming a shit kicking beefcake.
 
 In my fourth job, I was tasked with destroying cross platform user interface layouts,
