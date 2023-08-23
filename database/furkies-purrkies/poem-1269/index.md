@@ -44,7 +44,7 @@ you end up loving and keeping water-bears as pets.
 You have videos of interesting happenings in the microbial world,
 and later go on to learn programming to encode strings of text in DNA and such.
 
-In a fake biology class, your teacher will force you to memeorize,
+In a fake biology class, your teacher will force you to memorize,
 that mitochondria is the powerhouse of he cell.
 
 And it will take you couple of decades to realize,
