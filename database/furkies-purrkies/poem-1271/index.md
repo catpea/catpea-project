@@ -101,11 +101,11 @@ and sunshine will return all too soon to justify carrying heavy things around.
 Finally, your choice of narrated books,
 should include a full range of adventure stories.
 
-Listening to Krakauer’ s frightening adventure stories,
+Listening to Krakauer’s frightening tales,
 or Slocum’s Memoir about sailing alone around the world.
 
 Or adventures of Robinson Crusoe,
-and Moby Dick’s Ishmael.
+or Ishmael's stroy in Moby Dick.
 
 Often demands spicy weather,
 and I dare say; a few bellowing thunders as well.
