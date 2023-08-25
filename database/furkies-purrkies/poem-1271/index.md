@@ -1,0 +1,111 @@
+---
+id: poem-1271
+guid: bb753ced-3567-4d71-a554-ee861a4362f5
+title: A Yellow Bellied Buttercup’s Guide To Camping In Spicy Or Moody Weather
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-08-25T03:29:52.404Z'
+lastmod: null
+weight: 127100
+audio: poem-1271.mp3
+image: poem-1271-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 7
+---
+
+Nature is your friend, we are all born from it, we need it,
+and it is beautiful, and especially when angry.
+
+We do have to be careful, though,
+even on sunny days, as the weather can change quickly.
+
+Be sure to stay away from flash flood areas,
+and trees that can fall in the wind.
+
+Do not take this advice lightly,
+you do not want your tent to wash away, or get seriously wet while you are in it.
+
+Sometimes the weather, can become a little bit crazy,
+even on a sunny vacation, or a well kept camping area.
+
+Always know where to drag your tent to,
+a safe location, will take all your worries away – no problemo.
+
+---
+
+You should store items in sealable plastic bags,
+they weigh nothing, and help you sort things and keep your stuff dry.
+
+Bring a large trash bag to cover up your firewood,
+this way you won’t have trouble starting a hot fire and you can dry other wood.
+
+---
+
+Bring a gnarly and dangerously sharp hand saw,
+if you don’t mind the weight, just go to the hardware store.
+
+You never regret dragging it along,
+and it never ceases to surprise you how quickly it can cut through fallen logs.
+
+Display it proudly,
+as it will make everyone jealous.
+
+---
+
+There are few other considerations you may wish to ponder,
+to make your stay in the woods, at the very least more interesting.
+
+And you didn’t hear this one from me,
+but if you are as cultured as a proper buttercup ought to be.
+
+You can bring a second cheaper tent,
+for purposes that would make you not want to bring it __back__ with you.
+
+And while you should have a bunch of earplugs with you for sleeping,
+and a few handy dandy audio book players, so that you are never lonesome.
+
+If you get a bone conduction speaker, you can wear earplugs,
+while listening to your narrated books, no storm will bother you here.
+
+If you get a lightweight clothes line, and a plastic drop cloth that painters use,
+you can extend a loud an annoying roof over your tent, bring duck tape as well.
+
+(Duck tape can also be used to temporary repair damage to your skin,
+protecting blisters and the like, it really sticks, so be very careful with it.)
+
+A tick-ish plastic poncho, isn’t all that heavy, and may help you quite a bit to keep dry,
+you should have a rain proof backpack cover with you as well.
+
+But if you don’t mind the crazy weight, or have your car near by maybe,
+and it is not too hot, consider buying a goofy and pricey vinyl rain suit.
+
+It is something else to be walking about in the rain,
+and keeping completely dry like some highly cultured sophisticate person.
+
+If you have a drop cloth over your tent,
+then you won’t even drag a singe drop of rain into your tent.
+
+Though at the same time, rain usually goes as fast as it comes,
+and sunshine will return all too soon to justify carrying heavy things around.
+
+---
+
+Finally, your choice of narrated books,
+should include a full range of adventure stories.
+
+Listening to Krakauer’ s frightening adventure stories,
+or Slocum’s Memoir about sailing alone around the world.
+
+Or adventures of Robinson Crusoe,
+and Moby Dick’s Ishmael.
+
+Often demands spicy weather,
+and I dare say; a few bellowing thunders as well.
