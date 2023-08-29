@@ -1,0 +1,148 @@
+---
+id: poem-1275
+guid: 031d7fac-b4b0-40f3-8229-9ecc6536ad9b
+title: Of The Sunrise And The Sunset; Or, A Slow And Tiny Step Towards Bicycling And Camping
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-08-29T03:06:02.038Z'
+lastmod: null
+weight: 127500
+audio: poem-1275.mp3
+image: poem-1275-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 7
+---
+
+On ordinary days sunrise seems really pushy,
+in contrast to the sunset.
+
+Bu there is more to it,
+than picking favorites.
+
+---
+
+The last thing you want,
+is to look at the sunset through some window.
+
+Going for a walkabout
+is one way.
+
+But, perhaps the best way,
+is to bicycle out.
+
+And enjoy the beauty of a sunset,
+from a new place every day.
+
+---
+
+Out on the beach sunsets,
+could sometimes repeat.
+
+Out on the great trails,
+a sunset marks setting up camp.
+
+---
+
+But on a bicycle,
+which can quickly carry you away.
+
+It is as if you can get a sunset to goose you,
+from a new angle, each day.
+
+---
+
+And what a healthy thing to do,
+it is good on the knees.
+
+And if you buy yourself a large seat,
+it is even good for the tush.
+
+---
+
+I think for a sunrise to work,
+you have to take care of sunsets.
+
+It is not very long,
+before the bicycle sends you camping.
+
+Just being out there in nature,
+waiting for pretty colors.
+
+Always ends in fiddling with a tent,
+someplace nice.
+
+Here, as the nearing sunset,
+alerts you to finish picking up wood.
+
+The moment the sun does set,
+you get just enough twilight.
+
+To light your fire,
+spear your dinner sausage...
+
+And pick your narrated book,
+for the evening.
+
+---
+
+When camping, eventually,
+you begin to turn in after dark.
+
+And wake up, to that  crisp early blue,
+of the new day.
+
+And you guessed it,
+here the sunrise too, becomes a celebration.
+
+It is a great time,
+to perch upon a fallen log…
+
+Eat the breakfast,
+and let the sun warm you up.
+
+---
+
+Dismissing either, or both,
+is trouble.
+
+Life is precious, it is finite,
+stress, overwork, lack of books in your life.
+
+All add up to accelerate time,
+and that is not good.
+
+---
+
+Save the sunset,
+and frequently take to adventures.
+
+Where you can quietly enjoy,
+the sunrise too.
+
+You are a creature of the universe,
+an unimaginable miracle of timeless chaos.
+
+Do not commit yourself to human concerns only,
+take care of your universal self as well.
+
+---
+
+Begin putting a backpack together,
+set up the tent at home or in your back yard.
+
+Get used to it,
+get ready.
+
+Make your way towards the kind of a life,
+where you get to enjoy, both…
+
+The sunrise,
+and the sunset.
