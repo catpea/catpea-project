@@ -24,7 +24,7 @@ chapter: 7
 Gym-time is special,
 and it is precious.
 
-A gym unique place,
+A gym is a unique place,
 not meant for rest.
 
 Don’t do reps and sets,
