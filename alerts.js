@@ -1,5 +1,14 @@
 export default async function(){
   const response = [
+
+    {
+      type: 'warning',
+      urgent:true,
+      text:`GitHub problems are preventing audio from uploading.`,
+      note:`It usually takes a few hours to resolve, until then the audio is availabe on YouTube, sorry.`,
+      link:{title:`YouTube Backup`, url:'https://www.youtube.com/@catpea'}
+    },
+
     // {
     //   type: 'warning',
     //   urgent: true,
