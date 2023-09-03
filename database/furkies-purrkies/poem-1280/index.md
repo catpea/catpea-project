@@ -1,7 +1,7 @@
 ---
 id: poem-1280
 guid: 1cfcf7fb-89c6-4c6e-9b4c-9fb12acc2e30
-title: The Uncoking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem
+title: The Uncorking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://pixabay.com/photos/woman-peak-summit-clouds-6012907/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
@@ -95,8 +95,6 @@ and that means a life of adventure.
 
 To defraud humanity, schools and religion have to build up a lot of momentum,
 including threats; and miracles, such as saints, geniuses, and impressions of success and education.
-
-
 
 ---
 
