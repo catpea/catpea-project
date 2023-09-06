@@ -15,7 +15,7 @@ artwork:
   - https://pixabay.com/photos/mountains-mountain-top-tourist-6470614/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
