@@ -1,0 +1,150 @@
+---
+id: poem-1284
+guid: 6e4f6466-4bdd-4931-b9ab-efd3ca963fbd
+title: What Is Wisdom?
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-09-07T03:12:33.003Z'
+lastmod: null
+weight: 128400
+audio: poem-1284.mp3
+image: poem-1284-illustration.jpg
+images: null
+artwork:
+  - https://pixabay.com/photos/hike-woman-canada-adventure-6316296/
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 7
+---
+
+A good although greatly oversimplified example of a tiny bit of wisdom,
+is a inspirational movie scene, where visuals may fill in for the lack of content.
+
+And it is always just a scene or two, but never more,
+because movies never tell a functional story.
+
+Movies are the chicken scratch version
+of well narrated books, preferably by their authors.
+
+Allow me to give you three examples,
+with a sprinkle of expanded ideas.
+
+---
+
+In 1997’s Good Will Hunting, you hear,
+“You wasted $150,000 on an education you coulda got for a buck fifty in late charges at the public library.”
+
+This quote fails to mention that this $150K gets you a diploma,
+that open other doors, not better or higher doors, just other.
+
+Paid education is a carrot on a stick scam,
+and the companies that hire those graduates, deserve what they get.
+
+As a result we have liars in politics, doctors that cause drug epidemics,
+high ranking officials that think UFOs are real, and a lot of people in debt.
+
+The idea of standardized education is a fantasy,
+as we can't really learn in a lowest-common-denominator sequence.
+
+Only self directed education will work,
+replicating college education with books from the library is a terrible waste of time.
+
+We have to navigate the constellation of our own curiosities,
+only then can we really make lasting contributions to human kind.
+
+Be careful where hoping to win the great prizes,
+wherever there is prestige, there will be fraud.
+
+---
+
+In 2006’s Peaceful Warrior, the main character upon some contemplation states,
+“There are no ordinary moments”
+
+It is better to say that all moments are special,
+that no day should be thrown away.
+
+Nor should anyone go through life waiting for Wednesdays,
+that mark the middle of the week.
+
+Or worst yet Thursdays,
+which marks a person to be so stressed out as to need to mess with their brain chemistry.
+
+And just as bad Fridays, if your life starts at the end of the week,
+than that is not really living at all – also mentioned in this move.
+
+---
+
+In 1994’s Renaissance Man we get,
+“the choices we make dictate the life we lead”.
+
+And that is as solid of a wisdom as three is,
+our decisions change the paths we walk.
+
+You see that in politics, elected officials often don’t know what to do,
+or how to go about fulfilling their campaign promises.
+
+False leaders are completely incompatible with their environment,
+and often all they do, is enjoy is prestige.
+
+They just golf,
+and give speeches, that somebody else wrote.
+
+And if they do give their own speeches,
+they are just changing words or quotes.
+
+As they unable to navigate complex concepts,
+they don’t have real education.
+
+Just enough money to stay on the election carousel,
+for long enough to get picked.
+
+For almost a hundred years now, we have been living in something worse...
+than climate change, and pollution.
+
+A state of mutually assured destruction,
+and, without a single politician who ever cared to authentically undo that.
+
+---
+
+Finally, movie wisdom does not really work, because it is just a snippet,
+part of a business product crafted to sell movie seats.
+
+It is a disconnected snippet, one taken out of context,
+and the place where it originally came form.
+
+In narrated non-fiction books, tings are a lot different,
+a well written book, will always push you minor wisdoms ans observations.
+
+To put you in the context of some greater wisdom,
+where you can immediately add it to your decision making.
+
+A well crafted book won’t just give you a snippet,
+but rather, gradually introduce you to a lifetime of fully functional integrated wisdom.
+
+From which you will be able to pick and choose,
+in such a way as to match who you are, and what you need, and what you may need later on as you revisit.
+
+---
+
+There is however a problem, a problem of comprehending books,
+comprehension is nearly impossible when one is stressed out.
+
+And quite difficult when you are always tired,
+and very tedious in any state other than serenity.
+
+To achieve the state of serenity from which you can begin,
+freely inheriting from entire lifetimes of wisdom – you will need adventure.
+
+The state of serenity is found under the naked stars,
+away from liars, and pretenders, and half-measures, and all forms of stress.
+
+Bukowski beautifully captures the urgency in his poem “[All The Way][1]”,
+but it is Thoreau that helps us see life as a whole, and why we need wisdom.
+
+“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms...”
+
+[1]: https://www.youtube.com/watch?v=k6_QUhUPrF4
