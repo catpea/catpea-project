@@ -15,7 +15,7 @@ artwork:
   - https://pixabay.com/photos/hike-woman-canada-adventure-6316296/
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
