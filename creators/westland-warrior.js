@@ -88,10 +88,13 @@ export default async function({db:raw, dest, kind, title, after, samples, debug}
   }
 
   const content = [
-    `[⚠️ Excessive Advertising: SponsorBlock - Skip Sponsored Ads On YouTube](https://www.youtube.com/watch?v=rv-r852OXck "Play Video")`,
-    `[⚠️ Excessive Advertising: How to Block Ads with uBlock Origin](https://www.youtube.com/watch?v=TUWMaK5xvX4 "Play Video")`,
+    `Skip Sponsored Ads On YouTube`,
+    `https://www.youtube.com/watch?v=rv-r852OXck`,
+    ``,
+    `Block Ads with uBlock Origin`,
+    `https://www.youtube.com/watch?v=TUWMaK5xvX4`,
   ];
-  const doc = `---\n${yaml.dump(attributes)}---\n\n${content.join('\n\n')}`
+  const doc = `---\n${yaml.dump(attributes)}---\n\n${content.join('\n')}`
 
   const baseDir = path.join(dest, id);
   const indexFile = path.join(baseDir, 'index.md');

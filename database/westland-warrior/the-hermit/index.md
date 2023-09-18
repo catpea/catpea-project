@@ -1,0 +1,138 @@
+---
+id: the-hermit
+guid: 87326570-c70e-438b-b169-73a448864790
+title: The Hermit
+description: null
+tags:
+  - westland-warrior
+date: '2023-09-17T23:31:10.353Z'
+lastmod: null
+weight: 1310
+audio: null
+image: the-hermit-cover.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  ytcover: true
+raw: true
+draft: false
+chapter: 1
+---
+
+["Walden Pond", composed by David Tolk HD 1080p](https://www.youtube.com/watch?v=CGYTYHlhZd4 "Play Video")
+
+["Trip to Walden Pond" | Hanneke Cassel @ MBSC 2014](https://www.youtube.com/watch?v=pNA20j-Egz8 "Play Video")
+
+[Walden by Henry David Thoreau - Full Narrated Book](https://www.youtube.com/watch?v=NE7l-ScAXSA "Play Video")
+
+### Walden Pond
+
+[Reflect On Henry David Thoreau’s Vision Of Walden Pond | The Daily 360 | The New York Times](https://www.youtube.com/watch?v=7jJm6Q8WiYU "Play Video")
+
+[Uncovering Thoreau's Secret Life in the Woods What You Didn't Know](https://www.youtube.com/watch?v=7gZDcLImafc "Play Video")
+
+[Nature: Walden Pond](https://www.youtube.com/watch?v=JplOE0vaXw4 "Play Video")
+
+[Thoreau at 200: Reflections on "Walden"](https://www.youtube.com/watch?v=GV6nepqzrFc "Play Video")
+
+[A journey through Henry David Thoreau's Maine woods](https://www.youtube.com/watch?v=2197wgDecZk "Play Video")
+
+### Tourism At Walden
+
+[At historic Walden Pond in Concord, Mass., students learn to appreciate the land](https://www.youtube.com/watch?v=_yOw0kFCjfI "Play Video")
+
+[Thoreau at Walden Pond (Narrated)](https://www.youtube.com/watch?v=bus-4wnMo5k "Play Video")
+
+[Visiting Walden Pond, Massachusetts](https://www.youtube.com/watch?v=Yx0jx9uXrVk "Play Video")
+
+[Walden Pond, Massachusetts - Walking Tour](https://www.youtube.com/watch?v=4isuyt12qzE "Play Video")
+
+[A Narrated Tour of Walden Pond ❤️](https://www.youtube.com/watch?v=eCINRob9RD4 "Play Video")
+
+[Walden Pond Drone Video - Concord, Massachusetts](https://www.youtube.com/watch?v=3wCb5S0GsfM "Play Video")
+
+### Mount Katahdin
+
+[Mount Katahdin | Hike to the Top of Maine](https://www.youtube.com/watch?v=stCJxFHwx_U "Play Video")
+
+[How To Climb Katahdin](https://www.youtube.com/watch?v=QTuewfYuCYw "Play Video")
+
+[Climbing the Deadly Knife Edge of Mt. Katahdin](https://www.youtube.com/watch?v=9hfiggNVtJs "Play Video")
+
+[Mount Katahdin and the Appalachian Trail](https://www.youtube.com/watch?v=1WugC2K7gUA "Play Video")
+
+[Appalachian Trail - SOBO Day 1 | Mile 0 | August 5, 2021](https://www.youtube.com/watch?v=rVSM2s4z0G8 "Play Video")
+
+### The White Blaze
+
+[White Blaze - Stories from the Appalachian Trail](https://www.youtube.com/watch?v=m-UMoA-QmZU "Play Video")
+
+[What is the Appalachian Trail?](https://www.youtube.com/watch?v=hPSvdKTEZug "Play Video")
+
+[Our entire journey of completing the Appalachian Trail SOBO 2022 ❤️❤️](https://www.youtube.com/watch?v=YTitJFUKlqs "Play Video")
+
+[My Entire 2022 Appalachian Trail Thru-Hike In Under 20 Minutes](https://www.youtube.com/watch?v=qLGn7Klzu4M "Play Video")
+
+[SOBO Appalachian Trail ‘23 Thru-hike Day 0-1](https://www.youtube.com/watch?v=6-9ZAYemsxs "Play Video")
+
+[Day 1 - Appalachian Trail Southbound Thru Hike 2023](https://www.youtube.com/watch?v=Qkyu4OKz9Mg "Play Video")
+
+[SOBO vs NOBO | Which way is better? | Appalachian Trail Thru-Hike](https://www.youtube.com/watch?v=0oo-TIz707M "Play Video")
+
+ [Call of the Wild: 2,193 miles on the Appalachian Trail in 2020 (Full Documentary)](https://www.youtube.com/watch?v=0IAzGhfG90s "Play Video")
+
+[If I Hiked the Appalachian Trail Again](https://www.youtube.com/watch?v=sQqVcivBI4w "Play Video")
+
+### Springer Mountain
+
+[Approach Trail | Amicalola Falls & Springer Mountain | Appalachian Trail 2021](https://www.youtube.com/watch?v=Gln14d8zwMw "Play Video")
+
+[What to Expect as you Hike from Springer Mountain to the North Carolina Line](https://www.youtube.com/watch?v=KLhCp64DDrI "Play Video")
+
+[What To Expect Your 1st Day on the Appalachian Trail | Amicalola, Approach Trail, Springer Mountain](https://www.youtube.com/watch?v=fR35bptGiPQ "Play Video")
+
+### The Triple Crown
+
+[Which Trail Should YOU Thru-hike First? (Appalachian Trail vs PCT vs CDT)](https://www.youtube.com/watch?v=F9n1F1JupY8 "Play Video")
+
+[Advice from a Triple Crown Thru-hiker | PCT, CDT, & AT](https://www.youtube.com/watch?v=IsecloPLp-8 "Play Video")
+
+[Colorado man finishes Triple Crown: AT, PCT and CDT](https://www.youtube.com/watch?v=xaFbQs3IXIw "Play Video")
+
+[Jessica "Dixie" Mills - Triple Crowner - AT, PCT, CDT](https://www.youtube.com/watch?v=FjRKOK3-M3g "Play Video")
+
+[Thru Hiking the PCT, Key West to Canada, and CDT Triple Crown Presentation For Sierra Club WTC](https://www.youtube.com/watch?v=BqIREoo2VEI "Play Video")
+
+[Tips for Trail Magic](https://www.youtube.com/watch?v=EqR7PExN4Ik "Play Video")
+
+### Pacific Crest Trail
+
+[Pacific Crest Trail 2023 Entering the Sierra](https://www.youtube.com/watch?v=q0AsZTJS5ys "Play Video")
+
+[Just Passing Thru - A Pacific Crest Trail Film](https://www.youtube.com/watch?v=GBcn2j3UKy0 "Play Video")
+
+[Every Single Step | A Pacific Crest Trail Documentary](https://www.youtube.com/watch?v=nEbXFIlFxWs "Play Video")
+
+[Pacific Crest Trail Documentary: A YEAR OF ICE AND FIRE](https://www.youtube.com/watch?v=V4D4TcgppD8 "Play Video")
+
+### Continental Divide Trail
+
+[Continental Divide Trail Documentary: CHOOSE YOUR ADVENTURE](https://www.youtube.com/watch?v=1ewQvcGhQAA "Play Video")
+
+[How Dangerous is the Continental Divide Trail?](https://www.youtube.com/watch?v=nZMQ50Za25w "Play Video")
+
+[Experience the Continental Divide Trail in 10 minutes!](https://www.youtube.com/watch?v=bY4D67hFQm4 "Play Video")
+
+[Adventure Up High - Hiking the Continental Divide Trail Documentary](https://www.youtube.com/watch?v=UISRi3ZoveM "Play Video")
+
+[The Continental Divide Trail in Four Minutes](https://www.youtube.com/watch?v=ExP3ikM_wko "Play Video")
+
+### The Call Of The Wild
+
+[Dear Thru Hiking | The Final Steps of a Triple Crown](https://www.youtube.com/watch?v=-1vT4Jxt2PU "Play Video")
+
+[Eddie Vedder - Guaranteed (Into The Wild)](https://www.youtube.com/watch?v=Mwx3RvDWvDM "Play Video")
+
+[The Man in the Arena – Teddy Roosevelt (A Powerful Speech from History)](https://www.youtube.com/watch?v=A311CnTjfos "Play Video")
