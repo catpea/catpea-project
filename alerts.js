@@ -1,6 +1,8 @@
 export default async function(){
   const response = [
 
+    {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 138 hours long and 6.8GB in size, beginning with "Welcome To Planet Earth - A Word Of Caution" (August 5th 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/catpea'}},
+
     // {
     //   type: 'warning',
     //   urgent:true,
@@ -52,7 +54,6 @@ export default async function(){
     //   link:{title:`YouTube Backup`, url:'https://www.youtube.com/@catpea'}
     // },
     // {type: 'danger', urgent:true,  text:`Heavy wet snowfall, Is causing such a toll, For it has created a power outage, That might delay poetry's show.`,  note:`Lost power twice, It was not very nice, The transformer started flashing, and ate a poem that was becoming dashing.`},
-    {type: 'info', urgent:false, text:`New Audiobook Release. The mp3 is 138 hours long and 6.8GB in size, beginning with "Welcome To Planet Earth - A Word Of Caution" (August 5th 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/catpea'}},
     // {type: 'info', urgent:false, text:`New Audiobook Release. The mp3 is 116 hours long and 5.2GB in size, beginning with "What Is The Meaning Of Life?" (March 1st 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/116-hours-of-poems'}},
     // {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
     // {type: 'info', urgent:false,  text:`Fixed summaries on the home page and similar where links did not show up in the litte summary above the LISTEN button`, note:`Lectures have more text in the summary now, it is jibberish but it gives a useful overwiew.`},
