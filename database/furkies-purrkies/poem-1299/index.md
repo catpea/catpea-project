@@ -1,7 +1,7 @@
 ---
 id: poem-1299
 guid: 38e54f47-3626-492a-9164-0467ef69d905
-title: So You Signed Up For The Gym - Now What?
+title: So You Signed Up For The Gym... Now What?
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/Jo025H0ILaM
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
