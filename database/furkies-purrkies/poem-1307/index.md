@@ -1,0 +1,157 @@
+---
+id: poem-1307
+guid: 252470ec-7123-4fef-aa03-67b283cef204
+title: The Wise Mind
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-09-30T03:21:22.926Z'
+lastmod: null
+weight: 130700
+audio: poem-1307.mp3
+image: poem-1307-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/Z6vAd91_Hhk
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 7
+---
+
+Do not let the world change you,
+and know that it will try.
+
+Many minds are tricked,
+by indoctrination alone.
+
+Protect your mind,
+and constantly search for wisdom.
+
+All the wisdom,
+has been safely stored in books.
+
+And the library,
+is the only thing false leaders fear.
+
+---
+
+Many books are written,
+to trick you.
+
+But the good philosopher,
+will always rise to top.
+
+Wise books,
+tend to reference each other.
+
+But you will have to search yourself,
+and learn to push away all lies.
+
+The top sellers, are related columns,
+may not be as authentic as they seem.
+
+It won’t take you long to figure out,
+who the real great beings are.
+
+---
+
+Stress and overwork, will, prevent you,
+from understanding even the __narrated__ books.
+
+Thus, you will have to make room,
+in your mind for long new thoughts.
+
+Take to adventure,
+hiking and camping often.
+
+Take the longer trails,
+and wilderness over hike-in sites, if you can.
+
+---
+
+The world is not ready,
+to fulfill your dreams.
+
+Governments are deadlocked,
+by liars.
+
+Humanity held hostage,
+by mutually assured destruction.
+
+Schools practice ineffective education,
+mostly just to make money.
+
+Students accepted to pretend to learn,
+and teachers pretend to teach.
+
+And children are forced to inherit,
+the poverty of their parents.
+
+---
+
+I am sorry to tell you,
+we do not live in an era...
+
+Where you can simply have a career,
+and show the world how brilliant you are.
+
+There are too many pretenders,
+three are too many desperate lairs.
+
+A real career,
+is about a lasting legacy.
+
+But what we have today,
+is about overwork, that robs you of wisdom.
+
+This will just make you old,
+and all too tired to leave a precious legacy.
+
+---
+
+With narrated books playing in your ears,
+as you hike through the world’s great trails.
+
+You will be challenged,
+to grow all they way up…
+
+And become a great being,
+putting your hard won wisdom, into books.
+
+So that the trail that only you once walked,
+will be walked by countless many.
+
+---
+
+This is the old kind of legacy,
+the Philosopher's legacy.
+
+It is noble, and dignified,
+precious, and always beautiful.
+
+When you pull in all the wisdom,
+from all the countless books you read…
+
+And present it in a more modern way,
+that calls to others.
+
+You will bring the world closer,
+to the dreams that you once had.
+
+Humanity needs your help,
+it needs your clarity, your wisdom.
+
+It needs you to expand your mind,
+with great adventure and narrated books.
+
+The world needs your help,
+it needs your stubbornness.
+
+And the future needs you,
+it needs to see you at your most powerful.
+
+So that they too can rise,
+so that Humanity can continue growing up.

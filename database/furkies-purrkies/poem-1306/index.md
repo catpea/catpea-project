@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/OlVqKd5Oza8
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
@@ -24,7 +24,7 @@ chapter: 7
 We must learn to examine life,
 because we can be easily tricked into false beliefs.
 
-We make our decisions based on what we see and know,
+Human beings make decisions based on what they see and know,
 and history shows that is often turned against us.
 
 Therefore, we have to examine life,
