@@ -1,4 +1,5 @@
 #!/bin/bash
+rm ./audiobook.mp3
 ffmpeg -f concat -i ./database/audiolist -c copy ./audiobook.mp3
 
 echo audiobook,poems,inspirational,captivating,soulful,humorous,observations,relaxation,laughter,reflection,furkies
