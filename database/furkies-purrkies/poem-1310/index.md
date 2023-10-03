@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/HfuZE4Z0kl4
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 7
@@ -53,9 +53,24 @@ What is unsaid about Standardized Education,
 is that it produces predictable results.
 
 A crop of leaders, soldiers, workers,
-and a whole lot of wage slaves.
+and a whole lot of wage slaves, who frankly will do everything else.
 
 ---
+
+It is very important that we recognize that every human being,
+is perfectly capable of great creativity and brilliance.
+
+We are all genius level smart,
+and when raised in the right culture...
+
+Our aim is just to become a great being,
+both with wisdom and knowledge.
+
+Standardized education collapses or brilliance,
+our uniqueness, it muddies up our path forward.
+
+It actually interrupts our,
+real education.
 
 The word Education,
 in Standardized education, is a weasel word.
@@ -83,8 +98,7 @@ or the fact that college loans are permanent and not forgivable by bankruptcy…
 That they will be ripped out of a person’s paycheck,
 well into their 60s or beyond, and by judges order.
 
-What makes good fraud, good,
-is no concrete evidence, no trail of communication.
+<!-- FUTURE TODO add examples of organized fraud -->
 
 Teachers just get hired, teach, keep their grading average,
 and take a paycheck home, they can’t get fired, and you will graduate.
