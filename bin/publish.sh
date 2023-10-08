@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo -ne "\n\n\n\n\n\n\n\n\n\n"
-echo "1/4 - GITHUB/chapters updating chapter 07 -----------------------------------------------------------------------------------------------------"
-cd dist/chapters/chapter-07;
+echo "1/4 - GITHUB/chapters updating chapter 08 -----------------------------------------------------------------------------------------------------"
+cd dist/chapters/chapter-08;
 git add .;
 git commit -m "Chapter content updates.";
 git push;
@@ -30,11 +30,23 @@ echo -ne "\n\n"
 echo "4/4 - END: CONTENT PUBLISHED ------------------------------------------------------------------------------------------------------------------"
 echo reminders:
 echo -ne "\n\n"
-echo If you are working on chapter 08, update this build file!
-echo you must cd and push 08 now, not 07;
-echo NOTE: antwerp will generate into "dist/chapters/chapter-07" but to set it up:
-echo       you need to create a github repo first, then clone it and then run build.
-echo       REMEMBER to setup pages branch "main" folder "/docs"
+
+echo NOTE: If you are working on chapter 09, update PUBLISH.SH file, to publish the new data.
+echo you must cd and push 09 now, not 08;
+echo -ne "\n\n"
+
+echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo oon github clone into dist/chapters/, and update "/creators/furkies-purrkies.js" preset
+echo -ne "\n\n"
+
+echo NOTE: antwerp will generate into "dist/chapters/chapter-08"
+echo based on the front-mattter in the poem, AND! based on "/creators/furkies-purrkies.js" preset.
+echo but to set up "dist/chapters/chapter-08" you need to create a github repo first,
+echo then clone it and then run the build...
+echo -ne "\n\n"
+
+echo REMEMBER to setup pages branch "main" folder "/docs" in the new chpter repo.
+echo "Deploy from a branch, main, docs, and look into actions for progress...".
+echo -ne "\n\n"
 
 echo github website location: $(antwerp read catpea-github configuration.dest)
 # echo gandi website location: $(antwerp read catpea-gandi configuration.dest)

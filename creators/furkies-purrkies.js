@@ -44,7 +44,7 @@ export default async function({db, dest, kind, title, samples, debug}){
     features,
     raw: true,
     draft: false,
-    chapter: 7,
+    chapter: 8,
   }
 
   if(debug){

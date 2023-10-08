@@ -29,4 +29,5 @@ antwerp build catpea-github
 # done;
 echo
 echo "BUILD COMPLETE!";
+echo "note: mp3 files are published to ./dist/chapters/chapter-0X where X is specified in the poem it self";
 echo "note: do not forget to run: ./bin/publish.sh";
