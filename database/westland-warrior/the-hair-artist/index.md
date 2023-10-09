@@ -1,0 +1,102 @@
+---
+id: the-hair-artist
+guid: 5ba2f950-f200-47c4-b5f2-3d2c659fe82d
+title: The Hair Artist
+description: null
+tags:
+  - westland-warrior
+date: '2023-10-08T23:35:30.840Z'
+lastmod: null
+weight: 13801
+audio: null
+image: the-hair-artist-cover.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  ytcover: true
+raw: true
+draft: false
+chapter: 1
+---
+
+[Skip Sponsored Ads On YouTube](https://www.youtube.com/watch?v=rv-r852OXck "Play Video")
+
+[Block Ads with uBlock Origin](https://www.youtube.com/watch?v=TUWMaK5xvX4 "Play Video")
+
+### Introduction
+
+[NEVER DRAW HAIR THIS WAY!](https://www.youtube.com/watch?v=hXfx5ISNtUQ "Play Video")
+
+[How to Draw Hair](https://www.youtube.com/watch?v=lcA8CDWEuL4 "Play Video")
+
+[How to DRAW HAIR](https://www.youtube.com/watch?v=UaPJSbc0RE8 "Play Video")
+
+[how to draw ✨JUICY✨ hair](https://www.youtube.com/watch?v=V_BL6-kcWsQ "Play Video")
+
+[How I Draw ✨️WAVY HAIR✨️](https://www.youtube.com/watch?v=fBbJBSueDYg "Play Video")
+
+[5 TIPS FOR PAINTING HAIR](https://www.youtube.com/watch?v=drcf21A6PQw "Play Video")
+
+[Paint Hair like a Pro (Digital Painting)](https://www.youtube.com/watch?v=39kigEnf6bY "Play Video")
+
+### Digital
+
+[The Ultimate Hair Drawing Tutorial](https://www.youtube.com/watch?v=23MfYcmMW8I "Play Video")
+
+[How I Paint Stylized HAIR Tutorial in Clip Studio Paint](https://www.youtube.com/watch?v=p96PZtV_ijA "Play Video")
+
+[How To Paint Hair - Digital Painting Tutorial](https://www.youtube.com/watch?v=yU18u5sUgko "Play Video")
+
+[How I draw and color the hair using Procreate (Brush+Techniques)](https://www.youtube.com/watch?v=bjOTutbSkfA "Play Video")
+
+[How to Draw Realistic Hair Digitally | Procreate Tutorial](https://www.youtube.com/watch?v=7EnMu5SAM9I "Play Video")
+
+[How To Paint Hair](https://www.youtube.com/watch?v=w0Qh4Cu5ecM "Play Video")
+
+[HOW TO DRAW STYLIZED HAIR ✏️ drawing tutorial | how i paint hair in Procreate ✨](https://www.youtube.com/watch?v=zXvaUVA6OSI "Play Video")
+
+[How to draw HAIR in 10 MINUTES](https://www.youtube.com/watch?v=t8KsnKCnEzE "Play Video")
+
+### Paint
+
+ [How to paint hair - portrait painting by Ben Lustenhouwer ](https://www.youtube.com/watch?v=AyqiwsKpIFQ "Play Video")
+
+[How To Paint Hair || Oil Painting Demonstration](https://www.youtube.com/watch?v=Amcjwcaww5A "Play Video")
+
+[How to Paint Hair with Acrylics TUTORIAL](https://www.youtube.com/watch?v=wp-dQfmM6L8 "Play Video")
+
+[oil painting do's and don'ts how to paint hair](https://www.youtube.com/watch?v=uXhTy8s1B7Q "Play Video")
+
+[The Trick To Painting Any Length Of Hair](https://www.youtube.com/watch?v=tJRRgYlJec0 "Play Video")
+
+[Painting Hair by Thomas Baker](https://www.youtube.com/watch?v=CLxYo5TmyO8 "Play Video")
+
+[Do's and Don'ts of Realistic Hair Painting: How to Paint Hair](https://www.youtube.com/watch?v=dxFv72NiDIw "Play Video")
+
+[Oil Painting Demonstration : How to Paint Realistic Hair](https://www.youtube.com/watch?v=zIUPBWQZEpc "Play Video")
+
+[EASY Painting Hair for BEGINNERS! How to paint realistic hair with acrylic paint](https://www.youtube.com/watch?v=FyioFdKK9Os "Play Video")
+
+[How To Paint Black Hair • Oil & Acrylic Painting Tutorial](https://www.youtube.com/watch?v=RmtCwrMw8aw "Play Video")
+
+[How to Paint a Braid - Acrylic Painting Tutorial](https://www.youtube.com/watch?v=An-bub__CV8 "Play Video")
+
+[How to Paint Hair in a Few Simple Steps (Acrylic Paint)](https://www.youtube.com/watch?v=VNPpoZBuGqE "Play Video")
+
+[Easiest Realistic Hair Painting Tutorial in Acrylic on Canvas | Step by Step by Debojyoti Boruah](https://www.youtube.com/watch?v=K5T2q7JbZLA "Play Video")
+
+[How To Paint LONG FUR with Acrylics or Oil Paint](https://www.youtube.com/watch?v=3YI7EoKEedE "Play Video")
+
+### Finale: An Introduction To A New Color Palette
+
+[How I draw and stylize eyes using Procreate App ( Brushes + Techniques )](https://www.youtube.com/watch?v=QAekG2b00FI "Play Video")
+
+[How to draw /color lips tutorial](https://www.youtube.com/watch?v=_rWUFv9M4nc "Play Video")
+
+[✍🏻How I Draw Eyes || Step by step tutorial on ibisPaintx || with subtitles✨](https://www.youtube.com/watch?v=a8YuKVZMjGE "Play Video")
+
+[How I using PROCREATE layers + drawing process & TIP ! ✨](https://www.youtube.com/watch?v=iU-WXDcwm4s "Play Video")
+
+[How to Draw and Stylize Eyes! - Tutorial ~](https://www.youtube.com/watch?v=BfID5va-8NU "Play Video")

@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/TKgOIwPVmkg
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
