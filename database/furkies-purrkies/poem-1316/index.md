@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/a-person-hiking-up-a-trail-in-the-mountains-4N403_133vk
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
