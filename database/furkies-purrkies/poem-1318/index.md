@@ -1,7 +1,7 @@
 ---
 id: poem-1318
 guid: d0e37209-acbc-4c86-80a8-4d8a3d23f61a
-title: Walking, A Cute Little Weight Loss Program That Changes Lives
+title: "Walking: A Cute Little Weight Loss Program That Changes Lives"
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/OsMWWAL0saQ
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
