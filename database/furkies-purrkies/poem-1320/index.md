@@ -1,7 +1,7 @@
 ---
 id: poem-1320
 guid: 7301c438-1d3f-4eb6-9478-02abbcc63bb0
-title: Paint-overs and Color Picking; Or; Learning Digital Paining In A Way That Makes So Called Artists Show Who They Really Are
+title: Paint-overs and Color Picking
 description: null
 tags:
   - furkies-purrkies
