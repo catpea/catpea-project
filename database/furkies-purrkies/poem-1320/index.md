@@ -24,7 +24,7 @@ chapter: 8
 Good art changes lives, and it is happy ideas and constant practice,
 that makes a person an artist.
 
-Or in reverse, art that does not change lives, sucks,
+Or in reverse, art that does not change lives, needs improvement,
 and not painting all the time stops a person from being an artist.
 
 ---
