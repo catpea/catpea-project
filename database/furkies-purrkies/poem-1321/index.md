@@ -1,0 +1,84 @@
+---
+id: poem-1321
+guid: 1da2d422-8053-4f8c-bf2c-d8b6c79efe42
+title: Easy Peasy Fitness
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-10-14T03:25:35.460Z'
+lastmod: null
+weight: 132100
+audio: poem-1321.mp3
+image: poem-1321-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/DHsdSeCpjRU
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 8
+---
+
+If what we knew about working out was correct,
+we would see outstanding results.
+
+---
+
+Lifting something some 10 times for 20 seconds total and then resting,
+creates a weak two or five minute exercise that the body ignores.
+
+Instead, take that 20 seconds of lifting,
+and extend it, by lifting lower weights, no rest, just lower weights.
+
+And then bring that non-stop exercise up to 3 minutes,
+and then 5 minutes, and 10, and 15, gradually overtime.
+
+Always lowering the weights as needed,
+but never really stopping.
+
+Now what was once 20 seconds of exercise can be pushed up to an hour,
+then doubled, and crowned by a third hour for a few months if you are large.
+
+---
+
+Look at people lifting for 20 seconds now,
+and look at you lifting for minutes or hours.
+
+That is how wrong we are about fitness,
+it is 20 seconds versus two or three hours.
+
+---
+
+Your diet, is, don’t be a fool and spend money on powders,
+I was once given a brilliant piece of dietary advice in just two words: eat meat.
+
+To which I would add, on a stick, over a bond fire,
+or from a BBQ, just have fun with it.
+
+If you want to speed up your weight loss,
+put your meat creations in a shredded lettuce salad, that will make you feel full faster.
+
+Stay away from sugar as that is powerful medicine, for people in bad trouble,
+and does not belong in a person’s daily diet, at all, at all.
+
+---
+
+Like the idea of sets and reps, the correctness of form,
+is utter nonsense, arguments can be made for it all day, sure.
+
+The way to do it right, is to dance, to flow, to be like water,
+to ruin every trainer advice ever uttered.
+
+To invent a new ghastly, embarrassing, and extremely cringy set of moves,
+grab onto the 3 or 5 pound weights, and dance, twisting, and turning, and flowing.
+
+Gradually building up your endurance to a non-stop 3 hour session,
+and freaking the heck out every bro scientist that has ever laid their eye holes upon you.
+
+The three hour workout is something you do for a few weeks,
+few months if you used to be fat, you will fall back to one hour.
+
+To meet your goals, and complete your transformation,
+and put on muscle, perhaps even with a whopping 8 pound dumbells: three hours.
