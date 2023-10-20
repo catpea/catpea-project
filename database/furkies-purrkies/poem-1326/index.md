@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/2-people-walking-on-green-grass-field-during-daytime-TlaOWHxtpEU
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
