@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/shallow-focus-photography-of-woman-standing-on-snow-field-looking-her-backj-9yyisk8vg_w
 resources: null
 features:
-  video: true
+  video: false
 raw: true
 draft: false
 chapter: 8
