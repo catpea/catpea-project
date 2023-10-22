@@ -17,7 +17,9 @@
 
         <h5 class="card-title text-warning"><a href="/permalink/<?=post.attr.guid?>/" class="text-decoration-none">#<?=post.number?>: <?-post.attr.title.replace(/ (?=\w+$)/gm, '&nbsp;')?></a></h5>
         <h6 class="card-subtitle mb-3 text-muted small"><?=timestamp(post.attr.date)?> <?-post.text.length?'• <i class="bi bi-device-hdd"></i>'+numeral(post.text.length).format('0,0b'):''?><?-post.attachments.length?`<i class="bi bi-paperclip text-info"></i>${post.attachments.length}`:''?></h6>
-        <?if(post.snip){?>
+        <?if(post.attr.description){?>
+          <p class="card-text small text-primary"><?= post.attr.description?></p>
+        <?} else {?>
           <p class="card-text small text-muted"><?= post.snip?>...</p>
         <?}?>
         <?if(website.variant == 'github'){?>
