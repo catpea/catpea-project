@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/woman-carrying-backpack-on-forest-pg3E6_VioZY
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
