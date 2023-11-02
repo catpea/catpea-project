@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/a-woman-in-a-white-dress-sitting-on-a-bench-_0-d6s17QAA
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
