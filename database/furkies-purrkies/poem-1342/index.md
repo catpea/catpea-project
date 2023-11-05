@@ -5,7 +5,7 @@ title: "Joggers Beware: I Dare To Declare You Are Unaware How To Wear Your Under
 description: null
 tags:
   - furkies-purrkies
-date: '2023-11-04T04:03:32.858Z'
+date: '2023-11-04T03:53:12.858Z'
 lastmod: null
 weight: 134200
 audio: poem-1342.mp3

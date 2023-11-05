@@ -1,0 +1,134 @@
+---
+id: poem-1343
+guid: 4557d9b5-9c47-435e-b81f-fc16b89597b0
+title: Why, Oh Why, Can’t We Just Work And Die
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-11-05T01:31:47.290Z'
+lastmod: null
+weight: 134300
+audio: poem-1343.mp3
+image: poem-1343-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/people-walking-on-mountain-alps-with-clouds-An4DuozJUnY
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 8
+---
+
+Why not just be convenient to the maximum,
+where no one yells at us, and we finally fit?
+
+Because we are each mean to grow all the way up,
+and become a great being.
+
+We are each a creature of the universe first,
+we are more than just Human.
+
+We are emerged from chaos,
+and granted a perfect little amount of time.
+
+This period of time, that we call life,
+is meant for beautiful, great, and epic things.
+
+---
+
+Ever since parents started using schools,
+as a convenient baby sitter.
+
+The teachers begun to pretend to teach,
+and under threat, the students pretend to learn.
+
+To trick anybody into false beliefs,
+be it that education is effective.
+
+Or that they have to serve all their life,
+and only after death will they get their reward.
+
+Is a terrible betrayal,
+that shuts the world down.
+
+---
+
+The goo of spoiled kids that became false leaders,
+actually want you to be a wage slave.
+
+And then for you or your children,
+to be quietly be shipped off to fight in war.
+
+Not because they have a plan,
+but because they are a failure.
+
+It is not hope of peace,
+but failure that leads to war.
+
+The hope of peace, recognizes that we are one,
+and simply puts an end to indoctrination that divides us.
+
+To make this happen,
+the world just needs effective education.
+
+Where progress is rewarded, not with grades,
+but with money like everywhere else.
+
+---
+
+To get a quiet job is the sweetest, most fun, and easiest thing you can do,
+you have to learn; that when something is that good - it is not actually good for you.
+
+Dark ages cannot be stopped, they can only be prevented,
+so there is a tipping point of no return.
+
+You are now living in the prevention era,
+and if you and your peers can rise to become great beings.
+
+The curse of false uneducated leaders,
+will be lifted, and you will have prevented all the misery.
+
+You have been taught, that in some areas, people are just different,
+but that is false, we are all the same, with minor genetic variations that have little impact.
+
+It is the culture, the programming, what parents teach or leave-out,
+the propaganda, the lies, the scheming, the manipulation, the poverty, that divides us.
+
+You can’t afford to have a job, it is not that age anymore,
+you have now been charged with growing all the way up and becoming a great being.
+
+---
+
+From the perspective of the stars, you are seen as royalty,
+and there is in fact a crown.
+
+To gain the triple crown, you have to walk,
+the Appalachian, Pacific Crest, and Continental Divide trails.
+
+And in the years that it takes you to rise to this challenge,
+you will need to listen to profound non-fiction written by great beings.
+
+The narrated books at the library are your intellectual inheritance,
+especially the ones held in high regard by all the world’s clear thinking intellectuals.
+
+The inheritance of wisdom and the culture of great beings,
+is the beginning of your real and effective education.
+
+You are right, High School is fake, you know it from cramming,
+you know it from inaccurate grades, and bad teachers.
+
+But you are wrong to just sit there pretending to learn,
+don’t be a tool, prevent the predictable future from occurring.
+
+Claim, your crown, accept your intellectual inheritance,
+becoming a great being, guide others to rise just the same.
+
+---
+
+Your legacy must be a powerful save game,
+that helps those after you get instant boost to the heights you reached.
+
+Start practicing hiking, so that you may make room in your mind,
+for listening to books, for your intellectual inheritance.
