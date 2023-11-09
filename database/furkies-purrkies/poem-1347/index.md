@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
@@ -179,7 +179,7 @@ in part because of ToneJs and Web Audio, and I am ready to pay for good AI that 
 All of this, because I heard the melody of a song I played,
 and became enchanted with my own way towards music.
 
-What that monster needed to do, outside of getting a prison job maybe,
+What that monster needed to do,
 was to encourage all parents to buy a cheap computer…
 
 That could handle some primitive Music Tracker,
