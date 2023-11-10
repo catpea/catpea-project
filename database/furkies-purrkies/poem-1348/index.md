@@ -15,13 +15,13 @@ artwork:
   - https://unsplash.com/photos/a-person-standing-on-a-rock-in-a-canyon-wbOKjgQv3nY
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
 ---
 
-We are boring into a world that has schools,
+We are born into a world that has schools,
 and we assume they are really good for us.
 
 But, they are not quite there yet, they are only slightly better,
