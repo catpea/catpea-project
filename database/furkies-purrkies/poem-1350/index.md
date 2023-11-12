@@ -1,0 +1,159 @@
+---
+id: poem-1350
+guid: 5b30350e-f81d-4924-a63a-1220bea50e9f
+title: Every Human Being Is Meant To Become A Powerful Philosopher
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-11-12T04:31:49.346Z'
+lastmod: null
+weight: 135000
+audio: poem-1350.mp3
+image: poem-1350-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/a-man-walking-up-a-trail-in-the-woods-CiE8qQhsasQ
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 8
+---
+
+This is so simple,
+even an AI can do it.
+
+When speaking to the sliver of AI,
+that we have access to today.
+
+In order to make it smarter,
+and give it's response firmer structure.
+
+We ask it to make a list first,
+a list of steeps, or ideas, of achievements.
+
+Armed with the simple list,
+we can then enhance it with code or poetry.
+
+---
+
+This is also how young philosophers,
+approach tough ideas.
+
+You make a list, make it firm, stable, clear,
+align it, order it.
+
+And use it to question the way things are,
+make your list a key, to unlocking some question.
+
+---
+
+This process is greatly aided,
+by getting a head start in life from narrated books.
+
+By listening to life changing non-fiction,
+we inherit both the wisdom and culture of the great beings.
+
+We gain the ability to see and understand better,
+to reason by subtle analogy to what we read about.
+
+---
+
+Armed with wisdom and lists, models, and poems,
+we begin seeing the world in greater detail.
+
+We learn to order our own though,
+learn harder from our own mistakes and avoid new ones.
+
+The world is so complex that,
+any path a Philosopher takes is unique.
+
+---
+
+Think about your history,
+and what lists historians would make of you.
+
+How they would summarize your rise,
+and growing all the way up.
+
+And strengthen it for them,
+so that your legacy is louder and clearer.
+
+People will summarize you with 10 or 20 things,
+in the beginning you will only have 3 of those.
+
+In your middle age,
+seven or ten - make them profound.
+
+Make them friendly,
+so that others can learn.
+
+---
+
+Questioning everything and stepping outside of yourself,
+is all it takes to become a philosopher.
+
+A philosopher is just a lover of wisdom,
+and when seeking answers to complex questions...
+
+You should never settle,
+for less.
+
+---
+
+Most importantly, becoming a Philosopher,
+is an important phase in our lives.
+
+We learn to reject everything,
+and only let in what is wise and dignified.
+
+What makes us stronger,
+more capable, more brilliant.
+
+---
+
+To view ourselves outside in,
+helps us become less scattered.
+
+And we focus on the few lovely things,
+that be can cheerfully started or even accomplished.
+
+---
+
+Living a scattered life full of stress,
+can be a great power too, but there is too much sadness in overwork.
+
+And sadness can't beat a laughing philosopher,
+a cheerful friend for many generations.
+
+A philosopher is more than lists and answers,
+inspired in part by a grand library of narrated books.
+
+But it is a good start,
+and a head start in life.
+
+---
+
+Finally, becoming a Philosopher,
+is nor really optional.
+
+We are just the kind of a creature,
+that must see it all, know it all, and sort it all.
+
+To be sure that,
+we live our precious lives well.
+
+That the legacy we leave behind,
+is enough to spare others the paths we already traveled.
+
+---
+
+The point of it all,
+is eventual convergence on wisdom.
+
+The world coming together,
+in great vision and in peace.
+
+Humanity moving away from whim and indoctrination,
+towards individual strength and systems built out of wisdom.

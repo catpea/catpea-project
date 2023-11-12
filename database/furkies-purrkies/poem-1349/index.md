@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
@@ -28,7 +28,7 @@ But, the land is divided between the state of Ohio,
 or as I am sure it is pronounced Oh, hi, yo!
 
 And then a place called Indiana,
-the dog’s name from Indian Jones.
+the dog’s name from Indiana Jones.
 
 Most Michiganders,
 don’t know that Indiana is supposedly a state.
