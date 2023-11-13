@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/a-man-walking-up-a-trail-in-the-woods-CiE8qQhsasQ
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
