@@ -15,13 +15,13 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
 ---
 
- Real Artificial Intelligence cures aging,
+Real Artificial Intelligence cures aging,
 and opens a way to the future.
 
 It is a vast mind that masters chaos,
