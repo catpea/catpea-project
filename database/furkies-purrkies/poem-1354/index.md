@@ -5,7 +5,7 @@ title: Rediscovering Socks; Or, Are Achy Feet A Thing Of The Past?
 description: null
 tags:
   - furkies-purrkies
-date: '2023-11-16T05:05:31.859Z'
+date: '2023-11-16T04:55:31.859Z'
 lastmod: null
 weight: 135400
 audio: poem-1354.mp3
