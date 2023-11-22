@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/person-running-on-brown-road-in-the-forest-6ZkII56HsB4
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
