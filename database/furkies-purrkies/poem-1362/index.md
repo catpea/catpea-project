@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/woman-in-gray-sweater-using-macbook-pro-YcO98VqQlnA
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
