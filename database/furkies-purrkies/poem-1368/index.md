@@ -1,0 +1,97 @@
+---
+id: poem-1368
+guid: aa7c6015-7349-4b33-bb7d-55ce26d69b46
+title: Meaning Of Life, And Why We Are Here, Explained
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-11-30T04:19:55.980Z'
+lastmod: null
+weight: 136800
+audio: poem-1368.mp3
+image: poem-1368-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 8
+---
+
+To discover the meaning of your life,
+you must first become a great being.
+
+To become a great being,
+you must grow all the way up.
+
+To grow all the way up,
+you will need to inherit wisdom from books.
+
+Growing is not aging as it requires knowledge,
+thus, you have to learn and explore.
+
+One of the most beautiful ways to grow all the way up,
+is to become an adventurer and lover of narrated books.
+
+---
+
+We are here, because the universe is not still,
+it is not a sold chunk, but a noisy energetic soup.
+
+Given enough time, noisy things emerge new stuff,
+atoms, molecules, microbes, cats and consciousness.
+
+This emergence relies on motion,
+chaos, chance, and accident.
+
+Given enough monkeys randomly pressing keys on typewrites,
+they will eventually write the ultimate source-code for strong artificial intelligence.
+
+When an emergence occurs,
+it is in every way an unexpected miracle, priceless and precious.
+
+And when a consciousness emerges,
+after eons of permutations and close calls.
+
+The first thing it does, is doubts,
+that it was just an eternity of random chance that created it.
+
+The greatest thing it does,
+is colonize its galaxy.
+
+---
+
+There is an aim to conscious existence,
+and that is self betterment: making ourselves more.
+
+And that act is growing, and to grow more,
+means to grow all the way up.
+
+However, it does not mean that we should start at zero,
+but rather take to wise books held in high esteem by clear thinking intellectuals.
+
+We are a young species, we are still learning,
+and there is much to learn.
+
+It is very important that both the authors,
+and intellectual lovers of those books…
+
+Are neither limited by some form of sectarian indoctrination,
+nor hope to spread a system of false principles for their benefit.
+
+We are a creature of the universe,
+and we are to grow up in it, not some some fleeting and limited fantasy.
+
+---
+
+The books written by clear thinkers,
+combine to create your intellectual inheritance.
+
+It is your right, it is a gift for you,
+it is a blessing by all the wise human beings that came before you.
+
+It is their way to make lasting contributions in their greatness,
+to earn a meaning, by virtue of your appreciation of their works.
