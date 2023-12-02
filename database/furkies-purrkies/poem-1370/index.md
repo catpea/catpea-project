@@ -1,0 +1,161 @@
+---
+id: poem-1370
+guid: 9842e9d7-08d0-4730-acb6-68f1adb0c212
+title: Wisdom Demands Adventure
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-12-02T04:19:48.058Z'
+lastmod: null
+weight: 137000
+audio: poem-1370.mp3
+image: poem-1370-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/woman-in-brown-jacket-and-black-knit-cap-standing-during-sunset-Vvs5lfhvZlE
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 8
+---
+
+There is a number of ways that we can be pushed,
+to become other than we really are inside our minds.
+
+And become content with not growing up,
+never leaving much of ourselves behind, which is always very sad.
+
+I thin the generation that will repair education has already been born,
+they are already here, watching all the strange mistakes.
+
+And coming up with ways to go around,
+and build the future out of good ideas only, leaving the rest to history as a warning.
+
+I really believe, that only a small part of the world need to make progress,
+and just as soon as that progress is made, everyone else catches up.
+
+It is like the school yard, where there is a new fashion trend, or gadget,
+everyone somehow rises, even if some don’t much care for it.
+
+---
+
+We have to learn to talk about growing up,
+so that we can avoid mistakes that were had before.
+
+So that we make all the aches and pains,
+count for more.
+
+---
+
+Alcohol and Drugs that force comfort by mechanical means,
+is one obvious thing that derails us.
+
+Apologists, or moderates, will say things like “non-addictive”,
+or “always in moderation”, or it is “just an herb”.
+
+But, bur brains are not designed by engineers,
+we don’t have proper tolerances to mess with them.
+
+Brains are miracles of evolution,
+they barely work as is, and no scientist knows how.
+
+Discomfort is an important signal,
+that we must never ignore.
+
+Turning discomfort off,
+prevents a person from growing, and moving in the right directions.
+
+We have to perceive, grow, and courageously address our problems,
+not just turn them off, as that just magnifies trouble for later.
+
+---
+
+Indoctrination is another way that we get pushed aside,
+where our elder selves end up with regret or sadness of what might have been.
+
+Apologists and moderates here will say that is is heritage,
+that it is valuable and nuanced – something outsiders don’t’ understand.
+
+But that is false, the correct way to grow,
+is as a creature of the universe, curious about its mechanics and mysteries.
+
+Indoctrination prevents inquiry at any length,
+as it provides all the answerers.
+
+With the heartbreaking finale off,
+serve now and enjoy benefits after life ends.
+
+But we have to face discomforts,
+fantasy like drugs, only pushes things back.
+
+The reward was always during the person’s life,
+where they could grow as a great being, artist, poet, iconoclast, bull rider.
+
+The main fear that indoctrination snags us on,
+is the fear of dying.
+
+But the emergence of the first wisps of Artificial Intelligence,
+may mean AI will help to extend life.
+
+To believe in science, that can extend life, perhaps indefinitely,
+is a nicer promise than servitude, and reward after it’s all over.
+
+And anyway, the children can hell adults use medicine,
+which is the invention of scientists, who didn’t care for fantasy but fact.
+
+And they can tell, having been born to a different family,
+would result in different beliefs.
+
+---
+
+The discomfort of uncertainty,
+has forever inspired the best of us to repair, invent, rethink.
+
+The discomfort is a signal, that we need,
+even the deepest pain of hardest loss, is a call to books.
+
+To meet the others, who rose,
+even if just to protect the memories, for long enough.
+
+To learn to write beautifully enough,
+to share them correctly with the word.
+
+To hand the books out, book by book, with a smile,
+and gratitude for soon to be heard.
+
+To live and be truly happy that it happened,
+not be sad that it ended, because that is absolutely the wrong symbol.
+
+---
+
+Adventure is many things, including the initial discomfort,
+but it is primary for creating room for narrated books.
+
+The greatest works written by wise and clear thinking authors,
+especially those celebrated by intellectuals…
+
+Combine to create our intellectual inheritance,
+presenting all the authentic heights that great beings have rose to.
+
+The authors of the hundreds of books we end up enjoying,
+quickly become our support, our “book friends”
+
+They will have traveled long distances,
+in all challenges of life.
+
+Including tragedy and loss, dealing with false beliefs,
+and even angry bears, and not just running away from them, but at them.
+
+And yes, our most beautiful books, absolutely make us smile,
+no matter the trouble, they help us up and out.
+
+If you read enough of them,
+you’ll preserve the angle of your ascent, and keep growing.
+
+Growing until you grow all the way up, become a great being,
+and add to our intellectual inheritance.
+
+So that those who come after us,
+don’t have to start from the bottom, but at the sunny and cheerful heights we reach.
