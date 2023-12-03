@@ -32,3 +32,7 @@ To build the website based on data:
 ```antwerp build catpea```
 
 To upload the website, use sftp.
+
+
+npm run github-server
+./dist/chapters/chapter-08 http-server -c-1 .

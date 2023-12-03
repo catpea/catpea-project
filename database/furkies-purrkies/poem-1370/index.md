@@ -27,7 +27,7 @@ to become other than we really are inside our minds.
 And become content with not growing up,
 never leaving much of ourselves behind, which is always very sad.
 
-I thin the generation that will repair education has already been born,
+I think the generation that will repair education has already been born,
 they are already here, watching all the strange mistakes.
 
 And coming up with ways to go around,
