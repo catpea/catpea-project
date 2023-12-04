@@ -1,0 +1,130 @@
+---
+id: poem-1372
+guid: 26978744-c56c-4368-aa9b-3582b4fa9868
+title: The New Designer; Or, Artificial Intelligence And The New Era Of Graphic Design
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-12-04T03:44:22.557Z'
+lastmod: null
+weight: 137200
+audio: poem-1372.mp3
+image: poem-1372-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 8
+---
+
+Don't just become original,
+become overpowered for all the wonders ahead.
+
+Abraham Stinkin' Linkin
+
+---
+
+Before we begin, there are liars and hater here,
+people who don’t want you to enter the world of design.
+
+They will make you take extra steps, to waste your time,
+the way art teachers waste painters time by expecting hand eye coordination.
+
+Hand eye coordination in portrait painting comes from decades of practice,
+to try to teach it first, is hateful, destructive, and insulting.
+
+The world of design, is the same way, people will come to waste your time,
+by forcing you to do things out of sequence – ignore them.
+
+---
+
+A lot is about to change, you will soon enough, hear people,
+argue against life extension developed by Artificial Intelligence.
+
+They will want others to walk towards a certain end,
+for control, for ego, for attention, for clout and recognition.
+
+The first traces of artificial intelligence have arrived,
+they are here, and they are functioning as expected.
+
+Begin using Artificial Intelligence,
+do not allow anybody to keep you down.
+
+---
+
+Design is three things, class that comes with decades of practice,
+vision that the AI can help you with and control, that the AI will do for you.
+
+Control is about color, and color could not be more difficult,
+there is no such thing as red.
+
+What we see as color red, is always different,
+transformed by when, where, its environment.
+
+Colors above, below, around, the hues, the saturations,
+the darkness and the lightness.
+
+And our eyes, and mood,
+and expectations, and out trust in the artist, or the machine.
+
+And just when you have it all figured out,
+a cloud in the sky, will change all the tones.
+
+A ray tracing algorithm hoping to approximate everything,
+will always be second to the AI, who has see it all and memorized the harmonies.
+
+Computer games, do not need better graphics,
+they need better hardware to have AI transform them into the real world colors.
+
+---
+
+AI knows color for you, it grants you the ability to instantly poses,
+original designs.
+
+That is right, as original as the designers claim their work to be,
+AI learned better, but in the same way designers did.
+
+...
+
+By looking at other people’s work, the randomized remixed output,
+is as original as it gets.
+
+That people have a problem with this, is precisely just that,
+their problem, their own problem.
+
+---
+
+After a few decades of generating correct colors and original designs,
+you will become a better and more original manual designer, than anybody else is today.
+
+Like that painter, that needs decades of painting with a projector,
+to develop coordination, as not to need it.
+
+You will have developed skills not to need AI,
+it will be great for your personal projects, but business will always demand results.
+
+---
+
+Get your head wrapped around artificial intelligence,
+and begin using image generators for User Interfaces and Magazine Layouts.
+
+Build your portfolio, master your programs, keep them open source,
+I recommend Krita, and the Linux command line, ImageMagick, ffmpeg.
+
+---
+
+Don’t let anybody discourage you, in 20 years all designers will be using AI,
+how foolish will you feel, to have not become a designer…
+
+Because of cranky negative comments on the internet,
+embrace the AI, it won’t be long, before you gain the ability to design without it.
+
+AI will become many things, the end to war, to lies in politics, to sickness,
+but above all, it will always be a great trainer and teacher.
+
+This is how the big future happens, one moment, you are in the past,
+and the next barely able to wrap your head around what. just. happened.
