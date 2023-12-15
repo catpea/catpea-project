@@ -21,8 +21,6 @@ draft: false
 chapter: 8
 ---
 
-Fitness Myths: Diet, Sets/Reps, And Machines
-
 Protein powders and supplements are a mostly a lie,
 and if you are large, then they are just more candy.
 
