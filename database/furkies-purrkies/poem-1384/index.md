@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-rock-near-mountain-during-daytime-k-2Z5ovVHW0
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
