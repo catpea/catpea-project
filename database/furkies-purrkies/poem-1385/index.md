@@ -15,7 +15,7 @@ artwork:
   - https://unsplash.com/photos/person-walking-on-rocky-and-grass-hill-during-day-aThbxMu_PN8
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
