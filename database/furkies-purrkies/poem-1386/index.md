@@ -1,7 +1,7 @@
 ---
 id: poem-1386
 guid: 72988287-56a8-4292-964f-fda7940905d0
-title: Bonkers Honkers; Or The Noise Of The Gaggle Convoys
+title: Bonkers Honkers; Or, The Noise Of The Gaggle Convoys
 description: null
 tags:
   - furkies-purrkies
@@ -15,7 +15,7 @@ artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
