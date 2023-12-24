@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-My Little Program (Recording In Progress)
+My Little Program
 Sunday • December 24th 2023 • 12:24:42 am
 
 Two days ago, I was finally able to open up Blender,
@@ -18,8 +18,8 @@ right after the mouse is pressed, and before it is released.
 
 ---
 
-Up until now, I was concerned with fragments of my program,
-such as “how wo do” when a value changes, the what is easy.
+Up until now, I was concerned with fragments of [my program][1],
+such as “how to do” when a value changes, the what is easy.
 
 I started the development ages ago, it is hard to define,
 early 2000 maybe as accurate as any other guess.
@@ -74,12 +74,11 @@ My program does not depend on a frameowk,
 and extends Object and Array into ReactiveObject and ReactiveArray.
 
 It is just a few lines of code,
-an...
+and every...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...s HTML to JavaScript,
-and stop asking the DOM to find the nodes, that you should already have access to.
+...sking the DOM to find the nodes, that you should already have access to.
 
 ---
 
@@ -143,3 +142,5 @@ modding is an important freedom, that must never, ever be ignored.
 
 Make the code understandable, make it clear,
 allow new programmers to grow the applications inside out.
+
+[1]: https://catpea.github.io/signalcraft/

@@ -1,14 +1,14 @@
 ---
 id: poem-1392
 guid: 972b2735-723c-49c6-80c0-da9acc808707
-title: My Little Program (Recording In Progress)
+title: My Little Program
 description: null
 tags:
   - furkies-purrkies
 date: '2023-12-24T05:24:42.581Z'
 lastmod: null
 weight: 139200
-audio:
+audio: poem-1392.mp3
 image: poem-1392-illustration.jpg
 images: null
 artwork:
@@ -35,8 +35,8 @@ right after the mouse is pressed, and before it is released.
 
 ---
 
-Up until now, I was concerned with fragments of my program,
-such as “how wo do” when a value changes, the what is easy.
+Up until now, I was concerned with fragments of [my program][1],
+such as “how to do” when a value changes, the what is easy.
 
 I started the development ages ago, it is hard to define,
 early 2000 maybe as accurate as any other guess.
@@ -111,9 +111,9 @@ In Svelte, the pre-rune version (I am sorry),
 you just end up dumping data into DOM nodes, Wild Wild West style.
 
 And Svelte is a wonderful framework,
-very friendly and about as far out of your way as a framework can be,…
+very friendly and about as far out of your way as a framework can be withut mangling the JavaScript syntax.
 
-Withut mangling the JavaScript syntax. JSX and Typescript, and the ancient CoffeScript,
+ JSX and Typescript, and the ancient CoffeScript,
 greatly multiply the liability that code already is by default.
 
 Messing with the AST is fun,
@@ -190,3 +190,5 @@ modding is an important freedom, that must never, ever be ignored.
 
 Make the code understandable, make it clear,
 allow new programmers to grow the applications inside out.
+
+[1]: https://catpea.github.io/signalcraft/
