@@ -1,14 +1,14 @@
 ---
 id: poem-1393
 guid: 1043fa5f-a4bd-49f1-b1d6-1a89cc3775f2
-title: Visual Programming Languages; Or, Humanity's First Cybernetic Enhancement (Recording In Progress)
+title: Visual Programming Languages; Humanity's First Cybernetic Enhancement
 description: null
 tags:
   - furkies-purrkies
 date: '2023-12-25T04:51:06.860Z'
 lastmod: null
 weight: 139300
-audio:
+audio: poem-1393.mp3
 image: poem-1393-illustration.jpg
 images: null
 artwork:
@@ -67,7 +67,7 @@ I know that none of this sounds like cybernetic enhancement,
 but that is because you are yet to experience the power of programming.
 
 Once you find your general purpose visual programming language,
-usage of which feels like an extension of which.
+usage of which feels like an extension of you.
 
 That will absolutely be your first cybernetic enhancement,
 the best way to see that, is to look back 20 years from the future…
