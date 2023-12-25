@@ -1,0 +1,160 @@
+---
+id: poem-1393
+guid: 1043fa5f-a4bd-49f1-b1d6-1a89cc3775f2
+title: Visual Programming Languages; Or, Humanity's First Cybernetic Enhancement (Recording In Progress)
+description: null
+tags:
+  - furkies-purrkies
+date: '2023-12-25T04:51:06.860Z'
+lastmod: null
+weight: 139300
+audio:
+image: poem-1393-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 8
+---
+
+To classify as an enhancement,
+it has to be something really powerful and almost personal.
+
+Internet and large language models qualify,
+from a broader definition.
+
+But they are not personal,
+neither are locked down smartphones.
+
+Or your news feeds, though feeds are close,
+they are not yours, and can be used to mislead you.
+
+---
+
+A visual programming language is personal,
+because you create things that are in-fact your own.
+
+But, wait, a visual programming language,
+is not just a programming language.
+
+It serves as an interface to the entire world,
+and a concept map of everything you are interested in.
+
+And, and perhaps most importantly,
+it is a powerful interface in into standard programming.
+
+In a visual programming language,
+you are granted first class tickets…
+
+To the simple programs behind the nodes,
+the way View Source once granted access o all web page code.
+
+---
+
+My simplest example, is your thermostat,
+you have to be able to program it.
+
+A visual programming language will let you do that easily,
+you will enhance your self with warmer air.
+
+---
+
+I know that none of this sounds like cybernetic enhancement,
+but that is because you are yet to experience the power of programming.
+
+Once you find your general purpose visual programming language,
+usage of which feels like an extension of which.
+
+That will absolutely be your first cybernetic enhancement,
+the best way to see that, is to look back 20 years from the future…
+
+At all the programs you dragged and dropped over the ages,
+how they change and changed the world around you, you see.
+
+---
+
+Finally, the best visual programming languages today are awful,
+and so slow and clunky to use, there is nothing enhancing about them.
+
+They will let you mess with your thermostat,
+but setting everything up, will waste life, not enhance it.
+
+The visual programming languages that feel like an extension of us,
+do not exist today.
+
+The road there, is so studded with gold, no one makes it all the way to the end,
+to the point where they make a program for you.
+
+Instead, they create products that are wanted, that sell well,
+and focus on getting more customers.
+
+Visual programming languages are just really awesome,
+they don’t just fix problems that people have, but they open gateways.
+
+---
+
+Let me show you a gateway, let me show you the size,
+of those things.
+
+Today, you can talk to AI, and it will give you excellent response back,
+but that is silly, it is like getting a piece of paper with text on it.
+
+Again, times are changing, words are changing,
+interfacing with computers is changing.
+
+In the context of a visual programming language,
+AI becomes more powerful, more focused, more useful.
+
+You tell it to program you a node,
+that does some thing you need.
+
+And now you have a reusable tool,
+that you can use in all your programs.
+
+A tool that will help you create more nodes, more modules,
+that will get you inspired to program more, and learn more about programming.
+
+This will allow you to perform,
+the following.
+
+You ask the AI for a list of animals with large cute eyes,
+you sent that list through some text processing for creating graphics.
+
+And send the text requests to an AI that makes images,
+and now you route those images…
+
+Through a node that uploads it to your store,
+as mugs, t-shirts, and wall art.
+
+Once you have the nodes,
+you can automate.
+
+Do you understand now,
+you become cybernetically enhanced.
+
+You can make products for sale,
+setup a membership based clip-art website for downloads.
+
+But what that actually is,
+is the result of the visual programming language enhancing you.
+
+---
+
+I hope you understand that living without your programming language,
+is almost like a handicap, stuff is denied to you.
+
+Not being able to program the world around you,
+is like having a mode of expression taken away from you.
+
+Even if you can’t find a visual programming language that fits you,
+I think all of this is enough, to convince you, to start taking some programming tutorials.
+
+Don’t learn programming to get a job,
+learn programming, not to need one.
+
+Maybe you will create the Free and Open Visual Programming Languages,
+that everyone will end up using, and perceiving as their cybernetic enhancements.
