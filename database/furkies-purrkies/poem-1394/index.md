@@ -1,14 +1,14 @@
 ---
 id: poem-1394
 guid: 0f2ee651-b978-4d13-958a-c097a1d1e6d9
-title: Hacking Holidays And Retro-futurism At The House Of Meow (Recording In Progress)
+title: Hacking Holidays And Retro-futurism At The House Of Meow
 description: null
 tags:
   - furkies-purrkies
 date: '2023-12-26T03:41:53.231Z'
 lastmod: null
 weight: 139400
-audio:
+audio: poem-1394.mp3
 image: poem-1394-illustration.jpg
 images: null
 artwork:
@@ -30,11 +30,11 @@ taking programs to a while new level.
 It is also rather clear that user interfaces are trouble,
 nobody uses X/Y coordinates anymore.
 
-The layout engines are reactive now,
+The layout engines are responsive now,
 and the only one I could find, is [cross-compiled for JavaScript][1].
 
 So things are pretty silly,
-reactive user interfaces will need to go as well.
+responsive user interfaces will need to go as well.
 
 Frankly, I hate the idea of a different UI for every website,
 that is not how computers are meant to work.
@@ -123,11 +123,8 @@ it got me a few times, as I had to hurry.
 I finally finished a few minutes late adding project templates,
 and somewhat fully functional loading and saving of files.
 
-But there was no time to ass pretty error messages, even though I have toasts,
+But there was no time to add pretty error messages, even though I have toasts,
 I had to use the old alert box to remind the users to select a node to execute.
-
-And that is a worthy closing to a holiday hackathon,
-it is about as old school pagan as it gets.
 
 [1]: https://github.com/facebook/yoga
 [2]: https://catpea.github.io/signalcraft/
