@@ -1,0 +1,116 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Hacking Holidays And Retro-futurism At The House Of Meow (Recording In Progress)
+Monday • December 25th 2023 • 10:41:53 pm
+
+It is pretty clear that today’s AI,
+needs a visual programming language.
+
+The AI needs to live in the nodes,
+taking programs to a while new level.
+
+It is also rather clear that user interfaces are trouble,
+nobody uses X/Y coordinates anymore.
+
+The layout engines are reactive now,
+and the only one I could find, is [cross-compiled for JavaScript][1].
+
+So things are pretty silly,
+reactive user interfaces will need to go as well.
+
+Frankly, I hate the idea of a different UI for every website,
+that is not how computers are meant to work.
+
+Crazy designs, force your users,
+to feel stupid, the moment they sit down to your website.
+
+Feeling stupid, what I experienced,
+on important government websites.
+
+I dare not to learn how to shop in such a way,
+that the store delivers stuff to my trunk.
+
+I hate it,
+I hate the idea of needing to learn how to do that.
+
+---
+
+Of course, AI, is just magically smart enough,
+to be able to do the shopping for you, based on a chat.
+
+But that feels flimsy and foamy,
+and I would worry about getting strange items the AI hallucinated.
+
+---
+
+I don’t know what the UI should be,
+though I suspect it is generated based on rows in a database.
+
+So it is very much like Access or FileMaker,
+because it works, it is rational and efficent.
+
+You design a database structure,
+and get the UI for free.
+
+If it is a relational structure,
+then you get multiple auto-generated paned in your database.
+
+Tightly hugging those rows and columns,
+creates a UI for free, and that is better than manual work.
+
+The layout collapses for mobile,
+but the best way to “see it” is to think about the Metro squares.
+
+Automatic layout, so simple,
+it hurts.
+
+It is better to have the user think for a second,
+then to have them feel stupid an lost.
+
+---
+
+Here is the big idea, a man in the middle HTTPS proxy,
+that forges all the certificates and locally caches all the data.
+
+Then the data is served from cache,
+under a uniform user interface.
+
+There is an AI program that will help with odd proxying tasks,
+won’t fix government websites, nothing can fix those.
+
+But it will fix manifest 3, and 4, 5,
+and more and more restrictive web.
+
+The user interface for that, has to be as adaptive,
+as quickly everything will change.
+
+And that means a visual programming language,
+Blender geometry nodes is the baseline and the workflow.
+
+It is not as hard as it looks, I programmed [Signalcraft][2],
+a reference implementation in about a month.
+
+It is just SVG and Reactive Object and Arrays,
+under a simple OOP Application Architecture.
+
+I made my holiday into a Hackathon,
+and created a Nostromo theme inspired by old Retro-futuristic graphics.
+
+I dare make atoner bold statement in closing,
+there is nothing as fun and rewarding as programming a Visual Programming Language.
+
+But I must admit, this being a hackathon with an 11PM deadline,
+it got me a few times, as I had to hurry.
+
+I finally finished a few minutes late adding project templates,
+and somewhat fully functional loading and saving of files.
+
+But there was no time to ass pretty error messages, even though I have toasts,
+I had to use the old alert box to remind the users to select a node to execute.
+
+And that is a worthy closing to a holiday hackathon,
+it is about as old school pagan as it gets.
+
+[1]: https://github.com/facebook/yoga
+[2]: https://catpea.github.io/signalcraft/
