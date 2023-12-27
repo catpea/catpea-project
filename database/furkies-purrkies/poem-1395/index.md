@@ -1,14 +1,14 @@
 ---
 id: poem-1395
 guid: a1b33b40-040f-4d1c-905a-4d33819111bf
-title: Indoctrination, Education, And Prevention (Recording In Progress)
+title: Indoctrination, Education, And Prevention
 description: null
 tags:
   - furkies-purrkies
 date: '2023-12-27T05:27:01.993Z'
 lastmod: null
 weight: 139500
-audio:
+audio: poem-1395.mp3
 image: poem-1395-illustration.jpg
 images: null
 artwork:
@@ -21,7 +21,7 @@ draft: false
 chapter: 8
 ---
 
-There are two silent and invisible forces at play,
+In many places around the world, there seem to be two silent and invisible forces at play,
 the trickery of forced indoctrination that mis-shapes minds.
 
 And the power of self education,
@@ -160,7 +160,7 @@ And I worry that the first regiments of bad guys,
 were those who faced certain death by protesting against the war.
 
 There are no answers after the point of prevention is crossed,
-just hate, and pain, and dark ages, and fat dogs of war.
+just hate, and pain, and dark ages.
 
 ---
 
