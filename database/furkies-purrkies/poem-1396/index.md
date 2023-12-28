@@ -21,8 +21,6 @@ draft: false
 chapter: 8
 ---
 
-Missy Klepto Kissy: The Legendary Seagull Mama Of Westland Plaza
-
 Her love for humans is unmatched,
 and she is deeply attached.
 
