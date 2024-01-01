@@ -1,0 +1,187 @@
+---
+id: poem-1400
+guid: 66c079b3-9576-4c94-bed1-b23c8768344c
+title: Visual Programming Done Right
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-01-01T05:50:03.007Z'
+lastmod: null
+weight: 140000
+audio: poem-1400.mp3
+image: poem-1400-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: false
+raw: true
+draft: false
+chapter: 8
+---
+
+Preface,
+
+Above all, visual programming is power,
+it should help you deploy...
+
+To a self provisioning bare metal server-less system,
+that it manages.
+
+That you can actually modify,
+to match your needs.
+
+When you are done laughing,
+understand that it is the future, the only future.
+
+And the reason why you don't see that,
+is because you have gotten used to how everything is broken.
+
+Visual programming,
+represents the much needed repairs.
+
+---
+
+Visual programming replaces the programmer,
+it scales, it works securely and reliably, and it is fast.
+
+It operates on the same patterns programmers use,
+but under a consistent, and simplified user interface.
+
+Just like there is an app for everything,
+that is its own world.
+
+In visual programming, there is a library of nodes,
+specifically crafted to accomplish one thing well.
+
+---
+
+Critics, pipe down, a hacker is no contrarian,
+a hacker does not dismiss a technology, only makes it better.
+
+---
+
+The Linux command line,
+is a visual programming language.
+
+It does not take much,
+to create a lot of function and power.
+
+But yes, there must exist specific nodes,
+for a specific domain.
+
+---
+
+Just like in Linux, there must exist large nodes,
+that do a lot of work, but not all the work.
+
+These programs expose ports,
+where a range of things can be plugged in.
+
+---
+
+Visual programming can be as low level as you need it,
+but the lower you go…
+
+The more cumbersome the visual programming will get,
+relative to throwing away the mouse and just coding.
+
+The reason why you can’t just code everything,
+anyway, is the limitation of your mind.
+
+Visual programming provides an interactive system diagram,
+that is also editable, making modding the application trivial.
+
+---
+
+You don’t need documentation,
+when you can click simulate.
+
+And watch your data packet,
+slowly get routed through the system.
+
+---
+
+The higher the abstraction layer,
+the more powerful the visual programming.
+
+A really good level, full of tasty bits,
+is the app world.
+
+Where your nodes are on the level of phone apps,
+representing schedules, cameras, websites and feeds.
+
+A cheap way of doing this,
+is just wrapping 3rd party API in nodes.
+
+But again, it is not just high level nodes,
+it is also a narrow domain that fixes problems that people actually have.
+
+---
+
+A visual programming language that does… everything,
+does nothing right.
+
+---
+
+Those of you who dislike the idea of putting in a large tool,
+into your tool-chain.
+
+Visual programming can run live, during design,
+it can produce programs that run under start and stop buttons.
+
+But it can also be used to generate source code,
+just like UML can generate your class code for you.
+
+I will leave you with a complex and enticing example,
+of a money making Visual Programming Language.
+
+Instead of manually creating themes and UI kits for Bootstrap,
+create a visual programming studio.
+
+You can see how intimidating dealing with all the code generation is,
+and that should help you grasp, why visual programming.
+
+Why, just squares, ports, labels and long lines,
+that show you where everything plugs into.
+
+---
+
+The higher the abstraction, the greater the complexity,
+and thus greater urgency to keep everything as simple as possible.
+
+---
+
+A good bootstrap theme can sell countless times for 50 dollars,
+that means no more work.
+
+You just keep adding nodes,
+and before you dare to think, it would look boring.
+
+Just stop it, you use one of the popular image generators,
+to create a new set of beautiful designs.
+
+And then you duplicate your last product,
+and begin modifying it to math the new designs.
+
+Other good examples are web scrapers,
+where you turn the internet into feeds.
+
+UI builders with component tress, as in column has form,
+form has inputs and a footer, footer has a button.
+
+When you are connecting visual programming nodes,
+you are just building a tree, which is perfect for nested UI components.
+
+A tool to build tiny HTTP servers like Express or Koa,
+where all the routing can be configured with drag and drop.
+
+And music composition or lecture with Web Audio and Tonejs,
+maybe a visual tool for ffmpeg filter-graphs that charges $9 per month.
+
+And finally tools that build, enhance, expand, other,
+domain specific programming languages.
+
+So a visual programming language aimed,
+at creating other domain specific visual programming tools.
