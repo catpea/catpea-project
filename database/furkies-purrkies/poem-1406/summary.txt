@@ -1,19 +1,17 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-Easy Introduction To Programming; And, Reactive Programming Explained (Recording in progress, lol)
+Easy Introduction To Programming; And, Reactive Programming Explained
 Sunday • January 7th 2024 • 1:09:41 am
 
-Easy Introduction To Programming; And, Reactive Programming Explained
-
-I recently quoted a young programmer stating,
+I recently quoted a new programmer stating,
 “coding is basically just ifs and for loops.”.
 
 And that is true, it is also functions,
 which is kind of the base reality of programming.
 
 But, you can add stuff beyond that,
-but let us start in the beginning.
+let me show you how that works.
 
 ---
 
@@ -88,11 +86,14 @@ strings are pretty much arrays of letters.
 Languages use a lot of good ideas, to be useful,
 so it is best to think of strings as being for text, and having little to do with arrays.
 
-So we are m...
+So we are moving up the abstraction ladder,
+from numbers, to lists of numbers, and now strings.
+
+By e...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...face component,
+...rt a User Interface component,
 it won’t be displaying anything in the browser.
 
 So if you try to make it draggable,

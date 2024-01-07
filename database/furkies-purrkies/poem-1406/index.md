@@ -1,36 +1,34 @@
 ---
 id: poem-1406
 guid: 9a9fcd69-a9f1-4c5a-99b3-e7bc69e7e42b
-title: Easy Introduction To Programming; And, Reactive Programming Explained (Recording in progress, lol)
+title: Easy Introduction To Programming; And, Reactive Programming Explained
 description: null
 tags:
   - furkies-purrkies
 date: '2024-01-07T06:09:41.758Z'
 lastmod: null
 weight: 140600
-audio:
+audio: poem-1406.mp3
 image: poem-1406-illustration.jpg
 images: null
 artwork:
   - https://catpea.com
 resources: null
 features:
-  video: false
+  video: true
 raw: true
 draft: false
 chapter: 8
 ---
 
-Easy Introduction To Programming; And, Reactive Programming Explained
-
-I recently quoted a young programmer stating,
+I recently quoted a new programmer stating,
 “coding is basically just ifs and for loops.”.
 
 And that is true, it is also functions,
 which is kind of the base reality of programming.
 
 But, you can add stuff beyond that,
-but let us start in the beginning.
+let me show you how that works.
 
 ---
 
@@ -122,6 +120,8 @@ it is called an index number.
 
 But it is better to use objects,
 and then retrieve things by name.
+
+---
 
 Here, we finally arrive at “coding is basically just ifs and for loops.”,
 so we covered the stuff that this quote glosses over.
