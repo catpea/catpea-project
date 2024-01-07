@@ -1,0 +1,164 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Easy Introduction To Programming; And, Reactive Programming Explained (Recording in progress, lol)
+Sunday • January 7th 2024 • 1:09:41 am
+
+Easy Introduction To Programming; And, Reactive Programming Explained
+
+I recently quoted a young programmer stating,
+“coding is basically just ifs and for loops.”.
+
+And that is true, it is also functions,
+which is kind of the base reality of programming.
+
+But, you can add stuff beyond that,
+but let us start in the beginning.
+
+---
+
+All programming languages, are caculators,
+where you can say ```const result = 1+1;```
+
+And result variable will hold the value of 2,
+to display the contents of result, like in a calculator…
+
+You have to say:
+print result.
+
+A variable is just a way of saving things,
+a variable stores variable content.
+
+---
+
+I am sorry to say that different languages,
+have different ways of printing things, and print to different things.
+
+If you wanted to print something to a debug console,
+that you can open in a web browser with SHIFT+CTRIL+I.
+
+You would say console.log(result); ENTER,
+or you can just say console.log(1+1) and that will print 2 as well.
+
+Now if you wanted to print to the web page that is currently open,
+you would say document.body.textContent = 1+1 (which would just show number 2 in the entire window)
+
+So there is no one way printing things,
+it depends on context.
+
+---
+
+Everything in programming is like that,
+it is about what are you trying to do?
+
+If we wanted to create a calculator with a print function,
+that prints to the web page.
+
+We would simply say:
+function print(input){document.body.textContent = input}
+
+And we could print numbers,
+all day;
+
+---
+
+So in the beginning we can add,
+but to do anything beyond that, we need functions.
+
+And I say, if you don’t have one,
+the first thing you should away do is to create a print function.
+
+Where it will be printing,
+depends on what you are doing.
+
+---
+
+Functions,
+abstract and automate.
+
+We have more than just numbers in a programming language,
+we also have groups, never use the word group.
+
+No one calls it that,
+but for us the normal people arrays, strings, and objects are just groups.
+
+Arrays are a way to hold multiple things under one name,
+strings are pretty much arrays of letters.
+
+Languages use a lot of good ideas, to be useful,
+so it is best to think of strings as being for text, and having little to do with arrays.
+
+So we are m...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...face component,
+it won’t be displaying anything in the browser.
+
+So if you try to make it draggable,
+everything will crash, because you didn’t create anything that can be dragged yet.
+
+The component hasn’t started,
+yet.
+
+---
+
+By using a getter and a setter,
+that divides the act of assigning to an object property.
+
+We can create a cute little system,
+that notifies things when the .started property changes.
+
+So you say observe(started, andDosomething),
+where andDosomething is a function that will be given the latest value of started.
+
+And this is the cool part, any time you started=true or started=false,
+[and]Dosomething will be automatically executed, with that value.
+
+So all you are saying is .started=true,
+and all the observers will start dong their stuff, bringing your component to life.
+
+When moving to the next step in a form,
+inside your .stop() you just say .started = false…
+
+And whatever is still listening to that,
+will know, it is no loner needed and must clean up after it self.
+
+Now let me show you how the x works,
+and then you can go get a drink of water.
+
+To move a window all the way to the left,
+you just say window.x = 0;
+
+No crazy function calls, no calling refresh(),
+ore remain, you just assign a number to the x.
+
+And the window will react,
+as the x notifies all of its observers.
+
+By going an extra step beyond start and stop,
+and making the properties of an observable.
+
+You almost, almost, almost pretty much, go back,
+all the way to the begging of the language, where we just assign 1+1 to result.
+
+Reactive programming, hides almost everything,
+and when you consider, that objects are a programmer interface…
+
+That actually make the programming better,
+reactive assignments, make programming accessible to novice users.
+
+And the code, so readable, to programmers,
+that they won’t ever want to go back to the non reactive world.
+
+The non-reactive world,
+won’t let them request operations out of sequence.
+
+They have to wait, until a component produces elements,
+that the mouse can then listen to.
+
+In the reactive world,
+things just work in sequence, without any strange syntax at all.
+
+[1]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/filesystem/File.html
+[2]: https://dojo.io/
