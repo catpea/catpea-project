@@ -152,7 +152,7 @@ That can validate, enrich,
 expand and make things worth our while.
 
 We can create the occasional good photo,
-but we need entire winding interactive games or stories.
+but we need entire interactive games or stories.
 
 ---
 
