@@ -1,7 +1,7 @@
 ---
 id: poem-1417
 guid: a3281127-4c59-4acd-b180-7ef3a9a40671
-title: The Reason Nobody Dears To Tell You About The Art Of Fighting Bears
+title: The Reason Nobody Dares To Tell You About The Art Of Fighting Bears
 description: null
 tags:
   - furkies-purrkies
