@@ -1,0 +1,237 @@
+---
+id: poem-1429
+guid: 577c2ba2-154a-4941-a8e5-44fdeeca9561
+title: One Thing Done Well; Or, The Two Reasons Why Programming Seems Scary
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-01-30T04:44:51.891Z'
+lastmod: null
+weight: 142900
+audio: poem-1429.mp3
+image: poem-1429-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+There are two road bumps,
+when looking into programming at some depth.
+
+One is that being able to program everything,
+feels like having no structure.
+
+Which will result in a blob,
+rather than a program.
+
+When you take a class in college,
+you will generally be assigned a blob.
+
+A mix of ideas,
+that create an abomination window of program.
+
+---
+
+The solution to this,
+is to become an elitist.
+
+Raise your eyebrows,
+and look down at mortals.
+
+Do one thing,
+and do it well.
+
+Not everything,
+just one thing.
+
+---
+
+Example of such a things would be,
+not even a full window.
+
+But a task tray popup,
+popped-up by a program that scrapes your news-sites.
+
+You'd just copy somebody else's scraper,
+until you were ready to code one yourself.
+
+So the a topic you are interested in appears,
+you get a popup.
+
+There is very litter complexity here,
+you are just doing one thing and doing it well.
+
+I have an example for you,
+a beautiful tiny program called [dat.gui][1]
+
+It it just a little box that pops up,
+in the top right corner of the web page.
+
+That allows you to adjust something,
+with sliders, check-boxes, and drop-downs.
+
+One thing, one thing,
+done well.
+
+---
+
+Doing one thing well,
+is an example of wild-wild-west programming.
+
+You set the rules,
+you decide what is right.
+
+No one may question you,
+and no one will.
+
+Because your program is complete,
+done, one thing done! well.
+
+---
+
+Beyond this is the second bump,
+this is where you put your cowboy hat away.
+
+And put on a nice suit,
+with belt and suspenders.
+
+And of course,
+I don't have to mention the pocket protector.
+
+---
+
+The key word here is:
+GROK.
+
+I can't remember if groking is from,
+Stranger in Strange Land or Hitchhiker's Guide To Galaxy.
+
+I am sure it is not from Neuromancer,
+or the wordy Cryptonomicon, Woe To House.
+
+I let you listen to those,
+and figure it out.
+
+To grok is to understand something so well,
+that you become one with it.
+
+---
+
+This is a big deal with programming,
+this is something that will really help you:
+
+Please understand,
+that past wild wild west...
+
+Everyone follows well defined patterns,
+some are recent like the extremely costly Large Language Models.
+
+And some are mean for desperate times,
+where programming languages were primitive.
+
+Fast, clean, sharp, yes,
+but to the point of bullying the coder a bit.
+
+Be a good language,
+a coder would say.
+
+---
+
+And then the company would go out of business,
+because their software was so buggy, so bloated.
+
+That while it worked,
+it would drain phone battery, and make browsers constantly hack-able.
+
+---
+
+Just now one of those letter agencies,
+mentioned, "Hey, you know, have your memory managed for you."
+
+Because doing it by hand, introduces bugs,
+looking back, they would say:
+
+The languages that pampered the programmer,
+caused less memory leaks and arbitrary code execution exploits.
+
+It matters not how beautiful,
+powerful, or advantageous the language in the moment.
+
+What matters is, that 30 years from now,
+the apps are still safe to run.
+
+---
+
+The patterns come from the old world,
+but are made much cleaner today.
+
+we are talking about, groking,
+[Software Design Patterns][2].
+
+Not an easy task,
+since they are optimized for the old world.
+
+And need to be reinvented,
+in un-typed memory safe languages, like JavaScript.
+
+Now, now, don't say "Up until the moment he mentioned JavaScript",
+and certainly not when slinging TypeScript.
+
+Remember, Embrace, Extend, Enshitificate, and Extinguish,
+the other gang of four.
+
+Stick to the mainstream,
+don't deviate to bastad remakes.
+
+Atom editor had a lot of CoffeeScript,
+and to this day, even after it was abandoned, it is still disgusting.
+
+It went from coffeescript to typescript,
+I am using Pulsar edit to write this.
+
+But I really just want to code my own editor,
+under Electron, or just any browser engine, there is never time.
+
+---
+
+If you keep to the center,
+stay with JavaScript.
+
+And learn all the design patters,
+not just from the Gang Of Four...
+
+But from all the good little ideas everywhere,
+you will neither be scared nor confused.
+
+You will not deviate far,
+from all the most powerful patterns.
+
+Yes, you can code anything,
+but [only what you code with the most powerful patters, will last][3].
+
+Here, developing is no longer scary,
+the pattern sets everything up.
+
+The mechanism is just so good,
+that it beats all the other ideas.
+
+You see how that works,
+once you figure out what the patterns are.
+
+You'll just use those,
+and never be intimidated by the infinity of choice.
+
+---
+
+Sprinkle in some, do one thing, do it well,
+and you'll have yourself an application going.
+
+[1]: https://davidwalsh.name/dat-gui
+[2]: https://en.wikipedia.org/wiki/Design_Patterns
+[3]: https://www.youtube.com/watch?v=0o2whtCJw8I
