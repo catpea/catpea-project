@@ -1,7 +1,7 @@
 ---
 id: poem-1430
 guid: 182fc56c-2f41-4985-92c9-c6740d5f1467
-title: The Magic Of Athletic Endurance For The Rest Of Us
+title: The Magic Of Athletic Endurance, For The Rest Of Us
 description: null
 tags:
   - furkies-purrkies
