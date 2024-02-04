@@ -1,0 +1,147 @@
+---
+id: poem-1434
+guid: 4ea63f72-98f3-4f15-8c25-2ca2dab8ae1f
+title: The Year Of The Bicycle
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-02-04T04:18:36.668Z'
+lastmod: null
+weight: 143400
+audio: poem-1434.mp3
+image: poem-1434-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+With 45 days left until Spring,
+why not make 2024 the year of the bicycle.
+
+Somehow, whether you realize it or not,
+there is always a bicycle trail near by.
+
+And that can easily translate to,
+rebellion, adventure, and mischief.
+
+---
+
+Bicycling, is almost like riding a car,
+in that you can get anywhere.
+
+But, unlike driving around,
+bicycling gives you a feeling of adventure.
+
+Especially,
+when you bring your day pack along.
+
+Prepare snacks,
+and even a sausage for a grill 20 miles away.
+
+---
+
+You set off in the morning,
+maybe 4AM.
+
+Check tire pressure,
+and slobber sunscreen all over yourself.
+
+If there is a motorist out there,
+then they will wonder about you.
+
+About the kind of an adventurer you are,
+and where you are going so early.
+
+Before you know it,
+you'll be on the trail proper.
+
+And crisp morning air,
+will welcome you.
+
+---
+
+Aside from having everything you need,
+to inflate a tire.
+
+Including a full sized,
+no nonsense, clanky air pump.
+
+And some grease,
+because things always squeak somewhere somehow.
+
+There is one more thing,
+that no one ever talks about.
+
+And that is a wide seat,
+bicycle adventure is not a race.
+
+You don't need a race seat,
+that you must first get used to.
+
+You need a soft leather seat,
+meant for a large person.
+
+You will never tire your behind,
+and it will feel like riding on a sofa.
+
+Those little seats,
+are no good for day long adventure.
+
+They are only for couple of hours,
+an already painful race.
+
+---
+
+Listen to me,
+put a wide seat on your sleek bicycle.
+
+They are not too expensive,
+and you can always change them back for short runs.
+
+---
+
+Lastly, I want to encourage you,
+to buy a simple bicycle.
+
+Especially one,
+without any hand operated brakes.
+
+That don't have any cables,
+that never quite work.
+
+Or disc brakes,
+that will have you soon buying break pads.
+
+Get an inexpensive bicycle,
+without many moving parts.
+
+Here in order to stop you,
+gently push the pedals backwards.
+
+You only have one gear,
+and that's really all you need.
+
+---
+
+Before you know it,
+your endurance will increase.
+
+And the speed with which,
+you zip around on your bicycle, will follow.
+
+Be safe, stay away from cars,
+most of the time drivers can't see you.
+
+If you must ride a road,
+get some blinking lights and a helmet.
+
+---
+
+Be sure to bring your narrated books along,
+bicycling long distances goes great with adventure books.
