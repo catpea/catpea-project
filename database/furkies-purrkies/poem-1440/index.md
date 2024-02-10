@@ -1,0 +1,182 @@
+---
+id: poem-1440
+guid: 59d0074d-fb4f-4eee-912c-6257b5af1596
+title: The Little Trick That Makes Bro Science Stick
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-02-10T04:50:24.030Z'
+lastmod: null
+weight: 144000
+audio: poem-1440.mp3
+image: poem-1440-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+Bro science suffers from the shortcut mindset,
+where advice is about simple things done softly.
+
+You have to switch from shortcuts,
+to challenge seeking.
+
+---
+
+So, wen you are told to find a weight that you can lift,
+a bunch of times, lyke, 5, 10 or 15, before needing rest.
+
+You go the beginning of the rack,
+pick the lightest weight with an aim to lift it 10,000 times.
+
+Or to the beat of fast music,
+one bet up, next beat down and repeat.
+
+---
+
+Now if 3 or 5 pounds does nothing for you after 30 minutes,
+because you already have muscles from work or being large.
+
+Then yes, you are too strong for the first dumbbell,
+if that is really the case, I mean like really really...
+
+Then just spend 7 days lifting the first that does nothing for you,
+as way to exercise the smaller muscles requires for standing.
+
+---
+
+Don't worry about lifting non stop, this is super easy,
+joggers do this allllllll the time.
+
+It is a rare child that starts jogging non-stop the moment,
+they come down the chute - "see you later loosers, and ew, what the heck mom!"
+
+Almost every one, runs, rests, runs rests, runs rests,
+and then runs but rests a litte less, and less, and less.
+
+Until they can jog through their whole route,
+non stop, and sometimes chatting up a friend even.
+
+---
+
+I remember to this day how when I started jogging,
+two old dudes sprinted across my route, having a normal conversation.
+
+They were not out of breath, or tired,
+they were speaking normally.
+
+Talking during jogging is an amazing hack to improve your stats,
+but it was soul crushing for the chubby little me.
+
+It has been nearly 20 years,
+those two old dudes can probably still outrun all of the teenagers.
+
+---
+
+When you continue improving your endurance,
+you eventually end up at the Olympics.
+
+But don't do that, don't compete,
+not as a body builder not as an athlete.
+
+I am warning you, don't let anybody or anything annoy you away from fitness,
+the real winners have no medals.
+
+They have joy and health,
+and the necessary body wisdom to beat everyone without therm ever knowing.
+
+This is you chance to be the best,
+and not wear it on your head.
+
+---
+
+Please note, that if you are large,
+you have to work your way up to 15,000 lifts or three hours to 170 bpm.
+
+10,000 will give you impressive results but it is not enough for large people,
+the fat loss would require years instead of months.
+
+---
+
+Four hours is weird, I think electrolytes,
+tendons, shoes, become a real problem here.
+
+I don't have an opinion about 3+ hour workouts,
+it depends on what you are looking for.
+
+---
+
+So, when you are told,
+to count how many times you lift.
+
+And that you must lift a pre-set number,
+then rest, and do it again twice more.
+
+You, do the opposite,
+you don't cont your lifts.
+
+You just synchronize with a song,
+and lift to every beat.
+
+---
+
+A simple way to improve is to start with slow songs at first,
+and lift during some section of the song.
+
+And when you feel stronger,
+lay siege on those sections.
+
+And try to lift non-stop,
+for the duration of the entire song.
+
+Alternatively, you can use an interval timer,
+that tells you when to start and stop.
+
+But you have to work towards eliminating,
+all the rest periods.
+
+So you make the rest period,
+shorter, shorter and shorter, until you get non-stop.
+
+---
+
+Finally, slowly and gradually increase everything,
+here the limit is your body's speed of adaptation.
+
+It grows at its own pace,
+and you must respect that to avoid illness an injury.
+
+Increase how often you go to the gym,
+until you are there 7 days
+
+Or 5 if your exercise makes your body cranky,
+and you need to heal.
+
+Find faster songs, and speed them up with Audacity or ffmpeg,
+look under tempo, as that will not alter pitch.
+
+Eat less sugary things, and eliminate that,
+sugar and salt, is medicine, you only use it to stay healthy.
+
+Eat more fiber, and protein,
+a salad with plenty of slices of ham can be pretty neat if you are large.
+
+Get your protein from various sources,
+you only need the powder to avoid illness, or when you feel weak.
+
+And protein powder with sugar in it,
+is just an excuse to eat more candy.
+
+---
+
+You have to switch your mindset, from making sweet excuses,
+to seeking out safe but gnarly challenges.
+
+We are each meant to grow all they way up,
+until we become great beings.
