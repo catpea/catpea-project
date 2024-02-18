@@ -21,7 +21,7 @@ draft: false
 chapter: 9
 ---
 
-Early warm weather, they foretold,
+Early spring, they foretold,
 and yet - I am sitting here - and I am really cold.
 
 I am now convinced the groundhogs are sus,
