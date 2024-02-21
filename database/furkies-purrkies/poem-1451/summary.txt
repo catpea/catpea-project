@@ -81,7 +81,7 @@ is to re-create old arcade games.
 Another is to create interactive generative art,
 or intricate screensavers with creatures.
 
-I recommend learning programming with [p5.js],
+I recommend learning programming with [p5.js][1],
 a cute little sliver of the large world of programming.
 
 Where you can jump right into JavaScript,
