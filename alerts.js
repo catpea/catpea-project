@@ -45,7 +45,7 @@ export default async function(){
   //     link:{title:`backup just in case: catpea.github.io`, url:'https://catpea.github.io/'}
   // },
 
-    {type: 'danger', urgent:true,  text:`Heavy rain, loss of electricity and connectivity possible.`},
+    // {type: 'danger', urgent:true,  text:`Heavy rain, loss of electricity and connectivity possible.`},
 
     // {
     //   type: 'info',
