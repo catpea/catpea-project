@@ -1,0 +1,110 @@
+---
+id: poem-1459
+guid: 199ae10e-e3ea-48ab-b32d-13489fef9a5e
+title: Baby Steps; Or, Adventure And The Quest For Authenticity, Class, Wisdom And Greatness
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-02-29T05:28:18.886Z'
+lastmod: null
+weight: 145900
+audio: poem-1459.mp3
+image: poem-1459-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+A gentle man, or a gentle lady,
+is middle english for being ennobled by ones deeds.
+
+Everyone can be ennobled,
+so as long as the rise is honest and authentic.
+
+Some will choose to stay behind,
+to prevent others from fracturing the way they did.
+
+But it is still, greatness,
+it still travels.
+
+---
+
+There is a very large problem here,
+one that deal with a mindset of side-chicks, drugs, violence.
+
+When the person is raised that way,
+their entire life will scroll by, and quite meaninglessly so.
+
+It is a great cruelty to raise someone this way,
+to deny them class, love of wisdom, and hope of greatness.
+
+This sets up a young person for failure,
+that was once entirety avoidable.
+
+---
+
+So there is an emergency escape hatch,
+out of indoctrination into bad ideas.
+
+It requires walking the Appalachian,
+and maybe Pacific Crest and Continental Divide Trails.
+
+The magnificence and challenge of it,
+combined with hundreds of Audio Books…
+
+Will pull a person into a culture of greatness,
+the culture of the authors of those books.
+
+This is a difficult process,
+but better than life passing a person by.
+
+---
+
+The books are Biographies, Quests For Wisdom, Science Popularizer Masterpieces,
+Works of Philosophy, and of course Great Adventure.
+
+The urge to leave the trail comes with bad weather,
+blisters, frigid cold, leaky tents and mice.
+
+It is difficult, but there isn’t really anywhere to go back to,
+it is just more bad ideas.
+
+It seems like walking the great trails is about adventure,
+about something new, something challenging.
+
+But there is more to it,
+the trails represent a way out of indoctrination to bad ideas.
+
+---
+
+I know of this, because I know bullies,
+because I know this is the only thing that would work for them.
+
+And because I saw the magnitude of change,
+that comes with switching countries, from breaking away.
+
+The trail is a peaceful place,
+like a new continent.
+
+And the audio books, the philosophers,
+are the new friends and family.
+
+---
+
+We the adults, are at fault for young people,
+getting sidetracked, sometimes for life.
+
+We fail to remind them,
+that merely growing up is not enough.
+
+That authenticity and class, are just as important,
+and that to grow up, means to grow all the way up.
+
+Until we become,
+great beings.
