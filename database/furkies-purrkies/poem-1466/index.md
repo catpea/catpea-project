@@ -1,0 +1,120 @@
+---
+id: poem-1466
+guid: 7252c5d6-ce17-445e-b0db-abe52bab7907
+title: The Corned Beef House
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-03-07T05:27:11.355Z'
+lastmod: null
+weight: 146600
+audio: poem-1466.mp3
+image: poem-1466-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+I saw that there were bad adults in my high school,
+so I dropped out, and got scooped up by adult ed.
+
+The principal of my new school, acted way to friendly,
+she knew I was the dropout.
+
+---
+
+I was a busy young man, I didn't have time to make friends,
+most of us don’t, whether we know it or not.
+
+We accept mediocrity, and let it box us in,
+because we don’t know what it is like for real.
+
+---
+
+There was, and still is, a Corned Beef House near by,
+they served breakfast, coffee.
+
+I felt at home there, so I spoke up,
+sometimes.
+
+The subject of laws, religions, and indoctrination came up,
+and one of the regulars said, that those are unanswerable questions.
+
+This was a kind, intelligent, and hard working person,
+and I replies “There is no such thing, as unanswerable questions”
+
+---
+
+I do not remember the conversation anymore,
+but I would have compared religions and various other indoctrinations.
+
+To UFO cults, or ufology, or stories of visitors, and flying saucers,
+how people desperately want to believe these simple things.
+
+Whatever it is that I said, someone asked,
+“How did you get to be so smart for your age?”
+
+And oh my gosh, what a wonderful thing to say
+to a teenager giving monologues, in still somewhat broken English.
+
+---
+
+I’ve read a bunch of UFO paperbacks in part because they appeared,
+at a local hardware store, but mostly because of X files.
+
+“Time passes in moments... moments which, rushing past define the path of a life just as surely as they lead towards its end. How rarely do we stop to examine that path, to see the reasons why all things happen, to consider whether the path we take in life is our own making or simply one into which we drift with eyes closed. But what if we could stop, pause to take stock of each precious moment before it passes? Might we then see the endless forks in the road that have shaped a life? And, seeing those choices, choose another path?”
+
+-- Dana Scully
+
+---
+
+There is so much negative that surrounds humanity,
+including the algorithm scanning this text
+
+That it is just easier to talk about the way out,
+and there is only one, and it could not be more pleasant or dangerous.
+
+You are in high school or maybe a university for the diploma,
+so that you can move on to better things.
+
+But that still leaves you in lala land, the world of xfiles, bullshit, lies,
+high school recruiters, fake teachers, military chaplains and leader puppets.
+
+You will not advance without real, profound and meaningful self education,
+that sets you firmly and um-movingly in the real world, away from fantasy.
+
+You will need to find your own Corned Beef House,
+and learn to speak out against lies, manipulations, false beliefs and fantasies.
+
+You will need multiple restaurants,
+coffee shops, schools, neighborhoods and small towns, maybe continents.
+
+And may dropping out, or being kicked out,
+be your badge of honor, and may you wear it proudly as the citizen of the world.
+
+You will need to take to great adventures first,
+and wholeheartedly inhale each and every narrated book thought up by a worthy intellectual.
+
+You may walk the Triple Crown,
+or Appalachian, Pacific Crest and Continental Divide Trials.
+
+But you may not spend your life in silence,
+you have to speak out, no matter how ranking algorithms weigh you down.
+
+The more you speak, the more firmly you will ground yourself in reality,
+and the more meaningful all the things you say are going to be.
+
+The world is being held back on purpose,
+by a massively multiplayer lattice of opportunists.
+
+But humanity cannot stand still,
+it must grow towards a more intellectual culture where we each stand in reality.
+
+Please, we are each mean to grow all the way up,
+and rise above the common level of life, until we become great beings.
