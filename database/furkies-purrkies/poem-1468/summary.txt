@@ -1,0 +1,147 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+How To Structure Your Computer Programs And Clearly Communicate Their Internal Architecture
+Saturday • March 9th 2024 • 12:41:34 am
+
+You have to use some of the highest level abstractions,
+that are accepted as the norm.
+
+And not just in the world of programming,
+but also in the large world of interacting with computers.
+
+The more popular the concept,
+the clearer the picture.
+
+---
+
+Rather than using the concept of Object Programming,
+or of Stream Programming, or Transducers and Transformers.
+
+You introduce the concept of a virtual file system,
+at the center of your program, folders, files, inodes.
+
+You don’t use the concept of data objects,
+but virtual files, that you can smash together to assemble a virtual file system.
+
+These files, can have a toObject and toBuffer, or String function,
+where you convert them from one convenient shape to another.
+
+You can have a series of services,
+you can have a virtual desktop.
+
+Whichever of these large well known concepts fir your program,
+use them.
+
+---
+
+Countless critics will come,
+and accuse you of leaky abstractions and overkill.
+
+But, listen, listen to what they are talking about,
+you are arguing about internal architecture of your program.
+
+With strangers who successfully understood it,
+without knowing much about it.
+
+If your program manager ask you why you can telnet,
+into the web page and access admin settings through a text UI.
+
+You tell him it is because you like to bask in the gross incandescence,
+of arrogant strangers groking the internal architecture of your apps.
+
+It is a way of getting all the contributors,
+to just know how your program works.
+
+---
+
+And you can no doubt sense room for innovations,
+and that is true.
+
+The next version of worlds most useful operating system,
+was going to parade the concept of Everything Is A File.
+
+You may see that in your /proc directory,
+where the temperature of your CPU is a file.
+
+Which is compatible with all programs,
+you don’t need to do anything special to read the temperature.
+
+You just open the file,
+and get the number.
+
+---
+
+To give an example, I was writing a tiny visual programming language,
+where you drag and drop program parts together, and I identified a problem.
+
+“Where will be my visual programming language installed,
+to do its thing the best way it can?”
+
+My first idea was electron (a browser based application framework),
+but then I though o...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...ex animated page layout,
+that you can’t ruin, as it only allows you to drop text and images into specific preset places, or user editable zones.)
+
+---
+
+Now what used to be a visual programming language,
+that didn’t make it clear where it or its programs program would run.
+
+Is now a desktop environment, or a zooming user interface,
+where various types of visual editors send out files that are then gathered in a zip file.
+
+---
+
+Finally, all of this can be done with object oriented programming,
+or even functional programming.
+
+It would be compact, smaller, more efficient,
+but also more packed, needing more documentation, and tangled up.
+
+In a way, more compact programs,
+don’t really have an architecture, they have conventions.
+
+Architecture is large, painted with broad brush strokes,
+and unlike the smaller and more compact, immediately understandable.
+
+If someone wants to bring in a new visual programming  language to my platform,
+then they just need to figure out how to generate files and make a new window.
+
+They grok the platform instantly,
+and that is good and clear architectural design.
+
+Lastly, you would think that such things would ruin network card drivers,
+or efficient GPU code, but in places that demand shortest set of instruction possible.
+
+Good architecture drifts into code editors,
+into the tools, into debuggers and de-compilers.
+
+Hexadecimal data lights up with colors,
+branching is captures by arrows, file panes become concept maps.
+
+You still get efficient code without bloat,
+but the developer experience is nothing short of luxury.
+
+A somewhat rough though beautiful example of luxury,
+is found in the world of 3D game development.
+
+You can have your developer program the game outside in,
+or have them program an editor…
+
+Where they are placed into the unfinished game,
+and can design it inside out.
+
+They are not playing the game, it is not he final game,
+it is a 3D level editor, a luxury tool, where they sculpt the game inside out.
+
+This will not make the game slower, it will make it more beautiful,
+it may not even be shipped with the game, and remain an internal tool.
+
+We moved from the low level concept of programming walls,
+to the high level one of sculpting them with a pen an tablet or mouse.
+
+---
