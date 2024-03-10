@@ -1,0 +1,175 @@
+---
+id: poem-1469
+guid: 9426b375-34a3-4091-9958-51643b8b1016
+title: Muscles Grow In Proportion To Your Endurance
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-03-10T05:04:53.246Z'
+lastmod: null
+weight: 146900
+audio: poem-1469.mp3
+image: poem-1469-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+The perfect workout is the non stop 1980 aerobic dance,
+with progressively heavier dumbbells.
+
+Your body adapts the same way joggers adapt,
+at first they run out of breath, but after a while rest less and less.
+
+Until they eventually run their full route,
+and then some.
+
+The reason joggers are not overly muscular,
+is because they don’t increase their weight, and my not eat enough.
+
+A jogger can increase more weight by wearing a weight vest,
+and carrying dumbbells, if they keep doing it they will grow large.
+
+---
+
+Now if a jogger, adds too much weight,
+just like everyone at the gym.
+
+Then they will not be able to run their full route,
+their body will choke, it will not adapt, it will end the exercise too soon.
+
+Lifting something that is too heavy,
+ruins the exercise, completely.
+
+Expect minimal muscle growth...
+just barely anything at all.
+
+---
+
+The huge bodybuilders, lift heavy, because,
+they were always heavy.
+
+Wearing obesity as a weight west,
+since childhood.
+
+Muscle isolation, or using machines,
+works in theory.
+
+If you lifted light enough,
+only specific muscle groups would adapt.
+
+And neither your back would ever hurt,
+nor would you ever get a blister.
+
+In reality, your body is a system of muscles,
+and you need all of them to make everything balance out.
+
+Moreover, machines that work only one muscle group at a time...
+only work one muscle group at a time.
+
+It will take much longer, to get to what you can do,
+by dancing with dumbbells.
+
+There will come a point, where you get to 12 or 15 pound dumbbells,
+and your back will start hurting from fatigue.
+
+It seems that you could then switch to a machine,
+and keep going, but then all your balanced musculature will begin fading.
+
+You snooze you lose, you see that in hospital patients,
+or people living on the space station, it only takes a few months.
+
+Lighter weights,
+in the 5 to 10 pound per hand range.
+
+Allow you to use inertia,
+to temporary and elastically weigh your muscles down.
+
+Your back,
+will never complain about that.
+
+---
+
+It gets even more complex,
+because when you lift heavy, you have to stabilize yourself.
+
+A real workout is three hours long,
+stabilizing muscles for extended periods will cause trouble.
+
+Back pain,
+muscle spasms.
+
+---
+
+Even when you are lifting 10 pound weights,
+you can’t freeze your body.
+
+You have to gently lift your foot,
+to gently move your hips to gently move your body.
+
+You can’t freeze,
+list like I said the 1980s aerobic craze was on point.
+
+Short of increasing weights up to 12 pounds per hand, and speeding up music,
+and moving into the 2 to 3 hour range, of non stop workout.
+
+Your arms will grow too big from 12 pound weights,
+you won’t want to go beyond that.
+
+---
+
+What we are taught in high school,
+and what we see at the gym – is all a myth.
+
+It only works if you do it for 10 or 20 years,
+endurance based workouts will make a fat person skinny in under a year.
+
+Seeing the results,
+will make that year pleasant, and short.
+
+Dancing or synchronizing to the beat of music,
+will put you in a pleasant trance, evey three hours will feel like less than 10 minutes.
+
+---
+
+Finally, dancing with dumbbells,
+is not swinging your arms to your a dance.
+
+You have to carefully control the dumb bell,
+swinging weights also ruins the exercise.
+
+The exercise really is just dancing with dumbbells,
+lift to the sides, above, in front, don’t get technical, lift wisely.
+
+As to the dance it self,
+it is shuffle dance, or cutting shapes, or Melbourne shuffle.
+
+Practicing your courage to dance,
+is your first challenge.
+
+People who barely grew a muscle in 10 years,
+will try to tell you how to do it right.
+
+But, you don’t have to lift anything for days or weeks,
+you have to practice your dance moves.
+
+And then start with three or five pound weights,
+and like a jogger, aim to eliminate all your rest.
+
+Speed up your music, extend the duration of your stay,
+and build a workout you can perform for the duration of your existence.
+
+Bodybuilding really is easy,
+but there is no stopping, because easy come, easy go.
+
+Don’t lift a heavy weight 5 times,
+lift a lightweight 15 thousand times.
+
+Practice Courage, Dancing, Endurance,
+and become an athlete for a long long life.
