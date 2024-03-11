@@ -1,0 +1,193 @@
+---
+id: poem-1470
+guid: 2d2d7844-0f84-4d9a-9ad0-daba89ccebc6
+title: Advice For Trainers
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-03-11T05:02:16.384Z'
+lastmod: null
+weight: 147000
+audio: poem-1470.mp3
+image: poem-1470-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+Endurance is the thing that joggers use,
+to stop stopping, and run straight through their route.
+
+New visitors to the gym,
+don’t have __any__ endurance.
+
+And that they chose gym,
+over jogging…
+
+Means, they want full body endurance,
+not just legs and lungs.
+
+---
+
+Full body endurance,
+is neither painful nor challenging.
+
+Th end result is a body,
+with muscle and without fat.
+
+To get there,
+you have to gradually, increase difficulty.
+
+If you start them with lifting 10 pounds,
+they won’t lift for long enough to gain endurance.
+
+---
+
+As you probably figured out by now,
+sets and reps are a myth.
+
+They work only a tiny bit,
+and only on biceps, maybe chest.
+
+And only for a few months,
+certainly not for a year.
+
+This is the slowest,
+and most boring exercise there is.
+
+---
+
+You, are a kind of a doctor,
+trickery is not allowed.
+
+Emphasize, that all exercise,
+must start with lowest weight.
+
+It is always one or more hours long,
+and there is no stopping.
+
+Just like joggers,
+you eliminate the rest periods.
+
+One hour for skinny people,
+two hours for normal, three hours for fat.
+
+---
+
+You can’t sit,
+our body is a system of muscles.
+
+They all need a workout at the same time,
+so that they grow in harmony.
+
+The shoulders, and back,
+the legs and mid section…
+
+Must be getting a workout,
+at the same time that the person is working on their arms.
+
+Isolate anything, and they will get hurt,
+they won’t have the needed muscles.
+
+---
+
+Before beginning exercise,
+teach them how to get into a dance trance.
+
+By synchronizing their motion,
+to the beat of fresh songs, and avoiding distraction.
+
+An then teach them to use,
+an interval timer.
+
+And encourage them to get a cheap clip-on one,
+with a vibrate function.
+
+As that will help their dance trance,
+they won’t have to worry about checking their watch.
+
+This is not about interval training,
+that is also a gimmick.
+
+Real training requires that you use the interval timer,
+to slowly eliminate all the rest periods.
+
+So that they can work out,
+non stop.
+
+---
+
+Finally, the first exercise,
+new sign-ups must perform.
+
+Is walking, until they can walk for a full hour,
+and feel they have strength for more.
+
+Then, power walking, for several weeks,
+until they can power walk for a full hour.
+
+Then, power-walking, with 3 pound dumbbells,
+and when their body adapts, five pound dumbbells.
+
+And here, they can begin a mix of biceps,
+lifting dumbbells above head, and to the sides.
+
+Or, Dumbbell Lateral Raise, Standing Dumbbell Curls,
+and Overhead Shoulder Press.
+
+And again, with 3 or 5 pound weights,
+in each hand, never more, this will help their back and mid section.
+
+Walking will get tough here,
+so pacing back and forth is probably best.
+
+Once they gain the endurance to workout for an hour,
+and they begin moving faster and faster.
+
+They need to start jogging with dumbbells,
+on their off days.
+
+And shuffle dancing with dumbbells,
+when they are at the gym.
+
+They won’t be bothered by onlookers,
+nor rain.
+
+Sitting, or laying down,
+is only for people who are hurt.
+
+---
+
+Lifting 10 pounds per hand,
+for an hour straight, is dangerous, and outrageous.
+
+But with this training,
+they will have the body for it.
+
+And 12 and 15 pounds per hand,
+for an hour or more, is the bodybuilder territory.
+
+If they want it,
+they can have it.
+
+---
+
+You have to explain this to them,
+to lift 10 pounds means to lift it for an hour or more, non stop.
+
+To lift it for 30 seconds,
+is foolish, and does nothing.
+
+---
+
+That they are at the gym,
+mean they want to be healthy.
+
+Keep them there,
+by teaching them the art of gradually extending endurance.
