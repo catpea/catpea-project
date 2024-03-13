@@ -1,0 +1,193 @@
+---
+id: poem-1472
+guid: 52e1840e-405c-418a-ae9f-eff1e94f7944
+title: The Correct Posture For Lifting Is Dance; Or, Don’t Be Fooled By Bro Science
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-03-13T04:23:56.965Z'
+lastmod: null
+weight: 147200
+audio: poem-1472.mp3
+image: poem-1472-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 9
+---
+
+When people do upset their back muscles,
+their doctors will want you to very gently move and sway, not just lay.
+
+---
+
+The idea of contracting your back, shoulder and neck muscles,
+to stabilize your posture is dangerous, if not down right madness.
+
+Eventually those muscles will tighten, and not let go,
+for days, and you may not ever realize exactly why.
+
+---
+
+One famous person who suffered back pain,
+spoke three precious words, that we must always remember.
+
+“Be like the water”, this is not a joke, this is not an air headed quote,
+this is a lesson born from deep and long pain that tore a man down.
+
+---
+
+I want to be very precise for you,
+but you are likely lifting wrong in many different ways.
+
+You must not lift with both arms at the same time,
+one goes up, the other goes down.
+
+You must not lift heavy,
+and you must lift for an hour non stop.
+
+Just like a jogger, you begin easy,
+with 5 pounds (no ego lifting).
+
+And use a vibrating interval timer,
+to tell you when to lift and when to rest.
+
+So that every couple of weeks,
+you either lengthen the workout duration…
+
+Or shorten the rest duration,
+until you don’t have to rest anymore.
+
+---
+
+With every lift,
+that puts any pressure on your neck, shoulders, or back
+
+You must gently lift one foot,
+and gently shift your weight or pose.
+
+With the next lift, you shift to the other foot,
+think of it as gentle dancing.
+
+---
+
+Don’t be ashamed of dancing,
+you will never, ever progress without gentle dancing.
+
+It is not just that it keeps your muscles relaxed,
+but equally as importantly, it allows you to enter a dance trance.
+
+---
+
+Dance trance is the opposite of counting,
+stopping at 10, before your body even noticed you were exercising.
+
+And then getting bored, and sitting,
+and wanting to go home, but it only been 8 minutes…
+
+Since you camped 20 minutes at locker room,
+letting your mamma dress you.
+
+And hosing yourself down with a dad deodorant,
+that smells like toothpaste and incontinence.
+
+And realizing that at 28 minutes, you still have 17 minutes,
+before you can finally go home, and lay down.
+
+---
+
+Dance trance enables you to have a real workout,
+and truly make a difference for your oldler self.
+
+To enter a dance trance, you need those light dumbbells,
+you need that safe and fluid flexible posture…
+
+And then you need to begin moving,
+in sync to the beat of your songs.
+
+And your songs must absolutely be new,
+they have to be entertaining.
+
+---
+
+Think about what I am saying,
+if you lift heavy, you won’t even get though the intro of a song.
+
+You will not be able,
+to achieve a dance trance.
+
+Lifting heavy not only shuts you down way too early,
+before your body gets the signals to adapt.
+
+Not only does it put your back,
+shoulders, and neck in severe danger.
+
+(Mind you, exercise will upset your electrolytes and hydration,
+your muscles will be a lot more sensitive)
+
+But technical heavy lifting, will aslo bore you to death,
+and prevent you from any kind of dance trance.
+
+Because you are constantly stopping,
+and running out of strength to complete your exercise.
+
+---
+
+You see, you need to structure,
+your entire exercise routine around protecting your back.
+
+Because if you don’t,
+pain will tear down whatever routine you did come up with.
+
+Once you do, not only will you benefit,
+from a fluid workout that keeps you safe.
+
+But also receive, dance trance,
+as that massive bonus…
+
+That will make a three hours workout,
+feel like 20 minutes.
+
+---
+
+And guess what doctors tell people,
+who do lock muscles in their back.
+
+They don’t want them to lay ion bed,
+they want them to gently move.
+
+Lifting one leg, then the other,
+moving fluidly until the back lets go.
+
+---
+
+This also means no machines, no bench press, no muscle isolation,
+these tools are only used for when you are hurt.
+
+Isolation prevents all your other important muscles,
+from developing, your entire musculature must be involved in your workout.
+
+Put on some dance music,
+grab onto light dumbbells…
+
+And focus on eliminating your rest periods first,
+then move up in weight…
+
+And witness the true beauty and strength,
+of which your body is capable of.
+
+---
+
+You must be like the water,
+and your workout must flow.
+
+You dance to the music,
+sometimes fast sometimes slow.
+
+You workout nonstop,
+and when the hour is up, you go.
