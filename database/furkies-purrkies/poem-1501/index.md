@@ -33,7 +33,7 @@ in just the right way.
 And curious creatures have been branded by the circle,
 for hundreds of thousands of years.
 
-The circle has ever since been a pain in the ass,
+The circle has ever since been a pain in the neck,
 of vile men looking to hold humanity back.
 
 To create a population of at least wage salves,
