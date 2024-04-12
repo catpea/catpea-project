@@ -24,7 +24,7 @@
             <div class="card-footer" style="min-height: 4rem;">
               <div class="d-grid gap-2 col-8 mx-auto">
                 <?if(post.attr.audio){?>
-                  <a href="https://catpea.github.io/chapter-0<?=post.attr.chapter?>/<?=post.attr.audio?>" class="btn btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
+                  <a href="https://catpea.github.io/chapter-<?=post.attr.chapter.toString().length==1?'0':''?><?=post.attr.chapter?>/<?=post.attr.audio?>" class="btn btn-<?=post.order.last?'primary':'warning'?>"><i class="bi bi-play-circle"></i> Listen</a>
                 <?}?>
               </div>
             </div>
