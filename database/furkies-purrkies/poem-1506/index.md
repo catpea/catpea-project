@@ -1,0 +1,186 @@
+---
+id: poem-1506
+guid: e071c557-002a-4c44-8e08-5b8305641597
+title: You Will Live Forever
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-04-16T03:44:41.361Z'
+lastmod: null
+weight: 150600
+audio: poem-1506.mp3
+image: poem-1506-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+The AI we have today works with strings of letters,
+like a spellchecker or translator.
+
+The AI we need will work with concepts,
+like a smart Mind Map.
+
+But, in a quirk of complexity, it just so happens,
+that our first AI, can make the second.
+
+And the second can use the first,
+to expand it self, until it takes over its own development.
+
+---
+
+This will all happen very quickly,
+months, not years.
+
+---
+
+The first big task for AI,
+a machine that works on principles of chaos.
+
+It to cure disease,
+probably though creating molecular machines.
+
+And the thing about this,
+is that curing one disease…
+
+Means curing all disease,
+including aging.
+
+---
+
+As you know, space is very big,
+and traveling at maximum speed, is slow.
+
+You can see how [slow speed of light][1] is,
+in the silly delay during news interviews.
+
+But once we stop aging, along with cryonics,
+given a cheap star-ship build like [ʻOumuamua][2]…
+
+We can go anywhere,
+you’ll have all the space and time to yourself.
+
+---
+
+Even though it accelerated,
+ʻOumuamua is just a rock, until evidence shows otherwise.
+
+But, even so, it is a blueprint for a star-ship,
+it is armored, moving at 100,000 km/h (if my math is correct).
+
+And it can be steered via gravity assist,
+and out-gassing as ʻOumuamua had shown.
+
+---
+
+With the aid of AI, and self repairing machines,
+a trivial invention, if you can repair biological ones.
+
+You don’t need to know everything right away,
+the AI will take care of it and teach you.
+
+There are other technologies,
+that will help your mind.
+
+---
+
+Unlike star trek, the mission isn’t to explore strange new worlds,
+because it is probably really empty pout there.
+
+The mission is to use our molecular knowledge,
+to develop machines that synchronize with chemical signature of planets we encounter.
+
+And hitch a ride,
+on the mechanism of evolution.
+
+It doesn’t really matter where your Asteroid will take you,
+you rarely revisit the planets, as it is not a good idea.
+
+You just keep going forward,
+moving between solar systems, hoping for genesis of intelligent life.
+
+---
+
+I know that this all sounds,
+like science fiction...
+
+But, if you just ask yourself, how old will curing aging,
+eventually make you.
+
+You will see, that Humanity,
+is a space fairing species, looking to make and create new friends.
+
+---
+
+Now, unlike in a Science Fiction poem,
+there are already duties you have.
+
+And there is non-woo-woo anti aging technique,
+that you must practice daily.
+
+Most of you would guess jogging,
+and that is close, but not quite.
+
+It is jogging with progressively heavier weights,
+including wrist/ankle weight, weight vest, and most importantly dumbbells.
+
+This is for the 80 year old you,
+you want to be more fit that a 40 year old.
+
+And you accomplish that,
+by gently increasing your endurance throughout your life.
+
+Start jogging with three pound weights,
+and use your wisdom from there.
+
+---
+
+Even more important than becoming a fit athlete,
+you must use self education to become an authentic grownup.
+
+Self education consists of two things,
+narrated books, and adventure trails…
+
+Where you should seriously consider,
+[walking the Triple Crown][3].
+
+The purpose of self education,
+is to help you become an authentic leader.
+
+AI will change a lot more things than you are assuming,
+it will alter politics, voting, and end war and poverty.
+
+You have to reject cramming and memorizing,
+because that is just self defeating trickery you were pushed into.
+
+So that your teacher,
+could take an easy paycheck home.
+
+You must reject everything less than full comprehension,
+of precisely the things that you are curious about.
+
+You have to master each one, though not all in one go,
+your mind will tell you when to leave a subject for a new one…
+
+And then to revisit,
+an old one, to advance it further.
+
+As a Human Being you are charged with growing all the way up,
+until you become a wise leader and a great being.
+
+That an nothing else,
+will ever make you a great star ship captain.
+
+Live forever,
+and learn to no end.
+
+
+[1]: https://www.youtube.com/watch?v=HV7q9VrDgBo
+[2]: https://en.wikipedia.org/wiki/%CA%BBOumuamua
+[3]: https://www.youtube.com/watch?v=EzXP5PjRHjM&list=PLXiz2lWve6AJrEVuAjfL4eaBDEMfdbKa6
