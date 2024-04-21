@@ -8,8 +8,8 @@
   "scripts": {
     "save": "git add .; git commit -m 'New Release'; git push;",
     "publish": "./bin/publish.sh",
-    "audio-server": "http-server -c-1 ./dist/chapters/chapter-10/docs",
-    "github-server": "http-server -o -c-1 $(antwerp read catpea-github configuration.dest)"
+    "audio": "http-server -c-1 ./dist/chapters/chapter-10/docs",
+    "web": "http-server -o -c-1 $(antwerp read catpea-github configuration.dest)"
   },
   "keywords": [],
   "author": "",
