@@ -21,8 +21,8 @@ draft: false
 chapter: 10
 ---
 
-Hard running is the worst you can do,
-and it is the best you can do.
+Hard running is the worst thing you can do,
+and it is the best thing you can do.
 
 Hard running is concrete, city, snow,
 it is rain, mud, pain, scrapes and bruises.
