@@ -1,7 +1,7 @@
 export default async function(){
   const response = [
 
-    {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 138 hours long and 6.8GB in size, beginning with "Welcome To Planet Earth - A Word Of Caution" (August 5th 2023)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/catpea'}},
+    {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 173 hours long and 9GB in size, beginning with the terrrrible poem "The Great Michigan Ice Age" (April 26th 2024)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/catpea-2024'}},
 
     // {
     //   type: 'warning',

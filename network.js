@@ -53,10 +53,10 @@ export default async function(){
     {
       title: 'Audiobook',
       iconClasses: ['bi', 'bi-book'],
-      url: 'https://archive.org/details/catpea',
+      url: 'https://archive.org/details/catpea-2024',
       navigation: true,
       external: true,
-      new: false,
+      new: true,
     },
 
     {
