@@ -6,6 +6,10 @@ echo
 echo BUILDING: github
 antwerp build catpea-github
 
+
+echo create-slideshow "/home/meow/Universe/Development/catpea-project/database/furkies-purrkies/poem-1520/files/poem-1520.mp3" "/home/meow/Universe/Development/catpea-project/dist/slides/poem-1520" "/home/meow/Universe/Development/catpea-project/dist/video/poem-1520.mp4"
+
+
 # echo
 # echo
 # echo backing-up checksims.json (gandi use)
