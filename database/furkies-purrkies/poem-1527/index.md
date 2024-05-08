@@ -72,7 +72,7 @@ traveled for two years or so.
 There was no going back for any of us,
 every day was simply brighter.
 
-While, I despertley needed my books,
+While, I desperate needed my books,
 it was not a Tutelage,
 
 It was a Hermitage,
@@ -172,7 +172,7 @@ I smiled, because the antique store,
 I discovered on my way in…
 
 Well, for some suspicious reason,
-o a particular kind of hungerr.
+o a particular kind of hunger.
 
 Had a box of Ocean Shells,
 I bought a bunch to scatter them by lake Michigan.
@@ -196,7 +196,7 @@ for a quarter, and that made my day.
 Back at my castle,
 a camping site facing lake Michigan, so magnificent.
 
-That it can only be refeeed to as a castle,
+That it can only be referred to as a castle,
 and even that does not do it justice.
 
 I sat my programming diagrams aside,
@@ -215,13 +215,13 @@ Mixed with what made Killgore Trout,
 a living creature in Vonnegut’ magnificent style.
 
 Where do you start?
-A caffe at the edge of the universe.
+A cafe at the edge of the universe.
 
-Or a laundormat,
+Or a laundromat,
 at the crossing of two worlds.
 
 The world of obedience where arrogant politicians,
-pluck teenagers for their wagames.
+pluck teenagers for their war games.
 
 And the other world,
 the world of wisdom, of depth.
