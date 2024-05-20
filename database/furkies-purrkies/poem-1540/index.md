@@ -1,0 +1,156 @@
+---
+id: poem-1540
+guid: c9fc7352-327f-4e27-be88-3eedf17ca16d
+title: 'Bodybuilding HOWTO: The Heavy Backpack Model'
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-05-20T04:49:53.621Z'
+lastmod: null
+weight: 154000
+audio: poem-1540.mp3
+image: poem-1540-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Let us begin by asking, based on your life experience,
+what do you think works better for building muscle on your legs:
+
+Walking with an all too heavy backpack that will soon stop you,
+or with a reasonably heavy one, for three hours?
+
+Which would support long term muscle building,
+the prolonged sustained exertion, or the quick failure to get anywhere?
+
+---
+
+It is not an easy question, because the answer is obscured,
+by some initial gains from the all too heavy failure.
+
+Your body wants o adapt, so as long as it gets a strong signal,
+and tying to carry something really heavy multiple times.
+
+Will send a small signal, but here is the problem,
+it will always be the same small signal.
+
+Because you just can’t get very far,
+with a backpack that is crushing you to the ground.
+
+The backpack is heavy,
+but the signal is ridiculously short.
+
+It is hardly a call for adaptation,
+more like a temporary problem.
+
+---
+
+Now, if you work your way up to carry a light backpack,
+for an hour a day, with an aim for a three hour daily excursion.
+
+Your body will slowly adapt to have you walk all the way,
+without much stopping.
+
+The light backpack, which represents thee pound dumbbells,
+will be a very small challenge, that should not interfere with your walk.
+
+The distance is what sends the clearest message to your body,
+that one hour workout, with reasonable weights.
+
+---
+
+And as soon as you are able to walk the full distance,
+you then increase your weights.
+
+Enough to cause some trouble,
+but never so much as to stop you, or make you rest.
+
+---
+
+You see what a terrible thing lifting too heavy is,
+it almost immediately drops you into a plateau.
+
+Which will in turn,
+will eat away at your precious motivation.
+
+Now look at the other end,
+where you are never sopped, and nothing prevents you from finishing.
+
+You are choosing your weights in a way,
+that helps you finish.
+
+Now, you must monitor your adaptation,
+testing weekly, if you are able to carry more, or work out longer.
+
+You must always keep to the edge of what you can do,
+but never cross it where it becomes impossible to finish.
+
+---
+
+Moreover,
+there are two phases to your workout.
+
+First you train,
+to be able to work out for an hour.
+
+And then,
+your real non-stop workout starts.
+
+This is a way,
+to amplify the signals you are sending to your body.
+
+Which translates to, challenging workouts for a relatively short period,
+and then as you get the body you need, you just exercise to keep your gains.
+
+---
+
+I chose walking as an example of a simplified exercise,
+because oh how smooth and simple it is.
+
+The walking equivalent for a body builder,
+is twisting and tuning with dumbbells.
+
+Switching between various dumbbell exercises,
+as muscles get tired and need to recover.
+
+---
+
+Use an interval timer, to eliminate rest,
+in the first phase,
+
+figure out how long you can lift 5lb dumbbells for,
+and then how long you need to rest to do it again.
+
+And set up to 10 rounds on the interval timer,
+making sure to continue shortening your rest period as you go on.
+
+---
+
+Finally, committing multiple hours to your exercise is not boring,
+when you synchronize with the beats of songs.
+
+You enter a dance trance that makes multiple hours feel like minutes,
+similar to how you brainlessly drive home from work.
+
+---
+
+You should workout daily, until you have solid evidence,
+that you time off, such as overlapping injuries of overwhelming tiredness.
+
+---
+
+Even though I use walking as an example,
+it is still the single most powerful way to begin your fitness journey.
+
+Long before you sign up for the gym,
+you should get to know local parks and forests.
+
+And even aim to walk the Appalachian, Pacific Crest,
+and the Continental Divide tails.
