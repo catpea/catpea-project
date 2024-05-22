@@ -22,7 +22,7 @@ chapter: 10
 ---
 
 We don’t know what we are not,
-and trying to connect to our else selves barely works.
+and trying to connect to our elder selves barely works.
 
 It is a fantasy or a dream after all,
 and all too much is missing.
