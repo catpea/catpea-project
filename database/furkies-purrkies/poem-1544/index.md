@@ -1,0 +1,117 @@
+---
+id: poem-1544
+guid: 732b0a40-83e1-4ac4-931b-e5345ca077c5
+title: Don't Ignore Programming
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-05-24T03:26:45.886Z'
+lastmod: null
+weight: 154400
+audio: poem-1544.mp3
+image: poem-1544-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+You can graduate High School with a [made up GPA][X],
+or the ability to create computer programs.
+
+Being able to program computers allows you to study the world at greater depth,
+where you can simulate whatever poses a challenge.
+
+Simulation will put you in the scientist's or inventor's chair,
+helping you ask the right questions, and search for the correct answers.
+
+But even more importantly, programming opens a gateway,
+into starting a series of small startups from which you can learn to succeed.
+
+---
+
+Don't ignore programming,
+get serious about it.
+
+---
+
+Because politicians put you in poverty on purpose,
+and [High School is about the adults][A] made desperate by make-believe politicians.
+
+While small mindedness is everywhere, political small-mindedness,
+is especially toxic as it negatively impacts families and futures.
+
+You can't just assume High School College,
+Job and Family is the way to go.
+
+Especially now, with a looming threat of war,
+where all NATO nations will have to contribute troops.
+
+You need independence, intellectual, financial and, psychological,
+the latter being the end of worries caused by poverty.
+
+---
+
+Extend your stay in High school as much as you can,
+and focus on studying programming.
+
+Avoid Python, Java, and TypeScript,
+and enter C family of programming languages.
+
+Begin with [JavaScript][0],
+by means of [Node-RED][1], [p5.js][2], [Svelte][3], [Bootstrap][4] and [node.js][5].
+
+Programming is a real subject,
+where each lesson makes perfect sense.
+
+It produces [clear results][6],
+and helps you strategise about what to create for your future.
+
+---
+
+Take your education seriously,
+the world is always entangled in preventable problems.
+
+This must stop or generations will waste their life effort,
+on things that could have been entirely avoidable had the world entered a more intellectual culture.
+
+---
+
+Make no mistake, there is no such thing,
+as standardized education.
+
+The only kind of education that is worthy of what you represent to Human Kind and its future.
+Is a curiosity driven personalized education, aided by AI or human tutors.
+
+Where you can dance around the subjects you want to study,
+at your own pace and in the sequence that resonates with you.
+
+---
+
+Begin your quest for knowledge.
+with programming tutorials.
+
+And as soon as you feel up to it walk the Appalachian,
+Pacific Crest and Continental Divide trails.
+
+
+While listening to all the narrated books that are treasured by intellectuals,
+books written by great beings who want to help you grow up.
+
+And make no mistake, you must grow all the way up,
+until you become a great being.
+
+[X]: https://www.youtube.com/watch?v=DzSnvxejenY
+[A]: https://www.youtube.com/watch?v=fmoor8DwqW4
+[0]: https://www.youtube.com/results?search_query=JavaScript+Tutorials
+[1]: https://www.youtube.com/results?search_query=Node-RED+Tutorials
+[2]: https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi
+[3]: https://www.youtube.com/results?search_query=Svelte+5+Tutorials
+[4]: https://www.youtube.com/results?search_query=Bootstrap+Tutorials
+[5]: https://www.youtube.com/results?search_query=node.js+Tutorials
+[6]: https://github.com/Experience-Monks/math-as-code
