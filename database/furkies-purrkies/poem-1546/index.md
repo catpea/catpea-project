@@ -1,0 +1,143 @@
+---
+id: poem-1546
+guid: 434bd8af-13ab-462f-acdc-01bfabcc45ec
+title: Code Generation
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-05-26T04:40:03.998Z'
+lastmod: null
+weight: 154600
+audio: poem-1546.mp3
+image: poem-1546-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Learning programming is about setting yourself free from poverty,
+and more importantly setting your self free from __fear__ of poverty.
+
+We are placed into poverty on purpose,
+so that our politicians don’t have to do much to make the nations go.
+
+In the future, forcing children to inherit poverty, or live in poverty,
+will be seen as barbaric and unethical, and reason for un-education and wars.
+
+It is impossible to learn while e are poor, self education and knowledge,
+is a masterpiece, a work of dreams, arts, inspirations, and curiosities.
+
+You can’t create masterpiece art, when faced with living on the street,
+when being constantly out of money, or in debt and shame.
+
+And most tragically suffering brain-fog, and necessary tiredness,
+from simply not being able to justify the purchase of healthy foods.
+
+Poverty and Fear of Poverty placed upon us by political shortsightedness,
+keeps us down, keeps us desperate and small.
+
+And politicians in their incompetence see that and call us Joe Sixpack,
+they see that as evidence that we don’t want to aspire and rise.
+
+Some may even see the ineffective standardized education slop we get,
+as more than good enough, as we couldn't possibly pass more complex classes.
+
+They will say “the grades are already pretty low”,
+“they can’t handle more than that“.
+
+---
+
+But school does not actually teach, we don’’t actually learn,
+we briefly come in contact with some easy to memorize shreds of concepts.
+
+And that is not education, that is memorization, acting, pretending,
+playing into the game that in the end hurts us the most.
+
+---
+
+To learn for real, is so different from that we get today,
+that most teachers who themselves were exposed to fake education, can’t handle it.
+
+Their response to accusations like these, is a personal attack,
+that begins with the words “What’s his problem.”.
+
+Can’t comprehend the problem, at all,
+they are just as big of a victim of fake education as the rest of us.
+
+Except because of their position, and the unearned prestige,
+they will never examine results and ask if that worked.
+
+---
+
+Let me show you,
+real education.
+
+One subject at a time, the first and foremost subject being programming,
+as it is like a microscope and a simulation framework that helps students explore.
+
+Students begin with an untyped language from the C family,
+today that is JavaScript, where they can move fast.
+
+And leave variable configuration,
+and translation to other languages to language models and AI.
+
+They learn programming in the browser, with the aid of HTML,
+and XML for application structure (could not be more fun with cheerio).
+
+And immediately make the jump to Electron,
+or browser based desktop applications, where the browser UI is hidden away.
+
+Their first project, a zooming user interface, over a visual programming language,
+that supports countless paradigms in windows that then can be connected together.
+
+In one window, they have tools to build tables of a database,
+in another they design the UI for a database browser, and connect the two.
+
+This program is their window into he complexity of the universe,
+in other windows, they have tools to manipulate the chemical bond.
+
+In another window tools, to connect to a database of molecules,
+that they can now study at depth, both by interaction/simulation and querying AI.
+
+And another window with a pretty pixel based game that shows,
+how slow the speed of light is.
+
+This cute little pixel game is an explosion of connections,
+to math, physics engines, electronics and joystick control, to star databases, and even an AI pilot.
+
+---
+
+Every desktop is an expression,
+of the student’s uniqueness and personal curiosities.
+
+And an AI that offers new lessons
+and directions that fit that uniqueness.
+
+And here, in a school that believes in them, they make their own connections,
+to higher ideals, mind maps and concept maps with philosophical ideas...
+
+Simulations of congregations of AI personalities,
+that create wiser nations…
+
+With an aim on moral excellence and unity,
+the only direction that can lead the world towards real peace.
+
+There are no grades, the aim is not some imaginary graduation,
+but the building of a series of small companies until some of them stick.
+
+This. Is real education, where everything connects together,
+where every connection has a meaning, and where AI gives personalized instruction.
+
+---
+
+Effective education will set an upwards slope to their growing up,
+they will intuit one of the most important truths, so obscured today.
+
+That to grow up, means to grow all the way up,
+until each student becomes a great being.
