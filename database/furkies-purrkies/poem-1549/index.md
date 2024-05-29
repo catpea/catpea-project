@@ -1,7 +1,7 @@
 ---
 id: poem-1549
 guid: db573949-dc92-4a3b-be5c-ffcf0ed92fd6
-title: What Is Critical Thinking And Can you Outthink Stuffy Adults With It?
+title: What Is Critical Thinking And Can You Out-Think Stuffy Adults With It?
 description: null
 tags:
   - furkies-purrkies
