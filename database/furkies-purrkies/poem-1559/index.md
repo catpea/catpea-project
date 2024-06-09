@@ -30,7 +30,7 @@ The way I taught myself poetry,
 if we want to call it that…
 
 Is by building up from Revelational,
-it Inspirational, and now I am beginning my Transcendental phase.
+into Inspirational, and now I am beginning my Transcendental phase.
 
 So, “The School Bus Is Not For Us”, “Grow All The Way Up Until You Become A Great Bing”, and “You Are More Than You Know”.
 
