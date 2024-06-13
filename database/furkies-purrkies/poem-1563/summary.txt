@@ -116,7 +116,7 @@ that it is th...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ance of broken things as an evolutionary adaptation.
+...tolerance of broken things as an evolutionary adaptation.
 
 The creature that does not blindly listen to the guardian,
 gets eaten.
@@ -199,5 +199,3 @@ until they become a unique great being.
 
 With a legacy, to help others begin,
 where our mistakes and bad ideas are left behind in the past.
-
----

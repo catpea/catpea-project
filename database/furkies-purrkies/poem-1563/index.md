@@ -311,5 +311,3 @@ until they become a unique great being.
 
 With a legacy, to help others begin,
 where our mistakes and bad ideas are left behind in the past.
-
----
