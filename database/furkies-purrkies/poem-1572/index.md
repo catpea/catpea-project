@@ -21,8 +21,6 @@ draft: false
 chapter: 10
 ---
 
-Trail Mix Made Me Stronger And I Now Lift Longer
-
 Most bodybuilders agree,
 that you shouldn’t listen to me.
 
@@ -80,7 +78,7 @@ it will make you stronger and tougher.
 
 ---
 
-Bodybuilding is quite a hustle,
+Bodybuilding is quite a hassle,
 as you must use your muscle.
 
 For muscle to hear you needing more,
