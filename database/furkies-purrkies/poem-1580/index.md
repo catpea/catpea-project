@@ -1,0 +1,191 @@
+---
+id: poem-1580
+guid: 9a0a6c8c-1aa3-4540-a150-019199619c1e
+title: Life Long For A Long Life; Or, Don't Make Fitness Unnecessarily Hard
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-06-29T03:29:07.706Z'
+lastmod: null
+weight: 158000
+audio: poem-1580.mp3
+image: poem-1580-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Your gym teacher lied to you,
+and the bros don't know anything.
+
+Gym class, is for teachers,
+that can't even fake ineffective education.
+
+---
+
+But listen,
+there is a severe danger, lurking here.
+
+And that is giving up on fitness,
+maybe after high school, on in your 20s or 50s, or 70s.
+
+You can't do that, you are not allowed,
+you can't do that to people that care bout you.
+
+---
+
+Your body demands a certain level of activity,
+and rich nutrition, so that you always have everything it needs.
+
+This has to happen daily,
+so it can't be hell.
+
+Do you hear me?
+don't make it hard.
+
+---
+
+At certain times in your life,
+you can spike your routine.
+
+To become a jogger maybe,
+or a bodybuilder.
+
+But on average, you cultivate
+a wise and unstoppable routine.
+
+---
+
+We were not designed,
+to be office workers.
+
+We very barely emerged out of chaos,
+with good enough bodies to last a 100 years.
+
+It is a magnificent winning lottery ticket,
+it is just long enough, to begin forgetting stuff.
+
+It is a fair stretch of time,
+that will only expand.
+
+As AI and Medicine advances,
+and you learn to proper care for yourself.
+
+---
+
+Your nutrition and activity,
+must match what you were evolved for.
+
+Let me repeat this,
+because that is your starting point.
+
+Your nutrition and activity,
+must match what you were evolved for.
+
+Hunting, chasing, running,
+twisting, leaping, lifting, sprinting.
+
+And your nutrition, is just dried fruits,
+that get absorbed into seeds and nuts in your intestine.
+
+And bounce through, slowly, steadily, wisely,
+giving up sugars at a stable rate.
+
+This is very important for your exercise,
+you need trail mix, or you run out of energy.
+
+And you need the occasional parts of an animal,
+that will feed your muscle.
+
+Vegetable based protein,
+seems to be just as good, and not as icky.
+
+---
+
+Jogging or better yet dancing with dumbbells,
+comes pretty close to what you need.
+
+Don't worry about,
+Anaerobic vs. Aerobic.
+
+Bros that cut off their blood flow,
+during excerpt are simply uneducated.
+
+They are dumb, having completely misunderstood,
+science, medicine, text book models.
+
+And whatever muscles they did put on,
+they did it long ago, before their plateau.
+
+They don't know who to grow muscle,
+they lift too heavy, and do not advance.
+
+---
+
+You have to gradually build up your own routine,
+base on evidence and models you can verify with your eyes.
+
+You have to ask,
+do joggers build muscled on their legs?
+
+And what would happen,
+if they put on a 10 lb. weight west.
+
+And begun gradually, and wisely,
+increasing their weight by 2lb.
+
+Would their muscles grow, shrink,
+or stay the same size, as their vest increases up to 40 lb.
+
+---
+
+You have to use your imagination,
+you already have all the answers.
+
+Could a hopeful jogger,
+make any progress...
+
+If they wore a 40lb. vest on their first day.
+and hoped to slowly run a full marathon?
+
+---
+
+Could it possibly be better,
+if they started with 3 or 5 lb. dumbbells.
+
+And hoped to walk 10,000 steps,
+and then power-walk, and then shuffle dance.
+
+And then jog,
+as they grew in capability.
+
+---
+
+And as you ponder these simple question,
+always be mindful.
+
+That you have a responsibility,
+to people that care about you.
+
+And you must never,
+jeopardize your workout routine.
+
+Just ask your older self,
+what their regrets are.
+
+---
+
+Focus on building up your endurance,
+to accomplish truly extraordinary things.
+
+On creating something,
+that is worth cultivating and protecting,
+
+Your routine must be life long,
+and you must live a long life.
