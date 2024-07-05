@@ -1,0 +1,176 @@
+---
+id: poem-1586
+guid: 40212f0e-b91a-4ae0-9751-643f051857ea
+title: Your Authentic Intellectual Inheritance; A 4th Of July Special
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-07-05T03:56:56.671Z'
+lastmod: null
+weight: 158600
+audio: poem-1586.mp3
+image: poem-1586-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Your intellectual inheritance,
+is a body of knowledge stored in the wisest of books.
+
+It contains both the wisdom that belongs to you,
+and the culture of the great beings that made the delivery.
+
+It is not exactly an amorphous body of knowledge,
+it is more of a spire, a spike, a mountain above the sea of fog.
+
+---
+
+There has been a battle,
+between clear thinkers and manipulators.
+
+You may know it as science versus religion,
+but that only gives religion credence.
+
+There was never a controvert,
+and it wasn't just about science.
+
+The sciences are just the daughters of Philo Sophia,
+of the love of wisdom or clear thinking.
+
+---
+
+It was a battle between a culture of clear thinking,
+and those who want to back wash a history.
+
+That will turn you into a resource,
+it was always about profit.
+
+Small minded men, will neither grasp the world,
+nor the gravity of their existence.
+
+They merely slither,
+and sell the world.
+
+---
+
+A the top of this thing I termed a spire,
+is your beginning.
+
+This is a point, where great beings,
+of the previous thinking generation left off.
+
+---
+
+Your High School was starved,
+and forced into state tests.
+
+Which in turn forced teachers,
+to trick you, or coerce you into memorization.
+
+This on top of them already being pressured,
+to grade each third of the class, as A, B, and C.
+
+It is never a directed attack,
+as that would be found out.
+
+It is a blanket of attrition, poverty,
+and stupid, men who demonize at welfare, and laugh at Universal Basic Income.
+
+It is a broad brushstroke,
+to keep you in fear, and doubt, and disbelief.
+
+Some will say, that this is just how the world works,
+but that is just how the world was made to work.
+
+Those who see it as a problem,
+will say that all human problems can be fixed by humans.
+
+And that is in-deed the correct path,
+the new generation must never be born to the errors of the old one.
+
+That is an old trick, lack of progress,
+is an indication of foul play.
+
+No parent, had they a choice,
+would want to see their children.
+
+Get an education as ineffective as theirs,
+and yet, that is exactly what everyone gets.
+
+---
+
+There is no need to something a conspiracy,
+if the outcome falls short.
+
+Then we must try again,
+to dare greatly.
+
+Lest we get stuck,
+in an endless loop of meaningless suffering.
+
+---
+
+Make your way to the spire, child,
+begin with Socrates.
+
+And move on up through each philosopher,
+identifying and rejecting the false ones.
+
+And when you arrive into the age,
+of the Lady, the Gentleman, and the Officer.
+
+Know that the Officer has no credence,
+wars are cultivated.
+
+---
+
+You will have to take back,
+the wisdom that has been stolen, or obscured, or twisted.
+
+And place it where it belongs,
+a top our greatest of height, not lows.
+
+And I offer you a sample,
+of what this battle is for.
+
+I let you discover independently,
+and give you the repaired and restored wisdom only.
+
+A human being will not lie, cheat, or steal,
+and which is more important, reject those who do.
+
+---
+
+How would that affect your classroom in High School,
+especially on the day when everyone started cramming.
+
+How would that alter your culture and level of education,
+how, would it have changed the future ahead of you.
+
+Begin with Socrates,
+and follow the course of the authentic history.
+
+Not the history that you are told to accept,
+as rewriting the past, can only take you back to the past.
+
+So that your battles count for real,
+and then; resume, where the Great Beings left off.
+
+With you greatness marking a new height,
+for those who are sure to follow.
+
+Do not abandon Humanity
+to the repetition of tried and true mistakes.
+
+For all the tragedy within,
+will count for nothing.
+
+Humanity must advance,
+and you, must aim to learn for real.
