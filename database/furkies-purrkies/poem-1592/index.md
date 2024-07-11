@@ -1,0 +1,152 @@
+---
+id: poem-1592
+guid: d7de7612-9daa-46af-9461-586e0b957425
+title: Rage For Wisdom; Or, Against The Hollow, Ineffective And Sideloaded
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-07-11T03:36:13.132Z'
+lastmod: null
+weight: 159200
+audio: poem-1592.mp3
+image: poem-1592-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Walk the great trails, bring books, narrated ones,
+so that you can comprehend them faster.
+
+You should start with overview of Philosophy,
+or Socrates who was murdered.
+
+Precisely because he questioned sideloading culture an beliefs,
+as way to control young people an other citizens.
+
+Study Natural Philosophy as well,
+because Philosophy is the Mother of All Sciences.
+
+You will encounter Giorano Bruno,
+another philosopher murdered by people expecting obedience and control.
+
+---
+
+In the modern days the tactic is to force standardize education,
+without which no one honest can publish a white paper.
+
+And discredit, lie, tarnish, spread misinformation,
+every college student always repeats how Rand was a fraud.
+
+How her book had filth in it,
+and how in her old age, she lived on state benefits.
+
+The urge to feel superior by parotting what everyone else is saying,
+is impossible to resist in the age of ineffective make-believe education.
+
+---
+
+Critiquing great beings, is already impertinent,
+they don’t need your help, they only ask for friendship.
+
+As that is the only way,
+you will ever understand them.
+
+By granting them your kindness,
+time, and kinship.
+
+---
+
+The Great trails are hard,
+just like life becomes more complex as you grow.
+
+They give you a head start in life,
+they will teach you how to rise.
+
+The great books will help you find your center,
+so that you will never break and shatter.
+
+But more than just wisdom,
+they offer the true human culture.
+
+The culture won with great deeds,
+and built while daring greatly.
+
+The Culture of Greatness,
+fueled by that which is inexhaustible within us.
+
+---
+
+The difference between the Human Culture,
+and whatever companies are tying to sideload any given decade.
+
+Is that the human culture will help you grow all the way up,
+until come your golden age you will rise to become a great being.
+
+And the others are always hollow, with paint pealing,
+even before the decade is up.
+
+When life comes to challenge you, the gret human culture,
+will help you feel the presence of Socrates…
+
+And Thoreau, Nietzsche, maybe Miss Rand,
+Sir Ken Robinson, Hitchens, whoever of those and others you love dearly.
+
+They will stand by you with all their works,
+where you fill finally understand.
+
+That ideas have multiple contexts,
+what seems clunky on a lazy afternoon as you blog about it.
+
+May just end up being all you have, as you mind half unravels,
+from some mistake, or tragedy, or terrible misfortune.
+
+Great beings, above all else, are immense intellectual warriors,
+who have rise countless times over, and sometimes even go back to dare greatly some more.
+
+---
+
+I urge you to walk all the trails, the Applacion Trail, the Pacific Crest Trail,
+and the Continental Divide.
+
+I beg you, to begin your life as a legend,
+to start so overpowered that you’ll be able to drag along all those who had nothing left in them.
+
+Over Powered,
+so that you can be sure that you rise all the way up…
+
+And become a great being with a lasting and meaningful legacy,
+that will help others long after you retire.
+
+Take to the Trails,
+walk the Triple Crown, whith Philosophers whispering in your ear.
+
+Don’t seize the day,
+think for life, care for your older self.
+
+Don’t take the path less traveled by,
+forget the road not taken, forget another day.
+
+Walk the Triple Crown, and listen to the real books;
+accept your functional and authentic intellectual inheritance, in the years that you walk.
+
+And then; you’ll be well on your way,
+to make your older self proud, and come winter smile back at your youth.
+
+Smile back, knowing that you dared greatly,
+and lived life in full, life being so Dear.
+
+And if a ghost in the shell does offer eternal recurrence
+say Amor Fati, say “Never have I heard anything more divine”
+
+And say you, and not your road, made all the difference,
+go, discover the human culture that will help you grow all the way up.
+
+Begin,
+with Socrates.
