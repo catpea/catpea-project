@@ -1,0 +1,203 @@
+---
+id: poem-1596
+guid: b106b9e4-c884-4846-b71a-21353add0c43
+title: Don’t Let Life Stress You Out
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-07-15T04:29:38.465Z'
+lastmod: null
+weight: 159600
+audio: poem-1596.mp3
+image: poem-1596-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+Stress, poverty, hunger and homelessness are an old hat,
+and wouldn't be here, unless, the world was kept this way on purpose.
+
+The economic collapse, would lead to a better economy,
+one controlled by computers, and eventually free of corruption.
+
+But even my grand ma told me when I was little,
+that if I had it my way, no one would bake bread.
+
+But that is not true, I would bake bread, and I’d be the best at it,
+I’d program AI to bake bread too.
+
+And people who are million times better than be,
+would turn bread baking into art.
+
+Because, they would have time to continue family traditions,
+and follow their inspirations.
+
+As their family would not face,
+hunger and homelessness under the watchful eye of a machine controlled economy.
+
+---
+
+Stress is here as a results of ghouls resisting change,
+and fake it until you make-its brainlessly repeating what they were told.
+
+Look at the religions, for examples, __they__ resist change,
+hand on to their pope hat for deal life, and do nothing to end poverty.
+
+The church does not teach programming, startups, sciences,
+it may even speak out against pursuits of excellence.
+
+And certainly, so, the moment its followers start becoming independent,
+and the churches start shutting down.
+
+Any organization in which women are second class citizens,
+should be closed – but people would resist it.
+
+Such is the case with world poverty and the boogie man of economic failure,
+I’d argue economies are constantly failing, just very slowly.
+
+And the example of that is the anthropogenic climate change,
+humanity is unable to stop, because: money.
+
+Self destruction,
+is failure.
+
+---
+
+Furthermore, other than colleges being priced in such a way,
+that they can get away with robbing you of money that you don’t even have; loans.
+
+There is the question, of what does it mean to sit in a classroom,
+and pretend to lean, by memorizing without any comprehension.
+
+Comprehension is about cultivating models in your mind,
+you refine and expand, and update them as you grow.
+
+The classroom has you memorize, because as far as state tests are concerned,
+memorization is indistinguishable from functional knowledge.
+
+The motive is people around you getting paid,
+again so that they can put food on their table, beneath a sturdy roof.
+
+To extract obedience they hold your future hostage with GPA/Admissions,
+and the world is stuck in a loop, a hoop jumping loop.
+
+---
+
+The resume gap is the nastiest example of how people resist change,
+it is like a would to your employer, end everyone wants to pick on it.
+
+It is not just about proof of obedience,
+it is about you having as bad as they do.
+
+---
+
+This is a pretty crappy setup,
+one that you should avoid, resist, and never play a part in.
+
+---
+
+You need to educate yourself for real,
+building rich models in all the areas of your favorite curiosities.
+
+More than that, you will never return to something you don’t care about,
+that you got a solid A for hard work on Kantian Methaphysics, means nothing.
+
+Because out in real life, you don’t care about it, and thus,
+you will never revisit the subject – the model you once built will wither and die.
+
+You see, your time would have been better spent on building conceptual models,
+of things that you care about and will always return to.
+
+And, one other thing, a lost fundamental subject like Reading, Writing and Arrhythmic,
+that subject is programming, automating machines, to built whatever you need, for you.
+
+---
+
+Know that learning is mostly just about thousands of narrated books,
+and beautiful adventures where you have time to comprehend everything.
+
+Learning about the universe and the human condition,
+is pleasure, not a chore or challenge.
+
+You don't have to memorize anything,
+you will just never forget all the parts that are beautiful to you.
+
+And the little details, is something you pick up in a singe afternoon,
+from a couple of dozen tutorials, as needed.
+
+Knowledge above all,
+is about having appreciated thousands of books.
+
+---
+
+What makes humanity so special,
+is that you are not part of a hive mind.
+
+Your mind is independent,
+disconnected, free.
+
+Yes, math, swimming, moving out, is all scary,
+but we all have to do it, for our own health.
+
+And such is the challenge of rising above whatever you were born into,
+it will be uncomfortable, but you have to do it, in order to grow all the way up.
+
+Humanity cannot stand still,
+that just leads to the repetition of old mistakes.
+
+You have to honor the hard work of great beings,
+and continue rising to make the world better for those yet to come.
+
+---
+
+Don’t worry about old things failing,
+child! that is meant to happen as the world advances.
+
+Worry about old things destroying the future,
+holding humanity back, if not down right hostage.
+
+You job is to grow all the way up,
+until you become a great being.
+
+You can't just work for somebody else,
+you have to build a much greater future.
+
+You are to learn how to build profitable companies,
+master computers and art, and take to science and beyond.
+
+You are meant to bloom and flourish,
+not just exist.
+
+It is not healthy to let your self be stressed out,
+or even go through life unappreciated.
+
+Living is not meant to be a prolonged death,
+it is your paradise, it is your reward.
+
+---
+
+You are a true royalty in the Universe,
+independent, strong, capable of infinite and beautiful vision.
+
+Your mind is perfectly free,
+and your rise is a matter of dignity.
+
+Stop pretending to learn,
+stop bowing to stress.
+
+Learn for real, inherit the many cultures of great beings from their works,
+and build your own future, starting right where they left off.
+
+You are a royalty, you are meant to become a great being,
+leaving a grand legacy that will help others resume where you left off.
+
+
+Wake up, the world is not just for the lucky few,
+it is also for you.
