@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-JavaScript Starting Points; Or, Before Your First Hello World
+JavaScript Starting Points; Or, Before You Program Your First Hello World
 Monday • July 15th 2024 • 11:28:28 pm
 
 JavaScript’s real name is ECMAScript,
@@ -64,11 +64,11 @@ each have their own personality where electron is more popular.
 
 ---
 
-While I highly recommend you start with ...
+While I highly recommend you start...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...how most programmers learned,
+...st programmers learned,
 before [JavaScript video tutorials][6] came about.
 
 [You can also create executable files, with programs like nexe][7],

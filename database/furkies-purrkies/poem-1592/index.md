@@ -1,7 +1,7 @@
 ---
 id: poem-1592
 guid: d7de7612-9daa-46af-9461-586e0b957425
-title: Rage For Wisdom; Or, Against The Hollow, Ineffective And Sideloaded
+title: Rage For Wisdom; Or, Against The Hollow, Ineffective, And Sideloaded
 description: null
 tags:
   - furkies-purrkies

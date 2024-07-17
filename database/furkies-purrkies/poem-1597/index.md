@@ -1,7 +1,7 @@
 ---
 id: poem-1597
 guid: 72fe19af-6b7d-4153-bc86-660b061703ab
-title: JavaScript Starting Points; Or, Before Your First Hello World
+title: JavaScript Starting Points; Or, Before You Program Your First Hello World
 description: null
 tags:
   - furkies-purrkies
