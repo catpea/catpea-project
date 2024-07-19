@@ -1,7 +1,7 @@
 ---
 id: poem-1599
 guid: 56189219-8f27-4a14-bb64-e0a5656925d4
-title: The Unbreakables Club
+title: The Unbreakables
 description: null
 tags:
   - furkies-purrkies
@@ -40,7 +40,7 @@ there is nothing in them to prevent implosion.
 
 ---
 
-I didn’t have much friends,
+I didn’t have many friends,
 but I had my science book to ponder.
 
 And shortly thereafter programming,
@@ -49,7 +49,7 @@ which apparently now is a kind of an inside-joke.
 That bullied kids are drawn to programming,
 but, I was drawn to the infinite complexity of it.
 
-I carered not for games,
+I cared not for games,
 I wanted to program deep into the computer to see what is there.
 
 ---
