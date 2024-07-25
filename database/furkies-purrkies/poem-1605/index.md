@@ -311,7 +311,7 @@ and she was at it for a goodie long while.
 Once the wooden installation took shape,
 in her fire ring, she bent over the final time…
 
-And fired the most powerful shot I have ever heard,
+And fired the most powerful series of shots I have ever heard,
 right out of her butt.
 
 It was a sound to behold, that echoed around the camp,
