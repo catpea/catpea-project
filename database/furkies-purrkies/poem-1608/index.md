@@ -1,7 +1,7 @@
 ---
 id: poem-1608
 guid: 0bdcdb0e-2bb3-4848-96f5-9451a0635fa2
-title: "The Future Of Programming Where Everyone Can Create Beautiful Applications"
+title: "The Future Of Programming, Where Everyone Can Create Beautiful Applications"
 description: null
 tags:
   - furkies-purrkies
