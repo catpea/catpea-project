@@ -1,0 +1,113 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Programming Has Teeth
+Monday • July 29th 2024 • 1:00:28 am
+
+I think, that all teenagers must learn programming,
+and their first language should be JavaScript, the language of the web.
+
+Programs like [Node-RED][1], [p5.js][2] and [electronjs fiddle][3] ([fiddle tutorial][4]),
+make for a really powerful introduction to programming.
+
+It is rare,
+to have such a beautiful start.
+
+---
+
+I wrote a neat program today that allows for manipulating gradients,
+to gently shape the look and feel of windows, captions, status and menu bars, and buttons.
+
+It is for my own visual programming language,
+which is similar to desktop operating systems.
+
+Except in my program, you can pan and zoom in or out,
+and applications can be connected together with wires.
+
+It is nothing new, nothing revolutionary,
+but it is necessary for many reasons.
+
+---
+
+I once had this really cool day dream,
+where upon clicking a PI symbol on a web page.
+
+The web page shrank, revealing it self to be just a window,
+and behind it sit many other windows.
+
+Revealing the mechanism behind the now minimized website,
+neat little windows showing how data is loaded.
+
+Connections to other services,
+and even a more capable program to manage user’s own profile.
+
+I have since create many such meta-programming environments,
+learning what to do, and what to navigate around.
+
+---
+
+For example, my program will have a mode where windows can’t be dragged live,
+instead, a much faster outline, or just a circle will be dragged.
+
+And once dropped, the window will then jump there,
+this should allow a snappy UI, on cheap single board computers.
+
+And I am constantly being pulled towards creating a file system in the web page,
+almost with directories and files.
+
+Though here for the purpose of manipulating data structures,
+and generating a kind of a report, when things change.
+
+So a button in a window would be represented by a folder with some files,
+and if that button folder gets deleted, the tree comes to life to update a bunch of stuff.
+
+It will update a UI editor, a preview of that window,
+and even the incomplete but running application.
+
+I call it a bubbling signal tree, for now,
+meaning, that a lot of stuff will happen automatically, bubble from the button up.
+
+Automatic behavior is a big deal here,
+because tree recursion is hard.
+
+In other areas of programming automatic behaviors are seen,
+as a form of intelligence.
+
+There is so much to inspire here,
+so much to explore.
+
+---
+
+I don’t mean to make lives more complicated,
+programming replacement for ineffective education.
+
+Programming, is not a hobby like star gazing, or 3D printing,
+it is a super fast way out of the worst of poverty, if not all of it.
+
+Equipped with knowledge of programming,
+makes a person unafraid of poverty, makes them stronger.
+
+And unlike all the other pursuits,
+results in the world of programming are instant.
+
+You learn every day, you dream up ideas all the time,
+and before you know it…
+
+You are purring all the building blocks together,
+to create something new.
+
+---
+
+The politicians are not going to repair the world,
+but learning for real can go around that.
+
+It is perhaps even better than relying on other peoples honesty,
+programming leads towards a great intellectual independence.
+
+And eventually even becomes a tool for learning and research,
+allowing for simulation and automation, and so much more.
+
+[1]: https://www.youtube.com/results?search_query=Node-RED+Tutorial
+[2]: https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi
+[3]: https://www.electronjs.org/fiddle
+[4]: https://www.youtube.com/results?search_query=electronjs+fiddle+tutorial
