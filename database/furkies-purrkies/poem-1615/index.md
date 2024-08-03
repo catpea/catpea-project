@@ -1,0 +1,173 @@
+---
+id: poem-1615
+guid: f1ab2e82-bb8f-4ad7-ab21-9140bcf875df
+title: Food, Body, And Mind; A Picture Of A Simple Integrated Workout
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-08-03T02:40:41.666Z'
+lastmod: null
+weight: 161500
+audio: poem-1615.mp3
+image: poem-1615-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 10
+---
+
+There appears to be only one simple exercise,
+that will fix up your body and give you muscles quickly.
+
+I call it,
+endurance lifting.
+
+Where you work your way up to lift dumbbells,
+three hours per day, five days a week.
+
+For as long,
+as it takes.
+
+And it will only take,
+months.
+
+---
+
+Some people are shocked at this,
+even offended by such an exercise.
+
+But when you are large, as in obese,
+you need quick results, fast.
+
+You can’t spend 20 years,
+trying to burn up your fat.
+
+---
+
+Endurance lifting is,
+jogging and later dancing with dumbbells.
+
+And dumbbells, work your entire body,
+from hands to toes.
+
+And because you can do multiple exercises with dumbells,
+you never stop to rest, you just switch to a different dumbbell exercise.
+
+---
+
+I sometimes call this jogging with your upper body,
+by means of dumbells.
+
+---
+
+And you work your way up, up to an hour non stop,
+the same way joggers do it.
+
+You aim to rest less and less, until you lift non-stop,
+you can use an interval timer to measure and eliminate your rest.
+
+---
+
+This is truly a transformative workout,
+you start slow, as a fat parson you end as a muscular person, a bodybuilder.
+
+It also works for skinny people,
+as endurance lifting is about sending a big message to your body: ADAPT!
+
+And as your body becomes a little bit stronger,
+you go a little bit longer, a little bit faster, and a little bit heavier.
+
+You gradually push harder,
+but not so hard that you are forces to stop.
+
+---
+
+A good test, if what I am saying is true,
+is slowly jogging with light dumbbells, not too light but not too heavy.
+
+You won’t be able to jog with dumbbells above your head,
+so in the end dancing is much better.
+
+And dancing, also helps you drop into a dance trance,
+as you focus on lifting to the beats of songs.
+
+---
+
+And finally, you need food that helps you with endurance,
+and there is only one such tried and tested meal: trailmix.
+
+I recommend that you soak your trailmix overnight,
+just so that it is easier on your teeth, but you do it your own way.
+
+Soggy trailmix, especially when chilled is compatible,
+with your protein supplement powder, so you can try mixing the two.
+
+For those of you who never heard of it,
+simple trailmix is just raisins and peanuts.
+
+It is something you should mix at home,
+and it can’t hurt to add all kinds of dried fruits and a variety of nuts and seeds.
+
+You will need to add an electrolyte drink mix,
+because traimix will help you work hard, and that means electrolyte issues.
+
+---
+
+Now let us take a step back, and look at the web,
+or integration of components here.
+
+Lets start with my most favorite one,
+focusing on lifting to the beats of your songs will put you in a dance trance.
+
+You start with rocking to slow songs at first, then walk back and forth faster,
+and eventually twist and turn, while finding faster and faster songs.
+
+By selecting slow songs at first, music can’t overwhelm you,
+and force you to stop.
+
+The existence of free interval timer apps, and cheap clip-on interval timers,
+means all the math is done for you, you don’t need to check your watch.
+
+You keep your focus on the beats of your song,
+and the interval timer will vibrate to tell you when to stop and re-start.
+
+Gradually working your way up to multiple hours per day,
+means people of all shapes and ages can join in and start building up.
+
+You just start with lifting as little as three pounds for thirty seconds,
+and maybe two minutes rest, and only gently increase over time as you body lets you.
+
+And this inedibly simple meal of protein powdered trailmix paired with an extra electrolyte drink,
+makes sure that no one runs out of energy.
+
+Finally dancing with dumbbells, means that when you get tired,
+you can switch from to your back muscles, to biceps, without stopping.
+
+---
+
+Issues of pushing too hard, over-training, or injury, are almost eliminated,
+because you start in the beginning, and learn what to do as you slowly go up.
+
+As your body becomes stringer, and not just in your arms,
+but back and legs as well, as twisting and turning to music is a gentle full body workout.
+
+---
+
+Parts of this workout were inspired by 1980 aerobics,
+and just noticing that jogging gives you muscles as long as you increase weights.
+
+So the integration is rooted in other effective workouts,
+with a focus on always gently increasing speed, and weight, and often duration.
+
+---
+
+A workout must be a system of things,
+a hope of creating a web of multipliers.
+
+So that music helps you focus,
+food helps you lift, and lifting grants your body the time to adapt.
