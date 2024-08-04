@@ -1,0 +1,141 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Programming Data Structures; Or, Inventing A Machine That Is Already Old And Wrong
+Saturday • August 3rd 2024 • 11:28:51 pm
+
+I recall some expert giving his opinion on the work of a young researcher,
+that went something like:
+
+“All the new breakthroughs they claimed to have made are old,
+and everything else has already been proven wrong.”
+
+I think this is lovely,
+and I am sure the expert was wrong, and off his head.
+
+And the loveliness comes from the fact that the young researcher,
+was independently re-inventing things.
+
+Becoming as wise as the original inventors,
+and becoming able to see all the paths they didn’t take.
+
+The old guy was wrong,
+the young researcher probably changed the world.
+
+---
+
+Lets jump right into it, as the introduction would take hours,
+and I primary want you to know what a data structure feels like.
+
+So, programmers have variables of type number and text (called strings of letters),
+and then many of them don’t realize they have bucket variables.
+
+Those are objects and lists (called arrays),
+and I call them buckets, because they can hold other variables of any type.
+
+In low level programming languages like C a string variable is almost a bucket,
+because it is an array of numbers that represent letters.
+
+But we are working with JavaScript, on a higher level,
+where we can just put some text in quotes and we get a string variable.
+
+Not some array,
+of whatever.
+
+---
+
+Now this being the modern world,
+we want arrays to announce when they change.
+
+This is why we are using a High Level language,
+we don’t want to be tripping over type definitions and low level concepts.
+
+Because what we are doing is already messy,
+lets say our array holds a list of people.
+
+And that list can be updated by the server,
+or from the user interface.
+
+There are many crazy ways that programmers try to tame this,
+event emitters with wildcards, immutable data structures, alcohol.
+
+But we want to be revolutionary,
+our array will emit a singe message when something is added or removed.
+
+It will tell all the things interested in it,
+I changed.
+
+If we tracked added or removed, which seems efficient,
+our user interface would need to do two different things.
+
+But we are not going to be efficient, and send out only a notification of change,
+and that will mean our user interface will have to re-run it self to update.
+
+There is room for optimization here,
+b...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+... number alone,
+without re-running the for loop.
+
+---
+
+Unfortunately it is not possible to go into greater detail,
+but there really inst much more to add.
+
+We have a tree with tables and reports that self update,
+and use svelte to efficiently decorate our data tree with user interface components.
+
+---
+
+Svelte programmers would notice here,
+that components don’t have to extract data because that happens in the table.
+
+This way user interface components can just deal with clicks,
+and filed and list updates.
+
+Low level and low-ish leveler programmers would notice scary things here,
+because their programs demand discipline and force them away from dynamic UI stuff.
+
+And for the rest of us, we shouldn't feel bad that we only emit change events,
+these tables never hold more than a screenful of stuff.
+
+My precise use case is color gradient creation for a fantasy user interface,
+my tables will have five items on average.
+
+And my tree, does use tables for other baches,
+so in my case the very structure of my tree also announces change.
+
+---
+
+Programming only gets complex, when programmers don’t know the vision of a program,
+imagine someone quote optimizing unquote our report to emit more than change.
+
+We lose that pretty simplicity, and if someone removes the tree,
+thinking that was useless.
+
+We can no longer decorate the tree with user interface,
+which in svelte is quite simple and readable.
+
+Few programmers optimizing, would complexity the application,
+and then code would become unreadable and need unit tests and an office of old men.
+
+---
+
+Re-inventing, what people tell you has already proven to be wrong,
+or has been done better is a magnificent way to learn and become an expert.
+
+And being inefficient, is quite the powerful act during re-invention,
+because those are the path that original inventors omitted thinking they are sub-optimal.
+
+But as the case is with rendering you can calculate if you are adding, or removing,
+based on whether the ID is there or not, it is a quick check, not at all inefficient.
+
+---
+
+I invite you all now, to ask your favorite AI,
+to create a minimalist JavaScript Signals implementation.
+
+And ask it about Object Oriented version,
+and how Signals help, and their subscribe/unsubscribe life-cycle.
