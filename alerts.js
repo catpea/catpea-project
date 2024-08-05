@@ -1,7 +1,7 @@
 export default async function(){
   const response = [
 
-    {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 173 hours long and 9GB in size, beginning with the terrrrible poem "The Great Michigan Ice Age" (April 26th 2024)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/catpea-2024'}},
+    {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 188 hours long and 9.7GB in size (August 4th 2024)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/amazing_202408'}},
 
     // {
     //   type: 'warning',

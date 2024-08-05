@@ -53,7 +53,7 @@ export default async function(){
     {
       title: 'Audiobook',
       iconClasses: ['bi', 'bi-book'],
-      url: 'https://archive.org/details/catpea-2024',
+      url: 'https://archive.org/details/amazing_202408',
       navigation: true,
       external: true,
       new: true,
