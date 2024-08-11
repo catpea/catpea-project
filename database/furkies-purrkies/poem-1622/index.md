@@ -1,7 +1,7 @@
 ---
 id: poem-1622
 guid: d98296e4-a4b4-49d4-8752-d42b934b55a3
-title: The Gym Problem; Or; The Lift Heavy For Big Muscle Myth
+title: The Gym Problem; Or, The Lift Heavy For Big Muscle Myth
 description: null
 tags:
   - furkies-purrkies
