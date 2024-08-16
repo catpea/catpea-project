@@ -1,0 +1,140 @@
+---
+id: poem-1628
+guid: 730f13e8-108e-4d76-81b3-7acf03463abc
+title: Bad Grades; Or, You Were Never Dumb
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-08-16T03:45:03.608Z'
+lastmod: null
+weight: 162800
+audio: poem-1628.mp3
+image: poem-1628-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+Preface
+
+All you need to do to see the bad, is ask about effective and real results,
+ask about coherent education, tolerance of cramming, and kindling of creativity.
+
+Authentic education results in new capabilities daily,
+as each new lesson strongly integrates with a students existing body of knowledge.
+
+Standardized education with all it sticks and carrots, and ineffective results.
+is just a way to do the minimum possible in order to get at state funding.
+
+Education is a path towards greatness,
+a profound and beautiful experience.
+
+It does not feature memorization or cramming,
+and recognizes each students and their curiosities as perfectly unique.
+
+So make sure you don’t end up as cog in a meat processing plant,
+that only cares to manufacture compliant workers.
+
+Neither poverty nor grades should be your master,
+this is not meant to be a poverty stricken plantation world.
+
+---
+
+No matter what grade you are in,
+you need to begin learning on your own.
+
+By constantly listening to narrated books,
+written by great beings.
+
+You may need to make room for the,
+by frequently taking to hiking and camping adventures.
+
+You may not grow only part way up,
+as that will make you a servant who may perish in war.
+
+You must grow all the way up,
+until you become a unique great being.
+
+That is why you need to comprehend thousands of narrated books,
+to inherit the wisdom of great beings into your own coherent whole.
+
+You can’t start at level zero, it would take you thousands of years,
+to acquire the wisdom, that has been condensed in books for you.
+
+---
+
+You are in a lot of trouble, grades are not your IQ,
+they are not the measure of you, they do not define you.
+
+Teachers use grades in three ways, to figure out what grade to give you,
+based on your other classes, no matter how well youperform.
+
+To hide the fraud of coercing you to cram and memorize,
+roughly splitting the class into 1/3 A, 1/3 B, 1/3 C.
+
+As none of their data could possibly be ever real,
+and thus the bell curve must be faked.
+
+And finally, they grade you down, to motivate you,
+so the GPA that you thought was a measure of you.
+
+Grades are meaningless, your GPA is a sham,
+and to add insult to injury you were never less intelligent than anybody else.
+
+Einstein was messing with sound waves, Hawking with fluids,
+what they did have is a language that helped them construct experiments.
+
+That language is no longer math, it is no longer physics,
+it actually encompassed chemistry, biology and even intelligence.
+
+Today, that language, it she language of comupers,
+and you should start with modern JavaScript.
+
+A sweet introduction to the C family of languages.
+That you will learn more about later on in your life.
+
+Their lack of knowledge of math, would end them,
+just like your lack of programming ability, will stop you.
+
+The first thing you should be taught in school,
+is programming computers.
+
+As that grants you the ability to simulate, visualize, and this comprehend,
+more complex systems.
+
+If your school has not helped you master effective programming,
+then you are in a lot of trouble – and you must learn programming on your own.
+
+[Search the internet for math as code][1],
+and [look for p5.js video tutorials][2].
+
+You must learn programming as soon as possible,
+don’t let fraudulent, fake, or ineffective education cut you off from your future.
+
+---
+
+In the absence of real school and real teachers,
+you have to lead the way, you have to become the teacher you wish you had.
+
+As a great being, you are tasked to change the world for better,
+you have to take chare, and accept that growing up is something only you can do.
+
+---
+
+Do not let the bullies feed on you, do not be a spectacle for fake teachers,
+push far and away from the mistakes humanity is repeating today.
+
+Use you power to prepare for a more beautiful future,
+learn to no end, become a great being, become overpowered.
+
+This is you life, your mind and knowledge and wisdom, and adventure,
+do not anyone stand in the way of your growing up.
+
+[1]: https://github.com/Experience-Monks/math-as-code
+[2]: https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
