@@ -1,0 +1,151 @@
+---
+id: poem-1647
+guid: bec1d26f-884d-4fc7-a1e8-ad479bff25db
+title: Creators, Navigators, And Saving The World
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-09-04T04:29:33.377Z'
+lastmod: null
+weight: 164700
+audio: poem-1647.mp3
+image: poem-1647-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+The AI we have access to today,
+is not as weak as it appears.
+
+And it is well known that breaking down large tasks,
+into smaller ones is the key to getting stuff done.
+
+Outside of programming,
+this is accomplished with structured text, markdown lists.
+
+But with programming, you get to automate everything,
+especially, getting the AI to give the large project a second try.
+
+You yourself, deserve a better user interface than text,
+a mind mapping program makes everything clearer.
+
+Writing programs to crawl a visual idea tree,
+and having the AI convert ideas in reality is much more flexible.
+
+---
+
+Today’s AI is said not to be able to create new things,
+but generative games do it all the time.
+
+So it just takes a well defined world like science,
+and the AI can burrow well enough.
+
+In case of small projects,
+you are the creator of new things.
+
+That is what the concept map or mind map is for,
+the AI, again creates something new.
+
+Up until now, you had to program or create,
+everything your projects described.
+
+Now the AI can take over, and you can in fact do the Seth Shostack trick,
+give the AI the keyboard, and say, you type.
+
+You can write a program that will expand ore refine,
+your concept map, by asking the AI to improve or add new nodes.
+
+---
+
+If you got a tree, that you can automate with tiny computer programs,
+then you got everything, EVERYTHING!
+
+---
+
+Your first moneymaking project, should be a concept map or mind map,
+that has an artificial intelligence assist feature.
+
+You must absolutely not ask for any money up front,
+and drown your users in free credits, more then they need.
+
+And then provide an option to get even more credits,
+for when they start using up your resources more.
+
+People will find bugs in your program,
+you will need help, so it is fair that you charge a monthly fee for more credits.
+
+You should also offer one time purchases,
+for all your power users.
+
+---
+
+But your big programs should sit not in the realms of creation,
+but in the realms of education.
+
+The first and foremost should be programming schools,
+followed by empowering history of philosophy that helps people to greatness.
+
+And then a new way of accounting for all the standard subjects,
+a more integrated, AI aides, self paces, and individualized instruction.
+
+As you build your schools, visualization, interactivity, and simulation,
+should be at the forefront.
+
+You must avoid memorization,
+or even introducing things out of context.
+
+Education must flow like a beautiful adventure game,
+we are navigators, that is why memory palaces work so well.
+
+Imagine a computer game, that throws at you content,
+the way school throws cut up pieces of subjects.
+
+This game would be unpleasant, unplayable, depressing,
+it would be a mockery of education and destruction of creativity.
+
+---
+
+I could not ask you to create schools before we entered the era of AI,
+it would not have been possible for you, and you and your friends…
+
+To build something so incredibly large,
+but now it is a matter of a mind map, and a pleasant quest.
+
+Just like players build up their characters, intelligence, mana, magic,
+you should let your students build their mind map, their knowledge tree.
+
+Their very paths should consist of notebooks, where they can mix observation,
+visualization, interaction, and most importantly simulation.
+
+So that they can revisit their progress,
+years or decades later.
+
+---
+
+Do not burden yourself with servers,
+offer your schools as a Desktop Application (electron.js or nexe express HTTP servers).
+
+This way you don’t have to provide the CPU,
+or worry about getting hacked, or even worry your users about their privacy.
+
+Finally, you do not need to write every text book for your school,
+prior to launching it.
+
+Those textbooks already exists within the artificial intelligence,
+your school program is a way to reveal them.
+
+The original WikiWikis allowed users to create links to non existent pages,
+and when a user accessed that page…
+
+They would be met with a message stating,
+“This page does not yet exist, do you wish to create it”.
+
+Your schools should ask AI to write that page,
+as it is needed by the user, or more aptly: The Navigator.
