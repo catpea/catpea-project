@@ -1,0 +1,114 @@
+---
+id: poem-1652
+guid: f418236d-e7b0-4c99-a23c-5d957a66ba45
+title: Teachers, Stop Pretending To Teach
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-09-09T03:21:23.032Z'
+lastmod: null
+weight: 165200
+audio: poem-1652.mp3
+image: poem-1652-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+You have successfully threatened your students with bad GPA,
+that results in lower status and crappy career choices.
+
+But school was invented to eliminate bullies like you,
+and do the opposite, help students rise and become creators.
+
+Lying, all the way to the opposite, has already marked you,
+as one of the men who sold the world.
+
+---
+
+When children learn programming,
+or even use a wall projector to master oil painting.
+
+They discover what real education is like,
+not only are you not teaching…
+
+But your teaching materials have been crafted,
+to coerce your students into memorization.
+
+Memorization being much more stable for testing,
+than comprehension, which demands authentic education.
+
+---
+
+One nasty lie on top of the other,
+and you keep on taking that check home.
+
+It is the funding, it is the administration, it is the syllabus,
+it is everything but the old hard working you.
+
+You are just hard at work,
+perfectly following worthless directions.
+
+You are both blameless, helpless,
+and perfectly deserving of gratitude and pride…
+
+As you pass your students along,
+to graduate, uneducated and scared...
+
+Scared of their future,
+that you in your arrogance and ignorance turned into poverty.
+
+---
+
+Stop,
+stop right now.
+
+---
+
+Please, begin teaching your students programming,
+[especially prior to abstract mathematics][1].
+
+And ensure that they are able to build desktop applications,
+that they can sell with minimal need for servers.
+
+Help them into science with visualization and simulation,
+let them build whatever they have trouble with understanding.
+
+End the charade of graduation,
+and replace it with the impossible challenge of walking the Triple Crown.
+
+The Appalachian, Pacific Crest, and Continental Divide Trails,
+while listening to books by authentic intellectuals who changed the world.
+
+---
+
+Your children are to graduate as capable programmers,
+capable of erasing their poverty with software development.
+
+And as dreamers, inventors, contemplatives, and creatives,
+who fully adopted their intellectual inheritance.
+
+All the great works that set our minds free and help us think clearly,
+and as a result inherited the culture of greatness that comes along with it.
+
+---
+
+Whether you got tricked and didn’t notice being a cog in a fraud machine,
+or participate in it willingly to relish in all the approximations of rewards.
+
+You have destroyed, talent, creativity, self esteem, uniqueness,
+all under the guise of helping - for which you will never be forgiven for.
+
+Teach your children programming and resulting moneymaking,
+hiking and wise adventure.
+
+Either redeem yourself,
+or get the hell out of their way.
+
+[1]: https://github.com/Experience-Monks/math-as-code
