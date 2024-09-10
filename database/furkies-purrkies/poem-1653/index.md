@@ -64,7 +64,7 @@ when generating user interface demos.
 ---
 
 My favorite library that others wrote,
-is probably [lodash][1] as it is full of tiny wisdoms.
+is probably [lodash][2] as it is full of tiny wisdoms.
 
 ---
 
@@ -142,4 +142,4 @@ and so does your code.
 
 [1]: https://github.com/search?q=language%3AJavaScript+stars%3A%3E1000+&type=repositories&s=stars&o=desc
 [2]: https://lodash.com/docs/
-[2]: https://www.youtube.com/watch?v=0o2whtCJw8I
+[3]: https://www.youtube.com/watch?v=0o2whtCJw8I
