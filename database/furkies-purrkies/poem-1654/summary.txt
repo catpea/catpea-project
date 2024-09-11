@@ -1,0 +1,171 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Super Nerd; Or, A Fistful Of Code And The Age Of Enlightenment
+Tuesday • September 10th 2024 • 11:57:36 pm
+
+I've been programming,
+since forever.
+
+I never got into games,
+and I've actually might made a terrible mistake once.
+
+One time at a traveling arcade,
+A boy left a coin on my asteroids machine.
+
+And I was too little to know,
+that, this meant he was going to play next.
+
+I really hope I was too shy,
+to actually put that quarter in the machine.
+
+But I was so little,
+that I might have put the coin in.
+
+And without a doubt,
+instantly crashed into an asteroid.
+
+I was just glad that I was in a star ship,
+that I could move on the TV - not a good start.
+
+Then briefly one of my neighbors,
+got an Atari I think.
+
+And the whole neighborhood,
+packed into this living room.
+
+I liked river raid, which is basically pong,
+I crashed and the took my joystick away.
+
+---
+
+Then I got a commodore 64 myself,
+and there was text on the screen it said LOAD.
+
+Every time I wanted to play a game,
+I had to run LOAD.
+
+And I knew there were more commands,
+then I bought a book...
+
+And had my first big look,
+at a programming language, SIMON'S BASIC.
+
+---
+
+Few years later the teacher in programming class,
+accused me of copying or having someone do my homework for me.
+
+But that was all me, I've spent the whole week diagramming,
+freaking out my bullies a little.
+
+They laughed when I got graded down,
+I didn't care for school, I was learning on my own.
+
+---
+
+It has been such a fun ride,
+but I tell you, technology is way behind from whet we need.
+
+And leading projects lag,
+they can't use new stuff.
+
+Bootstrap my User Interface system of choice,
+is still using jQuery plugin architecture, that is ancient as heck.
+
+---
+
+Today Web Components are the bees knees,
+because they are low level.
+
+When you create component,
+you can mix it with everything and it just works.
+
+I've build a svelte clone in about 5 days of programming,
+it has a lot of good stuff.
+
+Bi-directional data binding,
+where you can type into a text box on a web page.
+
+And it will be sent out,
+to all the places that care about that text.
+
+And if the server sends out an update,
+setting the value that the box is connected to...
+
+The text box will update, automatically,
+with latest server data.
+
+It only took about 20 lines of code,
+to do it right.
+
+---
+
+Yesterday, I added proper widgets,
+that have a start, stop.
+
+And can listen to buttons,
+and even connected widgets, and the full application.
+
+Web Components are too powerful not to use,
+and completely expose whatever other components are nested inside them...
+
+For editing, meaning,
+that mete-programming is completely unobstructed.
+
+These widgets, are actually components,
+that create components...
+
+Based on whatever components are nested inside them,
+thus is much more powerful than macros or programming a language with it self.
+
+The result is 6 lines of code,
+that can beat the snot out of just about every application framework.
+
+And again it only took about 5 days to program this,
+it means that there is no need for programming frameworks anymore.
+
+Because of their low-level-edness,
+and this easy nesting and recursion, everything just works.
+
+---
+
+For me, these coding experiments are 90% about learning,
+and keeping up with latest inventions.
+
+And 10% waiting for technologies to mature,
+so that I can make visual programming tools.
+
+
+Visual programming comes really close to being a game,
+that creates real programs, that can do big things.
+
+---
+
+This particular coding experiment,
+has another level of recursion.
+
+All the Web Components and Widgets,
+are controlled by a Signal Tree.
+
+Windows explorer is a good example of a tree editor,
+and that just about all it takes to program applications here.
+
+Add files and folders,
+or user interface controls like buttons, and containers like windows and lists.
+
+---
+
+I think visual programming backed by average AI,
+can perfectly program actions for both button and server work.
+
+There is not much in the way of creating a Laboratory Desktop Application,
+that will let everyone program the way people play simple games.
+
+---
+
+The age of end-user programmable applications,
+is near.
+
+And it will be so colorful that walled gardens and apps of today,
+will mark a dark age in computing, and not smart-anything.
