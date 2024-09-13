@@ -1,0 +1,157 @@
+---
+id: poem-1656
+guid: df9a5efa-caa1-4457-9e23-8da8290611fa
+title: 'Say "No" to Balanced Education: It is A Flimsy Concept That Will Jeopardize Your Future'
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-09-13T03:29:11.399Z'
+lastmod: null
+weight: 165600
+audio: poem-1656.mp3
+image: poem-1656-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+For a school to be real, it must be honest,
+it must be about teaching and effective results.
+
+Balanced education, is a purposefully misleading term,
+that will hold you back from effective learning.
+
+There is never one person that comes up with pernicious ideas,
+and lies need legs and constant fuel to sustain themselves.
+
+It is a conspiracy, but a conspiracy of unwitting fools,
+it is just a job, it is just about putting food on the table.
+
+---
+
+But you see, lies are like a virus,
+they have negative impact on everything.
+
+When there is a lot of state funding involved,
+and many angles to get at it.
+
+From cutting grass,
+to calling pizza a vegetable.
+
+Lies will just become the atmosphere,
+concepts like effective education will be laughed at.
+
+Teachers may say, "What do you think this is?",
+"a band name university", and add:
+
+"You are stuck with us",
+"no funding, no future."
+
+All of this is just lies,
+a noose of hopelessness, to make lying easy.
+
+---
+
+I like to believe that there are many paths forward,
+but like with school, the government funds on the path the more theft.
+
+You need to consider, how much the unique paths cost,
+both in mental health and loans.
+
+---
+
+So I say, unless you got something better,
+learn programming modern JavaScript.
+
+So that you can easily setup a series of subscription businesses,
+that rely on artificial intelligence.
+
+JavaScript helps you create Websites, Web Applications,
+Desktop Applications, Apps, and server and command line programs.
+
+---
+
+This is the difference between balanced education,
+and learning something for real.
+
+One teachers you that mitochondria is the powerhouse of he cell,
+and the other helps you out of poverty.
+
+So that later in life you can build games,
+that will help you explore the world.
+
+Just memorizing scattered things,
+on a scattered schedule, is not an education.
+
+---
+
+And to face the fraud,
+we have to abandon abstract concepts.
+
+They are just too easy,
+to use against you.
+
+We have to connect them to reality,
+bolt it right down, in full bloom.
+
+---
+
+To use our mitochondria for example,
+you learn programming, and then build a game about the cell.
+
+You extend yourself into the realm and context,
+of microbiology.
+
+And mitochondria really is amazing,
+it is a separate organism, and in every cell.
+
+If games are not for you, then simulations and visualizations,
+info-graphics and teaching materials probably are.
+
+You can visit the common subjects from the world of programming and design,
+which will give you a passion for comprehending.
+
+But leaping from one class to another,
+must be forbidden, that is as good as fraud.
+
+---
+
+The one really frightening thing about programming,
+is that it teaches you what real education is like.
+
+And helps you see when you are being cheated,
+out of effective education.
+
+You must never let a fake school,
+stand in the way of your authentic education.
+
+Please stop jumping between subjects,
+stop memorizing to pass the tests.
+
+Start with learning programming,
+as a fundamental like reading and arithmetic.
+
+And let your curiosities dictate,
+where to take your programming next.
+
+Here when you complete your web application,
+you just auction it off.
+
+And begin work on a new one,
+this time with all the new knowledge you gained.
+
+---
+
+Don't let schools trick you away from effective education,
+begin by [learning programming][1].
+
+You are meant to grow all the way up,
+until you become a great being.
+
+[1]: https://www.youtube.com/results?search_query=JavaScript+tutorial
