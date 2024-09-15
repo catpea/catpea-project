@@ -1,0 +1,132 @@
+---
+id: poem-1658
+guid: d0363ca2-7aff-43a5-9f7f-31d10521dfeb
+title: On Cracking The Body Building Code
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-09-15T02:24:27.447Z'
+lastmod: null
+weight: 165800
+audio: poem-1658.mp3
+image: poem-1658-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+Bodybuilding is an endurance sport,
+you earn your endurance, and stay on the edge.
+
+It couldn't be simpler,
+and people wouldn't care less.
+
+People would rather spend years on a plateau,
+or just flexing their muscles, and getting nowhere.
+
+Than doing it right,
+because, doing it right looks a little bit funny.
+
+And requires an ounce of forethought,
+and strategy, and self evaluation.
+
+---
+
+Some bodybuilder, go as far as saying,
+“You can’t do what I do.”
+
+Others built their muscles the long way,
+across multiple decades, and there is nothing to explain.
+
+It took so ling, all they can say,
+is show up every day, and abandon all hope.
+
+---
+
+Models are useful,
+but even a good model, can’t feed you right.
+
+And given that nobody listens,
+that you should eat trail-mix will fall on deaf ears.
+
+I’ll mention one model,
+two horses in a stable.
+
+---
+
+One does the equivalent of sets and reps we all see at the gym,
+the other trots for an hour every day, weighted down…
+
+But not so much that it must stop during that hour,
+and never less, then the maximum it can carry for an hour.
+
+Both work our 5 days a week, get electrolytes and protein in their feed,
+and which horse will grow muscle, faster?
+
+The one that takes a few steps and stops for 5 minutes,
+or the daring one that just ever so barely make it thorough the hour.
+
+This is very similar to jogging, or cross country running,
+but unlike running, each time the horse gets good, it receives more weight.
+
+---
+
+That forethought, is about building up endurance,
+to first run the full distance for an hour, and worry about weights later.
+
+This is exactly what joggers do,
+they don’t call it jogging, until they don’t need to stop and suck air.
+
+And again, unlike joggers, a bodybuilder then adds,
+5 pounds extra weight, if they make it, then they go to 7.5 pounds.
+
+All the way up, until, they just ever so barely make it,
+without stopping.
+
+Jogging is a good example, because you can use an interval timer,
+to precisely eliminate rest gaps.
+
+---
+
+But as bodybuilding is concerned, you need dumbbells,
+and you need to do more than just hang on to them.
+
+To be precise the three complimentary exercises are,
+[Dumbbell Lateral Raise][1], [Standing Dumbbell Curls][2], and [Overhead Shoulder Press][3].
+
+And even now, after the note on endurance, trail-mix, interval timers,
+and the three exercises, it is still not enough to do it right.
+
+Because you need to enter a dance trance,
+as not to stop, or get easily distracted.
+
+To enter a dance trance you synchronize with a song,
+you both move your feet in a dance like motion, and lift to every beat.
+
+Without this, you will fail, you can’t list non stop for an hour or more,
+without music lolling you into a brainless state.
+
+And if you have difficulty focusing here,
+you will need puzzles, I recommend learning programming.
+
+---
+
+Finally, you have to avoid hollow advice,
+and build your own system, layer by later.
+
+If a layer like Sets and Reps does not work as quick as you would hope,
+then you check to see see if high volume, multi hour works.
+
+But you never do the same thing,
+and expect different results.
+
+[1]: https://youtu.be/FeJP4E4Z-PY?t=121
+[2]: https://youtu.be/av7-8igSXTs
+[3]: https://youtu.be/Gu1t7X2yq4M?t=153
+[4]: https://www.youtube.com/watch?v=WjOuEruzoh0&pp=ygUfa2Vuamkga2F3YWkgZ2hvc3QgaW4gdGhlIHNoZWxsIA%3D%3D
