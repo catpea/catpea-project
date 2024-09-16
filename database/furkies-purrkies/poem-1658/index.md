@@ -1,7 +1,7 @@
 ---
 id: poem-1658
 guid: d0363ca2-7aff-43a5-9f7f-31d10521dfeb
-title: On Cracking The Body Building Code
+title: On Cracking The Bodybuilding Code
 description: null
 tags:
   - furkies-purrkies

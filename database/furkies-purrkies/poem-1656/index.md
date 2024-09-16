@@ -1,7 +1,7 @@
 ---
 id: poem-1656
 guid: df9a5efa-caa1-4457-9e23-8da8290611fa
-title: 'Say "No" to Balanced Education: It is A Flimsy Concept That Will Jeopardize Your Future'
+title: 'Say "No" To Balanced Education: It is A Flimsy Concept That Will Jeopardize Your Future'
 description: null
 tags:
   - furkies-purrkies
