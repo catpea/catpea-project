@@ -1,7 +1,7 @@
 ---
 id: poem-1662
 guid: 3b3b1e83-3898-471c-954e-7044a7e8eabb
-title: Obesity As A Launchpad To Greatness – Remodeling Your Kitchen Power Walking, And Hiking
+title: Obesity As A Launchpad To Greatness – Remodeling Your Kitchen, Power Walking, And Hiking
 description: null
 tags:
   - furkies-purrkies
@@ -21,7 +21,7 @@ draft: false
 chapter: 11
 ---
 
-“By the time a fat man turned to bone,
+“By the time a fat man turns to bone,
 the skinny guy will be long gone” -- My Grandma
 
 Obesity is not a problem, if you fix it right now,
