@@ -101,7 +101,7 @@ to the worker port of Storage Supervisor.
 
 ---
 
-And finally check a rille red pill box on the Scraping Supervisor,
+And finally check a little red pill box on the Scraping Supervisor,
 that is the poison pill option.
 
 Meaning that once all the mp3 files are collected,
