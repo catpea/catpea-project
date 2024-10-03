@@ -63,7 +63,7 @@ And a little input box, where you can enter a message,
 about what you changed.
 
 You store that message away in a Main.log,
-it is an append only log file, where eveything is prefixed with a timestamp.
+it is an append only log file, where everything is prefixed with a timestamp.
 
 ---
 
