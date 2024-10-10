@@ -1,0 +1,169 @@
+---
+id: poem-1683
+guid: 69338feb-01f1-4826-a9bb-f1447b639ffa
+title: Does A Tail Help?
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-10-10T02:08:29.425Z'
+lastmod: null
+weight: 168300
+audio: poem-1683.mp3
+image: poem-1683-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+Let me tell you something, you will never have as much energy,
+as on the firs day that you wore your tail to the gym.
+
+By contrast every workout prior and after will feel sleepy,
+you just cant ever beat that first day.
+
+So it is a great source of energy and eventually courage,
+and merriment.
+
+I attached my tail to my weightlifting belt,
+so each time I bend down to pick something up, the tail shoots up.
+
+And just toady I discovered, I startled a lovely couple behind me,
+they to their credit they ended up laughing it off as I spun out of the room.
+
+A large tail will also help you keep your gum dust free,
+as you cannot help but to dust a little.
+
+---
+
+But of course the biggest benefit is getting back in touch with out origins,
+as little as 25 million years ago our ancestors still had fancy tails.
+
+Just to give you an idea the Dinosaurs departed,
+some 65 millions years ago, at which point we were just a clever little shrew.
+
+Let me tell you something I’ve learned, big time,
+our ancestors never had hip problems, as the tail just makes you wanna hip hop.
+
+Very few exercises encourage sideway motion,
+and none provide instant benefits, unless you put on a tail.
+
+At which point your hip work, is the only way,
+with which you can hope to spell out your name with your tail.
+
+All that practice all that flexing, is the super express lane,
+to a fit an trim body with minimum unhealthy fat.
+
+I am not exaggerating, close your eyes, and visualize moving your tail,
+see how much more flexing you are doing compared to not having a tail.
+
+---
+
+Our ancestors not only had dust free welling,
+but also legendary posture, hips and fitness.
+
+---
+
+This year I’ve put on my tail in Mid-septemeber,
+using Halloween as cover, though I am already stretching it.
+
+Next year, I resolved to put it on September 1st,
+the further you move back from Halloween the more started people become.
+
+But the benefits outweigh the risks,
+a well toned body will double your span, and that a fact Jack.
+
+You can make more friends in your second life time,
+your first should be spent on becoming Fluff, Buff and Fit.
+
+---
+
+It makes for funny situations, some small, some big,
+I love reteling the story of the first time I put on my tail early in October.
+
+I was walking to the gym, looking like Rambo, fit and muscular,
+and the local mailman noticed me crossing the street.
+
+And was instantly reminded of all the fitness promises he has made to him self,
+that his job now made seem less important.
+
+And that was the moment I took a slight turn towards the gym door,
+reveling my huge freaking tail sticking out behind me.
+
+To this day I laugh, when I overhead the poor man quietly whimper,
+“What the *uck”.
+
+---
+
+Mostly people just smile,
+September is not as far removed from Halloween as it may seem.
+
+But I think every once in a while, for a short second, some distant stranger,
+may privately wander, if perhaps that betailed Beefcake is a Superhero.
+
+Which only makes me wear my tail harder,
+and somewhat ask a semi serious question, and not as stretched as it may seem.
+
+Recently spoke to a stranger if he watched Ninja Turles,
+reminding that a bin of discarded equipment can make for a fine Casey Jones Armory.
+
+And I was reminded how humorless we become, to act as adults,
+which is not how growing up works at all.
+
+Again and pretending to be mature,
+is still child’s play.
+
+Growing up is an epic and monumental venture,
+that perfectly sets us apart from the rest of the universe.
+
+And I begun wandering, what if our Superhero Dreams from childhood,
+are not an important stepping stone in our Psychological Development.
+
+The act of seriously wearing a costume, as cos-players do,
+helps us ask questions about what it means to be Strong and what is Rising.
+
+What better way to discover that merely pretending to be mature due to aging,
+is not in fact becoming an adult, that adulthood is more than mere appearance.
+
+This is a question of Authenticity, and by extension rejecting memorization,
+as a form of make-believe-education, and accepting responsibility for wisdom.
+
+A child-like mind with a wrinkled face, is not an adult,
+it is just a child mind with a mask.
+
+An adult is the result of continued efforts to grow up,
+an endless ever more challenging effort.
+
+Adulthood is a matter of growing all the way up,
+until we each become a great being.
+
+Let me close with what I think of as,
+Henry Thoreau's Warning:
+
+“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms…”
+
+If this is what you need, than October is a wonderful time of the year,
+to take your maskdown, and resume growing up, from where you left off.
+
+So that you are complete,
+that no plateau your reached could ever collapse under stress.
+
+So that there are not gaps in you,
+that you ever stop you from growing all the way up.
+
+It is a rare creature that can just,
+ignore Halloween, as if it is nothing.
+
+For most of us,
+it is an important time.
+
+Time to reflect on not being shamed or pushed around, or pretending away,
+from who our older selves demand we become.
+
+So that we may face out greatest challenges in life,
+in dignity, and without the threat of collapse from gaps driven into us.
