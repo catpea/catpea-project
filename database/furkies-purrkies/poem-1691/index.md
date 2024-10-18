@@ -1,7 +1,7 @@
 ---
 id: poem-1691
 guid: 81fffda4-33a3-4d49-ae53-b659aad3734f
-title: The Strange Art Of Sneaking UP On Yourself
+title: The Strange Art Of Sneaking Up On Yourself
 description: null
 tags:
   - furkies-purrkies
