@@ -1,0 +1,108 @@
+---
+id: poem-1694
+guid: 31963168-9af8-4a8e-b481-aa520b9199c7
+title: If You Want To Be Fit Don't Sit; Or, Don’t Just Work Out, Try To Figure The Gym Out
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-10-21T04:01:10.324Z'
+lastmod: null
+weight: 169400
+audio: poem-1694.mp3
+image: poem-1694-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+Don’t get crushed by your lifting weight,
+first, focus on lifting for an hour straight.
+
+Avoid workout fads and cults,
+always check the results.
+
+Ask what will your exercise reveal,
+at the end of the year.
+
+If you ever have to sit,
+than that is probably not it.
+
+If you want to be fit,
+don’t sit.
+
+---
+
+Don’t copy exercises of dorks,
+who never learned how any of it it works.
+
+You can only slowly become fit,
+your body sets the speed, and that’s it.
+
+There is no doubt,
+that you can have a powerful workout.
+
+But you got to go slow,
+and let your body adapt and grow.
+
+Not so slow, that you can do more,
+but not so hard that you crawl on the floor.
+
+Your body wants to help you,
+but stay on the edge of what you can do.
+
+Don’t lift heavy, that is too much,
+lifting requires a light touch.
+
+To grow in muscle and power,
+you must lift non stop for an hour.
+
+How much you lift is second to how long,
+that is the only way to become strong.
+
+---
+
+Muscles don’t grow,
+the way people think they know.
+
+It is more like training for a non-stop run,
+where you add more weight when you are done.
+
+Lifting too heavy only looks like a sport,
+but your exercise is too short.
+
+---
+
+A gym is not some mystical place,
+it is just a title bit of personal space.
+
+And fitness is not about magical spells,
+it is all about dancing with dumbbells.
+
+But you have to do it non stop,
+and don’t let the beat drop.
+
+The eat is how you enter your trance,
+it is the only way to dance.
+
+---
+
+Exercise,
+is not about looking nice.
+
+You will have to grunt and angrily purr,
+do whatever it takes to endure.
+
+It really does not take long to become fit,
+learn from your results and you’ll get there in a bit.
+
+And you don’t have to start at the gym,
+go hiking, or find a lake to swim.
+
+You can walk the Appalachian Trail too,
+start by doing what calls to you.
