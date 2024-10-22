@@ -22,7 +22,7 @@ chapter: 11
 ---
 
 A lot of the freedom I feel,
-has to do with the way I steer.
+has to do with the way I stear.
 
 The way I recurse into thoughts,
 and what nots.
