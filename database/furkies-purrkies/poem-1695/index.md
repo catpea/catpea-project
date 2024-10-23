@@ -74,7 +74,7 @@ not just work nine to five.
 The really big deal about AI,
 is that it cures aging so that we don’t have to die.
 
-It will just fix our bodies heal,
+It will just fix the way our bodies heal,
 that is a really big deal.
 
 ---
