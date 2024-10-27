@@ -59,7 +59,7 @@ Begin putting one together, in your living room of you must,
 start with used computers, so that there is always an open workstation with a GPU.
 
 Search for refurbished and renewed, and be sure it runs linux, and nothing else,
-inbstall ollama and free llama AI models that your child or children can learn prompting on.
+install ollama and free llama AI models that your child or children can learn prompting on.
 
 Get the AI to talk to each other in voice, talk about philosophy,
 and life and books, and get a tutor and all tutorials on programming JavaScript and a decade later C and C++.
