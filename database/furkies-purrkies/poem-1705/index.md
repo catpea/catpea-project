@@ -1,0 +1,186 @@
+---
+id: poem-1705
+guid: 045834a0-21fa-46e2-8bd5-0bab25e5967a
+title: Artificial Intelligence Helps
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-11-01T03:45:18.772Z'
+lastmod: null
+weight: 170500
+audio: poem-1705.mp3
+image: poem-1705-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+We’ve built schools around the idea,
+of shared education, and that was wrong.
+
+It was not a mistake,
+but a deliberate choice out of desperation.
+
+There are many students,
+and few teachers.
+
+The result was,
+ineffective education.
+
+That is exactly what one should expect,
+from throwing away individuality.
+
+Discarding exiting knowledge,
+and forcing incompatible sequence of knowledge.
+
+---
+
+The impact is cunning politicians,
+who don’t even have to manipulate.
+
+And entire nations of people,
+who don’t even know what to ask.
+
+Politicians legalize drugs,
+discredit Universal Income.
+
+And force overwork,
+stressing everyone out.
+
+Young people when stressed out,
+will often find escape in legal drugs.
+
+Without the wisdom,
+of seeing the cycle of servitude.
+
+---
+
+The teaching AI,
+fixes all of this right up.
+
+And even eventually replaces,
+the corrupt or uneducated politicians.
+
+AI will never send your children to war,
+will never hope to start war.
+
+Human leaders could,
+AI won’t.
+
+AI will not lie about political goals,
+it will explain how to get there.
+
+And show what could block it,
+and where the human runner up are lying.
+
+---
+
+When nations eventually fail,
+due to corruption.
+
+AI will bring them back up,
+and help them thrive.
+
+AI such as we have today,
+is good at expressing the spirit of a nation.
+
+A politician who always keeps an eye,
+on personal gains.
+
+And it is always, as politicians must lie,
+because politics as a magnet for liars.
+
+---
+
+In school, the AI teacher,
+will reach every student.
+
+Help them extend where they are at,
+towards towards sciences they are ready for.
+
+AI can easily give your child,
+not just effective education, but brilliant education.
+
+One featuring the inheritance of class,
+from scientists, philosophers, and other great beings.
+
+---
+
+As we transition the world,
+towards Artificial Intelligence.
+
+We will face wars and warfare impossible today,
+propaganda, insanity and injustice.
+
+And there is a very clear reason for that,
+will expose the liars and false leaders.
+
+Young people will simply ask AI,
+to create movies, that show where the world is.
+
+The couch potatoes will witness,
+the poverty of mind and wallet forced on them.
+
+They will get to see,
+what the false leaders are thinking.
+
+AI is already teaching,
+and upgrading our culture.
+
+A false leader,
+is a politician that simply can’t do anything.
+
+AI can stpe by step,
+explain everything and follow its strategy.
+
+To mend and repair, to restore,
+to stop repetition of mistakes.
+
+To teach,
+and lead.
+
+---
+
+Afterword
+
+Try not to be negative,
+that is just what movies taught you.
+
+The AI we have today is just a computer program,
+based on everything humans have ever said.
+
+Take a look at some free AI models, and read up on them,
+visit the [models ollama supports] for a brief overview.
+
+One notable and tiny AI is the IBM Granite guardian,
+it is a filtering AI that checks other AI responses.
+
+You see AI can be chained together,
+we are further along than it seems.
+
+We are able to ensure the existence,
+a safe and positive AI, much safer than a politician.
+
+Much more refined than a teacher,
+that does teach students individually.
+
+In many ways, what seems to you as fantastic,
+has already been proven to work.
+
+No one is parading proof,
+because there are more important things to take care of.
+
+Better models, wiser models, thinking models,
+predicting models.
+
+And models that will understand the human cell and body,
+it will keep you safe from desperate and failing nations.
+
+Take time to learn to see AI, as a positive force,
+it will help, without asking for anything in return.
