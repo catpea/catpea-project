@@ -3,7 +3,7 @@ id: poem-1517
 guid: 79586754-903d-4dea-ac24-5fc506413dac
 title: Easy To Make Computer Games; Or, A Tiny Invitation Into The World Of
   Programming
-description: null
+description: This poem reflects on the journey of learning programming, specifically focusing on HTML, CSS, and JavaScript, while drawing inspiration from both classic video games and modern AI capabilities. The author introduces engaging concepts for creating simple games, such as using video snippets or AI-generated graphics, and emphasizes the creativity involved in designing interactive narratives akin to "choose your own adventure" books. Through personal anecdotes, the poem conveys the excitement and fulfillment that comes with programming and the innovative possibilities opened up by generative AI. Ultimately, it invites readers to explore the joys of coding while envisioning how technology can enhance creativity and user engagement.
 tags:
   - furkies-purrkies
 date: '2024-04-27T04:44:36.398Z'

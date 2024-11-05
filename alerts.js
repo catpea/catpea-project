@@ -3,6 +3,16 @@ export default async function(){
 
     {type: 'info', urgent:false, text:`Latest Audiobook Release. The mp3 is 188 hours long and 9.7GB in size (August 4th 2024)`, link:{title:`Download the mp3 at Archive.org`, url:'https://archive.org/details/amazing_202408'}},
 
+
+
+    {
+       type: 'warning',
+       urgent: true,
+       text:`A Marvelous Computer Crash Occured! - Small Delays Possible`,
+       note:`Lol, my workstation blinked "Unrecoverable SPI Flash Failure, or CPU Failure" and it is absolutely not fixable. There maybe delays in the publishing of tonight's poem (It's Abe again). Though if you are reading this, then the new (also refurbished, but a bit more snappy) backup workstation is already in place, and things may work out just fine. I am expecting some hiccups, as I had to move everything to a new Linux.`,
+    },
+    
+    
     // {
     //   type: 'warning',
     //   urgent:true,
