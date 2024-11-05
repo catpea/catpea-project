@@ -1,0 +1,84 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Programming Late; Or, Adventure And Invention
+Tuesday • November 5th 2024 • 12:34:07 am
+
+It Is 11:48,
+so this weird little poem may not be that great.
+
+But non-the less it must be written,
+as I have been bitten.
+
+I did not finish my code this weekend,
+I hope it is not a trend.
+
+It was a bug in my code,
+that I was running in node.
+
+It was too complex,
+to be caught by system checks.
+
+And behind a fluent interface,
+where errors would vanish without a trace.
+
+There was a was state machine,
+in between.
+
+Followed by a job queue,
+where my code silently threw.
+
+The coed looked like chicken scratch,
+and I did not put in the try/catch.
+
+It was my lovely AI,
+that made my queue jobs die.
+
+Using try and catch is not bad,
+in fact it made me feel glad.
+
+You see, I tip my success odds,
+by using code machines of all sorts.
+
+I let the AI reinvent them,
+to see what I can learn.
+
+The AI can’t see the full picture,
+it can’t grasp the full structure.
+
+It is my own adventure and invention,
+not a matter or AI comprehension.
+
+Computer programs weave,
+only the architect can fully perceive.
+
+---
+
+I did make the program run,
+and programming with AI is really fun.
+
+But no one can tell except for you,
+what flavor is your buffer and queue.
+
+Sometimes you catch your execution stash,
+sometimes you need to exit early and crash.
+
+As the chief architect,
+Ai code is something you must always inspect.
+
+See, AI will never ever take the glamour,
+from the brilliant programmer.
+
+---
+
+Programming is such a beautiful world,
+the challenge of inventing never get old.
+
+Please take to learning how to code,
+and just start with JavaScript and node.
+
+You will never regret this wonderful game,
+the challenges here, are never the same.
+
+You always learn,
+and it is always your turn.
