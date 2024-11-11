@@ -1,0 +1,139 @@
+---
+id: poem-1715
+guid: 2979c5ff-a5f6-4984-9e53-c0ae05781fd4
+title: Is Philosophy Still A Thing?
+description: null
+tags:
+  - furkies-purrkies
+date: '2024-11-11T04:49:01.345Z'
+lastmod: null
+weight: 171500
+audio: poem-1715.mp3
+image: poem-1715-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 11
+---
+
+That in it self is a philosophical question,
+I will answer it, with a series of semmingly childish questions.
+
+They are not meant to be anwsered, or judge you,
+they are meant to be simple, naive, a litte conspiratorial, and noble and pure.
+
+They are meant to accelerate you,
+towards a journey, where you rise.
+
+Where you not just ask your own,
+in the dignity and privacy of your mind.
+
+But ask, on the very edge,
+ow what you can handle.
+
+So that with your next question,
+you will be able to rise higer.
+
+And carry on, to no end,
+or alteasy until you find all your precious anwsers.
+
+---
+
+Have you noticed that you are a creature of the universe,
+made of star stuff, and only a human close second?
+
+Do you really think that you were so unfortunate,
+that you were born poor to a poor family?
+
+Did you perhaps figure out, that poverty is artificial,
+that it makes you predictable, and useful.
+
+Did you notice all that cash flowing through you,
+between your insurance and severely overpriced medicine?
+
+Did you notice how you are being used,
+without ever being considered.
+
+---
+
+Did you notice that old religions cover just the walking distance,
+they don’t talk about making continents.
+
+Have you considered, how your beliefs would have changed,
+had you been born to a different family in a different country?
+
+Or pondered that if ones morality is there out of fear of punishment,
+than that person is deeply unwell.
+
+And have you ever wondered, if maybe the unchanging,
+is the truth, and reality.
+
+Did you notice we are bout to cure aging,
+and that it is best to teach love of life, not servitude unil after death?
+
+---
+
+And if you are young, and your politicians sufficiently corrupt,
+have you predicted, how they will send you to war, under god and county?
+
+Dis you figure out, that the war for dignity, goodness, wisdom and greatness,
+is fought at the library, against fake education.
+
+Do you still think about the moment, when you stopped learning,
+and started memorizing under the threat of ridicule and bad GPA?
+
+Have you ever asked yourself, why you are getting the same grades,
+in all your classes, noticing that teachers are just copying the GPA.
+
+Have you guessed that to stay under the radar,
+your class has been divided in 1/3=A, 1/3=b, 1/3=C, and the losers?
+
+Did you catch that burning books, is not actually about fire and smoke,
+and how many books do you read or listen to a month?
+
+Did you notice how we are all one human family,
+divided by ineffective if not downright fake in some placed education?
+
+Did you ask what it means to grow up,
+and did you figure out, that to grow up means to grow all the way up?
+
+That to rise, means to become a great being,
+who loves life, who protects humanity in their dignity, wisdom, and greatness?
+
+Have you looked in the mirror recently,
+have you noticed what sugar, stress, overwork.
+
+And do you really believe, that in the state that you are in,
+you can honestly say knowledge, wisdom, learning and books are not for you?
+
+Or did you notice, that you need to reset, go hiking and camping, and,
+re-start your life, so that you may re-gain your ability to learn and be healthy.
+
+Did you notice how captious your mind is, how you mastered reading and writing,
+not at all an evolutionary trait, but a revelation of your mental powers?
+
+Do you know that you are a genius,
+that all it takes is learning for real?
+
+That just by skimming all these questions,
+they already grew much smaller, and you want more?
+
+Because I know, that if you tasted academic philosophy,
+then you correctly identified it as inert, shallow, vapid.
+
+Go buy a warm tent, and a captious backpack,
+and prepare for crossing the Appalachian, Pacific Crest and Continental Divide Trails.
+
+Before you carry on with the rest of your life,
+get your triple crown, and recover so that you can read and listen, and see.
+
+Because you are not a student, not a worker, not old, not slow, of not-smart,
+you are meant to GROW, and all the way up, until you become a Great Being.
+
+May you wake to see every sunrise,
+and never miss a sunset.

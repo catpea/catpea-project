@@ -1,3 +1,9 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Visual Programming === Future Of Programming
+Sunday • November 10th 2024 • 12:07:03 am
+
 I’ve been learning about visual programming,
 connecting boxes with lines that represent information flow.
 
@@ -165,9 +171,3 @@ it is more like functional reactive programming.
 
 The underlying compoent that ies it all together,
 is not a bare Object, it is the EventEmitter, just like in the browser.
-
---------------------------------------------------------------------------------
-Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
-
-Visual Programming === Future Of Programming
-Sunday • November 10th 2024 • 12:07:03 am
