@@ -73,9 +73,6 @@ if you move by increments of 2 or 2.5 pounds, you slow but never stop.
 
 ---
 
-As to how serious you should take this warning,
-that depends how serious you are as a person.
-
 What I can tall you is that bodybuilding is not about the looks,
 but about your health.
 
