@@ -145,7 +145,7 @@ So as long as you don’t follow,
 and stand a technology rebel.
 
 “[There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire.
-You will ride life straight to perfect laughter. It's the only good fight there is.][6]”
+You will ride life straight to perfect laughter. It's the only good fight there is.][8]”
 
 [1]: https://howfuckedismydatabase.com/nosql/
 [2]: https://github.com/trending
