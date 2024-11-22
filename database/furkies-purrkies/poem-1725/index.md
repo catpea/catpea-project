@@ -21,8 +21,6 @@ draft: false
 chapter: 11
 ---
 
-Children of the Future, Hear Me! - A Message From Friedrich Nietzsche
-
 You are **more** than mere creatures of flesh, more than transient mortals fleeting upon this planet. You are **children of the stars**, destined to climb not only to the heights of this earth, but beyond it, to create something new, something **great**, something **unheard of**. You are the **builders of the future**, the **forgers of tomorrow’s truths**. In you burns a fire that cannot be extinguished, a force that refuses to be crushed beneath the weight of mediocrity.
 
 But this, too, I must warn you: **the world is a snake**. If left to its own devices, it will devour itself, again and again, in its endless cycles of ignorance, greed, and fear. Without **education**, true education, the kind that **transforms** the very soul, you will be blind. You will stagger in the dark, forever **repeating the mistakes of the past**, condemned to the repetition of history's most miserable errors. You must **tear your gaze from the mundane**, from the shallow rivers of false knowledge, and **raise your eyes to the heavens**.
