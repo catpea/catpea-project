@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo -ne "\n\n\n\n\n\n\n\n\n\n"
-echo "1/4 - GITHUB/chapters updating chapter 11 -----------------------------------------------------------------------------------------------------"
-cd dist/chapters/chapter-11;
+echo "1/4 - GITHUB/chapters updating chapter 12 -----------------------------------------------------------------------------------------------------"
+cd dist/chapters/chapter-12;
 git add .;
 git commit -m "Chapter Content Update";
 git push;
@@ -31,11 +31,11 @@ echo "4/4 - END: CONTENT PUBLISHED ---------------------------------------------
 echo reminders:
 echo -ne "\n\n"
 
-echo NOTE: If you are working on chapter 12, update PUBLISH.SH file, to publish the new data.
-echo you must cd and push 12 now, not 11;
+echo NOTE: If you are working on chapter 13, update PUBLISH.SH file, to publish the new data.
+echo you must cd and push 13 now, not 12;
 echo -ne "\n\n"
 
-echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo on github clone into dist/chapters/, and update "/creators/furkies-purrkies.js" preset
+echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo on github clone (ADD README) into dist/chapters/, and update "/creators/furkies-purrkies.js" preset
 echo -ne "\n\n"
 
 echo NOTE: antwerp will generate into "dist/chapters/chapter-xx"
@@ -44,11 +44,15 @@ echo but to set up "dist/chapters/chapter-xx" you need to create a github repo f
 echo then clone it, update this file, and then run the build...
 echo -ne "\n\n"
 
-echo REMEMBER to setup pages branch "main" folder "/docs" in the new chpter repo.
+echo REMEMBER!!! to setup pages branch "main" folder "/docs" in the new chpter repo.
+echo "You can mkdir docs and put a blank index.html to prepage ghpages"
 echo "Deploy from a branch=main, /docs, and look into actions for progress...".
 echo -ne "\n\n"
 
 echo REMEMBER to update the server to chapter--XX in package.json
+echo -ne "\n\n"
+
+echo REMEMBER to update const website/version: '12' in conf github as well, easy to remember chapter name
 echo -ne "\n\n"
 
 echo github website location: $(antwerp read catpea-github configuration.dest)
