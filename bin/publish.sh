@@ -35,7 +35,7 @@ echo NOTE: If you are working on chapter 13, update PUBLISH.SH file, to publish 
 echo you must cd and push 13 now, not 12;
 echo -ne "\n\n"
 
-echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo on github clone (ADD README) into dist/chapters/, and update "/creators/furkies-purrkies.js" preset
+echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo on github clone "ADD README" into dist/chapters/, and update "/creators/furkies-purrkies.js" preset
 echo -ne "\n\n"
 
 echo NOTE: antwerp will generate into "dist/chapters/chapter-xx"
