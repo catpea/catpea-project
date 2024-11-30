@@ -206,4 +206,4 @@ grand, and life changing – stand up, and stand out.
 Don’t let decades pass you by at the office,
 make your beautiful art count for more.
 
-[1]: https://github.com/catpea/sweetpea/blob/5b612b28113c3a32d459bd990038ae6c757724fe/src/plug-ins/xml-parser/XmlParser.js
+[1]: https://github.com/catpea/sweetpea/blob/50e12ccf2ddc53881607f7efb39ad7d97e5c139b/src/plug-ins/config-parser/XmlParser.js#L1-L45
