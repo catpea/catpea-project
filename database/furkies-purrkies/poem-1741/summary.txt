@@ -1,0 +1,159 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+A Programming Story
+Friday • December 6th 2024 • 9:55:16 pm
+
+All desktop applications and smart phone apps,
+are operating system specific.
+
+So if you develop an app for the iPhone,
+you will need to develop the same App again and from scratch for Android.
+
+And if you want to put it on the Desktop,
+you will really need to redevelop it from scratch for Windows, Mac and Linix.
+
+So you need 5 different development efforts,
+to develop an application that does the same thing.
+
+---
+
+Clever programmers figured out,
+that they can just use the web browser as an application platform.
+
+Since the browser already covered,
+all the operating systems.
+
+And here, they can just write in JavaScript the language of the web,
+creating an app and application all in a singe language.
+
+Operating systems will frown upon this,
+because they don’t want a full web browser behind an app.
+
+In fact, they want you to be so precise with code,
+that every bit of your application should specify…
+
+If it need a lot of CPU, delayed CPU,
+or it it can slowly run in the background.
+
+When you drag an entire browser here,
+everyone gets mad - how dare you, are you crazy?
+
+You should make 5 programs,
+under 5 different architectures.
+
+---
+
+So the rational programmer,
+decided to publish on the web.
+
+They will need server side code,
+and code that executes in the browser.
+
+The user will have to sign up,
+they will get private space, and can work there – brillaint.
+
+Well If  the web application does something useful,
+that means it uses the CPU.
+
+Thing is, you just put all your customers on a single computer,
+the web server, that has your code.
+
+So now you need a network of computers,
+to handle all the workload – haha!
+
+So you get four more, really good servers,
+now you have 5 computers, but with the same code.
+
+So it is not like you have five separate projects,
+you just have two.
+
+The server code that does something useful,
+and the browser code that give the user a neat user interface.
+
+And as your program grows and gains in popularity,
+your servers crash, you lose data and customers, on your biggest day.
+
+Your five computers could handle spikes,
+but not a huge spike, like a black Friday or Christmas spike.
+
+So in your new startup, you get clever,
+and break down your programs into functions,
+
+And every time a user needs something done a function is put on a qu...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+..., but parts of your program,
+can listen to it, and self update when X changes – good stuff, really good.
+
+Final quirk, is when you relay on two or more signals,
+lets say X, Y, and X, and they just each hold a number.
+
+What we are looking for, is being notified,
+when any of them change.
+
+Once they are NOT NULL,
+and actually have a number.
+
+And, yes, yes, yes, yes,
+any time after that, whenever any of those three numbers change.
+
+Signals are to die for, but you pay for it,
+because change is not sugar and spice and everything nice.
+
+It is change over time, and only after each of the numbers are valid,
+and monitoring must stop, and it better do so automatically….
+
+When that part of your program, or user interface,
+is no linger active – you must stop listening for change.
+
+Yup, signal dues,
+but it is worth it.
+
+You change a signal, and your entire application,
+automatically updates.
+
+The last bit of good news, is that combining signals only sucks,
+when programming the old way, with code.
+
+In a visual programming environment,
+where a signal can be represented with a box.
+
+And our X, Y, Z with 5 boxes:
+X, Y, Z, CombneLastest, and XYZ, the result.
+
+And all the boxes are connected with lines,
+X,Y, Z is plugged into CombineLatest and output of combine latest.
+
+Becomes the updated value,
+of the X,Y,Z signal.
+
+Lets say, that in the beginning, you just drop a button on a canvas,
+and when you double click that button, you enter the visual programming mode.
+
+And now you can change signals throughout your application,
+to make all kinds of things happen.
+
+This is not the best way to control applications,
+it is just the best way to do it simply.
+
+---
+
+And this is where this story stops,
+we rose from 5 different codebases, to just five different boxes.
+
+We rejected walled gardens aka app stores,
+and created a self provisioning enterprise masterpiece.
+
+With a visual programming front end, that routes signals,
+and updates the user interface components by just setting values.
+
+Don’t ask what you make with it,
+sell it as is, it is a development enthronement.
+
+It is up to your customers to make stuff with it,
+they will each have a different aim.
+
+In a way this reflects our journey back to the desktop,
+where we don’t need servers, but the customer brings their own CPU.
