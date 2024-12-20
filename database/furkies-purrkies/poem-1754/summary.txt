@@ -1,0 +1,161 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Two Socks Enter, One Sock Leaves; Or; Angry Washer Repair
+Friday • December 20th 2024 • 12:15:38 am
+
+If you don’t want to replace the agitator,
+and do things the expensive way, read on.
+
+Which includes waiting for appointments that give a range,
+from 6AM to 11PM, forcing you to take an entire day off to pamper a fraudulent repair man.
+
+Or buing another washer, from a salesman that knows they only last a year or two,
+who gets sick pleasure from watching people crawl back in questionably-clean clothes.
+
+Then this text is for you,
+but this is not the correct way to fix your washer.
+
+It is a way to fix it wrong,
+that may eat a sock or two evey few years.
+
+However, while you should use your best judgement,
+this gets stuff working again for just about $6 bucks.
+
+---
+
+The short version, is that your agitator is made of plastic,
+to protect your clothes, and becasue it is cheap.
+
+But the rod uponwhich the agitator is affixed,
+is metal, so it is metal against plastic, and plastic wears.
+
+It will be either replacing agitator dogs,
+or using strong two part epoxy to glue the base.
+
+For full advice, search your favorite video website for repair videos,
+please lookup "a washer diagram" on the internet first to learn component names.
+
+You will learn better visually,
+from other repair videos.
+
+My main contribution to your repair,
+is letting you know that internet is full of repair videos.
+
+What follows is just a long meandering story,
+with a few anectodes a long the way.
+
+---
+
+My apartment has seen three washers now,
+the original handsome brown 1980 model.
+
+A new one that lasted only a few years,
+before the agitator columnn stop spinning.
+
+And the current one,
+which broke just this week.
+
+And it was the agitator again,
+I own a top loading model.
+
+Where the agitator,
+extends full length of the drum.
+
+It is a good idea, the clothes not only rotate back and forth,
+but also up and down.
+
+The agitator is full lentgh of the drum,
+because it is two agitators.
+
+The base, that rotates left and right.
+and the upper screw that pulls clothes up.
+
+Making them travel up and away to the side wall,
+and around.
+
+---
+
+Even so, no one should need to by a washer every few years,
+so I decided to investigate what the hell is going on.
+
+I unnecessarily looked under the washer first,
+I tested that the belt seemed OK and that there was no plastic residue from gears....
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...rew in,
+as the epoxy will get into the screw thread.
+
+I told you to put a roll of paper in there,
+but no, who does that? Whatever… lol.
+
+With the epoxy in the screw hole,
+you need a way to clean it, or just put everything together.
+
+In the future, you will never be able to replace those dogs,
+if you epoxy the screw in place.
+
+Be careful not to get epoxy into the screw hole,
+but if you do, and you don’t wan to to mess with it.
+
+You will now take bad repair with epoxy,
+to a new level, when your dogs go bad.
+
+You will need to weld that with epoxy too,
+meaning that the top column will not just move one way.
+
+But rotate,
+just the same way as the base.
+
+It won’t tear up your clothes,
+but if stuff gets stuck the bottom of the washer, will break next.
+
+There are probably plastic gears in there,
+and those may not be an easy fix, though I’ve seen it done.
+
+---
+
+Bottom line is this, you pay for your washer,
+it should work for ages.
+
+But today’s washers fail after a couple of years,
+you can either keep calling the repair person, or get a new one.
+
+Or just weld the plastic parts shut,
+it is bad repair, the plastic is meant to fail at a certain point.
+
+It has been tested, and a reasonable company,
+that cares for details will see that as a safety mechanism.
+
+If you get something stuck in there,
+you rip the bottom agitator or dogs, and need to call for repair.
+
+The right way to control something being stuck,
+is in the software, in the micro controller that controls the cycle.
+
+Cheap washers, under some popular brand name,
+just destroy the agitator, and expect you to pay.
+
+It will be a lot more than $7 for epoxy,
+and they will just replace the plastic.
+
+They will not upgrade the micro-controller,
+to sense stress on the motor and wisely stop the cycle.
+
+Letting you remove the stuck clothes,
+and protecting the agitator assembly.
+
+Using epoxy, is bad repair,
+but you’ve been tricked into paying for an inferior product.
+
+---
+
+How many times will you replace the agitator,
+how many washers are you going to buy?
+
+Because that is the number, where you finally snap,
+and spend seven bucks on bad ass epoxy that welds the con game shut.
+
+Interestingly turning your washer drum into a thunder-dome,
+where two socks enter, and sometimes just one sock leaves.
