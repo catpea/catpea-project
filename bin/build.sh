@@ -35,3 +35,7 @@ echo
 echo "BUILD COMPLETE!";
 echo "note: mp3 files are published to ./dist/chapters/chapter-0X where X is specified in the poem it self";
 echo "note: do not forget to run: ./bin/publish.sh";
+
+echo "SLEEPING 60 BEFORE AUTOPUBLISH!!!! !!! 1!!!"
+sleep 60;
+./bin/publish.sh;
