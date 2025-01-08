@@ -21,8 +21,6 @@ draft: false
 chapter: 12
 ---
 
-A Simple, Integrated Focus Workout; And, How To Correctly Configure Your Interval Timer
-
 Unfortunately, for most the gym experience starts and ends,
 with the Sets and Reps myth, where they only get some result.
 
