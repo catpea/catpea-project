@@ -24,7 +24,7 @@ chapter: 12
 Couple of months ago I lifted 20lb almost non stop, five days, thee hours per day,
 averaging about 75 lifts per minute.
 
-That comes to 13,500 lifts per day, I only use dumbbells,
+That comes to 6,750 lifts per day, I only use dumbbells,
 cycling between standing dumbbell curls and overhead shoulder press.
 
 So when my arms get tired, I switch to shoulders,
@@ -102,7 +102,7 @@ I honestly can’t imagine lifting 20lb dumbbells to 130bpm for 3 hours per day,
 that will look ridiculous.
 
 People usually lift 20lb 30 times, and go home to have a nice day,
-me lifting them 23,400 and shuffle dancing to my car and work on my program.
+me lifting them 11,700 and shuffle dancing to my car and work on my program.
 
 Is is only OK, because I am testing what works,
 and building up an intuition about bodybuilding.
