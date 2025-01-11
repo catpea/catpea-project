@@ -22,7 +22,7 @@ chapter: 12
 ---
 
 Couple of months ago I lifted 20lb almost non stop, five days, thee hours per day,
-averaging about 75 lifts per minute.
+averaging about 35 lifts per minute.
 
 That comes to 6,750 lifts per day, I only use dumbbells,
 cycling between standing dumbbell curls and overhead shoulder press.
