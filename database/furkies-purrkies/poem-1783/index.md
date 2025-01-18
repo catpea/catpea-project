@@ -1,0 +1,99 @@
+---
+id: poem-1783
+guid: 3ac89f48-96d4-443a-8da0-eafb69ff027f
+title: Fun Fitness
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-01-18T05:42:48.254Z'
+lastmod: null
+weight: 178300
+audio: poem-1783.mp3
+image: poem-1783-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 12
+---
+
+Gym is good for when it is too cold, or too rainy, or it just gets dark too early,
+but it is not the primary way, or a very good one – it is true.
+
+I live by a bicycle trail that takes me straight to a pier,
+one of the great lakes in Michigan, and they have grills out there.
+
+It is an all day bicycle expedition, it is beautiful, fascinating,
+memorable, full of fun and joy, and love of life.
+
+Bicycling for 14 hours, the equivalent of a fat tire bicycle at the gym,
+sucks – it is not enjoyable at all, you can’t even feed a cheerful seagull.
+
+An all day bicycle expedition, is something you can totally pull off weekly,
+but doing the same at the gym, every week, would be awful.
+
+---
+
+Let me give you a simpler example, jogging in the snow when there is no ice,
+the first time I went, it started snowing, and snow was getting in my eyes.
+
+But I got myself some inexpensive ski googles,
+and it became one of my most memorable jogs.
+
+The road was full of cars, and I slowly jogged on a sidewalk,
+my goggles made be feel like I was running towards the south pole.
+
+I felt like an inedibly handsome adventurer,
+and like with my bicycling, I did not run out of energy, or get distracted.
+
+I was having a great time,
+and never forgot my snowy experience.
+
+Just like I never forgot my field bicycle repairs,
+where you fix the squeaky pedals with a squirt of suntan lotion.
+
+Or the one time, when I put up bathroom signs,
+on just about person sized electrical boxes that pop up along the bicycle trail.
+
+---
+
+At the gym, your fitness and bodybuilding is condensed and compressed,
+and if that is when you are starting, you run a great risk of giving up.
+
+In short,
+you have to know what you are compressing and condensing.
+
+Lack of the adventure wisdom,
+is the reason why people trick themselves into sets and reps and lifting heavy.
+
+They don’t understand that 15 or even 30 seconds is not nearly enough,
+to tell the body, that new muscles are needed, that adaptation is required.
+
+You need up to three hours per day, of non-stop weighted motion,
+no less than 5 days a week.
+
+You see how that is just perfect for adventure,
+where you don’t see that as a challenge.
+
+While crossing the Appalachian Trail with a hea vy backpack,
+there you don’t even feel like taking weekends off.
+
+You just want to see,
+what is next.
+
+Finally, and from the bottom of my heart,
+as today was a Sunny Winter day in Michigan.
+
+Don’t just stand there lifting, don’t just walk, [become a legend][0]
+[learn shuffle dancing][1], and [dance! Especially in winter][2].
+
+Whatever your fitness goals,
+dancing with light dumbbells will get you there faster.
+
+[0]: https://www.youtube.com/watch?v=li_w1DXIFVk
+[1]: https://www.youtube.com/watch?v=Dc6B14K1SZ8
+[2]: https://youtu.be/U_UYwzVJ3Wo?t=90
