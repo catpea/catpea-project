@@ -1,0 +1,91 @@
+---
+id: poem-1788
+guid: a4889e55-4fe1-47e1-bfd9-8c27d78ef4cb
+title: 'Bodybuilder Focus And Music Trance, An Ancient Warrior Trick'
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-01-23T05:22:20.139Z'
+lastmod: null
+weight: 178800
+audio: poem-1788.mp3
+image: poem-1788-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 12
+---
+
+Bodybuilding is an endurance sport,
+a workout may last several hours, and is mostly non stop.
+
+Duration sets the speed with which our bodies transform,
+the common set and rep duration is a total of a minute or so.
+
+Because most people select weights that are too heavy to lift,
+which is why it takes them multiple decades to put on some basic muscle.
+
+Duration and non-stop lifting is the same thing that joggers do,
+unlike joggers, bodybuilders just keep adding more weights.
+
+---
+
+I recommend, standing dumbbell exercises only,
+working out almost every day, and always moving to the beat of music.
+
+Synchronizing to the beats of songs, induces a dance trance,
+which more than anything, get you into that focus zone.
+
+To stay in that zone, you need fresh songs,
+and weights that won’t kick you out of trance.
+
+It already helps a great deal to cycle dumbbell exercises,
+because you are not distracting yourself with switching machines.
+
+But, you must select weights,
+that you can handle.
+
+Not, so light that you can lift more,
+and not so heavy that they will force you to stop.
+
+---
+
+But there is more to it, because you can lift heavier to slow music,
+gradually speed it up, get used to it.
+
+And then rather easily, do it again, with slightly heavier dumbbells,
+and dropping back to slow music again.
+
+The key words here, are “slightly”, “gradually”, “eventually”,
+and they are set by the speed with which your body adapts.
+
+You can help that speed, by eating healthy proteins,
+and giving yourself power with dried fruit and peanuts.
+
+And of course saying hydrated,
+you need a bit of sugar and salt in your drink.
+
+The more fuel you have, the more nutrients to aid your body in adaptatin,
+the more smoothly will your transformation take place.
+
+---
+
+There cannot be a workout without music,
+and you can’t just listen to music, not at all.
+
+You need songs that are slow enough, to support your lifting,
+under that constant aim to move to the beat.
+
+Do not attempt to workout without moving to the beats,
+you will trick yourself into thinking working out is not for you.
+
+I repeat again, you  need fresh songs,
+and you must move to the main beat – one beat for lifting one for lowering.
+
+This is an ancient trick,
+it is how warriors trained.
