@@ -52,7 +52,7 @@ is whether or not I should fight a bully.
 The answer is no,
 because the bully’s attack isn’t physical.
 
-The bully is a dead soul human machine spun out of control,
+The bully is a machine spun out of control,
 looking to make a copy if it self.
 
 The way it triumphs,
@@ -134,8 +134,6 @@ because it is your duty both to humanity and your older self.
 
 To grow all the way up,
 and become a great being.
-
----
 
 [Carl Sagan]: https://www.youtube.com/results?search_query= Carl+Sagan
 [Bill Bryson]: https://www.youtube.com/results?search_query=Bill+Bryson
