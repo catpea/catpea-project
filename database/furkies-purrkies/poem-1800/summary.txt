@@ -1,0 +1,131 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Subscribable, Observable, Signal, Sugar and Whipflash
+Monday • February 3rd 2025 • 9:32:55 pm
+
+We are going to start,
+by building a Subscribable not exacly a real class but think of it that way.
+
+It is an array or list of functions,
+called subscribers.
+
+And two functions,
+subscribe and unsubscribe.
+
+These two functions accept just one argument,
+it is the subscriber, which is a function that gets data.
+
+Subscribe puts the function into the subscribers list,
+and unsubscribe, gets rid of it – nice and easy.
+
+As a very useful bonus, that you should always implement,
+the subscribe function, should return a tiny anonymous function.
+
+That when executed, automatically,
+calls unsubscribe with your function.
+
+This is our Subscribable,
+the first layer is complete.
+
+---
+
+The next layer,
+is the massive huge Observables.
+
+Our cute little Signals,
+are a superset of Observables.
+
+All an observable is,
+is one more function added to our Subscribable.
+
+And that function is notify(),
+it accepts a singe argument, data.
+
+The notify function,
+iterates over the subscribers, delivering to each that data.
+
+That is all an observable is,
+notify(data);
+
+So you subscribe to an observable,
+and something somewhere in your applicaion will say:
+
+observable.notify(‘hello world!’);
+and all your subscribers are given that data.
+
+---
+
+Signals, are one more additional thing,
+just one! A data property.
+
+So instead of using notify with data,
+signals send their data property to all the listeners.
+
+There are a couple of things that you must know,
+we will be modifying the Subscribable, customizing it for signals.
+
+Fist of all, upon subscription,
+if the data value is *something*, as in not null or undefined;
+
+You must send it to the subscriber immediately,
+so you say if this.data subscriber(this.data);
+
+And you gave to add a getter and a setter,
+some also add get and set functions but that is extra.
+
+So you have a set value(v) that if value is different from this.data,
+assigns to this.data, and calls notify, to update the subscribers.
+
+And and a get value that reads from this.data,
+for when you don’t want to subscribe to get the value.
+
+---
+
+I made this sound way too complicated,
+but I wanted to show you all the details of a Signal(),
+
+So now when you say mySignal.value = “My hovercraft is full of eels!”
+all the subscribers will be given that data.
+
+But also that latest data is kept in the Signal under value,
+if you just need to grab it real quick.
+
+Otherwise, you subscribe, and if it is not null,
+then your subscriber function will be given that value immediately.
+
+And than at any point in time,
+that it changes.
+
+---
+
+This part is for those of us,
+who looked at Observables but never understood them.
+
+I know the question that is on your mind,
+and that other sssstuff in Angular and Rx, that is just syntacting sugar.
+
+Please quote me on this one,
+"Be it in code, or real life, sugar is poison"
+
+Sugar just means you handle data, and error seperatley,
+otherwise you would get function arguments (err, /*and*/ data), like in node.
+
+And now in your subscriber you have to check if there was an error,
+and only then process data, but sugar is bad, and extremly bad for learning.
+
+---
+
+Finally, I will end this text,
+with a Whipflash.
+
+You can create an Observable that accepts a doStuffFuncion via constructor,
+that may send clicks of a mouse or the tick tocks of a clock.
+
+Without, a subscribers array, or the Subscribable layer,
+by simply giving every subscriber to the doStuffFuncion as an argument.
+
+Not counting method names,
+that is two lines of [code].
+
+[code]: ./files/code.txt
