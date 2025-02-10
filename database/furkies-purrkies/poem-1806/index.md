@@ -1,0 +1,73 @@
+---
+id: poem-1806
+guid: 3a0c710c-2c66-40de-8354-1714590db3b9
+title: How To Make Your Workout More Effective Without Making It More Difficult
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-02-10T06:22:44.661Z'
+lastmod: null
+weight: 180600
+audio: poem-1806.mp3
+image: poem-1806-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 12
+---
+
+The world of fitness and bodybuilding is one and the same,
+the only difference is that bodybuilders keep adding more and more weight.
+
+You can easily do what they do, but you must first unmake a terrible mistake,
+the mistake of thinking that lifting heavy for a few seconds does anything.
+
+You got tricked, because in the beginning, doing anything other than sitting,
+will give you muscles, this is why you got stuck, you never dit it right.
+
+And that first time, even doing it wrong, will give you muscle,
+that is how eager your body is to adapt, that is how easy it is.
+
+---
+
+The correct, and continuous way to grow muscle,
+is to emphasize duration of your exercise over how heavy you lift.
+
+You must start with the lightest of dumbbells, aiming for a one hour workout,
+this initial training for a workout phase, looks exactly like aerobics.
+
+Aerobics is the gateway to fitness and bodybuilding,
+in this first training for a workout phase you must eliminate your rest gaps.
+
+And this process is the same that joggers go through,
+they don’t call it jogging until they can run their route non-stop.
+
+---
+
+And once you are able to cycle standing dumbbell exercises for a solid hour,
+you then go to the next heavier weight, not by 5lb, but by 2 or 2.5lb.
+
+You lift light, but not so light that you can lift more,
+but no so much that you are forced to stop.
+
+You must always lift to the beats of musing, one beat up, the next down,
+as that puts you in a dance trance, that makes your workout nice and easy.
+
+This is what it means that the duration of your exerciser must come first,
+and how much you lift, though important, must always come second.
+
+---
+
+Eventually as you reach 7.5lb dumbbells, and 10 and 15lb,
+your non-stop workout will stop looking like aerobics.
+
+Heavier and heavier weights will slow you down,
+but they will never, ever stop you.
+
+By putting duration first, and protecting yourself from being forced to stop,
+you are giving your body time to adapt, grow, and develop to your needs.
