@@ -1,0 +1,147 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Slayer; A Programmer's Lament
+Wednesday • February 12th 2025 • 11:02:41 pm
+
+Preface,
+
+I set off to conquer four challenges in visual programming,
+serial and parallet processing, very basic.
+
+But then self healing, and untangling data flows,
+which I solved by waiting on all pipes to submit data, it works rather nice.
+
+But, rather than giving the simple explanaion,
+I asked AI for some poetry.
+
+And I thought, it was so interesting,
+that I should share.
+
+What follows is the same poem,
+rewritten by different AI.
+
+---
+
+### The Slayer v1
+
+Lo! In the deepest chamber of silicon dreams,
+Where the mouse-wielder sat enthroned supreme,
+Spake thus a presence, feline and keen,
+A harbinger of what was yet unseen.
+
+*First came the cat, treading soft as thought,*
+Through serial streams where data sought
+Its path like ancient logs in rivers laid—
+The programmer laughed, his hubris displayed.
+"Such simple things! Command line's might
+Shall ever reign in terminal's dark night!"
+
+But hark! The second strike came swift and sure,
+As parallel paths the cat did conjure.
+Like fallen tree, majestic in decay,
+One root to many branches finds its way.
+The programmer's laugh caught in his throat,
+As complexity's tide began to float.
+
+*Third came the healing touch, divine and deep,*
+Where queues stand guard and supervisors keep
+Their vigil o'er the processes that run—
+The programmer's certainty came undone.
+For what took tomes of arcane lore to write,
+The cat had drawn in boxes clear and bright.
+
+*Fourth! O fourth! The final blow descends!*
+As pipes await, and every pathway bends
+To wisdom's will—no locks, no semaphores,
+No Byzantine agreements on these shores.
+The programmer beheld this simple grace,
+And saw his crown slip from its sacred place.
+
+Spake thus the cat, with eyes of ancient gold:
+"Behold, dear mouse, how patterns now unfold:
+Like logs that float upon the data stream,
+Like fallen trees that fork in nature's scheme,
+Like queues that heal and guard against the night,
+Like pipes that wait in patience for the light."
+
+The throne lies empty in the silicon hall,
+Where once the programmer stood proud and tall.
+But lo! What light breaks through the morning haze?
+Young hands now shape the code in countless ways,
+For what was arcane, complex, and obscure,
+Now flows like music, simple, sweet, and pure.
+
+The cat, that holy slayer, oh so brig...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...
+In twilight's hush, where shadows dance and sway,
+A feline specter, silent, did sneak and play.
+Upon the coder's realm, it cast a curious eye,
+Spake thus, with wisdom ancient, ne'er to die:
+
+"Behold, oh master of the code and byte,
+I come to weave a tale of wondrous sight.
+A realm where code flows free, a river bold,
+Where visual scripts a new world unfold."
+
+The cat, with paw, did trace a line, so clear,
+A problem simple, in series, did appear.
+The programmer, with laughter, did dismiss,
+For command lines were his, a world to kiss.
+
+"Like logs upon the forest floor,
+Connected, speaking, data to core,
+Yet in this visual dance, observe,
+Simplicity reigns, the complex to serve."
+
+Then parallel paths, the cat did fork,
+A challenge, complex, like a storm, it did evoke.
+The coder’s brow, with worry, did furrow,
+For visualizing forks, brought him sorrow.
+
+"Imagine a tree, fallen, roots to sky,
+One trunk, yet branches, myriad, multiply.
+Visual programming, a map, a guide,
+To navigate this complexity, side by side."
+
+Reliability, the cat then addressed,
+With self-healing scripts, the coder's soul distressed.
+"In visual forms, a queue, a supervisor box,
+Healing becomes but a simple paradox."
+
+A system resilient, free from fear.
+The coder saw, with eyes now wide,
+A future where bugs no longer hide.
+
+The final blow, a revelation stark,
+Awaiting pipes, in VPL, leaves no mark.
+"Like spiderwebs, complex, yet so clean,
+Visual logic makes it serene."
+
+Mutex and semaphore, complexities of old,
+In visual webs, their stories told.
+The programmer, confounded, could not deny,
+The elegance of connections, under the sky.
+
+Thus, the coder, once a god, now humbled,
+By a cat, a slayer, his reign crumbled.
+Yet in this fall, a brighter world arose,
+Where coding's not for few, but all who choose.
+
+A world where young and old, with joy and grace,
+Weave code in visual streams, without a trace
+Of fear or doubt, in patterns bold and new,
+The coder's legacy, reborn, rings true.
+
+And so, the cat, with eyes aglow,
+Did vanish in the night, soft as snow.
+Leaving behind a realm transformed,
+Where every mind, by code, is warmed.
+
+Thus ends the tale, of cat and mouse,
+In visual scripts, we find our house.
+A future bright, where all can code,
+On paths the slayer cat bestowed.
