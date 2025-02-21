@@ -134,15 +134,6 @@ a dance trance.
 Finally,
 we get to the wrist wallet.
 
-In great part, so quickly,
-as to avoid the uncomfortable subject of squats in a string bikini.
-
-Which is something you definitely need to get used to wearing,
-as it is, apparently, what bodybuilders do.
-
-I am currently 2/3rds way there, having abandoned standard uniform,
-and jumped into a wrrestling singlet, that, just like the string bikini has no pockets.
-
 The huge deal about the elastic, washable, wrist wallet,
 is that it can go over your water-bottle.
 
