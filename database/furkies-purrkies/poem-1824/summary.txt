@@ -1,0 +1,169 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+JavaScript Data Structures For Girls; Or, Don’t Let Your Trees Bite You
+Thursday • February 27th 2025 • 7:47:18 pm
+
+Unlike Algorithms which are interesting calculations,
+like converting Celsius to Fahrenheit.
+
+Data Structures kind of just sit there,
+wanting to hold your data.
+
+You can send a data structure,
+or save it to disk.
+
+A Data Structure is a harness,
+that holds Structured Data in some nifty way.
+
+---
+
+Trees, are the most fanciful data structure,
+and all you have to do to make one is say:
+
+Branch, has a value property, and a list of children,
+to which you can add other Branches.
+
+See, we can build an infinitely sized tree,
+by just nesting Branches within Branches.
+
+You just need like, 2 lines of code,
+one for value, which could be an object.
+
+For example Person that has email address,
+or animal that type, and name, and such.
+
+And then a List of other Branches,
+so it is a recursive data structure.
+
+Branches, within Branches,
+within Branches.
+
+Your file system has a tree data structure,
+it holds Files, which are forbidden to have children.
+
+And Folders, which you are free
+to nest.
+
+---
+
+But as you learn programming,
+and make your own trees.
+
+For example for a world,
+that has a lobby, in some building.
+
+The building is in a world,
+divided by areas that have monsters.
+
+Or as it is in my case,
+you have an Application, that has modules and scenes.
+
+Where scenes can contain Windows, and pipes,
+that connect windows together.
+
+---
+
+There is a danger,
+that you tree, will attack you.
+
+Because as beautiful as trees are,
+they are infinitely complex.
+
+There are no rules,
+and even with a pretty graph.
+
+It is hard to visualize everything,
+for tracking bugs or meory leaks.
+
+And unfortunately,
+and this should come as somewhat of a shock.
+
+You should always be mindful of multiple users,
+editing your tree.
+
+Even if you don’t plan on multiple users,
+you may find it useful, to open multiple tabs or windows.
+
+Or even have a split pane,
+in your application.
+
+Moreover, you may wish to save your tree,
+to a database, which is based on rows and tables.
+
+Very useful, for dealing with multiple users,
+as everything just collapses to fields.
+
+Or cells similar to a spreadsheet,
+so you are no longer in a confusing recursive data structure.
+
+But, you now need to collapse your tree,
+your beautiful nested data structure to a flat grid.
+
+In my case I only get tw...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...t of all, if you get the same value,
+a signal will do nothing, so it stays silent.
+
+So we already solved the problem,
+of checking if a value has changed.
+
+Second of all, if you want to print tree node names in your browser window,
+b’s name Signal, will also do nothing, it does nothing on null or undefined.
+
+But, and this is a big but, the moment, b’s name signal,
+receives a value of Bob, all the things listening to it will be notified.
+
+So your user interface components just say b.name.subscribe,
+and specify a function that updates a folder name for example.
+
+Until then, the folder label, by defult,
+just displays blank or unnamed.
+
+So you would would say function(input){folderLabel.innerText = input},
+and you just leave it alone, it set the name, when the time is right.
+
+So a Signal, is like a tiny little machine, that soaks up some complexity,
+and levels things out for you.
+
+So that you can very easily listen for changes,
+and make automatic updates, when the time is right.
+
+One more thing, for those of you who want to implement this,
+when you set a signal value externally through your application.
+
+By editing b’s folder label in your fancy UI,
+that new name Bob, should first set the signal value.
+
+So you would say, bob.name.value = Bob,
+and then immediately, in the same breath, updatethe key-value store.
+
+This is called an optimistic update,
+and you should revert on key-value store failure, whicyh is easy with signals.
+
+But you must do optimistic updates, because otherwise your UI will lag,
+especially if you are commnicating with a server.
+
+Setting the key-valye store or database, may then send a notification back,
+but it will be ignored in your source Signal as the update will be what you just set.
+
+Your signal, just does nothing, issues no notifications to subscribers,
+when the value is the same, so it prevents an infinite loop.
+
+But it will be heard by all the other windows,
+where b’s name is undefined.
+
+And those signals, will cheerfully, and finally,
+set B’s name signal to Bob, and then announce the change to name subscribers.
+
+Which will update the UI,
+in all your other browser windows.
+
+Making you a very powerful programmer,
+in deed.
+
+[code image](./files/md-poem-1824-illustration.jpg)
+
+[1]: ./files/signal.txt
