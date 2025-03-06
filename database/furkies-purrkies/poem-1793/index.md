@@ -135,7 +135,7 @@ because it is your duty both to humanity and your older self.
 To grow all the way up,
 and become a great being.
 
-[Carl Sagan]: https://www.youtube.com/results?search_query= Carl+Sagan
+[Carl Sagan]: https://www.youtube.com/results?search_query=Carl+Sagan
 [Bill Bryson]: https://www.youtube.com/results?search_query=Bill+Bryson
 [Richard Dawkins]: https://www.youtube.com/results?search_query=Richard+Dawkins
 [Daniel Dennett]: https://www.youtube.com/results?search_query=Dan+Dennett
