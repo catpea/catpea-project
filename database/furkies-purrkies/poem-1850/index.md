@@ -1,0 +1,158 @@
+---
+id: poem-1850
+guid: 7cc24a7c-2c46-41ed-afb7-8bc453f790e0
+title: Glass Half Full, Grasshopper
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-03-25T23:07:03.503Z'
+lastmod: null
+weight: 185000
+audio: poem-1850.mp3
+image: poem-1850-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 12
+---
+
+Fitness is easy, but before you begin,
+you have to empty your glass.
+
+Because everything you know,
+is what didn’t work for everyone else.
+
+---
+
+Ladies,
+have fitness figured out.
+
+It is low calorie diet,
+which also extends your lifespan.
+
+And fast motion,
+and the faster you move.
+
+The faster,
+your transformation.
+
+---
+
+But bodybuilding,
+has been destroyed.
+
+Both by useless myths,
+and deadly practices.
+
+You know weights are required,
+and that is correct.
+
+But everything else,
+is trash.
+
+---
+
+If you take out the trash,
+all you will be left with.
+
+Is a rack of light dumbbells,
+and the biggest muscles you got; legs.
+
+---
+
+How did your leg muscle,
+grow so big?
+
+From constantly,
+carrying the rest of your body.
+
+And would your legs,
+become more muscular…
+
+If you always carried,
+dumbbells in your hands?
+
+And what would you need to do,
+to reliably always carry heavy.
+
+Start in the middle of the rack,
+or in the beginning?
+
+---
+
+And what if you,
+slowly jogged with dumbbells.
+
+Would you burn more fat,
+and put on muscle?
+
+---
+
+And do you think dance trance,
+could help?
+
+Because that is only a matter,
+of moving top the beats of songs.
+
+It takes mind energy,
+to sync lifting with music.
+
+---
+
+And what about overheating,
+do you want to work out in a gym.
+
+That winter, of summer,
+day, night, or morning, is always hot.
+
+Or do you want to jog,
+with dumbbells, in crisp air?
+
+---
+
+Finally,
+what will happen…
+
+When once your body, reliably adapts.
+to jogging with 5lb dumbells.
+
+And you switch to 7.5,
+and in a few months, to 10, 12.5 and 15, and 20.
+
+Will your body continue adapting,
+to no end?
+
+---
+
+Empty your glass,
+find your muscles.
+
+Ask how they got there,
+and try guessing.
+
+What you need to do,
+to keep them growing.
+
+---
+
+Lastly, if you have no answers,
+and nothing works.
+
+Power-walk in crisp mornings,
+with progressive heavier dumbbells as your body adapts.
+
+Start in the beginning,
+but not so light that you can lift more.
+
+And never so heavy,
+that they cut off your circulation and make you sit.
+
+---
+
+May you grow wise, become a trainer,
+and save bodybuilding.
