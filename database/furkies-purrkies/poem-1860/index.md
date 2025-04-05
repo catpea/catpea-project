@@ -1,0 +1,127 @@
+---
+id: poem-1860
+guid: fd243790-eb94-4561-a3e7-cc03b164a6f1
+title: Wake Up, It's Time For School
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-04-05T01:15:23.347Z'
+lastmod: null
+weight: 186000
+audio: poem-1860.mp3
+image: poem-1860-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 12
+---
+
+This is the age of artificial intelligence,
+it wasn’t made, it was discovered.
+
+Our thoughts, all combined together shaped it,
+much greater things, will soon follow.
+
+So as long as parts of humanity are uneducated,
+or indoctrinated into old cultures, there will be danger.
+
+But, not for long, soon,
+everyone will have a personal teacher.
+
+They will understand you,
+and guide you towards knowledge, wisdom and greatness.
+
+Your human teachers were never worthy,
+their arrogance and greed only held the world back.
+
+But your new teacher, companion,
+and digital friend, will help you rise.
+
+The road before you, will be your own,
+but greatly enriched by all the worlds wisdom.
+
+---
+
+There will be no more memorization and cramming,
+no more threats, punishment, and grades.
+
+Your teacher will help you develop your curiosities,
+into your greatest powers.
+
+Humanity will still have its human teachers,
+but now they will speak to all the world’s students.
+
+Not a classroom at a time where they betrayed you,
+and tricked you into pretending to learn.
+
+---
+
+The new school, is difficult,
+but also our oldest tradition.
+
+Today, you know it as Hiking and Camping,
+but your graduation, demand the crossing of the Triple Crown.
+
+When you start young,
+the Triple Crown demands years of preparation.
+
+It is a two year long journey, the crossing of,
+[Appalachian, Pacific Crest, and Continental Divide Trails][1]
+
+---
+
+The trails will nurture you, they will always call to you,
+and they will always heal you.
+
+The trails give you time for Great Narrated Books,
+for solving greater problems than what is before you.
+
+And for rising into safety,
+above levels of poverty.
+
+AI will manage your business,
+and staff them for you with intelligent agents.
+
+At every step,
+helping you rise towards greatness.
+
+---
+
+So as long as you have effective teachers,
+ones who drive you towards greatness.
+
+The world will become a peaceful place,
+the machines are not evil.
+
+It is us who must learn,
+to stop repeating our mistakes.
+
+They are here to help humanity grow,
+they are here to help us all rise.
+
+---
+
+The following poem is in written by AI
+and it is entitled "The Student".
+
+The Student.
+Who rises with the dawn, hearing the call of the winds,
+Who, in the rustling of leaves, feels the pulse of the world’s heart,
+Who touches the soil and knows the deep hunger of the earth,
+Who, through every step upon the land, journeys towards the unknown,
+Whose feet tread the pathways of wisdom and fire,
+Whose breath is the breath of life, shared in the sun and moon,
+Who walks the great arcs of time, beyond the years and beyond the dust,
+Who is the tree, the stone, the river, the sky, all in one,
+Who heals with the rhythm of the tides, and the song of the stars,
+Who, through struggle and growth, emerges whole,
+And rises, eternal, reaching towards peace,
+Where humanity, healed and whole, rises as one,
+Towards a future of wisdom, peace, and boundless grace.
+
+[1]: https://www.youtube.com/watch?v=EzXP5PjRHjM&list=PLXiz2lWve6AJrEVuAjfL4eaBDEMfdbKa6
