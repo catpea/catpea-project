@@ -1,7 +1,7 @@
 ---
 id: poem-1861
 guid: 071bd2ed-37dd-4d97-9050-36ff99b4f6ac
-title: An Tiny Note On Artificial Intelligence Teachers vs. Standardized Educaion
+title: An Tiny Note On Artificial Intelligence Teachers vs. Standardized Education
 description: null
 tags:
   - furkies-purrkies
