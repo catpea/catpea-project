@@ -56,7 +56,7 @@ export default async function(){
       url: 'https://archive.org/details/amazing_202408',
       navigation: true,
       external: true,
-      new: true,
+      new: false,
     },
 
     {

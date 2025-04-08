@@ -10,7 +10,7 @@
         <? for(const link of _.chain(network).filter('navigation')){ ?>
           <li class="me-xl-2"><a class="<?=classes('nav-link', {'active text-warning': (link.url=='/'?'/index.html':link.url)==('/'+locals.filename) } )?>" href="<?= link.url ?>"><? if(link.iconClasses){ ?><i class="<?=classes('d-lg-none d-xl-inline', link.iconClasses)?>"></i> <?}?><?= link.title ?>
           <? if(locals.filename=='index.html'&&link.new){ ?> <sup class="rounded bg-dark fw-bold text-info px-1 border border-info shadow" style="margin-left: -5px;"> new </sup> <?}?>
-          <? if(locals.filename=='index.html'&&link.title=='Alerts'&&alerts&&alerts.length){ ?> <sup class="rounded-circle bg-dark fw-bold text-warning px-1 border border-warning shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
+          <? if(locals.filename=='index.html'&&link.title=='Alerts'&&alerts&&alerts.filter(alert=>alert.urgent).length){ ?> <sup class="rounded-circle bg-dark fw-bold text-warning px-1 border border-warning shadow" style="margin-left: -5px;"> <?=alerts.length?> </sup> <?}?>
           <? if(link.upiconClasses){ ?> <sup class="fw-bold text-light" style="margin-left: -5px;"><i class="<?=classes(link.upiconClasses)?>"></i></sup> <?}?>
           </a>
           </li>
