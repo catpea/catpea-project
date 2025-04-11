@@ -1,0 +1,104 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Learn Programming By Experimenting With Artificial General Intelligence
+Thursday • April 10th 2025 • 8:08:44 pm
+
+I spoke to a Large Language Model recently,
+and had it search and summarize Daniel Dennett’s Reductivism.
+
+And with those ideas in its memory, I told it to explain,
+by subtle analogy to Corporations, how Artificial General Intelligence may work.
+
+The example that stuck out, was a school orchestra,
+that it can only be achieved by the collaboration of the entire team.
+
+This wouldn't be poem worthy if it wasn’t for MUDs.
+or Mult-User-Dungeons, an ancient way of making computer games.
+
+When I mentioned it to the Language Model,
+it said that it was great that I wasn’t going to waste time on graphics.
+
+MUDs are collaborative text adventure games,
+and the role that Dan’s research plays in here.
+
+Is elimination of Large Language Model based Agents,
+that are initially introduced to build and seed the environments.
+
+I remembered an old contest question from now defunct Loebner’s Prize,
+“What is a banana made out of?”
+
+The old non AI chaterbots, just used text machine to trick the judges,
+so this was a test to see if the simple AI chatbot would answer “Banana”.
+
+The Large language model and I talked about, creating banana trees,
+to effectively locate the answer, and further expand the world.
+
+"User Interaction" - it begun explaining...
+
+“The user avatar enters the virtual world and interacts with the AI system:
+1. The user sees a banana tree in the virtual environment.
+2. The Botanist Agent explains: "This is a banana tree. It produces bananas as fruit."
+3. The Scientist Agent adds: "Bananas are made primarily of water (~74%), carbohydrates (~23%), fiber (~2%), potassium, and vitamin B6."
+4. The Science Popularizer Agent simplifies: "Bananas are mostly water and sugar, with some fiber and vitamins."
+
+Oracle/Creator Expands Knowledge
+If the user asks follow-up questions like "How does potassium help humans?", the Oracle/Creator Agent expands the world by:
+
+1. Creating new agents or objects (e.g., a Nutritionist Agent or Potassium Object).
+
+2. Adding relevant knowledge to the virtual world (e.g., potassium's role in muscle function and nerve signaling).”
+
+Then I asked it about the cure for aging, and we continued on,
+daydreaming.
+
+“Real-world devices like organ-on-chip systems provide experimental data that feed into the virtual wor...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...nce
+
+The "spirit" or "ghost" of the machine isn’t in any single robot—it’s in how they all work together. When thousands of small actions combine, they create behaviors that seem
+intelligent:
+
+A corporation might innovate faster than any individual scientist could.
+
+AI networks (like Hierarchical Collective Intelligence Networks) solve complex problems by dividing them into smaller tasks for specialized agents.
+
+1. The School Orchestra
+
+Imagine a school orchestra where each student plays an instrument. No single musician can play a symphony alone, but when everyone plays their part together, they create beautiful music. The symphony is "emergent"—it comes from collaboration.
+
+2. The Ant Colony
+
+An ant colony works similarly. Individual ants are simple—they gather food or care for eggs —but together they build complex structures and survive as a group.
+
+3. Minecraft Builders
+
+In Minecraft, players build huge cities block by block. Each block is simple, but when combined in clever ways, they create castles, machines, and entire worlds.
+
+Corporations seem alive because they act with purpose:
+
+They adapt to challenges (like changing markets).
+They innovate (creating new products).
+They compete (against other companies).
+
+But just like your brain is made of neurons that don’t understand "you," corporations are made of people and machines that don’t understand the "spirit" of the company. The intelligence emerges from their interactions.
+
+Dennett’s Intentional Stance
+
+Dennett’s "intentional stance" explains how we can think about these systems:
+
+We treat corporations as if they have intentions ("Apple wants to innovate").
+
+We treat AI systems as if they have goals ("ChatGPT wants to answer questions").
+
+This perspective helps us predict their behavior without worrying about the details of how their parts work.
+
+1. Intelligence emerges from collaboration between specialized parts in a hierarchy.
+
+2. Small actions add up to big results—like ants building colonies or neurons creating thoughts.
+
+3. Corporations and AI systems feel intelligent because their structure allows them to solve problems and adapt dynamically.
+
+4. The "ghost" or "spirit" isn’t magic—it’s just emergent behavior from lots of little robots working together.
