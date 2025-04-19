@@ -1,0 +1,131 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Strategic Software Development For Girls New To Programming
+Friday • April 18th 2025 • 8:30:48 pm
+
+Avoid generic algorithmic ideas, don’t create reusable nodes,
+that when nested together create a tree, that you shape into an Application.
+
+No, you have to create an Application Object, with Toolboxes and Tools,
+Scenery and Scenes, Commander with Commands and History.
+
+You are naming things what they are, so that AI can understand them,
+by just looking at them, and not how they are supposed to be structured.
+
+There are two additional benefits to that, you can really spend days,
+working on your Toolboxes, or Commands, and make them Unique and Perfect.
+
+If you were reusing generic objects to create your application,
+you would be limited to only the changes that are useful to all things.
+
+Unless necessary, avoid object inheritance as well,
+that is where you say, Toolbox extends ToolCategories.
+
+Or LoggedInUser extends User, which extends Profile,
+that also makes a mess, write poetry, long objects.
+
+Because you are no longer writing for programmers,
+now you also write for Artificial Intelligence.
+
+The biggest benefit,
+is that you don’t make a program, by programming it first.
+
+You now, MUST, make programs, by describing them first,
+by telling the story of your Application.
+
+From this end, you see that it is CRITICAL to call things what they are,
+the AI does not want you to talk about nested Nodes.
+
+It wants a story, how everything fits together,
+how information flows, and it wants a clean separation between layers.
+
+There are three layers, Server, Application, and UserInterface,
+and you want to use the Server as little as possible.
+
+You don’t want 10,000 sign-ups when you hit a front page somewhere,
+to shut you down or cost you.
+
+---
+
+What follows is a brief overvio of the three,
+without talking about any specific application.
+
+Simply just going over the outline,
+to help you get an overview of what is inside a program.
+
+---
+
+[PouchDB][1] is a good starting point for server work, it runs in the browser,
+and whenever possible synchronizes with [CouchDB][2] on the server.
+
+But it would be best to have a simpler storage mechanism,
+that follows the same principles.
+
+Key value stores where keys are paths such as:
+“/users/alice/projects” = “a, b, c” can go a long way.
+
+Whenever you store such a key value pair,
+you also build up a tree ba...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...in,
+but their purpose is to visualize it, and let the user execute commands.
+
+---
+
+Finally, the commander and commands,
+are useful for a neat little command line, and command output.
+
+But their real purpose, is the UNDO/REDO system,
+like data synchronization, this is not something you can escape from.
+
+But it is easy, you just give your Commander a History that keeps a list,
+of all the commands you executed.
+
+But, you must think of them as events, events in your application,
+when a command is executed, you add an event to your Commander History.
+
+Here is the crazy thing, and event, does not just store the command you executed,
+it also stores the command you need to execute to undo the change it represents.
+
+And event has an UNDO COMMAND,
+and a REDO COMMAND, redo is for going back, because the user went too far.
+
+So redo is the main command the user executed, undo is its opposite,
+the you have to program into your Commander. You need an opposites creator.
+
+And the way you move up and down history,
+is by an event popery called active.
+
+So if you just deleted a file, you store that command under redo,
+you store a re-create deleted file under undo, and set event as active.
+
+If the user wants to go back in history, Ctrl-Z sets active as false,
+which triggers the undo that creates the file again.
+
+And if they decide that they really wanted to delete the file,
+and press Shift-Ctrl-Z, you set active as true again.
+
+Which now runs the redo, where we stored the original delete,
+and yet again we delete the file.
+
+---
+
+The AI will both explain it in more detail,
+and write a first version of whatever your application is about.
+
+This kind of text is how you get started,
+we divided your Project into Server, Application/Brain, and User Interface.
+
+You can now approach each of these separately,
+and write a first draft requirement document for whichever one interest you the most.
+
+With the aid of AI,
+you can now engineer applications while learning programming.
+
+[1]: https://www.youtube.com/results?search_query=PouchDB+Tutorioal
+[2]: https://www.youtube.com/results?search_query=CouchDB+Tutorioal
+[3]: https://www.youtube.com/results?search_query=What+Are+WebComponents
+[4]: https://www.youtube.com/results?search_query=What+Are+Signals+JavaScript
