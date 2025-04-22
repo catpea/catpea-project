@@ -1,7 +1,7 @@
 ---
 id: poem-1875
 guid: 68c192aa-29bd-4c33-bfff-3de0e9e84d78
-title: The Miracle Requirements Document; Or Investigating The Power Of Artificial Intelligence
+title: The Miracle Requirements Document; Or, Investigating The Power Of Artificial Intelligence
 description: null
 tags:
   - furkies-purrkies
