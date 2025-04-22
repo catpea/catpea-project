@@ -21,10 +21,10 @@ draft: false
 chapter: 13
 ---
 
-If you bear with me in one more jibberish poem,
+If you bear with me in one more gibberish poem,
 we will close the AI programming research chapter.
 
-With the unusual conclusion that it is better to desctibe code for AI,
+With the unusual conclusion that it is better to describe code for AI,
 than actually write it yourself; freeing you to invent and strategize.
 
 In a poem entitled “[Strategic Software Development For Girls New To Programming][1]”,
