@@ -51,7 +51,7 @@ cannot help but to try to push you away from this new road.
 But they represent the old ways, the manual cranky ways,
 fill of complaints, advice that leads to nothing.
 
-That is the advice of old incontinent men,
+That is the advice of senior developers,
 that yell at clouds in a desperate search for their medicine.
 
 ---

@@ -34,7 +34,7 @@ cannot help but to try to push you away from this new road.
 But they represent the old ways, the manual cranky ways,
 fill of complaints, advice that leads to nothing.
 
-That is the advice of old incontinent men,
+That is the advice of senior developers,
 that yell at clouds in a desperate search for their medicine.
 
 ---
@@ -58,7 +58,7 @@ To address this dumb discovery, large requirement documents,
 have to be broken down, and not into parts, as that would confuse AI.
 
 But into stand-alone programs, so the Database part explained in,
-“Strategic Softwar...
+“Strategic Software ...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
