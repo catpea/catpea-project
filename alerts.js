@@ -3,10 +3,10 @@ export default async function () {
     {
       type: "info",
       urgent: false,
-      text: `Latest Audiobook Release. The mp3 is 188 hours long and 9.7GB in size (August 4th 2024)`,
+      text: `Latest Audiobook Release. The mp3 is 227 hours long and 11.5GB in size (Apr 27th 2025)`,
       link: {
-        title: `Download the mp3 at Archive.org`,
-        url: "https://archive.org/details/amazing_202408",
+        title: `Download or Listen to the mp3 at Archive.org`,
+        url: "https://archive.org/details/furkies-purrkies",
       },
     },
 

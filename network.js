@@ -53,10 +53,10 @@ export default async function(){
     {
       title: 'Audiobook',
       iconClasses: ['bi', 'bi-book'],
-      url: 'https://archive.org/details/amazing_202408',
+      url: 'https://archive.org/details/furkies-purrkies',
       navigation: true,
       external: true,
-      new: false,
+      new: true,
     },
 
     {
