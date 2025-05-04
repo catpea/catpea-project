@@ -12,7 +12,7 @@ audio: poem-1888.mp3
 image: poem-1888-illustration.jpg
 images: null
 artwork:
-  - https://catpea.com
+  - https://unsplash.com/photos/the-sun-is-setting-over-a-field-of-tall-grass-UfIpCGwxYN8
 resources: null
 features:
   video: true
