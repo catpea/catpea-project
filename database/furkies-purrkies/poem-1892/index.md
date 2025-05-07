@@ -1,0 +1,206 @@
+---
+id: poem-1892
+guid: 0e812cd3-ff8d-4fe6-a129-cffba254206e
+title: Transcendence; Or, Philosophy In Not Optional, And Neither Is Greatness
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-05-07T00:11:18.264Z'
+lastmod: null
+weight: 189200
+audio: poem-1892.mp3
+image: poem-1892-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/people-walking-on-dirt-road-between-trees-during-daytime-uTEUQ2b5iI4
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+There is an entire layer of industries,
+taking advantage of people still growing up.
+
+Look no further than your High School teacher,
+who tricked you into Cramming while saying memorization is bad.
+
+An you no doubt know that old saying,
+“A sucker is born every minute.”
+
+That just means, it is easy to take advantage of a person,
+who is not yet fully educated.
+
+The worst crimes of all,
+use psychological manipulation.
+
+People who were forced to work on plantations,
+were unaware cities existed.
+
+And people in religions families,
+are just taught the wrong things.
+
+At home for easy control,
+and at some churches to make a sale.
+
+One popular church in America,
+will sell you on becoming an Angel, or a God is you are nice.
+
+Some churches,
+charge mandatory membership fees, like a gym.
+
+It seems normal,
+for people who don’t know any better.
+
+Who think being religious,
+is normal.
+
+Even atheists, are kind of in trouble,
+a normal person does not need a label.
+
+---
+
+How do you fix it,
+you first have to undo the fix.
+
+You will need to switch your lifestyle,
+away from stress, poverty, and overwork.
+
+You see how,
+impossible that seems.
+
+And the first three to thirty days of your freedom,
+are going to filled with incredible doubt.
+
+But, your mind is unable to comprehend books,
+when you are overworked, scared and stressed out.
+
+Even narrated books, are quit impossible,
+you stressed boss who maybe listening to them all the time…
+
+Is probably just listening to junk books,
+action thrillers, that he only half remembers.
+
+You need to start with books,
+about the history of human thought.
+
+About people using their minds,
+to transcend what they thought their limits were.
+
+Every time you think to yourself “I just can’t”
+that is actually incorrect, that is just stress.
+
+You are just as smart as the smartest human beings,
+and you can understand hard core philosophy from Kant to Zizek.
+
+In fact you can understand Zizek, Bukowski, Pirsig,
+or even [Alexander The Supertramp][A]…
+
+Much, much better,
+then they understood themselves.
+
+They are just broadcasting,
+out in nature, you are doing the philosophical comprehension.
+
+---
+
+You have to understand, that what you think is your limit,
+is just your stress, your environment, your box.
+
+If you give yourself three months on the Appalachian Trail,
+which has a little city every 4 miles, on average, or so.
+
+Your mind will recover,
+become more analytical.
+
+And at the end of your first Adventure Trimester,
+the length of the thoughts you can weave will lenghten.
+
+From about an inch or two,
+to six or maybe nine feet.
+
+The length of a long cow,
+for those of you on the boring metric system.
+
+---
+
+So the problem is two fold,
+yes you lack knowledge, and you must become a philosopher.
+
+But also, you are not going to go anywhere,
+if your thoughts are just about an inch long.
+
+This is the fight or flight length,
+just about what a scared shitles ape can pack in panic.
+
+---
+
+Prepare your body and mind, for days of doubt,
+as you transition from worker bee to Philosopher.
+
+The philosophers also have saying,
+a force of nature is born every minute, and it drags along everyone else.
+
+Bring family and friends on your adventures,
+a Philosopher is both a Student and a Teacher, so you will have new responsolilites soon.
+
+---
+
+After a few weeks as you recover,
+your mind will naturally desire stories.
+
+And that is your narrated books, about Adventure and Philosophy,
+which honestly is the same beautiful thing.
+
+A proper adventure book,
+just describes a Philosopher out on the edge, where they do their learning.
+
+---
+
+The thousands of books that are loved by great beings,
+will help you find your path towards greatness.
+
+You won’t know what the future will feel like,
+that is the nature of transcendence, it is an upgrade.
+
+But just from adventure,
+you will know the gravity of it.
+
+You will know that it is your duty, responsibility, mental health,
+and that all the good things in you, and your future self need it.
+
+Greatness is your oxygen,
+it is your power to live, to grow.
+
+Get up, and go buy a Backpack and a Tent,
+set it by the door as a reminder that Greatness awaits.
+
+And open your eyes, begin observing,
+what your current environment is doing to you.
+
+Start asking,
+is this helping me, or is this hurting me.
+
+It is not a question of it being too hard,
+when your depression, stress, fight an flight lifts.
+
+You will cry, about what you have done to your self through overwork,
+how easily you were tricked into it.
+
+And how powerfully and courageously,
+you fought.
+
+Even though, overwork, stress, crappy boss, apartment,
+and mountain and mountains of junk you didn’t needs.
+
+Were not even close to what you wanted,
+[what your body and mind needs for health, fitness, sanity, life and clarity][0].
+
+Please remember,
+[you are meant to grow all the way up and become a great being][1].
+
+[A]: https://www.youtube.com/watch?v=Mwx3RvDWvDM
+[0]: https://www.youtube.com/watch?v=hPSvdKTEZug
+[1]: https://www.youtube.com/watch?v=EzXP5PjRHjM&list=PLXiz2lWve6AJrEVuAjfL4eaBDEMfdbKa6
