@@ -130,10 +130,10 @@ and very possibly headaches and tiredness.
 ---
 
 Lastly, for those of you who are seeking a solid workout,
-just jog with light dumbells.
+just jog with light dumbbells.
 
 Once you get up to jogging with 8 pounds,
-for an hour or two, go intoa gym.
+for an hour or two, go into a gym.
 
-And broaden the range of your standing dumbell excersices,
+And broaden the range of your standing dumbbell exercises,
 while pushing the intensity higher, by now dancing to faster music.
