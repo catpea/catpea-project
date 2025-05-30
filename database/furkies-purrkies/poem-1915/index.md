@@ -1,0 +1,168 @@
+---
+id: poem-1915
+guid: 5bf226da-3912-4f8c-96b2-a02c18bf856a
+title: Genius! Or, The Dunces Can Easily Help Themselves, But Geniuses Are Very Nearly Beyond All Hope
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-05-30T00:14:46.020Z'
+lastmod: null
+weight: 191500
+audio: poem-1915.mp3
+image: poem-1915-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+Genius is a silly thing, for silly people,
+but in a good way too, because nobody ever really stops learning.
+
+Put your self in charge of a team of software developers,
+and in comes a genius for an interview.
+
+It is best that you show them around,
+and let them learn how life really works.
+
+Be kind be generous,
+see it as an urge to learn beautifully, because that is all that is.
+
+---
+
+Genius is also a cruel thing,
+because it makes people who think it is real, give up.
+
+It is also an idiot thing,
+as it makes men pay membership fees.
+
+---
+
+And it is also a mockery of architectural knowledge,
+it presents puzzles void of context.
+
+That “the geniuses” study,
+for the puzzles sake.
+
+Where in reality, you learn intricate and meaningful things,
+with which you build living cities that you can navigate.
+
+Provided that you remember,
+what the heck you intended the day you made the mess.
+
+---
+
+Programming already demonstrates the difference,
+between real and fake education.
+
+At the end of a real day of learning,
+you become more powerful.
+
+At the end of a fake day of learning,
+you are handed more disconnected noise.
+
+That will work out great to merely convince you,
+that you learned something... when you pass the multiple chose exams.
+
+---
+
+Programming is very useful to show how the mental models,
+or the cities are architecture are the true treasure.
+
+For one, your start is always different,
+like starting a computer game at a random level.
+
+So all that you know, ought to be flexible, adaptable,
+you will be navigating twisty little passages under constraint.
+
+You may have access to a database, or just a key value store,
+you maybe online, or only have a cache of files to work with.
+
+You may assign a value to some variable that yo hope to save,
+or you may need to check revision, give it a universally unique id.
+
+And understand, that at least at first, your data will not show up,
+and even if eventual consistency is reached, it may not win the edit conflict.
+
+At least not until, a human or AI,
+comes to resolve the conflict manually, if you are lucky.
+
+You may have access to files,
+but it is unlikely.
+
+You could hope to set an event in the future,
+but what if the phone is in low power mode.
+
+Then you may need to schedule an alarm on a remote server,
+and hope to push a notification.
+
+---
+
+Natural born genius and talent,
+is revealed as a fantasy, a hope to be more special.
+
+---
+
+Above all, don’t let it trick you,
+that you are not smart.
+
+That is very dangerous,
+because that is what you school is already doing to you.
+
+Standardized education, can’t work,
+as there is no such thing as a standard being.
+
+Only individualized instruction can work,
+and even in the age of AI that could give you just that.
+
+It is better, that you, yourself, accept the responsibility,
+for your own education, and use AI as a tool.
+
+Next to narrated books, written by philosophers, adventurers,
+science popularizes.
+
+But even more important than listening to narrated books,
+is where you listen to them, where you chat with your AI.
+
+It can’t be the classroom, it can’t be work, it can’t be a busy city,
+it can only be adventure, the hiking trail.
+
+Appalachian Trail, Pacific Crest Trail,
+The Continental Divide Trail.
+
+Stars, Grizzlies, The White Blaze,
+Trail Magic, Trail Mix.
+
+Clever Bobcats trying to frighten you,
+into giving up all your snacks.
+
+And maybe a tiny bit of you buttock,
+certainly if you’re a “genius”.
+
+---
+
+It is away from the city,
+where the apple strikes you on the head.
+
+Away from the stress,
+when you dream up your benzine ring.
+
+Out in nature,
+where you discover the depth of your pond.
+
+It is the ancient quest,
+that unmixes your mind.
+
+You invent first and write later,
+you will invent nothing at a keyboard.
+
+You will find nothing near, what you once thought genius was,
+when you are locked in a concrete maze, dashing forward in a rat race.
+
+The world needs more than what you know, it needs you to flow,
+it need you to grow all the way up, until you become a great being.
