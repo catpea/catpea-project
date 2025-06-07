@@ -1,0 +1,139 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+MikiMikiMeowMeow; Or, Getting Fancy With AI
+Friday • June 6th 2025 • 6:33:50 pm
+
+Above all, the how, is you give your AI a script that you review and customize,
+and it creates the initial code which is similar to a simple wiki that can edit is own code.
+
+---
+
+Why will anyone will give you money,
+because you will customize an AI in a way they need.
+
+For example, you will do the research, text programming and maintenance,
+to create valid pixel art sprite sheets so that game characters can neatly walk.
+
+You create such a service out of curiosity, and you take weeks and months,
+the person who needs sprites, has no time, they have a game to release.
+
+To them your sprites will be more valuable than you can imagine,
+and that is why they will give you money.
+
+They give you a little bit of money,
+so that they can make a bunch of money.
+
+---
+
+Credit card processing security is a solved problem,
+basically you pull a transaction id from your payment processor.
+
+If a hacker was to intercept it, which is weird,
+because it does not need to be saved anywhere.
+
+They can’t do anything with it, it is meant for one purchase,
+it has an expiration, cancel, and pay.
+
+So the security is done by the the credit card company,
+your only real worry is refunds.
+
+But we fix that as well, you give people free credits,
+so that they can test your product.
+
+They only give you money when they love it,
+it is a low fee, tested, there will be no charge-backs.
+
+---
+
+They are buying credits on top of the free ones you give them,
+these extra credits represent a quota limit.
+
+Eventing has a quota limit, you can’t send a gazillion emails,
+your very ISP won’t let you download a gazillion files.
+
+Ne notion of credits makes the quota limit,
+transparent, and you have multiple levels so that heavy user can pay more.
+
+---
+
+Now lets talk about system architecture,
+there is an API endpoint, but that is boring.
+
+If another user of a pixel world compatible system buys your service,
+a cute (there is that word again) representative of your system will show up in their lobby.
+
+It will be a system-compatible character that will notify them about quota,
+answer billing questions, and alert them to system status, very simple.
+
+It is a decoration, on top of a standard way of doing things,
+that allows their other bots to talk to yours.
+
+So a bot that generates static pixel art...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...e sample implementation of the first three,
+as it may make for an interesting chat with the AI.
+
+But the bots are too new to fully understand,
+we can however be sure that server-push is used here.
+
+So you send a command to the MikiMikiMeowMeow,
+it calls up a remote or [local ai][local-ai] and uses server push to deliver the response.
+
+To keep things simple, which bots are on the MikiMikiMeowMeow page you are on,
+are stored in a related MikiMikiMeowMeow page, which is server push enabled.
+
+If you are on a page named router, router/bots,
+would contain the AI that is present on the page.
+
+This means that there are sub pages, or special pages,
+for every page in the MikiMikiMeowMeow.
+
+---
+
+Finally, I just want to clarify, that deploying a business,
+or an AI service, does not include MikiMikiMeowMeow code.
+
+But this may not mean that the code relies on huge external modules,
+ we have entered an age, of purpose built apps.
+
+Ones that run without administrative areas and configuration files even,
+they are programs written by AI for a specific purpose.
+
+And that means, that their source code is a detailed step by step AI prompt,
+in MikiMikiMeowMeow, so it is just a text document.
+
+I think modern LLM can generate secure and valid code,
+but it is always good to check.
+
+So another AI, a professional service will need to run a security scan,
+both externally on your website, and internally on your code.
+
+It is a good idea,
+whether it is generated or written manually.
+
+Using off the shelf content management systems,
+and shopping carts, does not always mean that it is safer.
+
+It is usually a massive code-base with external dependencies,
+so you have to monitor the content management system, the shopping cart, and program libraries.
+
+It won’t be long, before someone tests this,
+and determines purpose built AI apps are just safer.
+
+The code base is so much smaller that it boggles the mind,
+supply-chain attack is non-existent as AI writes the modules too.
+
+Asking AI to write secure code,
+is probably already safer.
+
+You are not asking the AI to vibe code,
+you are using other AI to write detailed and security minded instructions first.
+
+
+[tagging]: files/tags.txt
+[routing]: files/router.txt
+[history]: files/storage.txt
+[local-ai]: https://ollama.com/search
