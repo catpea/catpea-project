@@ -1,10 +1,10 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-Of Tiny Superintelligence And Little WikiWiki Platform
+Of Tiny Superintelligence And A Little WikiWiki Platform
 Saturday • June 7th 2025 • 10:45:31 pm
 
-In months of chatting with AI, I have never been disappointing,
+In months of chatting with AI, I have never been disappointed,
 the few mistakes it made, came from letting it do too much.
 
 I suspect sometimes the computers that AI runs on,
@@ -69,7 +69,7 @@ Template strings are just the per...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ich documents have all of these tags.
+...ch documents have all of these tags.
 
 And then give it “animation”, “pixelart”,
 and it will scan the disk or an in memory-fs to return matching articles.

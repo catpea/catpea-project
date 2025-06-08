@@ -1,7 +1,7 @@
 ---
 id: poem-1924
 guid: 324667f0-11da-47ee-a5c2-ffcfb0c5ebd2
-title: Of Tiny Superintelligence And Little WikiWiki Platform
+title: Of Tiny Superintelligence And A Little WikiWiki Platform
 description: null
 tags:
   - furkies-purrkies
@@ -21,7 +21,7 @@ draft: false
 chapter: 13
 ---
 
-In months of chatting with AI, I have never been disappointing,
+In months of chatting with AI, I have never been disappointed,
 the few mistakes it made, came from letting it do too much.
 
 I suspect sometimes the computers that AI runs on,
