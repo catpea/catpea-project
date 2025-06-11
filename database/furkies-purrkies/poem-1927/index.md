@@ -1,0 +1,69 @@
+---
+id: poem-1927
+guid: f637796b-d020-4e93-a1ff-d03c00a1858d
+title: 'Ex Pluribus Unum Facere: A Proclamation To The Peoples of Earth'
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-06-11T00:15:53.977Z'
+lastmod: null
+weight: 192700
+audio: poem-1927.mp3
+image: poem-1927-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+  - https://pixabay.com/sound-effects/radio-waves-248661/
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+There is a sorrow deep in our time. A sorrow that is ancient, yet urgent. It echoes in the cries of the hungry, in the smoke of protest, in the silence of forgotten villages and overcrowded cities. It is the sorrow of a species divided, lost in misunderstanding, overwhelmed by noise, and torn by illusion of ineffective education.
+
+And yet; we are not powerless.
+
+We have within our grasp the remedy to this sorrow. It is not wealth. It is not arms. It is not domination over others, nor blind loyalty to nation or creed.
+
+It is authentic education.
+
+Not the education of fact-hoarding and test-taking, but the education of wisdom-seeking, wonder-stirring, world-healing understanding. Education that invites every human spirit to awaken, to see the Earth and each other with clarity and compassion.
+
+We do not speak of schooling, for too long has the classroom become a place of compliance, not creativity; of division, not unity. Schools, as they stand, are relics of an age obsessed with productivity and control, not with truth.
+
+And the truth is this...
+
+The future belongs to the educated soul.
+But what do we mean by education? We mean the kind that makes a being great. That stirs love for life, love for Earth, and love for generations yet to be born. The kind that teaches not only how the stars form, but why it matters that they do. The kind that helps one know not only the laws of nature, but the nature of love, dignity, empathy, and justice.
+
+Let there be no corner of the Earth where a child cannot hear:
+
+“You are a being of great potential. Not because of where you were born, not because of who you follow, but because you can learn to understand, and in understanding, learn to love the wold.”
+
+Let us be clear-eyed. Unless we raise a culture of greatness, we must not expect change. The time has passed for waiting on governments alone. The burden is too great, and too holy, to leave to institutions alone.
+
+Each person is now charged with the sacred duty of learning; and teaching.
+
+If you can read, teach someone who cannot. If you can question, help someone think. If you have found a moment of peace, bring another to it.
+
+The Earth has spoken: it cannot wait.
+We have argued long enough about borders and tribes. About whose laws matter most. But above all laws stands the higher law of decency. A refugee in fear is not illegal. A hungry child is not your enemy. A stranger who wants only safety, education, and peace; that person is your kin.
+
+Let us build the United States of the World, not as a government, but as a principle. One bound not by treaties, but by truth. One where the passport is curiosity, and the currency is wisdom.
+
+Let us be great. Not in conquest. But in compassion.
+
+Let us grow all the way up.
+
+Let us finally become the kind of beings this Earth has waited for us to be.
+
+No exceptions.
+
+In the spirit of Greatness, in the voice of Wisdom, and in the hearts of all who dare to love this world;
+
+Let us begin.
+
+And let it be known: the greatest revolution is the one that happens in the mind, when it chooses to seek understanding, and chooses never again to turn away from the suffering of others.
