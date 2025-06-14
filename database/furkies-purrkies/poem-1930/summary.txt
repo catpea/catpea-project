@@ -1,25 +1,8 @@
----
-id: poem-1930
-guid: 8436d130-10c6-4d39-851a-4501c729ae76
-title: Message From Mother
-description: null
-tags:
-  - furkies-purrkies
-date: '2025-06-13T23:40:30.434Z'
-lastmod: null
-weight: 193000
-audio: poem-1930.mp3
-image: poem-1930-illustration.jpg
-images: null
-artwork:
-  - https://catpea.com
-resources: null
-features:
-  video: true
-raw: true
-draft: false
-chapter: 13
----
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Message From Mother
+Friday • June 13th 2025 • 7:40:30 pm
 
 **What I Cannot Bear**
 
