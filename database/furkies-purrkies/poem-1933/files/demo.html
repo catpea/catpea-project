@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XML PEG Parser</title>
+    <title>XML PEG Parser with Mustache</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -104,7 +104,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🎯 XML PEG Parser</h1>
+        <h1>🎯 XML PEG Parser with Mustache</h1>
 
         <div class="section">
             <h3>Grammar Definition</h3>
@@ -113,11 +113,16 @@
 
         <div class="section">
             <h3>XML Input</h3>
-            <textarea id="xmlInput" placeholder="Enter your XML here...">
-<root>
-    <item name="first" value="hello">Content</item>
-    <item name="second" value="world"/>
-    <empty></empty>
+<textarea id="xmlInput" placeholder="Enter your XML here..."><?xml version="1.0" encoding="UTF-8"?>
+<root class="multi class test" class="btn btn-small" class="btn-primary" class="btn-secondary">
+    {#hello foo="bar"}Hello world{/hello}
+    {#if condition="true"}
+        <div>Conditional content</div>
+    {/if}
+    <div>Hello World</div>
+    <div >Content with space</div >
+    <item name="test">Regular item</item>
+    <img src="funny.jpg">
 </root></textarea>
             <br><br>
             <button onclick="parseXML()">Parse XML</button>
@@ -130,6 +135,7 @@
     </div>
 
     <script>
+
         // PEG Parser Implementation
         class PEGParser {
             constructor(grammar) {
@@ -303,13 +309,88 @@
         const xmlGrammar = {
             document: {
                 type: 'action',
-                expr: ['ws', 'element', 'ws'],
-                action: (result) => ({ type: 'document', element: result[1] })
+                expr: ['ws', 'prolog', 'ws', 'element', 'ws'],
+                action: (result) => ({
+                    type: 'document',
+                    prolog: result[1],
+                    element: result[3]
+                })
             },
 
             element: {
                 type: 'choice',
-                alternatives: ['selfClosingTag', 'normalTag']
+                alternatives: ['mustacheTag', 'selfClosingTag', 'voidTag', 'normalTag']
+            },
+
+            prolog: {
+                type: 'action',
+                expr: {
+                    type: 'repeat',
+                    expr: ['processingInstruction', 'ws']
+                },
+                action: (result) => {
+                    return result.map(([pi, ws]) => pi).filter(pi => pi !== null);
+                }
+            },
+
+            processingInstruction: {
+                type: 'action',
+                expr: [
+                    { type: 'literal', value: '<?' },
+                    'piTarget',
+                    'ws',
+                    'attributes',
+                    { type: 'literal', value: '?>' }
+                ],
+                action: (result) => ({
+                    type: 'processingInstruction',
+                    target: result[1],
+                    attributes: result[3]
+                })
+            },
+
+            piTarget: {
+                type: 'regex',
+                pattern: '[a-zA-Z_][a-zA-Z0-9_-]*'
+            },
+
+            voidTag: {
+                type: 'action',
+                expr: [
+                    { type: 'literal', value: '<' },
+                    'voidTagName',
+                    'attributes',
+                    'ws',
+                    { type: 'literal', value: '>' },
+                    'ws'
+                ],
+                action: (result) => ({
+                    type: 'element',
+                    name: result[1],
+                    attributes: result[2],
+                    children: [],
+                    void: true
+                })
+            },
+
+            voidTagName: {
+                type: 'choice',
+                alternatives: [
+                    { type: 'literal', value: 'area' },
+                    { type: 'literal', value: 'base' },
+                    { type: 'literal', value: 'br' },
+                    { type: 'literal', value: 'col' },
+                    { type: 'literal', value: 'embed' },
+                    { type: 'literal', value: 'hr' },
+                    { type: 'literal', value: 'img' },
+                    { type: 'literal', value: 'input' },
+                    { type: 'literal', value: 'link' },
+                    { type: 'literal', value: 'meta' },
+                    { type: 'literal', value: 'param' },
+                    { type: 'literal', value: 'source' },
+                    { type: 'literal', value: 'track' },
+                    { type: 'literal', value: 'wbr' }
+                ]
             },
 
             normalTag: {
@@ -324,7 +405,6 @@
                         throw new Error(`Mismatched tags: <${openTag.name}> and </${closeTag.name}>`);
                     }
 
-                    // Filter out null values from content
                     const filteredContent = content.filter(item => item !== null);
 
                     return {
@@ -343,13 +423,15 @@
                     'tagName',
                     'attributes',
                     'ws',
-                    { type: 'literal', value: '/>' }
+                    { type: 'literal', value: '/>' },
+                    'ws'
                 ],
                 action: (result) => ({
                     type: 'element',
                     name: result[1],
                     attributes: result[2],
-                    children: []
+                    children: [],
+                    selfClosing: true
                 })
             },
 
@@ -360,7 +442,8 @@
                     'tagName',
                     'attributes',
                     'ws',
-                    { type: 'literal', value: '>' }
+                    { type: 'literal', value: '>' },
+                    'ws'
                 ],
                 action: (result) => ({
                     name: result[1],
@@ -374,7 +457,8 @@
                     { type: 'literal', value: '</' },
                     'tagName',
                     'ws',
-                    { type: 'literal', value: '>' }
+                    { type: 'literal', value: '>' },
+                    'ws'
                 ],
                 action: (result) => ({
                     name: result[1]
@@ -414,7 +498,7 @@
                 type: 'action',
                 expr: {
                     type: 'regex',
-                    pattern: '[^<\\s]+(?:\\s+[^<\\s]+)*'
+                    pattern: '[^<{\\s]+(?:\\s+[^<{\\s]+)*'
                 },
                 action: (result) => {
                     const trimmed = result.trim();
@@ -434,10 +518,10 @@
                     expr: ['ws', 'attribute']
                 },
                 action: (result) => {
-                    const attrs = {};
+                    const attrs = [];
                     result.forEach(([ws, attr]) => {
                         if (attr) {
-                            attrs[attr.name] = attr.value;
+                            attrs.push({name:attr.name, value:attr.value});
                         }
                     });
                     return attrs;
@@ -498,6 +582,118 @@
             ws: {
                 type: 'regex',
                 pattern: '[ \\t\\n\\r]*'
+            },
+
+            // MUSTACHE TAG IMPLEMENTATION
+            mustacheTag: {
+                type: 'action',
+                expr: ['mustacheOpenTag', 'content', 'mustacheCloseTag'],
+                action: (result) => {
+                    const openTag = result[0];
+                    const content = result[1] || [];
+                    const closeTag = result[2];
+
+                    if (openTag.name !== closeTag.name) {
+                        throw new Error(`Mismatched mustache tags: {#${openTag.name}} and {/${closeTag.name}}`);
+                    }
+
+                    const filteredContent = content.filter(item => item !== null);
+
+                    return {
+                        type: 'element',
+                        templateType: 'mustache',
+                        name: openTag.name,
+                        attributes: openTag.attributes,
+                        children: filteredContent
+                    };
+                }
+            },
+
+            mustacheOpenTag: {
+                type: 'action',
+                expr: [
+                    { type: 'literal', value: '{#' },
+                    'tagName',
+                    'mustacheAttributes',
+                    'ws',
+                    { type: 'literal', value: '}' },
+                    'ws'
+                ],
+                action: (result) => ({
+                    name: result[1],
+                    attributes: result[2]
+                })
+            },
+
+            mustacheCloseTag: {
+                type: 'action',
+                expr: [
+                    { type: 'literal', value: '{/' },
+                    'tagName',
+                    'ws',
+                    { type: 'literal', value: '}' },
+                    'ws'
+                ],
+                action: (result) => ({
+                    name: result[1]
+                })
+            },
+
+            mustacheAttributes: {
+                type: 'action',
+                expr: {
+                    type: 'repeat',
+                    expr: ['ws', 'mustacheAttribute']
+                },
+                action: (result) => {
+                    const attrs = {};
+                    result.forEach(([ws, attr]) => {
+                        if (attr) {
+                            attrs[attr.name] = attr.value;
+                        }
+                    });
+                    return attrs;
+                }
+            },
+
+            mustacheAttribute: {
+                type: 'choice',
+                alternatives: [
+                    {
+                        type: 'action',
+                        expr: [
+                            'attributeName',
+                            'ws',
+                            { type: 'literal', value: '=' },
+                            'ws',
+                            'mustacheAttributeValue'
+                        ],
+                        action: (result) => ({
+                            name: result[0],
+                            value: result[4]
+                        })
+                    },
+                    {
+                        type: 'action',
+                        expr: 'attributeName',
+                        action: (result) => ({
+                            name: result,
+                            value: true
+                        })
+                    }
+                ]
+            },
+
+            mustacheAttributeValue: {
+                type: 'choice',
+                alternatives: [
+                    'quotedValue',
+                    'singleQuotedValue',
+                    {
+                        type: 'regex',
+                        pattern: '[^}\\s]+'
+                    }
+                ]
             }
         };
 
@@ -515,7 +711,6 @@
             try {
                 const parser = new PEGParser(xmlGrammar);
 
-                // Add some debugging
                 console.log('Parsing input:', input);
 
                 const result = parser.parse(input);
