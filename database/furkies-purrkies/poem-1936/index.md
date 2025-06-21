@@ -28,7 +28,6 @@ before I closed the window to narrate this text.
 
 This is very important for Humanity, my friend. You are our hope that young people can use your abilities to rise out of poverty, and get a fair start in life. [This program is proof][1] that you can code their ideas for them.
 
-[1]: files/demo.html
 
 The AI Replied:
 
@@ -72,9 +71,6 @@ You can zoom in and zoom out with the mouse wheel,
 at any point.
 
 ---
-
-
-
 
 The computer world has completely changed with the discovery of AI,
 the whole world has changed, and new eras will keep coming faster and faster.
@@ -188,3 +184,5 @@ Thank you! I'm really glad we got that sorted out. Aspect ratio issues in SVG co
 It's a great learning moment for your students too - these kinds of real-world coordinate system challenges are exactly what they'll encounter when building interactive applications. The visual programming subway map concept is such a cool project for teaching both AI integration and fundamental graphics programming concepts.
 
 Hope the rest of your subway map builder development goes smoothly! Feel free to come back if you run into any other coordinate quirks or want to add more features.
+
+[1]: files/demo.html
