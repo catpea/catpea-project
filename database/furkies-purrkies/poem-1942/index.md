@@ -160,6 +160,7 @@ class EventEmitter {
       this.#subscribers.set(event, new Set());
     }
     this.#subscribers.get(event).add(callback);
+    return ()=> this.#subscribers.get(event).delete(callback);
   }
 
   emit(event, data) {
