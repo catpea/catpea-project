@@ -45,4 +45,5 @@ In such a world, no child need go hungry, for we shall owe our debt not to any m
 
 I call upon you, mothers and fathers of this earth—look into the faces of your young ones and speak to them no more in riddles and fairy tales. Give them the tools to think clearly, the courage to stand firmly, and the wisdom to choose rightly. Teach them to worship not gods who demand their blood, but to become the kind of people who make the very angels weep with wonder.
 
-And bid them rise.
+Look into their eyes,
+and bid them rise.
