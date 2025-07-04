@@ -1,7 +1,7 @@
 ---
 id: poem-1950
 guid: 64733fe9-ff0b-4b62-a669-f7297c5fbde3
-title: My Lite AI Tests
+title: My Little AI Tests
 description: null
 tags:
   - furkies-purrkies
