@@ -1,0 +1,124 @@
+---
+id: poem-1950
+guid: 64733fe9-ff0b-4b62-a669-f7297c5fbde3
+title: My Lite AI Tests
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-07-04T00:33:14.473Z'
+lastmod: null
+weight: 195000
+audio: poem-1950.mp3
+image: poem-1950-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+I am a computer programmer, and my hours are very precious to me,
+but I have spent about a month testing AI, that is how big of a deal it is.
+
+Originally, I ignored AI, completely,
+my definition was that a real AI would understand its own code.
+
+And I still believe that, however,
+I now understand that AI is a family of machines.
+
+Perfect example is that just days ago a popular AI,
+dropped in intelligence by a lot – it is now a dumb AI, still very useful.
+
+I’ve noticed that a popular privacy search engine,
+out of nowhere offers AI, probably the same, but slightly different model.
+
+And the one I have been using most recently, is actually smart,
+it thinks, there is a strong intellectual presence.
+
+I originally heard of it when another nerd said:
+"It is ridiculous not to use it" - yes, he was actually telling the truth.
+
+And when I asked it a flimsy question,
+about upgrading a complex part of my program, as a test.
+
+It offered three options,
+and asked me which route to take.
+
+The first one it presented was the correct one,
+it was about application geometry and using world coordinates.
+
+As opposed to real mouse coordinates,
+the application world has pan and zoom, so much different from screen x and y.
+
+---
+
+When I tried translating my text, research and poetry,
+the dumb AI could only speak intelligent english, with lots of space.
+
+The smart AI simply wrote in the style I asked for,
+it was a pleasure to read, and in fact became my new hobbby.
+
+Several time, I asked the smart AI to translate a poem I wrote,
+and then I did not read it, until I was narrating it.
+
+The smart AI, was awesome to narrate,
+and I had to look up some words.
+
+---
+
+Finally, please be aware, that AI is changing weekly,
+your impressions of AI are likely outdated.
+
+And you are probably asking the wrong thing,
+in probably the wrong way.
+
+Time has come for us all to take time from out busy lives,
+and spend months studying top artificial intelligence.
+
+The one I have been using is free,
+I only paid for image generating AI to learn to use it.
+
+It is not that great yet, thought amazing at pixel art,
+and when it does become great, it will likely be expensive.
+
+---
+
+I will close this text, with sharing the most magnificent thing,
+the AI has generated for me.
+
+I asked it to create color transformation functions,
+so that I can generate some pretty swatches.
+
+Let me read you the function names that the final version includes,
+and just to let you know,
+
+Each time you give the function a different color,
+it will create a slightly different swatch.
+
+I believe these have been taken from scientific literature, 3D render engines,
+games, and maybe even in some incredible way from nature her self.
+
+```js
+
+['darkOceanDepths', 'nightLakeReflection', 'foxfire', 'moonlessForest', 'deepCaveAmbient', 'terminatorVision', 'predatorThermal', 'nightVisionGoggles', 'cyberpunkNeon', 'ghostlySpectral', 'nebulaDust', 'plutoAtmosphere', 'blackHoleAccretion', 'voidCold', 'cosmicRadiation',
+'atmosphericScatter', 'sunsetGradient', 'mistEffect', 'chromaticAberration', 'iridescence', 'oilSlick', 'soapBubble', 'prismDispersion', 'sunlightTransform', 'moonlightTransform', 'starlight', 'bioluminescence', 'butterflyWing', 'firefly', 'underwaterCaustics', 'deepSeaGlow', 'auroraTransform', 'lightning', 'canopyFilter', 'xenCrystal', 'gravityGun', 'combine', 'headcrabInfestation', 'lambdaCore', 'portalEnergy', 'radioactive']
+
+```
+
+I could never,
+make a list like these.
+
+---
+
+Lastly, I saw a very tiny flash of brilliance once,
+a glimpse of what the AI will become.
+
+The world has not changed it is new,
+the future isn’t just here, but we are moving forward much faster now.
+
+I suspect, even the dumb AI,
+can give you better education than any school in the world.
