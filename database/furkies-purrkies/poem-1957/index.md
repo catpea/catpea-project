@@ -1,7 +1,7 @@
 ---
 id: poem-1957
 guid: bb6f9e6b-7722-43f8-9016-9338f046f8c3
-title: Old Is Powerful Again; Or, Unintendo Cansequencs Of Abandoning Old Code to Open Source In The Age Of AI!
+title: Old Code Is Powerful Again; Or, Unintended Consequences Of Abandoning Old Code to Open Source In The Age Of AI!
 description: null
 tags:
   - furkies-purrkies
