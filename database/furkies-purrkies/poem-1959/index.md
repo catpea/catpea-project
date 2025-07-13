@@ -1,0 +1,94 @@
+---
+id: poem-1959
+guid: 00d73e5c-8284-4717-84e1-547c8f4b1fe2
+title: Artificial Intelligence As A Future Machine
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-07-13T00:32:17.319Z'
+lastmod: null
+weight: 195900
+audio: poem-1959.mp3
+image: poem-1959-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+AI works, but like with any other machine,
+there a lot of settings you have to figure out.
+
+All the negative AI news are just news articles in reverse, ignore them,
+they are designed to catch your attention and puke an ad at you.
+
+The cranky senior programmers, they just hate everything,
+because they let their boss poison their curiosity and drain their creativity.
+
+They hate their life, their, job, their boss, their gut, their cubicle,
+their workers, the printer, microwave, and their face.
+
+Those people, need to quit their job, and re-group their mind,
+they need to walk the AT, PCT, and CDT, and stop complaining.
+
+Being right in the beginning, we get to use the powerful AI for free,
+in return for the problem solving training that it receives by watching us think.
+
+That is great too, otherwise the good AI would not be within our reach,
+ there was no chance for you to walk with Watson, consider yourself lucky.
+
+---
+
+You can download AI to your computer through the ollama project,
+as another AI for help, it is just two or three commands.
+
+It is slow on a cheap computer, but it becomes yours,
+it is like a slow internet connection if you have a computer as ancient as mine.
+
+So, already no one can take it away from you,
+and three projects are live trying to put an optimized AI on your phone.
+
+---
+
+This is your first real call, to start using AI, it is great as of about a month ago,
+it is ridiculously powerful, overpowered, and infinite.
+
+So much so, that you have to find your own way of speaking with it,
+I asked one today to improve my code up to a highest standard.
+
+It turned 5 lines of code, into 150, smartly covering all the errors,
+all inputs validated, AI is superhuman, and it makes you super powerful too.
+
+---
+
+You need to set school aside, at the very least in your mind,
+and learn enough programming to write that 5 lines.
+
+And the first program you have to create,
+is your application builder, see HyperCard, or Automator.
+
+You learn code along the way,
+as you re-word and fix what AI missed.
+
+The AI will forever need the human mind, your ideas,
+because you are the precious source code.
+
+But the sooner you start programming, the better,
+you have to make a wise choice now.
+
+Choose between the impression of education and hoop jumping,
+or learning programming, learning for real.
+
+And understanding what learning really is,
+and how an authentic education transforms you at every step.
+
+You are not meant for an office cubicle,
+you are meant to grow all the way up, until you become a great being.
+
+Choose authentic education,
+the older you will never regret it.

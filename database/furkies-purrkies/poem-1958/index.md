@@ -106,5 +106,5 @@ Asking for Bootstrap, or [bootswatch][1],
 will result in a neat looking UI, to boot.
 
 
-[1]: https://bootswatch.com/
+[1]: https://github.com/thomaspark/bootswatch/
 [research]: files/research-example.txt
