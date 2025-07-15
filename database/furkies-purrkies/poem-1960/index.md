@@ -1,7 +1,7 @@
 ---
 id: poem-1960
 guid: f0d83593-b75d-46e8-8dec-b977857fd09f
-title: Behold! The Divine Awakening of Titans; Sovereign Minds Who Shatter the Chains of Mediocrity and Ascend as Philosopher Kings, Übermensch, Visionary Architects of Tomorrow's World
+title: Behold! The Divine Awakening Of Titans; Sovereign Minds Who Shatter The Chains Of Mediocrity And Ascend As Philosopher Kings, Übermensch, Visionary Architects Of Tomorrow's World
 description: null
 tags:
   - furkies-purrkies
