@@ -1,0 +1,111 @@
+---
+id: poem-1965
+guid: 1049638a-cdde-48a6-87a3-db7aa393f216
+title: 'Signals, Signals: But What Can I Do With Them In My Laboratory?'
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-07-19T01:18:45.615Z'
+lastmod: null
+weight: 196500
+audio: poem-1965.mp3
+image: poem-1965-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+I just went to svelte’s website,
+and copied their two most fanciful examples.
+
+Updating a numeric value,
+at the click of a button.
+
+And updating webpage text,
+based on an input box.
+
+And the little signals library that I programmed for this text,
+was able to handle both much better than svelte.
+
+And svelte is the nicest HTML framework,
+even with the ruinous runes that they just added.
+
+Out little signal library,
+shamed a massive framework.
+
+Including Rx,
+which my operator names are based on.
+
+I’ve put very little effort into it,
+everything is like 3 lines of code in size.
+
+---
+
+This tells me that signals,
+are a force of nature.
+
+They are the future, HTML extends JavaScript,
+and signals extend HTML making it reactive.
+
+As you can see in the [attached code][0],
+remember to click [view source on the HTML demo page][1].
+
+They maybe the best starting point
+for learning JavaScript and HTML programming.
+
+It is the noblest code, and most respectful,
+as it is both simple and profoundly enabling at every line.
+
+Print out this code, and pace with it,
+take it with you everywhere you go.
+
+Turn all your waiting, walking and exercising,
+into learning, and getting goosebumps, and getting mad at High School.
+
+---
+
+I left some unfinished operators,
+but you should never feel that you have enough of them.
+
+And as you can see with setInnerTextOf,
+add you own, especially on per program basis.
+
+---
+
+Your custom operators,
+become the core of the vocabulary of your application.
+
+---
+
+Reactive programming is a natural extension of JavaScript,
+but you can’t hope to learn it by looking at lists of operators.
+
+You start with a Pulse, or a Signal,
+and then you add .map, .filter, .combineLatest.
+
+And signal creation functions like fromEvent,
+where you tap into HTML elements.
+
+Be it keyup of an input box,
+or click of a button.
+
+From here, operators come to you naturally,
+what else could you do or need when from event five you user interface data.
+
+You just combine it, map it,
+and subscribe to the result.
+
+That you can then send to server as action,
+or database as record.
+
+Public AI understand it well,
+it will give you 99.5% correct response.
+
+[0]: files/signals.js
+[1]: files/example.html
