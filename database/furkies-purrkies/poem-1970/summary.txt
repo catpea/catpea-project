@@ -1,0 +1,71 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Application Design: You Will Lose Control, So Give Yourself Weapons First
+Wednesday • July 23rd 2025 • 6:28:53 pm
+
+Above all, you need to be able to rip out code out of your program,
+even if just to gently replace something, or upgrade a feature.
+
+So plug-in architecture is a must,
+and since it naturally divides things.
+
+It goes a long way,
+to help you communicate your needs with artificial intelligence.
+
+---
+
+**Napoleon:** *Mes jeunes soldats!* Listen well - in war, as in your programming, you must build armies that can be divided yet never conquered! When I organized the Grande Armée, each corps was complete unto itself - its own artillery, cavalry, supply trains. Why? Because I knew that in the heat of battle, communications fail, plans crumble, and you must rely on independent units to seize victory! Build your applications the same way - each component strong enough to stand alone, yet powerful when united!
+
+---
+
+The design of an application is both
+Administrative and a Military Campaign.
+
+You become a ruler and administrator,
+who will engage in multiple military campaigns.
+
+This is because even your best designs,
+that closely follow emergent features of other applications.
+
+Are rendered into Swiss cheese,
+by your savant and genius nature.
+
+**Alexander:** Young conquerors of the digital realm! When I set forth from Macedonia, did I know I would face war elephants in India? Greek fire in Persia? The horse archers of Scythia? *Never!* Yet this is the glory of true conquest - each new territory teaches you warfare you never imagined! Your applications will be the same. Do not expect to know all your battles before you fight them. Instead, cultivate the spirit of adaptation - when you meet your war elephants, invent new tactics on the field! Embrace the unknown challenges, for they will make you invincible!
+
+You enter the world of application design,
+to take care of all the needs.
+
+And then you begin discovering,
+revolutionary features, not previously known in the context.
+
+---
+
+**Darius:** *Young administrators of the code!* Learn from one who ruled from the sunrise to the sunset - the secret of governing vast complexity is knowing when to trust your systems over your oversight. When my empire stretched across three continents, I could not personally manage every village tax collector or mountain fortress. I learned to create str...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...d tools that can accomplish in hours what would take you weeks of precision work, *use them!* Do not let pride in craftsmanship blind you to strategic advantage. Victory belongs to those who choose the right weapon for the moment, not the prettiest one!
+
+Therefore, know that you are unable to predict the future of your application,
+no matter how genius your thinking.
+
+The only thing that you can be certain,
+is that you will encounter interesting challenges, neat surprises.
+
+And probably lose control,
+over seeing the entirety of your application in great detail.
+
+**Darius:** *Future rulers of digital realms!* Accept this truth that all great kings must learn - no single mind, however brilliant, can grasp every detail of a vast domain. From the gold mines of Lydia to the spice routes of Bactria, I learned to see through the eyes of trusted governors, to build systems that informed me rather than trying to control everything personally. Embrace this limitation! Create applications that can grow beyond your direct oversight, and you will rule territories greater than any single architect could manage!
+
+You will however, be able to see it well,
+a brilliant plugin at a time.
+
+Treat it as military campaign,
+a wise victory at a time, will eventually get you where you need to be.
+
+**Napoleon:** *Mes futurs généraux!* Master this principle: never fight all your battles simultaneously! I conquered Europe by concentrating my force at the decisive point, achieving victory there, then moving to the next objective. Your applications should follow the same strategy - perfect one component completely, then advance to the next challenge. This is how empires are built, one brilliant victory at a time! Remember: *la guerre, c'est l'art du possible* - war is the art of the possible!
+
+**Alexander:** *Students worthy of the Academy!* Even I, who dreamed of reaching the ends of the earth, learned that immortal glory comes through mastering each challenge as it arises. From the Granicus to the Hydaspes, each victory taught us to fight the next battle. Do not be overwhelmed by the magnitude of your vision - instead, let each conquered challenge prepare you for greater triumphs ahead! This is how legends are born!
+
+[1]: https://astexplorer.net/
