@@ -1,7 +1,7 @@
 ---
 id: poem-1979
 guid: 97aca434-3fe7-4333-97a8-4a9895586d6d
-title: Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligennce
+title: Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligence
 description: null
 tags:
   - furkies-purrkies
