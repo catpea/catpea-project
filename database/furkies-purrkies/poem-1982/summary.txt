@@ -1,0 +1,14 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Color Mlue; Or The Reactive JavaScript Turtle
+Monday • August 4th 2025 • 9:05:29 pm
+
+This program is available on [github],
+and [can be installed][npm] via ```npm install mlue```;
+
+But let us talk about it,
+lets go live...
+
+[github]: https://github.com/catpea/mlue
+[npm]: https://www.npmjs.com/package/mlue
