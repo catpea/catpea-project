@@ -80,7 +80,7 @@ be sure to trigger the needed functions.
 Arrays famously have more than just add delete, push, splice,
 they expose all their contents by an index mymber.
 
-So array 5, gives you access to the fifth element in the array,
+So array 4, gives you access to the fifth element in the array,
 assigning to it, now triggers the watcher and it announces the change.
 
 I coded peliminary what was added, what was removed, what was reordered,
