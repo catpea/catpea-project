@@ -1,0 +1,109 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+No More Homework, Mother!
+Friday • August 15th 2025 • 9:38:05 pm
+
+Hear me out, sit down,
+because Homework only slows me down—
+I need to learn programming,
+I'm the smartest kid in town!
+
+Those spelling tests are boring,
+And math sheets make me frown,
+When JavaScript has syntax
+That turns my world around!
+
+I don't need cursive writing,
+When data types await,
+With strings and bools and numbers,
+Control flow is my fate!
+
+Why practice multiplication
+When callbacks call to me?
+And promises are promising
+What async/await can be!
+
+Forget about my book report—
+Map, filter, and reduce
+Are functional and wonderful,
+They turn my brain cells loose!
+
+EventEmitter's calling,
+With "once" so curious and neat,
+While HTML's structure beckons
+With attributes so sweet!
+
+My teacher wants me coloring,
+But CSS selectors shine,
+The box model's like building blocks—
+Flexbox and grid align!
+
+Responsive design is magic,
+It shrinks and grows with style,
+While DOM manipulation
+Makes elements dance and smile!
+
+I'll select and modify things,
+Make buttons click and pop,
+Event handling's thrilling—
+My learning just won't stop!
+
+I'll make web pages beautiful,
+With designs that make you "Wow!"
+Browser add-ons? Easy peasy!
+Node utilities? I know how!
+
+Electron desktop apps await,
+With windows I'll create,
+Then bring in AI assistants—
+Let THEM do homework late!
+
+So Mother, please don't worry,
+Though homework's on the floor,
+I'm learning something better—
+I'm programming evermore!
+
+My brain is like a compiler,
+My thoughts are loops that run,
+While other kids play hopscotch,
+I debug bugs for fun!
+
+So cancel parent-teacher night,
+Tell them I'm not behind—
+I'm just a tiny genius
+With a most peculiar mind!
+
+---
+
+Below is a list of the programming concepts mentioned in the poem, each linked to relevant content on the Mozilla Developer Network (MDN):
+
+- **JavaScript**: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Syntax**: [JavaScript syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
+- **Data types**: [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- **Strings**: [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- **Booleans**: [Boolean](https://developer.mozilla.org/en...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...rg/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- **Map**: [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- **Filter**: [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+- **Reduce**: [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+- **EventEmitter**: [EventEmitter (Node.js)](https://nodejs.org/api/events.html#class-eventemitter) (Note: MDN does not cover Node.js-specific APIs like EventEmitter, so linking to Node.js documentation)
+- **Once (EventEmitter)**: [EventEmitter: once()](https://nodejs.org/api/events.html#eventemitteronceeventname-listener) (Node.js documentation, as MDN does not cover this)
+- **HTML**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **Attributes**: [HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+- **CSS**: [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- **Selectors**: [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- **Box model**: [Introduction to the CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+- **Flexbox**: [CSS Flexible Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+- **Grid**: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- **Responsive design**: [Responsive web design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- **DOM manipulation**: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- **Event handling**: [Event handling](https://developer.mozilla.org/en-US/docs/Web/Events)
+- **Browser add-ons**: [WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- **Node utilities**: [Node.js Command Building](https://duckduckgo.com/?q=How+To+Build+Command+Line+Applications+with+Node.js&t=ffab&ia=web)
+- **Electron**: [Electron documentation](https://www.electronjs.org/docs/latest/)
+---
+[original recording](files/poem-1993-original.mp3)
