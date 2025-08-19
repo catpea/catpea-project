@@ -1,0 +1,125 @@
+---
+id: poem-1996
+guid: 0995356b-16a7-4b99-a795-83339059a675
+title: "Beyond Learning Programming: You Have To Keep Up A Little Bit"
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-08-19T01:49:51.807Z'
+lastmod: null
+weight: 199600
+audio: poem-1996.mp3
+image: poem-1996-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 13
+---
+
+And all you need to do to keep up, is buy a heavy paper book, about latest version,
+and treat it like a newspaper, all 500+ pages of it.
+
+You may learn more this way, as that will take you outside of your zone,
+and you darn well should get beach sand all over it, it is what we do.
+
+---
+
+But if you have a wee bit of time, then get mad,
+because you should use that time in the most uncomfortable way.
+
+---
+
+I am a big fan of Signals, which are reactive variables,
+that have a .value for the value, and .subscribe for the change of value.
+
+I add .map, .filter, and other useful transformations,
+which all take the signal they are attached to.
+
+They subscribe to it, transform the value in some way,
+and apply it to a new signal that they return, so the process can repeat.
+
+This was my crazy way to plow through RxJs,
+I learned it so fast, by building my Signals, that I try not to talk about it.
+
+---
+
+But to stay with it, I set aside my .map() and .filter(),
+and jumped to another reactive system, ew.
+
+This thing has state, derived and effect,
+and that just means signal, map, and subscribe.
+
+But the point of it, is not to translate,
+it is to look anew.
+
+And indeed, effect, is crazy, it forced me to modify the Signal,
+to make it announce when it is being read.
+
+You don’t use combineLatest here where you merge multiple signals into one,
+effect, quietly listens to what signals are beings read.
+
+This is a tricky announcement, because if effect contains many signals,
+many will try to tell effect/subscribe when they changed.
+
+And all at the same time, to keep things clean, you have to use a set,
+which only allows one of anything.
+
+If many signals change, the set, will only contain one call to execute,
+effect/subscribe.
+
+But you don’t know when the last signal calls,
+and you use queueMicrotask a replacement for setTimeout of 0;
+
+When the callstack clears and JavaScript is ready to move forward,
+the effect/subscribe function will run, and update the UI just once.
+
+The difference between the two, is automatic subscription,
+inside an effect, you con’t have to specify what signals you use.
+
+You just use them, and effect will take care of everything,
+effect is probably short for side-effects, or application changes.
+
+Derived, creates a new signal, based on other signals,
+where effect is just a function that runs when signals inside it change value.
+
+I made my derived based on effect,
+it also supports automatic discovery and signal subscription.
+
+---
+
+I loved studying the code,
+but writing my own implementation required turning my thinking inside out.
+
+I like combining signals, that I spell out one by one,
+I like all my ducks in proper order.
+
+Effect and Derived,
+are weird.
+
+---
+
+This is what happens,
+programming languages emerge both new and old trends.
+
+And you have to,
+twist your mind around them.
+
+JavaScript is getting lots of new features,
+they are very beautiful, and well worth your time and scribbles.
+
+Programming is a life long exploration,
+it is not complex, because you can reinvent whatever confuses you.
+
+And arrive at the same decisions that the system you are studying made,
+you learn it inside out.
+
+And the best programs, only exist because they are tiny,
+so it is about brain gymnastics, not confusion from complexity.
+
+If anything ever challenges you, just ask AI to create a simplified version,
+and start your journey there.
