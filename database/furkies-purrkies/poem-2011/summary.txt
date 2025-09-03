@@ -1,0 +1,73 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Thoughts On The The Right-Click View-Source Manifesto
+Tuesday • September 2nd 2025 • 8:09:29 pm
+
+# The Right Click View Source Manifesto (RCVS Manifesto) Second Revision
+
+## Preamble
+
+In an era where the complexity of web development has reached unprecedented heights, we stand at a crossroads. The foundational principles of the web—simplicity, transparency, and accessibility of information—are at risk of being overshadowed by frameworks and abstractions that prioritize developer convenience over clarity. This manifesto advocates for a return to a more readable, maintainable, and intuitive approach to HTML through the adoption of web components and modern CSS as the cornerstone of web development.
+
+We believe the web should be a teacher. Every website should be a potential lesson. Every line of code, an invitation to learn.
+
+## Core Principles
+
+### 1. **Code as Literature**
+
+We believe that code should read like a well-written story. Just as great literature can be understood at multiple levels—enjoyed by children yet appreciated by scholars—our code should welcome readers of all skill levels. Web components with semantic names tell stories: `<user-profile>`, `<search-bar>`, `<article-card>`. These are words that mean something, not cryptic abbreviations or generic containers.
+
+### 2. **The Beauty of Structure**
+
+Modern CSS Grid and Flexbox have given us the power to create layouts that are both powerful and poetic. We can now write:
+
+```css
+display: grid;
+grid-template-areas:
+  "header  header  header"
+  "sidebar main    aside"
+  "footer  footer  footer";
+```
+
+This is visual poetry—the layout is literally drawn in the code. A young developer can see the structure before their eyes, understanding immediately how the page will be organized.
+
+### 3. **Encapsulation as Clarity**
+
+Web components provide natural boundaries that make code easier to understand. Each component is a complete thought, a full sentence in the language of the web. When a young developer sees:
+
+```html
+<music-player
+  song="Imagine"
+  artist="John Lennon"
+  playing>
+</music-player>
+```
+
+They understand immediately what this does. No need to trace through dozens of nested divs or decipher cryptic class names.
+
+### 4. **The Teenage Developer Principle**
+
+Our north star is the curious teenager with a laptop and a dream. Every decision we make should be guid...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...viding clear, well-named elements and intuitive structures, we can empower them to learn and grow.
+
+We advocate for the integration of AI tutoring systems that prioritize simplicity and clarity, guiding young developers through the complexities of coding. This mentorship will help them navigate challenges and foster a love for programming, ultimately advancing human potential.
+
+### 6. **A New Era of Collaboration**
+
+As we embrace web components, we foster a new era of collaboration among developers, designers, and stakeholders. The clear and modular nature of components encourages cross-functional teams to work together more effectively, leading to better outcomes and a more cohesive product. This collaborative spirit is essential for driving innovation and pushing the boundaries of what is possible on the web.
+
+We must also include the Teenage Developer in this collaboration, ensuring that their voices are heard and their needs are met. By creating an environment that welcomes their curiosity and creativity, we can inspire the next generation of developers.
+
+### 7. **A Call to Action**
+
+We call upon developers, organizations, and educators to adopt this manifesto as a guiding principle in their work. Let us champion the use of web components as the foundation for our web applications, prioritizing code readability, encapsulation, and simplicity. Together, we can create a web that invites those new to programming to learn from source code, which they can view via right click.
+
+By fostering an inclusive environment that supports the Teenage Developer, we can help lift them out of poverty and empower them to contribute to the advancement of humankind. Let us build a future where every curious mind has the opportunity to thrive in the world of technology.
+
+The "[RCVS Manifesto][1]" serves as a rallying cry for a new way of thinking about HTML and web development. By embracing web components and prioritizing readability and simplicity, we can build a more sustainable and collaborative future for the web. Let us return to the roots of the web, where clarity and transparency reign supreme, and where every developer, especially the teenagers of today, can confidently say, "I understand this code."
+
+[1]: https://github.com/catpea/rcvs

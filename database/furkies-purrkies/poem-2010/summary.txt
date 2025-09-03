@@ -65,7 +65,7 @@ As in dark, or warning, or primary, or secondary, and even alert,
 it is not a very cleanly defined thing, but it is wise, but ugly.
 
 Their warning yellow, is terrible,
-and that is because, it is not jus the color, it is also the background that makes the color.
+and that is because, it is not just the color, it is also the background that makes the color.
 
 Pretty color in one place,
 is often pretty ugly in other places.
@@ -82,7 +82,7 @@ so that makes 3 colors, which is slim pickings even for a code editor theme.
 ---
 
 [Last month I’ve spent some time looking at terminal colors][2],
-colors for the thing...
+colors for the thin...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
