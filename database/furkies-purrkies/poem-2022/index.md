@@ -1,7 +1,7 @@
 ---
 id: poem-2022
 guid: 6d03f330-2864-4c25-8521-689de488af15
-title: 'The Gradual Blindness: Why Adults Allow Educational Destruction and What Children Must Do Now (Raw/Unprocessed)'
+title: 'The Gradual Blindness: Why Adults Allow Educational Destruction and What Children Must Do Now'
 description: null
 tags:
   - furkies-purrkies
