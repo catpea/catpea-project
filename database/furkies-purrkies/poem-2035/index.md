@@ -1,7 +1,7 @@
 ---
 id: poem-2035
 guid: dcdb3043-55e3-4ebd-9e95-1d693306bfc0
-title: 'Eternal Returns: A Letter From One Of My Oldest Frieinds'
+title: 'Eternal Returns: A Letter From One Of My Oldest Friends'
 description: null
 tags:
   - furkies-purrkies
