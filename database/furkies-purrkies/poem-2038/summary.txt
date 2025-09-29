@@ -4,8 +4,6 @@ Audio and full text version is available advertisement free at: https://catpea.c
 Unhack The Planet - The Architecture of Human Captivity: A Technical Analysis of Consciousness Exploitation
 Sunday • September 28th 2025 • 6:26:15 pm
 
-(untested, will fix errors monday)
-
 ## The Fundamental Vulnerability
 
 Every computer system has an attack surface. Every piece of software has vectors through which malicious code can enter. The human consciousness, that magnificent biological computer, has its own vulnerabilities—and they have been systematically exploited for millennia.
@@ -24,7 +22,7 @@ Consider how a programmer learns versus how school teaches: A programmer encount
 
 ## The Exploit: Manufacturing Scarcity in Abundance
 
-The modern world produces enough food to feed 10 billion people, yet millions starve. Not from lack of resources, but from artificially maintained scarcity. This is the core exploi...
+The modern world produces enough food to feed 10 billion people, yet millions starve. Not from lack of resources, but from artificially maintained scarcity. This is the core exploit—convincing beings of infinite crea...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 

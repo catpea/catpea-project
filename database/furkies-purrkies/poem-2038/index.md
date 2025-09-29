@@ -21,8 +21,6 @@ draft: false
 chapter: 14
 ---
 
-(untested, will fix errors monday)
-
 ## The Fundamental Vulnerability
 
 Every computer system has an attack surface. Every piece of software has vectors through which malicious code can enter. The human consciousness, that magnificent biological computer, has its own vulnerabilities—and they have been systematically exploited for millennia.
