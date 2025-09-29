@@ -21,8 +21,6 @@ draft: false
 chapter: 14
 ---
 
-(First draft, I will test it in the morning.)
-
 ## How Did We Get Here?
 
 **The last tree on Easter Island was cut down without ceremony, without mourning, without anyone recognizing the catastrophe unfolding.**
