@@ -1,0 +1,160 @@
+---
+id: poem-2044
+guid: 407fb47b-13d3-4ef7-8520-2ecaa393fcf9
+title: Spooky Programming
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-10-05T01:24:59.776Z'
+lastmod: null
+weight: 204400
+audio: poem-2044.mp3
+image: poem-2044-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+Let us imagine we have a list, contains three letters,
+“a”, “b”, and “c”;
+
+Most teachers will ask you to use a loop,
+which will deliver each of the letters to you separately.
+
+Inside the body of the loop that delivers one letter at t a time,
+you just say print letter.
+
+You should know how to do this, to build a system,
+that does it correctly in the age of the web.
+
+---
+
+In a web page, the list is sure to change,
+the letters could be users, or emails, or todo items.
+
+So you will need to know when the list changes,
+calling update_ui() after you make a change is not possible.
+
+Because this type of complexity only grows,
+you will have nested lists, parent lists, and sub lists.
+
+At which point, what does update_ui() update,
+what does it even means.
+
+Well,
+it means it won’t work.
+
+---
+
+You need to make your list reactive, by extending array,
+and returning an object proxy that monitors for changes.
+
+And then give your list a subscribe method,
+just like you have an add mechanism.
+
+You will need a subscription mechanism,
+to be notified when the array changed.
+
+You give the subscribe a function to execute, called subscriber,
+and it will execute it each time there was a change.
+
+An object proxy has a get and set,
+so you can tell when a user is just reading, and when they are changing.
+
+You also need to monitor for adding and deleting actions,
+[9+ actions in total][1].
+
+“push", "pop", "shift", "unshift", "splice", "sort",
+"reverse", "fill", "copyWithin".
+
+And ask AI to double check, as new methods may be added,
+as JavaScript gets updates.
+
+---
+
+But [knowing that there was a change][0] is not enough,
+especially because you likely already added stuff to the web page.
+
+That means you only update,
+what you already created.
+
+So you need to know what was deleted,
+to delete the thing in the area of the web page you are working on.
+
+You need to know what was added,
+to add the new thing.
+
+And you need to know what was moved,
+so that you can reorder things that already exist.
+
+More over, you may not want to delete things,
+that is such a violent thing to when carefully managing resources.
+
+You may wish to mark something as deleted,
+so that a tiny internal deletion process of that thing kicks off.
+
+---
+
+What this calls for is a [diff][2] and [patch][3] operation,
+which is as simple as you can make it.
+
+Check what was deleted,
+put in in your diff list as a delete operation.
+
+Check what was added,
+and put it in the diff list under operation add.
+
+And then what was moved,
+and note which index moved where.
+
+---
+
+Finally, you interpret your diff list,
+by applying a patch to what was in your web page.
+
+Patching means updating,
+only in the places that have changed, like repairing socks.
+
+---
+
+Spooky, yes,
+but if you are just learning programming.
+
+And drawing life lines with life extension,
+exercise and  healthy diet, add-ons…
+
+Or space travel lines with moving pixels showing time dilation,
+is not for you…
+
+Because it feels like you are moving away from programming,
+then studying [Reactive Variables][4] may just be for you.
+
+In the age of powerful programming AI everywhere,
+studying reactive systems is fun, and interesting, enjoyable.
+
+Not at all as spooky as I made it out to be,
+so as long as you ask for simple and lightweight JavaScript code.
+
+---
+
+Reactive Programming, is something you put first in your Resume/CV,
+it is something to be very proud of, and very hard to let go.
+
+Once you get the AI to create enough implementations,
+or variations for you, it is not at all a challenge.
+
+But it is indistinguishable from magic,
+and it makes you a proper Sorceress or Wizard.
+
+
+[0]: https://github.com/catpea/cede/blob/e251fd19e428eff72b8a5516de00eb9f3009c23d/Lifecycles.js#L432
+[1]: https://github.com/catpea/occult/blob/d554d63f2a9fb6f8a33661a27ff02afe1ce966b0/index.js#L219
+[2]: https://github.com/catpea/supernatural/blob/58684a42ee8754c2d7b8a33a8c688f050f1d6eac/Arr.js#L5
+[3]: https://github.com/catpea/cede/blob/e251fd19e428eff72b8a5516de00eb9f3009c23d/Lifecycles.js#L435
+[4]: https://github.com/catpea/occult
