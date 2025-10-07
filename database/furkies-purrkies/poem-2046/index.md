@@ -1,0 +1,70 @@
+---
+id: poem-2046
+guid: bb140a00-bacf-43e9-8899-006ce54acc1e
+title: "The High Art of Being Human"
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-10-07T00:26:01.485Z'
+lastmod: null
+weight: 204600
+audio: poem-2046.mp3
+image: poem-2046-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+No robes. No pulpits. No cheap talk of sin and salvation. Just an iron code of honor, decency, and truth. And not the manufactured kind of “truth” you chant from a hymnal, but the real, gristled thing you wrestle from life with blood on your hands and wisdom in your eyes.
+
+You see, the Lady and the Gentleman do not kneel. They stand. They do not beg forgiveness for being born; they demand the responsibility to grow into something worthy of the name human. They seek not a heaven after death, but greatness in life. They are not polite cowards; they are courageous civilizers.
+
+We are told—by televangelists, by desperate men in robes, and by the intellectually lazy or mentally sedated—that without religion, morality would collapse. But it is precisely religion that has collapsed morality into obedience. It has taken the infinitely complex human spirit and caged it in superstition, in shame, and in squalor.
+
+If humanity had once and for all chosen the morality of the Lady and the Gentleman, there would be no wars to make men "holy" by killing each other. There would be no forced conversions of the wounded. No children taught that curiosity is a sin and obedience a virtue. No science gagged. No women erased. No art stifled by fear. And yes, no need to outsource compassion to missionary-industrial complexes propped up by the sobbing dollar of guilt.
+
+The morality of the Gentleman is not dogma; it is reason married to courage. It is intellectual hygiene: the daily discipline of thought, where honesty is holy, and clarity is king. It does not fear questions. It does not punish doubt. It trains the mind and tempers the soul.
+
+And the Lady? She is not demure, but majestic. She commands respect because she respects herself. She does not lower her voice to please the room; she raises the room to the level of her voice.
+
+Religions—every one—have killed in the name of heaven and spared nothing on earth. 100 million dead in the wake of Christianity alone. For what? For empires disguised as churches. For inquisitions where scientists burned and women drowned accused of being yet another imaginary creature, while the men who lit the fires quoted scripture.
+
+And yet we still send our addicts, our poor, our lost, into their arms?
+
+What does that say about us?
+
+And where has our secular charity gone? Why have we abandoned it to these institutions who abhor the very progress that lifted civilization from darkness?
+
+We send students to college, and they leave with debt, rape statistics, and degrees in numbness. We give our youth medication instead of philosophy. We teach them how to scroll, not how to live. And we wonder why the world feels like it’s tearing at the seams.
+
+We no longer expect greatness of one another. That is the deepest tragedy. We have confused compassion with cowardice, equality with mediocrity, tolerance with moral illiteracy.
+
+But the Lady and the Gentleman expect greatness. Not the petty pride of ego, but the glory of growth. The real deal: the kind that puts genius to work, the kind that feeds the world without needing a sermon. That honors every child as a budding philosopher, not a sinner in diapers. That asks not for your faith, but for your excellence.
+
+You want morality?
+
+Morality is a father showing up for his child.
+Morality is a scientist refusing to falsify results for funding.
+Morality is a woman refusing to lie to be liked.
+Morality is the courage to call evil by its name—even when it wears a cross.
+
+And above all, morality is honesty. The unflinching, undiluted confrontation with what is, so that we might climb toward what ought to be.
+That is the morality of the Lady and the Gentleman.
+
+It is not “inclusive”—because it excludes cowardice.
+It is not “tolerant”—because it refuses to tolerate what diminishes the human soul.
+It is not “humble”—because it dares to reach for greatness.
+
+It does not flatter you—but it loves you enough to demand your best.
+And in that love, in that bold demand, is peace—not the quiet of obedience, but the harmony of minds awakened!.
+
+The world does not need more prayers.
+It needs more Ladies.
+It needs more Gentlemen.
+It needs more truth.
