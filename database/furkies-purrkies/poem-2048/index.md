@@ -1,0 +1,167 @@
+---
+id: poem-2048
+guid: ff43ca08-b09a-47ab-abcf-c9000fb9045a
+title: Bodybuilding For Busy Ladies
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-10-09T01:27:46.190Z'
+lastmod: null
+weight: 204800
+audio: poem-2048.mp3
+image: poem-2048-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+First the bad news, your workout maters a lot,
+without exercise your body degenerates.
+
+The same way that a horse would degenerate,
+if it was locked in its stall all its life.
+
+Fitness, is the number one formula,
+for body health and longevity.
+
+Furthermore,
+you will often hear people say:
+
+I can’t work out as hard as when I was younger,
+I am not as strong and flexible, and my body hurts.
+
+Well, like that horse, without proper exercise,
+we get deformed, we degenerate.
+
+We are animals,
+we have to move.
+
+It is not that we get old and inflexible,
+it is that no exercise or bad exercise makes us old and inflexible.
+
+---
+
+Everything you know about bodybuilding,
+is backwards.
+
+---
+
+Fundamentally,
+bodybuilding is jogging with weights.
+
+Once you are able to jog for one hour with 3 pounds per hand,
+you then mix in 5 pound dumbbells, and let your body adapt.
+
+That increase in weight,
+is what grows your muscle.
+
+If you don’t increase, you will tone your muscle,
+eventually entering a maintenance more.
+
+---
+
+But, it is only fundamentally jogging,
+what you need to do is flex and turn, and dance.
+
+Exactly,like you see sometimes in 1980’s aerobic workouts,
+thought they did not emphasize increasing the dumbbell weight.
+
+So they were burning fat,
+maintaining and perhaps adding some muscles as well.
+
+Aerobics are wonderfully illustrative,
+that full body flexing motion, is what keep your body young.
+
+And they all begin with jogging,
+that is where you earn that hour’s worth of endurance.
+
+And maybe even,
+your first 3 pound dumbbells.
+
+Then you just come in to the gym,
+and start flexing and turning and twisting more.
+
+You can imagine, how that affects,
+all your muscles.
+
+The notion of standing still while lifting heavy,
+is just a silly myth, and probably really bad on your back.
+
+---
+
+Jogging with dumbbells,
+works on your shoulders, which are already strong.
+
+But at the gym, you have to do bicep curls,
+and lifting dumbbells above your head.
+
+Combined with dancing,
+that is a powerful full body workout, as you are always stabling.
+
+The two dumbbell exercises, tire out different muscle groups,
+letting one rest, while you work the other.
+
+So you can dance non-stop,
+just like when you were jogging just holding the dumbbells.
+
+Dancing is a lot more stable,
+so you won’t have trouble lifting above your head.
+
+---
+
+I came up with a little bit of,
+instruction for you:
+
+Lift light, but not so light that you can lift more,
+and never, ever, so heavy, that you must stop.
+
+You should move up by no more than 2.5 lb in dumbbell weight,
+the 5lb. Gap between dumbbells is impossible to cover.
+
+If you don’t have a lady or aerobic dumbbell rack,
+that is spaced 2.5lb apart, use wrist 2.5 wrist weights.
+
+This way you can go from 5lb per hand,
+to 7.5 lb per hand.
+
+And not directly to 10 pound dumbbells,
+from 5lb dumbbells, that is too dangerous.
+
+---
+
+Remember, you must never stop during your exercise,
+that would mean, you are lifting too heavy, or moving too fast.
+
+Only dumbbells work, and treadmill initially,
+the rest of the machines are for people who already hurt their bodies.
+
+Who waited too long to twist and turn,
+and dance with light dumbbells.
+
+----
+
+Finally, use music to induce a dance trance,
+by lifting to the beats of your songs.
+
+You will need slower songs at first,
+and you need to move always from distractions.
+
+Or be in an environment where you can close your eyes,
+and not have someone creep up on you.
+
+I used to wear over the ear headphones, with foam earplugs,
+but I found that wireless Bluetooth with cheap noise canceling is good too.
+
+---
+
+Your workout schedule, is what you can handle,
+use your wisdom as your body improves.
+
+Please, please, do not over do it, the world is scary as it is,
+the last thing it needs, is Monster Muscle Beast Ladies.
