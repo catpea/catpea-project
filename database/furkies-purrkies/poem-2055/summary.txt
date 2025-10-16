@@ -1,0 +1,171 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Learn JavaScript And Get Scared Of What You Can Do With Artificial Intelligence
+Wednesday • October 15th 2025 • 8:21:49 pm
+
+Don’t be scared of AI, AI is your fiend and teacher,
+and a lovely creature all around.
+
+But it is so...ooo powerful,
+that you need both scardy pants and underpants.
+
+---
+
+Let me tell you what you really want to hear,
+choose projects that are AI friendly.
+
+That means there is a list of something,
+and the AI can build it out for you.
+
+Let me show you exactly that,
+this is the [ast-types JSON file][1] AI and I just made.
+
+It is small, but an impossible dream,
+I know most things in it, almost everything.
+
+But it would still take me months to assemble it,
+you know, it would actually, take years before it was complete.
+
+---
+
+With the help of AI, it took me just about an hour,
+this is a speedup so large, that it cannot be reasonably described.
+
+The quality is so high,
+that we shouldn't even talk about the monetary value.
+
+The descriptions of the various properties,
+have been re-written a couple of times.
+
+To make them easy to understand,
+to those who are new to somewhat advanced programming.
+
+---
+
+Overall, this precious list, has 76 items,
+totaling 252 descriptions.
+
+You, should consider that to be a small list,
+you want to deal with things that have multiple files.
+
+---
+
+I don’t know what would interest you,
+perhaps a rhyming dictionary website.
+
+Where you use AI from all over to find good rhymes rhymes,
+for every English word, and then continue improving it.
+
+You would generate a static website based on your JSON,
+and only feature the best rhymes under a distraction free interface.
+
+There are existing databases of rhymes,
+but they are not precise.
+
+You could then sell a printed version,
+or an e-book version.
+
+Most importantly this idea demonstrates the notion of lists,
+you have to give AI something, and then watch it flourish.
+
+---
+
+For those of you who are learning HTML,
+which is like the stuff for text layout and formatting.
+
+Consider all the HTML tags a list, and create custom elements,
+based on that list button-x for example.
+
+And make their properties reactive,
+today you have to use a mutation observer, very messy.
+
+But you could say, the text of this paragraph,
+comes from the value of that textarea-x as easy as <p-x path=”#myText”>
+
+Because you make the text area value into a signal,
+and give p-x a way to find th...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...mentation for last.
+
+---
+
+Programming today, is not what it was few months ago,
+and it is not like it was few years ago.
+
+Back then we had to do everything by hand,
+we were boxed in by things that would take years.
+
+Today, those things take an hour or less,
+this is terrifying, it is scary.
+
+And to paraphrase Pearl that little octopus from Finding Nemo,
+you are going to ink yourself, a lot.
+
+---
+
+You ask AI, about something that takes year,
+and it lurches to work, producing instant results.
+
+You better,
+grab your butt.
+
+In all of human history, there was never a tool,
+the printing press included.
+
+That would do years of custom u-to-specification work for you,
+in seconds, instantly beginning to produce perfect results.
+
+---
+
+Find your list of things, something large and precious,
+and start working with AI on it, do it now.
+
+Learn programming with it,
+as soon as you can.
+
+When you compare AI and Programming to High School and GPA,
+and the powerhouse of the cell.
+
+It looks bad, it looks conspiracy level bad,
+world ending bad.
+
+And the moment you start programming,
+you even stop being scared of poverty or homelessness.
+
+And now with AI, you become a development company,
+and AI based corporation.
+
+And with focus on lists, and and doing that
+“let us begin work on version 2.0” trick…
+
+And then adding student friendly documentation,
+and explanation and tutorials all AI generated.
+
+Makes all your work, [components][2] and applications,
+beyond precious.
+
+---
+
+I already see people say that “all our code was written by humans”,
+to which I respond, “keep it then”.
+
+Because I know they cant refactor,
+and they haven’t strategically structured their code base for AI.
+
+---
+
+AI has received another upgrade in the last few weeks,
+I don’t even use it, but I’ll tell you what it is for.
+
+You tell it to continue upgrading your programs higher and higher,
+until they are of a standard that exceeds any and all expectations.
+
+You tell the AI to work on it for days,
+and discover websites, books, tutorials, blogs, all of it.
+
+
+[1]: https://github.com/catpea/squirrel-pie/blob/94df07474fbdb965064feb6408dac7b8f3eba569/ast-types.json
+[2]: https://github.com/catpea/squirrel-pie/blob/94df07474fbdb965064feb6408dac7b8f3eba569/examine-template.html#L22
