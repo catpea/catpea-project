@@ -1,2 +1,2 @@
-- [] forgot the atwork credit list
-- [] spelling/semtiment analisis (sock.js)
+- [] spelling/semtiment analysis
+- [] new config that track file sizes, compressing higher and higher as it reaces 5GB
