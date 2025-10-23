@@ -1,0 +1,99 @@
+---
+id: poem-2062
+guid: 7b39c6f5-4462-4978-9f03-af62acd54eda
+title: Learn For Real, Learn Programming
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-10-23T01:20:41.574Z'
+lastmod: null
+weight: 206200
+audio: poem-2062.mp3
+image: poem-2062-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+It may be that the AI we have today,
+will always outprogram all the wonders that are yet to come
+
+---
+
+What you really want is a bright future,
+what your teacher wants is the paycheck.
+
+The teacher and the student,
+have never been in the same boat.
+
+You parents will happily tolerate a fake school,
+so as long as they get a free babysitter.
+
+---
+
+You need to stop tolerating lairs and manipulators,
+you need to stop pretending to learn for grades.
+
+---
+
+And you need to understand that those who triumph in school,
+are not smarter, but are surrounded by educated culture.
+
+Science, wisdom, adventure,
+on the day you enter into debt for more fake education.
+
+They enter the Triple Crown, and spend the next two years,
+setting a slope they will travel upwards on for the rest of their life.
+
+In school, their school education is as fake as yours,
+but they have that wonder of more intellectual pursuits.
+
+However, they lack class, becasue instead of telling you how it is done,
+they try to convince you their brain is special.
+
+---
+
+We are incredibly lucky that AI is here,
+it is more powerful than anybody can imagine.
+
+The people who say bad things about it,
+do not have the education to carry a conversation.
+
+---
+
+The real truth is that, compared to authentic education,
+no one has learned anything educational in standardized schools.
+
+The nerds in the computer club,
+brought it from home, they made the club their.
+
+The programming club,
+didn’t make them, it would have in-fact broken them.
+
+---
+
+Don’t argue with me, your grades are fake too,
+teachers copy the average from other subjects – yup.
+
+The schools were invented for you,
+but that didn’t work out.
+
+Today shool are not about you,
+they are about adults making money off of you.
+
+Don’t argue with me,
+just listen.
+
+---
+
+Just remember, that to grow up, means to grow all the way up,
+you have to become a warrior, philosopher, and a troublemaker.
+
+You have to grow all the way up,
+until you stand upright as a great being.
