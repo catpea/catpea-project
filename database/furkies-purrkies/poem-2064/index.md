@@ -1,0 +1,130 @@
+---
+id: poem-2064
+guid: 9ae05e6a-e188-42a4-8b19-6e0734962a3e
+title: You Become As Flexible As Your Dance Moves
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-10-25T02:35:46.740Z'
+lastmod: null
+weight: 206400
+audio: poem-2064.mp3
+image: poem-2064-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+We are animals not furniture,
+we have to dance and flex.
+
+Perfect posture during workout,
+is dangerous and silly.
+
+When you flex and dance,
+your entire body gets a workout.
+
+When you copy everyone else,
+you go from engaging 650 muscles to two.
+
+Standing still ensures,
+there aren’t enough hours in the day to get a workout.
+
+Posture is a lie,
+made up by people pretending to know something.
+
+Bu that something,
+was actually nothing.
+
+---
+
+Both workout and bodybuilding,
+is painfully simple.
+
+First you jog for an hour,
+then for an hour with dumbbells.
+
+And then you just keep lifting heavier,
+at the gym, still without any rest.
+
+---
+
+Don’t call it a workout,
+call it must become.
+
+Dancing,
+with dumbbells.
+
+It is sad when you hurt your back,
+that only makes you more out of shape.
+
+You have to flex and flow,
+slowly advancing by 2.5 pounds.
+
+Lift light,
+but not so light that you can lift more.
+
+And never so heavy,
+that you must stop.
+
+There is no such thing as muscle failure,
+you are just cutting off your circulation.
+
+---
+
+Your gym teacher wasn’t muscular,
+he was sucking in his stomach.
+
+They are all pretending,
+reading from a script.
+
+Written by men,
+who get paid by looking busy.
+
+Say no to Ms. Shmeasels,
+say no to Mr. Toerag.
+
+Tell them that fitness is endurance,
+tell them that only dance will work.
+
+That our bodies to adapt,
+need broad sustained signals.
+
+And that can only mean,
+starting with endurance.
+
+Similar to Aerobics,
+and letting our bodies adapt past it.
+
+Onward to a litter bit heavier weights,
+slowly lifting more as hour bodies adapt.
+
+If you must stop,
+you are doing it wrong.
+
+Start by walking for an hour,
+then at a faster pace.
+
+Slowly jog,
+add 3 lb. dumbbells.
+
+And keep moving up in weight,
+as your body slowly adapts.
+
+Synchronize your motion,
+with beats of your songs.
+
+To enter a dance trance,
+that accelerate time.
+
+And finally start flexing,
+and turning at the gym.
+
+Dance your way,
+into your future.
