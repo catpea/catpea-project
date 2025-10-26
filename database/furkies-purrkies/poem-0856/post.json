@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0856",
+  "guid": "82c6fcf6-313d-48f2-afe5-97bd8c296e3a",
+  "title": "GPA Is Sus",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-05T01:17:31.492Z",
+  "lastmod": null,
+  "weight": 85600,
+  "audio": "poetry-0856.mp3",
+  "image": "poetry-0856-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cbEvoHbJnIE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

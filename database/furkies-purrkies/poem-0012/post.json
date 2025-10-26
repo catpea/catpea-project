@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0012",
+  "guid": "36e22d48-0a17-4e82-9a84-09883b815f85",
+  "title": "I Went To The Woods by Henry David Thoreau",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-24T21:11:29.310Z",
+  "lastmod": null,
+  "weight": 1200,
+  "audio": null,
+  "image": "poetry-0012-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7ONALuu0k68"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

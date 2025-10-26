@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0048",
+  "guid": "ab04d7c4-7b43-41b2-b705-54148760570d",
+  "title": "Yearn To Learn",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-26T22:51:16.000Z",
+  "lastmod": null,
+  "weight": 4800,
+  "audio": "poetry-0048.mp3",
+  "image": "poetry-0048-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

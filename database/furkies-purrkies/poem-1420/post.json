@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1420",
+  "guid": "c759797e-83ff-4cff-ad6e-5e29e1cac95b",
+  "title": "The Only Thing That Ever Worked Was Adding More Hours: Or; How To Quickly Transform Your Body",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-21T04:39:57.680Z",
+  "lastmod": null,
+  "weight": 142000,
+  "audio": "poem-1420.mp3",
+  "image": "poem-1420-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

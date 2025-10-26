@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1230",
+  "guid": "9089ff69-f1f7-44f6-b986-09f30b09499c",
+  "title": "The Great Weight-loss Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-15T03:23:37.362Z",
+  "lastmod": null,
+  "weight": 123000,
+  "audio": "poem-1230.mp3",
+  "image": "poem-1230-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iBFBdFHVxeY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

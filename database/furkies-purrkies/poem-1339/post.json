@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1339",
+  "guid": "b266a851-a560-44c0-b70d-90355f63bf18",
+  "title": "Reimagination",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-01T03:09:11.975Z",
+  "lastmod": null,
+  "weight": 133900,
+  "audio": "poem-1339.mp3",
+  "image": "poem-1339-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-in-a-white-dress-sitting-on-a-bench-_0-d6s17QAA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

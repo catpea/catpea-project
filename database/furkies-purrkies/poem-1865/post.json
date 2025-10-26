@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1865",
+  "guid": "09fda219-c92e-456c-80b9-66c2286e2e70",
+  "title": "What Artificial Intelligence Will Do To You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-09T23:31:41.518Z",
+  "lastmod": null,
+  "weight": 186500,
+  "audio": "poem-1865.mp3",
+  "image": "poem-1865-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

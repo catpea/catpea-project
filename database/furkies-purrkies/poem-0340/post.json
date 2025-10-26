@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0340",
+  "guid": "8f0fd049-1d4d-4718-bf9c-772a7bdef312",
+  "title": "Do Not Trust Your Teachers: A French Horn Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-03T23:43:20.121Z",
+  "lastmod": null,
+  "weight": 34000,
+  "audio": "poetry-0340.mp3",
+  "image": "poetry-0340-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/dwI6vooERtE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

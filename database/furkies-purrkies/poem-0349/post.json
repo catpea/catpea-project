@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0349",
+  "guid": "e2a15567-c943-4725-b6a9-5225b8cd268d",
+  "title": "Get Mad: Of High School And Music",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-13T00:26:08.608Z",
+  "lastmod": null,
+  "weight": 34900,
+  "audio": "poetry-0349.mp3",
+  "image": "poetry-0349-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/N3TypD-awJQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

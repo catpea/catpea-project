@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1998",
+  "guid": "019fbabb-1e1e-4731-9d0b-783666a8333e",
+  "title": "The Jackals Circle Ere I'm Dead, To Bowdlerize Each Word I've Said",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-20T23:49:05.476Z",
+  "lastmod": null,
+  "weight": 199800,
+  "audio": "poem-1998.mp3",
+  "image": "poem-1998-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

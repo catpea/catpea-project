@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1596",
+  "guid": "b106b9e4-c884-4846-b71a-21353add0c43",
+  "title": "Don’t Let Life Stress You Out",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-15T04:29:38.465Z",
+  "lastmod": null,
+  "weight": 159600,
+  "audio": "poem-1596.mp3",
+  "image": "poem-1596-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

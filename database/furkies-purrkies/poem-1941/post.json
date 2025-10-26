@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1941",
+  "guid": "35b90e1f-f13d-469e-b7a3-e8949c4bd814",
+  "title": "The Worst Thing That Has Ever Happened To Me On A Computer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-25T00:19:30.692Z",
+  "lastmod": null,
+  "weight": 194100,
+  "audio": "poem-1941.mp3",
+  "image": "poem-1941-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0493",
+  "guid": "f0d7f7d6-a4a4-445f-bc41-7fa1ff61f7fe",
+  "title": "Adventures In Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-07T01:45:32.028Z",
+  "lastmod": null,
+  "weight": 49300,
+  "audio": "poetry-0493.mp3",
+  "image": "poetry-0493-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RxA_JI5jvy0"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

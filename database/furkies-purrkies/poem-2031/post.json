@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2031",
+  "guid": "40eb16e6-7f0a-4824-8cd7-bce0385f94de",
+  "title": "Mother Slayer Of Kings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-21T22:32:35.793Z",
+  "lastmod": null,
+  "weight": 203100,
+  "audio": "poem-2031.mp3",
+  "image": "poem-2031-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

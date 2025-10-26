@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-engineer",
+  "guid": "5e77e752-fb82-4a01-9cf8-8c06748bdd44",
+  "title": "The Engineer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-11-02T03:59:28.000Z",
+  "lastmod": null,
+  "weight": 8500,
+  "audio": null,
+  "image": "warrior-the-engineer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

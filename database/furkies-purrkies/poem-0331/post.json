@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0331",
+  "guid": "9b4989a9-9dcb-46bb-91b8-a3dacbaa3713",
+  "title": "Learning From Tutorials",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-25T20:50:50.166Z",
+  "lastmod": null,
+  "weight": 33100,
+  "audio": "poetry-0331.mp3",
+  "image": "poetry-0331-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/xhijwBiKESw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

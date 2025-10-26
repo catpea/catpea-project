@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1136",
+  "guid": "1f5e95ea-f12a-4946-b703-64f6164b0d91",
+  "title": "Alien Communication Intercept: Local Team To Interstellar Scoutship Oumuamua (A sci-fi poem)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-12T02:36:12.061Z",
+  "lastmod": null,
+  "weight": 113600,
+  "audio": "poem-1136.mp3",
+  "image": "poem-1136-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:A2017U1_5gsmoothWHT_enhanced.jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

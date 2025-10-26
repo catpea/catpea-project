@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1088",
+  "guid": "36cf7c81-3149-4a16-bab4-a2667ea6ddbd",
+  "title": "Three Silly Poems By Edward Lear And One By An Unknown",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-22T02:28:35.996Z",
+  "lastmod": null,
+  "weight": 108800,
+  "audio": "poem-1088.mp3",
+  "image": "poem-1088-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

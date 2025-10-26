@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1166",
+  "guid": "70b41f72-1288-416b-9e26-7a340ea0c9c0",
+  "title": "High School Trouble",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-12T02:56:14.578Z",
+  "lastmod": null,
+  "weight": 116600,
+  "audio": "poem-1166.mp3",
+  "image": "poem-1166-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FAn-NWH8Bzw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

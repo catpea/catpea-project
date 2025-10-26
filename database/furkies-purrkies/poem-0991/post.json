@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0991",
+  "guid": "27ad5677-e992-4954-ac7f-b8a57f45f7f2",
+  "title": "Beyond The Within And Without; Or, Self Education Is Not Just About Wisdom Or Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-17T04:16:03.600Z",
+  "lastmod": null,
+  "weight": 99100,
+  "audio": "poem-0991.mp3",
+  "image": "poem-0991-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Yhsdub0hV1A"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

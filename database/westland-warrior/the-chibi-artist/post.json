@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-chibi-artist",
+  "guid": "d7fac495-0ded-4dd8-b2f7-f8469537251b",
+  "title": "The Chibi Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-07-31T23:44:49.479Z",
+  "lastmod": null,
+  "weight": 13300,
+  "audio": null,
+  "image": "warrior-the-chibi-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

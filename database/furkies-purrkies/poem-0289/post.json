@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0289",
+  "guid": "a08b5223-ac00-438c-bb46-75f45adbdf28",
+  "title": "Please, Don't Forget To Share Your Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-15T03:36:55.715Z",
+  "lastmod": null,
+  "weight": 28900,
+  "audio": "poetry-0289.mp3",
+  "image": "poetry-0289-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fDghTk7Typw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

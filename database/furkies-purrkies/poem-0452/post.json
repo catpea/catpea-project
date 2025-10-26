@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0452",
+  "guid": "146092e3-9f15-432f-8023-c59e12add9ff",
+  "title": "On Inheritance Of Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-27T00:29:56.997Z",
+  "lastmod": null,
+  "weight": 45200,
+  "audio": "poetry-0452.mp3",
+  "image": "poetry-0452-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DpoMKEARZe4"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

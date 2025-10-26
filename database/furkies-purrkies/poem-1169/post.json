@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1169",
+  "guid": "418f12ef-0607-4712-b58f-546a7e4dffdb",
+  "title": "Programming, Wisdom, And The Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-15T02:36:16.228Z",
+  "lastmod": null,
+  "weight": 116900,
+  "audio": "poem-1169.mp3",
+  "image": "poem-1169-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6-r3PPi8zRA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

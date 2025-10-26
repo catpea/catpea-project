@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1044",
+  "guid": "80d08729-21bf-4791-b9f8-8429cff46971",
+  "title": "Become The Fire That The Distant Future Can Admire",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-09T02:35:37.670Z",
+  "lastmod": null,
+  "weight": 104400,
+  "audio": "poem-1044.mp3",
+  "image": "poem-1044-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://www.midjourney.com/"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

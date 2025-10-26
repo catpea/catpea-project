@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1514",
+  "guid": "a8aeded6-e5a1-4049-a56b-b863e1268b05",
+  "title": "The World Is Not Yet Your Cradle, Child",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-24T03:29:59.257Z",
+  "lastmod": null,
+  "weight": 151400,
+  "audio": "poem-1514.mp3",
+  "image": "poem-1514-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

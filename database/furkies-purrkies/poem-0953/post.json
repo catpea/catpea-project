@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0953",
+  "guid": "d1b35994-8807-4260-8630-a2d5e264173b",
+  "title": "The Portable Distributed Code Editor",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-09T22:50:29.650Z",
+  "lastmod": null,
+  "weight": 95300,
+  "audio": "poem-0953.mp3",
+  "image": "poem-0953-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

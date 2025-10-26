@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1492",
+  "guid": "623565af-fcd9-4d1d-b320-ac3561dc0e05",
+  "title": "The European Cowboy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-02T04:08:06.887Z",
+  "lastmod": null,
+  "weight": 149200,
+  "audio": "poem-1492.mp3",
+  "image": "poem-1492-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

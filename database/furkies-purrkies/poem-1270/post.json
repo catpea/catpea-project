@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1270",
+  "guid": "04781093-3223-42f6-8ce9-6a51bfc513fc",
+  "title": "A Tiny Glance At Effective Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-24T03:23:49.783Z",
+  "lastmod": null,
+  "weight": 127000,
+  "audio": "poem-1270.mp3",
+  "image": "poem-1270-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ct10qdGv1hQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

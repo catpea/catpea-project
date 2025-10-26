@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0929",
+  "guid": "a7c310a2-d899-4754-8ad9-cbff11e4d8d9",
+  "title": "Web Design Is Super Fine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-16T02:33:26.665Z",
+  "lastmod": null,
+  "weight": 92900,
+  "audio": "poetry-0929.mp3",
+  "image": "poetry-0929-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

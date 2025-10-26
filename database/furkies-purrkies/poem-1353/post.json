@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1353",
+  "guid": "678a0e6e-5b64-4584-86f0-6ad6b9c72969",
+  "title": "Knowledge And Wisdom Is Personal, School Is Just Paychecks And Politics",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-15T04:29:40.127Z",
+  "lastmod": null,
+  "weight": 135300,
+  "audio": "poem-1353.mp3",
+  "image": "poem-1353-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/silhouette-of-woman-during-night-time-3hiVgZkxr7g"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

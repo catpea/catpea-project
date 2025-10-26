@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2018",
+  "guid": "fe495ef4-3bb2-4c33-912c-bc05d8a3276d",
+  "title": "Your First Programming Project: The Global Education Freedom Dashboard",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-09T17:13:15.905Z",
+  "lastmod": null,
+  "weight": 201800,
+  "audio": "poem-2018.mp3",
+  "image": "poem-2018-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

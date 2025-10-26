@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1649",
+  "guid": "fc0199db-824a-47e6-9ebb-a312f4a5c6a5",
+  "title": "Learning Programming Is Easy, You Just Have To Put Your Foot In The Door",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-06T02:12:18.404Z",
+  "lastmod": null,
+  "weight": 164900,
+  "audio": "poem-1649.mp3",
+  "image": "poem-1649-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

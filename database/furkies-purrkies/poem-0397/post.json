@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0397",
+  "guid": "dadfff32-6d98-4f9b-8f6c-117b0f145985",
+  "title": "A Short Poem About World Peace And Growing All The Way Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-02T03:10:44.414Z",
+  "lastmod": null,
+  "weight": 39700,
+  "audio": "poetry-0397.mp3",
+  "image": "poetry-0397-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WSL6Pljq-kg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

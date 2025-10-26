@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-guru",
+  "guid": "6d2a15a3-aaa8-4c1a-a962-3221175f4795",
+  "title": "The Guru",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-02-05T03:29:57.836Z",
+  "lastmod": null,
+  "weight": 15200,
+  "audio": null,
+  "image": "warrior-the-guru-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

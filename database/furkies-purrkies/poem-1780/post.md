@@ -1,0 +1,103 @@
+There are a few things you have to do in life,
+and they are all fun, but you have to start slow and humble.
+
+You have to bid farewell to your bullies,
+so that people can laugh behind you, without you thinking they are laughing at you.
+
+You are an emergent miracle of the universe,
+the second finest thing to love, and you have to love yourself too.
+
+They lied to you, you were always perfectly smart,
+and memorization was not education, it was shallow mockery of it.
+
+You were not supposed to cram,
+you were supposed to fail while learning greatly.
+
+---
+
+Getting passed along through High School,
+while learning programming, precision modeling...
+
+Canvas painting with aid of wall projector, or camera obscura,
+and beat sequencer and piano roll composition, house muzik.
+
+---
+
+Instead of pleasing Missus Shemeasels and memorizing.
+to get a passing grade.
+
+You were supposed to be exploring your favorite places in the world,
+from pixel art game arcades…
+
+To wherever you could make a fancy ruckus, with plumbing and re-bar,
+so that you could sample it and use drums unheard of before in your songs.
+
+---
+
+It wasn’t trouble making,
+it was the birth of your learning.
+
+And that your self education, is such an inconvenience to others,
+that they will punish you for it.
+
+How dare you judge, evaluate, think, yearn to comprehend,
+and not merely memorize in a shallow mockery of education.
+
+How dare you learn for your own future,
+when there is stuff you need to do now.
+
+---
+
+A story as old as Socrates, Leonardo's Imagination,
+and all the great Daughters of Philosophy, the Sciences.
+
+---
+
+If you let them, you will face a life of stress,
+where your curiosity will wither, and creativity be that of a child.
+
+If you don’t grow,
+nothing within you will either.
+
+Go find a used wall projector,
+and paint a thousand paintings.
+
+Create a library of drums never heard before,
+and sit down to learning programming.
+
+To compose bodybuilding music,
+that will tun hours to minutes as you age backwards.
+
+Weave endless raves where your painting dance,
+and your legacy becomes astonishing.
+
+Take to crossing the great trails a baby step at a time,
+with a new narrated book playing in your ear each day.
+
+The Appalachian Trail, Pacific Crest Trail,
+and the Continental Divide.
+
+Where you can peacefully inherit your true culture,
+the culture of greatness, truth, clarity, and fact over opinion.
+
+---
+
+The world will keep you poor, and make you fat or old,
+office will take your best years, and obesity or age the the rest.
+
+---
+
+Stop it, the choices you make today,
+dictate the rest of your life.
+
+The power is __within__ you, do not wait to be taught,
+but rise to learn on your own; to comprehend and explore.
+
+Follow your curiosities and let the seeds grow into lush forests,
+master your time on Earth, not as an employee but as a creature of the stars.
+
+You have to grow up on your own, and all the way up,
+all the way, until you become a great being...
+
+That is the only way, that you can do your older self justice,
+and the only way that you can help the world move forward.

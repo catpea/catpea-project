@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0301",
+  "guid": "55678f54-c345-4776-bfa0-d6f9f519783e",
+  "title": "Vision",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-27T03:25:55.774Z",
+  "lastmod": null,
+  "weight": 30100,
+  "audio": "poetry-0301.mp3",
+  "image": "poetry-0301-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Av_NirIguEc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

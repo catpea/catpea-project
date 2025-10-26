@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0593",
+  "guid": "1ea62452-613a-452c-a906-10be8f317e5f",
+  "title": "Silliness, Art, And The Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-15T00:44:32.605Z",
+  "lastmod": null,
+  "weight": 59300,
+  "audio": "poetry-0593.mp3",
+  "image": "poetry-0593-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/lJJlaUWYrPE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

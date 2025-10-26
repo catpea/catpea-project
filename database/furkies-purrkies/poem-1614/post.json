@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1614",
+  "guid": "3dbf7036-86a7-44a8-b8fd-22830680a847",
+  "title": "Think Of Your Body As An Animal",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-01T23:48:22.946Z",
+  "lastmod": null,
+  "weight": 161400,
+  "audio": "poem-1614.mp3",
+  "image": "poem-1614-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

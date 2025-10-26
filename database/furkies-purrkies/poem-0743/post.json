@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0743",
+  "guid": "aaaa3f97-578f-4380-917b-bc193babce9f",
+  "title": "Quo Vadis?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-13T21:18:40.012Z",
+  "lastmod": null,
+  "weight": 74300,
+  "audio": "poetry-0743.mp3",
+  "image": "poetry-0743-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hQ4qByMF9zM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

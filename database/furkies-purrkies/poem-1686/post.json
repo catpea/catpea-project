@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1686",
+  "guid": "47008bfd-a7af-4a78-b901-29b50ef70f1a",
+  "title": "A Letter From 2024",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-13T03:28:19.574Z",
+  "lastmod": null,
+  "weight": 168600,
+  "audio": "poem-1686.mp3",
+  "image": "poem-1686-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

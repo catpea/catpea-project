@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0515",
+  "guid": "5b9fb4f8-228d-42f2-b0c7-89e0752963e3",
+  "title": "Programming A Remote Controlled Portable Raspberry Pi Audio Player",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-29T02:21:03.215Z",
+  "lastmod": null,
+  "weight": 51500,
+  "audio": "poetry-0515.mp3",
+  "image": "poetry-0515-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/NN15NFflk90"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

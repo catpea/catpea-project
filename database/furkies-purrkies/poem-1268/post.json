@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1268",
+  "guid": "a42df705-1995-4c9e-a403-65ed78184f6f",
+  "title": "Towards Understanding How To Paint Hair",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-22T03:08:56.319Z",
+  "lastmod": null,
+  "weight": 126800,
+  "audio": "poem-1268.mp3",
+  "image": "poem-1268-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8A7fD6Y5VF8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

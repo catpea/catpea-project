@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0207",
+  "guid": "fbbda171-c051-44c8-be31-19325960ee00",
+  "title": "You Have To Slow Down To Hear Audio Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-24T01:56:47.237Z",
+  "lastmod": null,
+  "weight": 20700,
+  "audio": "poetry-0207.mp3",
+  "image": "poetry-0207-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

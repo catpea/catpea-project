@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0829",
+  "guid": "de65edaf-436f-425a-bb2d-42e8f0791a29",
+  "title": "Rinkydink Doublethink",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-07T18:32:49.343Z",
+  "lastmod": null,
+  "weight": 82900,
+  "audio": "poetry-0829.mp3",
+  "image": "poetry-0829-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EwKXn5CapA4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

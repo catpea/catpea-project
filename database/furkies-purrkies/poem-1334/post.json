@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1334",
+  "guid": "bffabe25-0fc4-4591-b186-878f46c16516",
+  "title": "Ancient Werewolf Wisdom: If You Got A Tailbone...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-27T03:10:04.656Z",
+  "lastmod": null,
+  "weight": 133400,
+  "audio": "poem-1334.mp3",
+  "image": "poem-1334-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

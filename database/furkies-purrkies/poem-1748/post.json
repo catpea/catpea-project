@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1748",
+  "guid": "7c72864e-2d47-41ba-9d07-7a441beb0031",
+  "title": "Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-14T01:54:27.028Z",
+  "lastmod": null,
+  "weight": 174800,
+  "audio": "poem-1748.mp3",
+  "image": "poem-1748-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

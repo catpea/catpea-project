@@ -1,0 +1,87 @@
+As a rule of thumb,
+do the exercises that kind of feel dumb.
+
+Nobody knows why this works,
+but it comes with all the perks.
+
+You will transform quickly,
+and stop feeling sickly.
+
+And few will interrupt your workout,
+as you will dazzle them with doubt.
+
+---
+
+Dancing is the best,
+and you will never feel stressed.
+
+You’re just flexing around,
+keeping yourself off the ground.
+
+Moving your whole body is key,
+you have to set all your limbs free.
+
+I recommend [Cutting Shapes And Shuffle Dancing][1],
+as it helps with endurance and advancing.
+
+---
+
+But dance with dumbbells,
+that send a powerful message to your fat cells.
+
+Never try to jump into dancing right away,
+at first you have to learn to sway.
+
+Then discover your favorite moves,
+and keep going until your speed improves.
+
+You may need an interval timer,
+it is like a workout designer.
+
+And frequently test,
+how close you are to eliminating rest.
+
+A fast uninterrupted hour long workout,
+is what it is all about.
+
+The faster you move,
+the more you improve.
+
+Find good songs and hit every beat,
+and you’ll become an athlete.
+
+---
+
+Finally, speed up your dance,
+and get yourself into a trance.
+
+Once your songs become too slow,
+speed them up to protect your flow.
+
+Audacity and ffmpeg can alter tempo,
+and no audible distortion will show.
+
+---
+
+It takes as long as it takes,
+but try not to take breaks.
+
+I rest my legs on weekends,
+but it depends.
+
+I workout and hour every day,
+Monday through Friday.
+
+Though I won’t feel weak,
+once I switch to 7 days per week.
+
+You’ll know when you can advance,
+just let your body get used to fast dance.
+
+---
+
+It is all about slowly increasing endurance,
+so give your body a chance and just dance.
+
+
+[1]: https://www.youtube.com/results?search_query=shuffle+dance+and+cutting+shapes+tutorial

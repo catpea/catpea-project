@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1904",
+  "guid": "7499ef93-7bec-4fbb-9047-f003776aa22f",
+  "title": "War, Education, And Heroes Never Die",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-18T16:18:47.865Z",
+  "lastmod": null,
+  "weight": 190400,
+  "audio": "poem-1904.mp3",
+  "image": "poem-1904-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-large-building-with-a-tree-in-front-of-it-vZCscLW-GOs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

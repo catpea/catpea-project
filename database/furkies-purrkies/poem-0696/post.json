@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0696",
+  "guid": "670c1c3b-672b-4e48-8372-5d921f0d5a9c",
+  "title": "A Glance At Future Of Programming: A Neat But Incomplete Introduction To Coding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-26T00:53:17.559Z",
+  "lastmod": null,
+  "weight": 69600,
+  "audio": "poetry-0696.mp3",
+  "image": "poetry-0696-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

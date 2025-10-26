@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0426",
+  "guid": "952785bf-5c4e-4a43-aaa5-cb03515a6667",
+  "title": "Temples Of Solitude: The Rain Makers (Deszczowce)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-01T01:07:26.484Z",
+  "lastmod": null,
+  "weight": 42600,
+  "audio": "poetry-0426.mp3",
+  "image": "poetry-0426-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Du41jIaI5Ww"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

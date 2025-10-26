@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1154",
+  "guid": "7b5b6c86-b637-4ec1-a931-f67f909f1c07",
+  "title": "The Funny World Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-30T03:47:14.494Z",
+  "lastmod": null,
+  "weight": 115400,
+  "audio": "poem-1154.mp3",
+  "image": "poem-1154-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/K5dAn1gOFEc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

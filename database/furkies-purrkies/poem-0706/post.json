@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0706",
+  "guid": "b852958c-e3a7-4612-b33b-649d630a55c7",
+  "title": "An Anonymous Open Letter To All The World's Teenagers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-04T19:31:24.679Z",
+  "lastmod": null,
+  "weight": 70600,
+  "audio": "poetry-0706.mp3",
+  "image": "poetry-0706-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jHOg6v6RIIs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

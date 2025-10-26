@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0964",
+  "guid": "e498af22-747f-474e-89c6-9b726fdf489c",
+  "title": "If You Got A Tailbone You Need A Tail",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-21T03:12:42.674Z",
+  "lastmod": null,
+  "weight": 96400,
+  "audio": "poem-0964.mp3",
+  "image": "poem-0964-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/_x2yVJ8HZWE"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

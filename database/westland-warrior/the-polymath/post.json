@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-polymath",
+  "guid": "59dbcde3-5cb1-427a-a1d2-228141bf5a44",
+  "title": "The Polymath",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-03-08T02:54:48.176Z",
+  "lastmod": null,
+  "weight": 17200,
+  "audio": null,
+  "image": "warrior-the-polymath-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

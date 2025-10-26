@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0741",
+  "guid": "312f75a0-6313-4fc0-8759-974736867c71",
+  "title": "From Strange Little Beginnings To Great Books And Ideas",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-12T02:59:42.185Z",
+  "lastmod": null,
+  "weight": 74100,
+  "audio": "poetry-0741.mp3",
+  "image": "poetry-0741-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-Hjjz9NptKE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

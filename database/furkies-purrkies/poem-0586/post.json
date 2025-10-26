@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0586",
+  "guid": "02bd3cdd-6fc6-4100-bddd-f97117ac4217",
+  "title": "Systems Of Thought",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-08T02:40:35.896Z",
+  "lastmod": null,
+  "weight": 58600,
+  "audio": "poetry-0586.mp3",
+  "image": "poetry-0586-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/BRdU4DsNpAQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

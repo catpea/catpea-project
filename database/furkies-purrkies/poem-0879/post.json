@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0879",
+  "guid": "eb8c57e1-4ed6-4072-aa20-e0c2afd5e5aa",
+  "title": "Joy Ahoy; Or, Art As Light In The Dark",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-28T01:05:40.546Z",
+  "lastmod": null,
+  "weight": 87900,
+  "audio": "poetry-0879.mp3",
+  "image": "poetry-0879-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ehC9fGYHs8I"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

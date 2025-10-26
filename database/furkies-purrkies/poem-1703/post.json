@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1703",
+  "guid": "c17c0fce-236b-4084-85e3-6278f871f837",
+  "title": "A Tiny Halloween Discovery For Dance Instructors",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-30T04:39:38.548Z",
+  "lastmod": null,
+  "weight": 170300,
+  "audio": "poem-1703.mp3",
+  "image": "poem-1703-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

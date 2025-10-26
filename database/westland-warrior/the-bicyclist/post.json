@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-bicyclist",
+  "guid": "15d0fc8f-30f1-4207-b6bd-2c4a8225b12f",
+  "title": "The Bicyclist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-05-10T02:47:45.994Z",
+  "lastmod": null,
+  "weight": 5600,
+  "audio": null,
+  "image": "warrior-the-bicyclist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1739",
+  "guid": "35a35d6d-2afc-40c6-aeaa-a3acb290bbd8",
+  "title": "Bodybuilding: An Explanation So Simple, That Even A Cat Can Do It!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-05T05:34:21.943Z",
+  "lastmod": null,
+  "weight": 173900,
+  "audio": "poem-1739.mp3",
+  "image": "poem-1739-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

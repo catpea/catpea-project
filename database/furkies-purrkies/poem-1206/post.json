@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1206",
+  "guid": "666dddd6-e0dc-40b4-a38d-6cbe3c742219",
+  "title": "Visual Programming Is Great For Learning And Growing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-21T03:18:52.091Z",
+  "lastmod": null,
+  "weight": 120600,
+  "audio": "poem-1206.mp3",
+  "image": "poem-1206-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

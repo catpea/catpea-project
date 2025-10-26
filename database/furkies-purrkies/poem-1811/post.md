@@ -1,0 +1,86 @@
+I am searching for way to teach JavaScript in the age of AI,
+an age where there is less initial emphasis on mastering code.
+
+Teaching programming correctly changes lives,
+and yet it is not something that has been done well.
+
+I usually send everyone to video and text tutorials,
+p5js and Node-RED, but those are far from good starting points.
+
+My visual programming language requires some initial testing work,
+so adding in a series of tools to play with code is a useful detour.
+
+---
+
+Even so I wasn’t going to write this text,
+but I randomly stubbed upon Incredible Machine recently.
+
+I’ve been mindful of the game for many years,
+it is an ancient pixel art game about making Rube Goldberg machines.
+
+When the notion is brought to JavaScript Visual Programming,
+creating a rewarding learning environment becomes a possibility.
+
+---
+
+Rather than scaring Pokey the cat by popping red balloons,
+a visual programming game can be made about real technologies.
+
+And can result in real applications,
+web extensions that transform or combine websites in useful ways.
+
+And of-course AI automation, where multiple AI can be joined,
+to solve specific problems that large application can’t reach.
+
+---
+
+Hacking challenges doubles the fun, here the UI components,
+and the target are both a game.
+
+And the resulting application is mastery over and good practice
+of top security issues.
+
+---
+
+Today, orchestrating interesting code games requires a setup,
+that is simply too much for a novice programmer.
+
+But a merger of a Rube Goldberg machine and Visual Programming,
+creates a fun and easy on-ramp, and a place to put the code in.
+
+With AI assistant everywhere, or a local ollama installation,
+there isn’t much here to stop a curious person from learning.
+
+---
+
+To give a solid example Erlang’s OTP Supervisor/WorkQueue combo,
+is too much for a novice, even when done in JavaScript.
+
+But when presented on the screen as a visual program,
+it is just two boxes, it is shamefully trivial.
+
+Building user interfaces is also possible by using templates,
+as they soak up all the nested concerns and expose zones for lists.
+
+Beyond that Access/FileMaker/ActiveRecord and ORM all somewhat scary,
+are just a few boxes and lines.
+
+A novice programmer, barely used to the syntax,
+can easily begin visualizing complex concepts.
+
+---
+
+With AI automating and guiding the user, there maybe a way,
+to replace game scores, with actual money making.
+
+The student would be conducting a small AI orchestra,
+something made possible by visual Programming decreasing complexity.
+
+AI based automation need not create slop when done correctly,
+here are good example would be workout programs.
+
+Fresh music at just the precise speed an duration,
+that the users need to increase their endurance.
+
+There must be countless such little ideas,
+leading to stable side projects, and; completing the game.

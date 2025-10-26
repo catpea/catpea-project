@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1930",
+  "guid": "8436d130-10c6-4d39-851a-4501c729ae76",
+  "title": "Message From Mother",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-13T23:40:30.434Z",
+  "lastmod": null,
+  "weight": 193000,
+  "audio": "poem-1930.mp3",
+  "image": "poem-1930-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

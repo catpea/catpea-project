@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0483",
+  "guid": "88e5e461-f549-430b-a92a-2c416a639305",
+  "title": "To Fix The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-27T01:13:03.213Z",
+  "lastmod": null,
+  "weight": 48300,
+  "audio": "poetry-0483.mp3",
+  "image": "poetry-0483-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/s4aOPAJ4v0E"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1540",
+  "guid": "c9fc7352-327f-4e27-be88-3eedf17ca16d",
+  "title": "Bodybuilding HOWTO: The Heavy Backpack Model",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-20T04:49:53.621Z",
+  "lastmod": null,
+  "weight": 154000,
+  "audio": "poem-1540.mp3",
+  "image": "poem-1540-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

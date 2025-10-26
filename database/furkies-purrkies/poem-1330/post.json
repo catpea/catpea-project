@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1330",
+  "guid": "aede6e1c-0e63-4d48-a08d-0842e1edc067",
+  "title": "Beginning Generative AI: Two Tiny Tips For Graphics And Text Generation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-23T02:57:35.384Z",
+  "lastmod": null,
+  "weight": 133000,
+  "audio": "poem-1330.mp3",
+  "image": "poem-1330-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

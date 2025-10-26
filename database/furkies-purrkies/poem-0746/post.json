@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0746",
+  "guid": "104c5d33-6225-40d9-87f8-392b81733dd1",
+  "title": "All The Things And Every Thingamabob",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-17T02:04:39.073Z",
+  "lastmod": null,
+  "weight": 74600,
+  "audio": "poetry-0746.mp3",
+  "image": "poetry-0746-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

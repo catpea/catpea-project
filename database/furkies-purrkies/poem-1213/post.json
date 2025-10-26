@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1213",
+  "guid": "1b7d8489-cd96-469f-9888-18098fd116b2",
+  "title": "The Pet To Get; Or, A Tiny Step Towards Working With Animals",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-28T03:24:13.317Z",
+  "lastmod": null,
+  "weight": 121300,
+  "audio": "poem-1213.mp3",
+  "image": "poem-1213-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tOxeXKfAmU8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

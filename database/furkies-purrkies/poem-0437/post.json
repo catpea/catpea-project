@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0437",
+  "guid": "3f5939e8-b51e-4334-ab3d-f9b417b0fce1",
+  "title": "The Little Tiny Book Entitled The Manual Of Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-12T01:10:16.209Z",
+  "lastmod": null,
+  "weight": 43700,
+  "audio": "poetry-0437.mp3",
+  "image": "poetry-0437-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/sdgfjVpLHcE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

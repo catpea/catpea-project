@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0421",
+  "guid": "17d574c5-66b5-476c-8e8d-6a93735bd841",
+  "title": "Back To The Future: Reinventing A Smart Smartphone",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-25T19:43:26.443Z",
+  "lastmod": null,
+  "weight": 42100,
+  "audio": "poetry-0421.mp3",
+  "image": "poetry-0421-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Sharp_Zaurus_SL-C1000_--_open_1280x960.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

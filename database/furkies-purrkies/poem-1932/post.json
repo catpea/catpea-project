@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1932",
+  "guid": "cd4aad3a-ebad-4fe2-9092-b2050b82c433",
+  "title": "Become A Genius With This Powerful Meditation Technique",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-16T00:51:24.612Z",
+  "lastmod": null,
+  "weight": 193200,
+  "audio": "poem-1932.mp3",
+  "image": "poem-1932-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

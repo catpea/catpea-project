@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1463",
+  "guid": "583b56f9-ecb0-446d-b2dc-09b7f7133b7e",
+  "title": "How To Become Smarter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-04T04:31:19.827Z",
+  "lastmod": null,
+  "weight": 146300,
+  "audio": "poem-1463.mp3",
+  "image": "poem-1463-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,85 @@
+The point is to create an online store,
+with one of the large marketplaces that take 50% of your sale.
+
+Know that they will ask you to advertise your product,
+and by extension bring customers to their platform.
+
+---
+
+One advanced step for later,
+is a custom website that you have control over.
+
+Here only when a customer wants to by one of your artworks…
+you present them with several on-line stores, where that product is located.
+
+This way you are paying for traffic to your own website first,
+and only part with the customer when they are ready to make a purchase.
+
+But that is a more advanced step, for later,
+but you need to be aware of it ahead of time.
+
+---
+
+Once you practice with an artificial art generator,
+which you should start doing by locating prompt databases and generators.
+
+You have to focus on one kind of art,
+you want your store to look consistent.
+
+Don’t mix different art styles,
+at-least not in the same store.
+
+Personally, I chose chibil kawaii lowbrow pop surrealism bobble heads,
+my first store specializes in art that makes customers worry.
+
+---
+
+Make no mistake, focusing in a singe art style is important,
+because you will need to match an up-scaler to your art.
+
+Some upscalers work with photos or realism only,
+or anime and cartoons, some work well with digital art that feels painted.
+
+If you can afford a really expensive computer, then you can use an open source program,
+if not, then you need to start searching for an online service, that will work with your style of art.
+
+With multiple styles you will need multiple services,
+and things will get costly and mixed up.
+
+Personally, I used a non AI based upscaler at first, it almost wokred OK,
+but AI based upsclaers don’t just sharpen and resize, they inject new content.
+
+In one of my tests, a blurry painting received an injection of painted hair,
+hair that matched the overall digital painting.
+
+On top of that you get perfect sharp lines, and I mean scary perfect,
+and in another tests, shoes of one of my characters received a colorful shine.
+
+Please, find and use an AI based upsclaer,
+you can sell your art on a 40x40 inch canvas without fear that your customer will complain.
+
+Or an enormous blanket that will have wonderful details,
+if you are moving beyond art prints.
+
+---
+
+Finally, you will need a story to go with you art,
+try to avoid poetry or songs, as stores may ignore carriage returns.
+
+And squish your text in a single, long, wrapped line,
+and of course here you want to use AI, but leave text for last.
+
+Because the one thing about product generation,
+is that like a box of chocolates, it is non-deterministic, you never know what the art generator will create.
+
+At this time, AI does not do very well with hands,
+don’t try to fix hands, because that is too complex.
+
+Don’t burn up your credits on trying to get a generation with good hands,
+avoid fingers, they’ll fix it eventually.
+
+For now, avoid full figures, and focus on faces and upper body,
+just focus on portraits.
+
+You will need several stores, but once you start seeing a tiny passive income,
+it won’t feel like a chore.

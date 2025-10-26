@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1726",
+  "guid": "b3cd61fa-3449-47f7-be20-cb2527590117",
+  "title": "Horking - The New American Pastime",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-22T04:09:51.669Z",
+  "lastmod": null,
+  "weight": 172600,
+  "audio": "poem-1726.mp3",
+  "image": "poem-1726-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

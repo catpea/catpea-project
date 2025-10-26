@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1131",
+  "guid": "a6684df8-cd65-465b-90d9-a4b90ac59dc1",
+  "title": "The Creatures Of Supercluster Laniakea",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-07T02:26:24.434Z",
+  "lastmod": null,
+  "weight": 113100,
+  "audio": "poem-1131.mp3",
+  "image": "poem-1131-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TpaWqZrSP1o",
+    "https://unsplash.com/photos/oMpAz-DN-9I"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

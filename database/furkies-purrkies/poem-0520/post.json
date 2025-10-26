@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0520",
+  "guid": "21f85f01-7cce-4842-ae0b-b1969195691c",
+  "title": "Art And Inspiration",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-03T01:08:23.741Z",
+  "lastmod": null,
+  "weight": 52000,
+  "audio": "poetry-0520.mp3",
+  "image": "poetry-0520-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iRZQjV--Z_4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

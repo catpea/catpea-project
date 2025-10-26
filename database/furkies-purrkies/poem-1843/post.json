@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1843",
+  "guid": "3f20a7c5-9226-4713-8405-bcd9c0947e5b",
+  "title": "Little Big Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-19T02:20:44.977Z",
+  "lastmod": null,
+  "weight": 184300,
+  "audio": "poem-1843.mp3",
+  "image": "poem-1843-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

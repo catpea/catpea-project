@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1095",
+  "guid": "ac43d651-bf83-49e5-acce-d949a6ed1568",
+  "title": "Civilization Woes; An Adventurer's Guide",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-01T04:09:51.517Z",
+  "lastmod": null,
+  "weight": 109500,
+  "audio": "poem-1095.mp3",
+  "image": "poem-1095-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

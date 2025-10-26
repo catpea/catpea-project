@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-backpacker",
+  "guid": "268b67af-0f3c-4aa9-bfbf-c78f65f7a4a4",
+  "title": "The Backpacker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-05-16T04:01:27.000Z",
+  "lastmod": null,
+  "weight": 3300,
+  "audio": null,
+  "image": "warrior-the-backpacker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

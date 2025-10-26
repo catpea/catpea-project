@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0323",
+  "guid": "b04080fe-e20b-453a-bd1b-5709fb9a154d",
+  "title": "Call To Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-18T02:58:28.528Z",
+  "lastmod": null,
+  "weight": 32300,
+  "audio": "poetry-0323.mp3",
+  "image": "poetry-0323-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OE6--uV5fCc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

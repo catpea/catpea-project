@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-cryptographer",
+  "guid": "e4c95174-3f99-4bcc-b669-929bc6670256",
+  "title": "The Cryptographer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-02-26T04:25:36.347Z",
+  "lastmod": null,
+  "weight": 16100,
+  "audio": null,
+  "image": "warrior-the-cryptographer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

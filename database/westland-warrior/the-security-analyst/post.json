@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-security-analyst",
+  "guid": "2158949a-7116-4475-83ee-f4382fa5391e",
+  "title": "The Security Analyst",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-11-16T04:36:57.000Z",
+  "lastmod": null,
+  "weight": 16000,
+  "audio": null,
+  "image": "warrior-the-security-analyst-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

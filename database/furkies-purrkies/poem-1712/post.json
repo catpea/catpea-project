@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1712",
+  "guid": "ed37c843-28e3-40a3-8331-e79e466005ae",
+  "title": "The Fancy Beast Workout: Dumbbells, Non-Stop Dance, Focus, Trance, Dried Fruit, And Intensity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-08T05:16:54.666Z",
+  "lastmod": null,
+  "weight": 171200,
+  "audio": "poem-1712.mp3",
+  "image": "poem-1712-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

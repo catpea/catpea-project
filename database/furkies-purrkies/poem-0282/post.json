@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0282",
+  "guid": "aba5d4ba-30ce-4577-b917-609a96781581",
+  "title": "Standardized Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-08T01:56:24.174Z",
+  "lastmod": null,
+  "weight": 28200,
+  "audio": "poetry-0282.mp3",
+  "image": "poetry-0282-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/NDMyliZWcO4"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0778",
+  "guid": "cbae4080-89c7-44db-9267-91182d8c5062",
+  "title": "United Countries Of The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-18T00:37:10.124Z",
+  "lastmod": null,
+  "weight": 77800,
+  "audio": "poetry-0778.mp3",
+  "image": "poetry-0778-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7EqQ1s3wIAI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

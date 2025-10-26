@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0594",
+  "guid": "91ff2fbb-732f-4f62-92fc-8d38d41f723c",
+  "title": "Eight Gadzillion Things To Learn",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-16T02:11:03.566Z",
+  "lastmod": null,
+  "weight": 59400,
+  "audio": "poetry-0594.mp3",
+  "image": "poetry-0594-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zFjnuaEcfFw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

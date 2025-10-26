@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0335",
+  "guid": "b16ba92e-1c2d-408f-bae8-a1d4a1abe1bd",
+  "title": "A Melody Tutorial With Maestro Meow Unibrow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-30T02:02:03.831Z",
+  "lastmod": null,
+  "weight": 33500,
+  "audio": "poetry-0335.mp3",
+  "image": "poetry-0335-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/BMO1D0CmiJo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

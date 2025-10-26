@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1981",
+  "guid": "cc7f0f84-cb37-4655-bd5c-68a8ac5380cb",
+  "title": "High School: JavaScript Is The Way Out",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-04T00:31:05.553Z",
+  "lastmod": null,
+  "weight": 198100,
+  "audio": "poem-1981.mp3",
+  "image": "poem-1981-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

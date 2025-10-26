@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0842",
+  "guid": "ebdd842b-7cb8-4e74-8f8b-fea2eb73aed1",
+  "title": "A Tiny Music Programming Idea",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-20T21:56:40.333Z",
+  "lastmod": null,
+  "weight": 84200,
+  "audio": "poetry-0842.mp3",
+  "image": "poetry-0842-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HwU5H9Y6aL8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

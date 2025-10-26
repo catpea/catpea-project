@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1351",
+  "guid": "b1a3b365-aa81-47d9-91dc-0701bbaa9892",
+  "title": "Eight Hours Of Programming Alongside A Robot",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-13T03:49:50.375Z",
+  "lastmod": null,
+  "weight": 135100,
+  "audio": "poem-1351.mp3",
+  "image": "poem-1351-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

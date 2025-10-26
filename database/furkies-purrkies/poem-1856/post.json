@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1856",
+  "guid": "27e1dadc-05dd-41fa-bf8a-66839d1a04d0",
+  "title": "Don’t Lift Heavy, Lift Long: A Simple Jogging Workout For Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-01T01:48:36.192Z",
+  "lastmod": null,
+  "weight": 185600,
+  "audio": "poem-1856.mp3",
+  "image": "poem-1856-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

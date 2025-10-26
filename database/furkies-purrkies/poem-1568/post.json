@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1568",
+  "guid": "55cd1100-e34b-4f6f-9d22-dc66995ea5e6",
+  "title": "What The AI Might Have Said To The Pope",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-17T00:59:46.713Z",
+  "lastmod": null,
+  "weight": 156800,
+  "audio": "poem-1568.mp3",
+  "image": "poem-1568-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

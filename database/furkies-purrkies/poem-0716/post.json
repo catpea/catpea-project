@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0716",
+  "guid": "b7f8c414-2b22-4970-9071-b30bd3a20cbd",
+  "title": "Impressionism 2022",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-14T20:42:31.762Z",
+  "lastmod": null,
+  "weight": 71600,
+  "audio": "poetry-0716.mp3",
+  "image": "poetry-0716-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

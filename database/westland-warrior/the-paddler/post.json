@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-paddler",
+  "guid": "3207b5f5-d38e-47ae-877e-448ccc821139",
+  "title": "The Paddler",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-06-07T04:01:51.707Z",
+  "lastmod": null,
+  "weight": 5400,
+  "audio": null,
+  "image": "warrior-the-paddler-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

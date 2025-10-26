@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1612",
+  "guid": "71e40c62-1bcf-47a3-9de4-32c38c0ef39d",
+  "title": "Timeless Book Friends",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-31T05:10:58.185Z",
+  "lastmod": null,
+  "weight": 161200,
+  "audio": "poem-1612.mp3",
+  "image": "poem-1612-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1482",
+  "guid": "e8516bcf-c43b-4977-b2b0-a8cfb454d964",
+  "title": "Troublemakers, The Art Of Troublemaking, And How Does It All Affect You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-23T04:41:09.231Z",
+  "lastmod": null,
+  "weight": 148200,
+  "audio": "poem-1482.mp3",
+  "image": "poem-1482-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

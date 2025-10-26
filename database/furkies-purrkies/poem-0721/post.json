@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0721",
+  "guid": "39dcd29d-ec21-4c6c-9fa1-7a7303ce58e8",
+  "title": "Artistic Realism Kind Of Pays The Bills",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-19T21:34:16.079Z",
+  "lastmod": null,
+  "weight": 72100,
+  "audio": "poetry-0721.mp3",
+  "image": "poetry-0721-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

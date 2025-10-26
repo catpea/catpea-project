@@ -1,0 +1,123 @@
+Some programmers value rigid structure
+and rule of code law.
+
+It is a pretty good policy, very similar to strip mining,
+no surprises, no dangers, no need to dig tunnels.
+
+Such an approach, does lead to wisdom,
+and it is precious, but it is very narrow.
+
+You get, stability, but you need a team of developers,
+who are approaching wise.
+
+---
+
+I am a maverick, because I have always programmed alone,
+and always moves at such speeds that teams slowed me down.
+
+---
+
+This morning a person unraveled upon one of my poems,
+if he was as intelligent as programmers often are.
+
+He would have been trying to say that the operator combineLatest,
+is of the Observables world, and not the world of Signals.
+
+(I think he just looked at my Visual Programming Artwork,
+and shot a comment without braining.)
+
+But lets assume,
+that he was very intelligent.
+
+So the difference between a Signal and Observable,
+is that Observables are smart enough to clean up after themselves.
+
+Whereas, signals, are beautifully simple, and just sit there,
+until your application, that relies on them, starts cleaning up.
+
+I see Observables as a program,
+and to me Signals, are just reactive variables.
+
+To explain combineLatest with Observables,
+is harder, because observables are more complex than signals.
+
+Signals just broadcast values, shoting out notifications of updates,
+Observables come with Operators that create entire programs.
+
+Functional Reactive Programming, this great revolutionary thing,
+is just Observable and Operators.
+
+Let me explain combineLatest once more,
+we are going to use an email.
+
+Think of it as a distant server you never check,
+that forwards a summary to your inbox.
+
+Imagine you have 3 people in that address-book,
+combineLatest would wait for all of them to send you a message.
+
+Before even activating, and send you an email with all three messages,
+and then, keep you updated, each time any one of the senders sent a message.
+
+And again it would send you all thee messages,
+but now only the latest message would be fresh, the other two you would have already seen.
+
+The thinking here is, something has changed,
+and things are different, here is an update, not all of it is new.
+
+But things are not the same,
+so here you go.
+
+---
+
+Whether it is an observable piping messages into a combineLatest,
+or three little signals that just hold colors, it does not matter.
+
+---
+
+combineLatest is not attached to anything specific,
+it is not functional reactive programming, of Observalbes.
+
+It is just good,
+and wise programming.
+
+---
+
+The world of programming is pretty large,
+I have in fact narrowed my abilities and strategized about wisdom.
+
+I abandoned all my languages, but JavaScript,
+I will never look beyond ECMAScript.
+
+I am convinced there is no time for such fancies,
+and focusing all my efforts on a Visual Programming Language, is also a narrowing.
+
+But, looking to other programs, and searching for ideas,
+is not about strip mining, as again there is no time.
+
+You have to look everywhere, and follow your nose,
+pocket all the lovely ideas, and keep on trucking.
+
+Delivering software demands a narrowing to focus on one thing,
+but learning and expanding our knowledge is the opposite.
+
+It is the realm of mavericks,
+I have absolutely no intention of using some Functional Reactive Library.
+
+I will use AI,
+to build on what I have learned from others.
+
+The finest example of that is me asking AI,
+to recreate Erlang’s OTP under JavaScript, and got see Agents in JavaScript.
+
+I actually did that for all languages I could think of,
+so see what AI can uncover for me, Prolog was also enchanting.
+
+JavaScript has a history of borrowing from functional programming,
+that is what map, filter and reduce represents.
+
+And now with the aid of AI,
+there is nothing to stop anybody from borrow all the things from everywhere.
+
+The world of programming is not about rigid classification,
+it is about mutation, and out of control wizards, and mavericks.

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1582",
+  "guid": "d20469b1-fbbc-4346-aae6-a29c29545a7c",
+  "title": "A Day Of Debugging",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-01T05:10:04.743Z",
+  "lastmod": null,
+  "weight": 158200,
+  "audio": "poem-1582.mp3",
+  "image": "poem-1582-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

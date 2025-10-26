@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0013",
+  "guid": "a9430996-43ad-4b7e-a056-42da474f0f68",
+  "title": "Demon by Friedrich Nietzsche",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-25T23:33:22.740Z",
+  "lastmod": null,
+  "weight": 1300,
+  "audio": null,
+  "image": "poetry-0013-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/S0Ogzvql3Vg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1884",
+  "guid": "4514492e-9903-4d2f-a007-cdca9c7d7adc",
+  "title": "Then What?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-28T23:01:01.020Z",
+  "lastmod": null,
+  "weight": 188400,
+  "audio": "poem-1884.mp3",
+  "image": "poem-1884-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

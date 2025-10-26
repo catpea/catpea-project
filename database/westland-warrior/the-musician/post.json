@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-musician",
+  "guid": "c33f20c0-7329-4688-a74d-b00329e4c1b5",
+  "title": "The Musician",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-11-20T04:44:47.922Z",
+  "lastmod": null,
+  "weight": 9400,
+  "audio": null,
+  "image": "warrior-the-musician-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

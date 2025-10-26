@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0015",
+  "guid": "7546df5c-dee2-46a9-8992-ec3555241b6a",
+  "title": "As Young As Your Faith by Douglas MacArthur",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-27T13:12:01.513Z",
+  "lastmod": null,
+  "weight": 1500,
+  "audio": null,
+  "image": "poetry-0015-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/betmVWGYcLY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2030",
+  "guid": "cdbc5255-118e-4093-8295-7991f8fda9ea",
+  "title": "Good and Evil: The Architecture of Human Ascension",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-21T00:59:28.575Z",
+  "lastmod": null,
+  "weight": 203000,
+  "audio": "poem-2030.mp3",
+  "image": "poem-2030-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/the-sun-shines-through-the-clouds-in-the-mountains-alYQKwYrKC0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

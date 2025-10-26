@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0299",
+  "guid": "d3b1d97d-7116-4ee4-815c-56a8566361b6",
+  "title": "To Change The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-25T04:17:25.836Z",
+  "lastmod": null,
+  "weight": 29900,
+  "audio": "poetry-0299.mp3",
+  "image": "poetry-0299-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JVXVj8qbFeA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

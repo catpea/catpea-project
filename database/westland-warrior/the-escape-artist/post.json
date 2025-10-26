@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-escape-artist",
+  "guid": "c58b044d-3c11-40a1-9991-0a4be65f4318",
+  "title": "The Escape Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-02-19T21:43:22.452Z",
+  "lastmod": null,
+  "weight": 1410,
+  "audio": null,
+  "image": "the-escape-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

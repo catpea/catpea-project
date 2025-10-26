@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0911",
+  "guid": "05116f36-07fe-465b-a93b-219baea39215",
+  "title": "The First Master Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-28T22:19:16.998Z",
+  "lastmod": null,
+  "weight": 91100,
+  "audio": "poetry-0911.mp3",
+  "image": "poetry-0911-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

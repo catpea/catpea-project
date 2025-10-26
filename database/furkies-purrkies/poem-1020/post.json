@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1020",
+  "guid": "a89d232d-acb2-45c7-a234-df77e6dcaf34",
+  "title": "Swinging Weights; Or On Exercise Music And Lifting",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-16T02:53:33.736Z",
+  "lastmod": null,
+  "weight": 102000,
+  "audio": "poem-1020.mp3",
+  "image": "poem-1020-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/__QqvTI5Edc"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

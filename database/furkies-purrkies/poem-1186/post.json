@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1186",
+  "guid": "833d63c3-e9ea-4a19-a219-cad502602333",
+  "title": "Growing Strong; Or, Humanity And Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-01T03:21:22.836Z",
+  "lastmod": null,
+  "weight": 118600,
+  "audio": "poem-1186.mp3",
+  "image": "poem-1186-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qePK-SJwE5c"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

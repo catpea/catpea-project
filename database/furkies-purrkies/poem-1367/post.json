@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1367",
+  "guid": "22a8641f-ae86-43ce-886b-458a176b25fb",
+  "title": "Three Apples A Day; Or, Understanding Workout Duration",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-29T04:39:05.405Z",
+  "lastmod": null,
+  "weight": 136700,
+  "audio": "poem-1367.mp3",
+  "image": "poem-1367-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

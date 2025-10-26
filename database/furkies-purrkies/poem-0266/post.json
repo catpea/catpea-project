@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0266",
+  "guid": "456cf9ac-1bd3-4400-b8f7-d6c3926b4cbf",
+  "title": "Itsy Bitsy Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-22T03:11:42.668Z",
+  "lastmod": null,
+  "weight": 26600,
+  "audio": "poetry-0266.mp3",
+  "image": "poetry-0266-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

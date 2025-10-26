@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-surfer",
+  "guid": "2a1598e2-a8d1-4d40-bafa-e05a19e8941a",
+  "title": "The Surfer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-07-19T00:58:27.938Z",
+  "lastmod": null,
+  "weight": 5300,
+  "audio": null,
+  "image": "warrior-the-surfer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

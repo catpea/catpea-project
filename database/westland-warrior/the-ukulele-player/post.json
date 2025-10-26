@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-ukulele-player",
+  "guid": "53218820-71c2-4858-8a3e-c26faac59057",
+  "title": "The Ukulele Player",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-05-02T03:29:30.000Z",
+  "lastmod": null,
+  "weight": 8800,
+  "audio": null,
+  "image": "warrior-the-ukulele-player-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-trail-runner",
+  "guid": "04fb74ce-d43d-4f6d-80f5-8e25486257de",
+  "title": "The Trail Runner",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-08-15T00:59:53.000Z",
+  "lastmod": null,
+  "weight": 5900,
+  "audio": null,
+  "image": "warrior-the-trail-runner-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

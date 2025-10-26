@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1059",
+  "guid": "1f5edd56-362e-4a5d-aba6-bd1f5f56a59c",
+  "title": "Speed Thy Slowly; Or, Art Is Not Really A Destination But A Road That Takes You Wherever You Need To Be Next",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-24T04:26:00.514Z",
+  "lastmod": null,
+  "weight": 105900,
+  "audio": "poem-1059.mp3",
+  "image": "poem-1059-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

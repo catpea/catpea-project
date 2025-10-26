@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1643",
+  "guid": "b8b746a1-2fa1-499e-a5dc-94c5f432ab1a",
+  "title": "The Future Is Always Bright, Once You Learn Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-31T04:15:50.901Z",
+  "lastmod": null,
+  "weight": 164300,
+  "audio": "poem-1643.mp3",
+  "image": "poem-1643-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

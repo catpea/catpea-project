@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-color-theorist",
+  "guid": "aabb3881-ea90-4a14-98ee-40fcf380fb50",
+  "title": "The Color Theorist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-03-20T19:13:35.513Z",
+  "lastmod": null,
+  "weight": 11500,
+  "audio": null,
+  "image": "warrior-the-color-theorist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

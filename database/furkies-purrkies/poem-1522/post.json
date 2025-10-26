@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1522",
+  "guid": "defde91f-f185-48b4-97bd-a3b1167a1a59",
+  "title": "How To Make The Best Of High School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-02T04:27:22.613Z",
+  "lastmod": null,
+  "weight": 152200,
+  "audio": "poem-1522.mp3",
+  "image": "poem-1522-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0994",
+  "guid": "0de645dd-59f9-4aa5-b11f-6ecaa7d1f223",
+  "title": "You Don’t Need To Fix The Whole World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-20T02:31:30.459Z",
+  "lastmod": null,
+  "weight": 99400,
+  "audio": "poem-0994.mp3",
+  "image": "poem-0994-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2FrX56QL7P8"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

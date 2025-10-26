@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1469",
+  "guid": "9426b375-34a3-4091-9958-51643b8b1016",
+  "title": "Muscles Grow In Proportion To Your Endurance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-10T05:04:53.246Z",
+  "lastmod": null,
+  "weight": 146900,
+  "audio": "poem-1469.mp3",
+  "image": "poem-1469-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

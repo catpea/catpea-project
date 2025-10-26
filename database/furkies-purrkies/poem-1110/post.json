@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1110",
+  "guid": "2f171e18-c4fc-483c-a6fb-8221435f22ce",
+  "title": "Our Philosophers; Or, A Note About Inheriting Their Wisdom And Culture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-17T02:23:20.023Z",
+  "lastmod": null,
+  "weight": 111000,
+  "audio": "poem-1110.mp3",
+  "image": "poem-1110-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

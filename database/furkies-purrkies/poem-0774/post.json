@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0774",
+  "guid": "89d0cc27-4f0c-409a-8c02-13fe4a627a7c",
+  "title": "Three Scary For Me: How Art Can Bite You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-14T02:37:29.924Z",
+  "lastmod": null,
+  "weight": 77400,
+  "audio": "poetry-0774.mp3",
+  "image": "poetry-0774-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,96 @@
+There is still time, and future is still yours,
+but only you can open those doors.
+
+---
+
+Today Humanity is locked,
+all our paths and progress are blocked.
+
+And, it will take a lot,
+to untie this powerful knot,
+
+On one end the curse un-education,
+on the other the tragedy homelessness and starvation.
+
+We can wipe ourselves out with a single stroke,
+and quickly end as cosmic joke.
+
+---
+
+Do not follow, wake up to all the mess,
+by rising, no one has ever become less.
+
+Just look at all the terrible ideas you are facing,
+each, and every one of them needs replacing.
+
+We are one people, one,
+one human family around the sun.
+
+
+
+---
+
+Fathers teach boys that to become a man,
+they have to lie, cheat, and plan.
+
+And find someone emotionally hurt enough,
+to fall for their bluff.
+
+[Colleges try hide rape statistics every year][1],
+hoping, that somehow, the data will disappear.
+
+Teachers pretend to teach for a paycheck,
+turning every student into an emotional wreck.
+
+Lectures so fake,
+that they never give, and can only take.
+
+And we can’t end poverty because of inflation,
+that colored paper is more important than the people of a nation.
+
+If your framework is so fickle that it ends when people eat,
+then you need to shut the duck up and take the back seat.
+
+---
+
+And just in case it is still unclear,
+the war your generation is facing, goes nuclear.
+
+The dictators can’t even afford rent,
+they don’t see nuclear weapons as a deterrent.
+
+The vile that can send a million lives to their end,
+neither bluff nor pretend.
+
+Maybe to them each 100 thousand lives is a tick or tock,
+it is not defeat, but a countdown clock.
+
+In their madness they just want to say: "Did you see what they made me do?
+How can it be that what I said was not true?"
+
+Sending young people into the meat grinder,
+is a reminder.
+
+That as the whatever general pretends,
+where humanity is going, war never ends.
+
+---
+
+
+
+That is why it all stops now and with you,
+a new future where the bombers never flew.
+
+Do not follow,
+or your future will turn hollow.
+
+You must rise that is the only key,
+rise, rise, Rise! Do yo hear me?
+
+Borrow a hundred beautifully narrated books -
+that will be your first step to rise above all the crooks.
+
+And then, listen, listen to nine-thousand nine-hundred more,
+and when all others follow, you will prevent the war.
+
+[1]: https://healthresearchfunding.org/39-date-rape-statistics-college-campuses/

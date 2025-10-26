@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0683",
+  "guid": "742210de-9daf-494d-9f9b-07a227eb25f4",
+  "title": "Spring And Exercise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-13T02:59:47.004Z",
+  "lastmod": null,
+  "weight": 68300,
+  "audio": "poetry-0683.mp3",
+  "image": "poetry-0683-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OwwM68FlA9o"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0904",
+  "guid": "a94f6235-a9e9-44d0-a9bf-137b677ad0f8",
+  "title": "Don’t Let Crazy Make You Crazy; Or, Health Advice For Nutjobs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-21T17:32:23.665Z",
+  "lastmod": null,
+  "weight": 90400,
+  "audio": "poetry-0904.mp3",
+  "image": "poetry-0904-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/dhUSUbKoaOE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

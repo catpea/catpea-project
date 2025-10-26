@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1337",
+  "guid": "6bf8a972-969c-4237-95e4-be891107bc21",
+  "title": "The Power Of The Third Hour; Or; How To Become Young And Mighty Again",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-30T03:25:00.128Z",
+  "lastmod": null,
+  "weight": 133700,
+  "audio": "poem-1337.mp3",
+  "image": "poem-1337-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

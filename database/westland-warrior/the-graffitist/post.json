@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-graffitist",
+  "guid": "fdb29fd5-f7c6-424d-972c-62f8829c2671",
+  "title": "The Graffitist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-01-15T02:57:34.957Z",
+  "lastmod": null,
+  "weight": 11800,
+  "audio": null,
+  "image": "warrior-the-graffitist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1445",
+  "guid": "3b5e1e99-eadf-497b-8f0f-cb012878273d",
+  "title": "This Is An Interval Timer; Or, A Workout Must Flow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-15T04:46:42.813Z",
+  "lastmod": null,
+  "weight": 144500,
+  "audio": "poem-1445.mp3",
+  "image": "poem-1445-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

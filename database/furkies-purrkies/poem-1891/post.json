@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1891",
+  "guid": "4250ab44-1506-4174-97c8-994627100556",
+  "title": "For Humanity, Out Of Admiration",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-05T22:53:03.272Z",
+  "lastmod": null,
+  "weight": 189100,
+  "audio": "poem-1891.mp3",
+  "image": "poem-1891-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-bee-approaches-pink-blossoms-Gv4TGExJTwc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

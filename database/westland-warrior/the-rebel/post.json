@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-rebel",
+  "guid": "4ee5a4ef-9fc8-48ee-82c0-8b544ada46cc",
+  "title": "The Rebel",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-04-16T19:08:36.182Z",
+  "lastmod": null,
+  "weight": 17010,
+  "audio": null,
+  "image": "the-rebel-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0923",
+  "guid": "e36d4637-7d05-448a-bfd1-82ac91d91ed8",
+  "title": "May The World Grow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-10T02:00:46.379Z",
+  "lastmod": null,
+  "weight": 92300,
+  "audio": "poetry-0923.mp3",
+  "image": "poetry-0923-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/L14cTPdzkcA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

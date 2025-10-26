@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0556",
+  "guid": "eac890cd-a61e-4f99-9f65-13346f0c4228",
+  "title": "The Quest For Real Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-08T03:18:20.135Z",
+  "lastmod": null,
+  "weight": 55600,
+  "audio": "poetry-0556.mp3",
+  "image": "poetry-0556-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/35WgnTRqKsM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

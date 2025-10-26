@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0541",
+  "guid": "3e44b24e-63e3-4938-b9d9-782b9b6e0011",
+  "title": "We Shall Wonder At: The Future Of Human Kind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-24T01:29:36.509Z",
+  "lastmod": null,
+  "weight": 54100,
+  "audio": "poetry-0541.mp3",
+  "image": "poetry-0541-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/G8rRItjrwkA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

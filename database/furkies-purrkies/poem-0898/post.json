@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0898",
+  "guid": "91fbbaab-de22-4275-b259-6ac4e184c7ad",
+  "title": "You Are Not A C Student",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-15T21:37:37.915Z",
+  "lastmod": null,
+  "weight": 89800,
+  "audio": "poetry-0898.mp3",
+  "image": "poetry-0898-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kQ29gDwZhoA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

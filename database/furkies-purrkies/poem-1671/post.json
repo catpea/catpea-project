@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1671",
+  "guid": "e8cfd0fa-3600-427c-929c-1a1b691fb31a",
+  "title": "Sooner Or Later You Will Have To Spend A Bit Of Time With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-28T01:08:49.440Z",
+  "lastmod": null,
+  "weight": 167100,
+  "audio": "poem-1671.mp3",
+  "image": "poem-1671-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

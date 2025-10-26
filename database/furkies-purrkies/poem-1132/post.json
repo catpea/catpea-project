@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1132",
+  "guid": "df9a8f08-a082-4ae6-bb5e-b161ac75184e",
+  "title": "The Strangeness In Politics",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-08T02:46:41.075Z",
+  "lastmod": null,
+  "weight": 113200,
+  "audio": "poem-1132.mp3",
+  "image": "poem-1132-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

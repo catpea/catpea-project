@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0628",
+  "guid": "a456cb40-1734-4843-8778-b018e5438b19",
+  "title": "On The Future Of Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-19T01:25:00.799Z",
+  "lastmod": null,
+  "weight": 62800,
+  "audio": "poetry-0628.mp3",
+  "image": "poetry-0628-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/berlin-oculus-rift-3d-1429878/"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

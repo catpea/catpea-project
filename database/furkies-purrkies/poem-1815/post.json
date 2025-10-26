@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1815",
+  "guid": "0bf6ed3b-3214-4cd9-8956-40e2097dbc21",
+  "title": "The Liminal Rise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-19T06:17:23.935Z",
+  "lastmod": null,
+  "weight": 181500,
+  "audio": "poem-1815.mp3",
+  "image": "poem-1815-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

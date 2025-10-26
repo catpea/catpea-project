@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1831",
+  "guid": "c3d9ef50-4fa4-4a1f-8fc2-b356a3387fdb",
+  "title": "At The Gym; Lift Heavy Or, Lift A Lot?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-07T02:18:33.069Z",
+  "lastmod": null,
+  "weight": 183100,
+  "audio": "poem-1831.mp3",
+  "image": "poem-1831-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

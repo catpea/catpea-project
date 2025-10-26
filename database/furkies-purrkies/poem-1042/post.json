@@ -1,0 +1,27 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1042",
+  "guid": "7c8b1584-4e21-492b-8f01-47c0ea834fb1",
+  "title": "For I Am A Mighty Cat",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-07T02:27:34.638Z",
+  "lastmod": null,
+  "weight": 104200,
+  "audio": "poem-1042.mp3",
+  "image": "poem-1042-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/ULuiy_sLOjw",
+    "https://en.wikipedia.org/wiki/DALL-E"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

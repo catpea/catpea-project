@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0947",
+  "guid": "8f866b39-99b2-4f35-9648-7c929b70bf94",
+  "title": "Cleaning Up The Cat Pea",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-04T00:12:35.689Z",
+  "lastmod": null,
+  "weight": 94700,
+  "audio": "poem-0947.mp3",
+  "image": "poem-0947-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

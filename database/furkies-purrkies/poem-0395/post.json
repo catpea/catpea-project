@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0395",
+  "guid": "af5aed38-7b28-4984-88bc-ee279e0c9cf4",
+  "title": "My Greatest Archaeological Discovery, That Belonged In A Museum!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-31T01:09:09.153Z",
+  "lastmod": null,
+  "weight": 39500,
+  "audio": "poetry-0395.mp3",
+  "image": "poetry-0395-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

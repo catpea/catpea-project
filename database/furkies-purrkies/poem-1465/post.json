@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1465",
+  "guid": "9f497377-ca80-40a5-9ba4-fe1c9d24e9ab",
+  "title": "Never Been Bored; Or, A Walk In The Park With My Strange Little Program",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-06T04:34:26.843Z",
+  "lastmod": null,
+  "weight": 146500,
+  "audio": "poem-1465.mp3",
+  "image": "poem-1465-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

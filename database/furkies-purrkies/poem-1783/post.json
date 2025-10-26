@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1783",
+  "guid": "3ac89f48-96d4-443a-8da0-eafb69ff027f",
+  "title": "Fun Fitness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-18T05:42:48.254Z",
+  "lastmod": null,
+  "weight": 178300,
+  "audio": "poem-1783.mp3",
+  "image": "poem-1783-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

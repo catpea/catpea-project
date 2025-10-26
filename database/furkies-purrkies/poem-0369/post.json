@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0369",
+  "guid": "9132dfad-3335-4b56-ade4-d3527a1b63aa",
+  "title": "Song Structure Tutorial with Lil Jazz And His String Orchestra",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-04T21:17:18.303Z",
+  "lastmod": null,
+  "weight": 36900,
+  "audio": "poetry-0369.mp3",
+  "image": "poetry-0369-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7CcPLtywRso"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

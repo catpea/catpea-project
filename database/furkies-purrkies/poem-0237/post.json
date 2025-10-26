@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0237",
+  "guid": "bdeecf09-292f-41c2-a19b-c0aea9a3b9f0",
+  "title": "Dance, Music, and Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-24T03:08:50.385Z",
+  "lastmod": null,
+  "weight": 23700,
+  "audio": "poetry-0237.mp3",
+  "image": "poetry-0237-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

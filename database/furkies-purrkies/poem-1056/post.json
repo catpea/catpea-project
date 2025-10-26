@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1056",
+  "guid": "6b303e0e-69ca-4682-8578-d3dfb9976596",
+  "title": "Oumuamua Rising; Or, Don’t Just Invent Stories, Chronicle, By Letting A Story Tell It Self",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-21T04:27:29.358Z",
+  "lastmod": null,
+  "weight": 105600,
+  "audio": "poem-1056.mp3",
+  "image": "poem-1056-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Stable_Diffusion",
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

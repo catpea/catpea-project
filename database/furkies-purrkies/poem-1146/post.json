@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1146",
+  "guid": "a0556a77-58b4-4bda-8038-f54638404f56",
+  "title": "Little Empires",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-22T03:27:27.918Z",
+  "lastmod": null,
+  "weight": 114600,
+  "audio": "poem-1146.mp3",
+  "image": "poem-1146-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hZWK1jcYy8g"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

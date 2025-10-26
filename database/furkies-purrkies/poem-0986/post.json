@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0986",
+  "guid": "c86ae39b-1a3a-42ec-aa8c-ca1a84bf3dab",
+  "title": "Introduction To Programming: Systems Architecture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-12T04:29:07.319Z",
+  "lastmod": null,
+  "weight": 98600,
+  "audio": "poem-0986.mp3",
+  "image": "poem-0986-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

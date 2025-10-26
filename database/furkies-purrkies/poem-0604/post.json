@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0604",
+  "guid": "ca17213e-2288-43c5-b271-a0b99bc91df9",
+  "title": "The First Night In The Woods, Or Why Grandpa Don't Like No Scary Movies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-26T02:06:08.831Z",
+  "lastmod": null,
+  "weight": 60400,
+  "audio": "poetry-0604.mp3",
+  "image": "poetry-0604-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/y421kXlUOQk"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

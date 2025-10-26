@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0367",
+  "guid": "5bdd85c5-ad10-4666-90a3-110b13ae8f1a",
+  "title": "On Finding A Path To Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-02T19:29:43.251Z",
+  "lastmod": null,
+  "weight": 36700,
+  "audio": "poetry-0367.mp3",
+  "image": "poetry-0367-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/znekTMMoBrM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

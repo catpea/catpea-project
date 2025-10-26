@@ -1,0 +1,26 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0880",
+  "guid": "bc917071-7579-43c4-91d1-18105123cf48",
+  "title": "Art And Rules Of The Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-29T00:45:06.551Z",
+  "lastmod": null,
+  "weight": 88000,
+  "audio": "poetry-0880.mp3",
+  "image": "poetry-0880-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/qBT44OJWNd8",
+    "https://unsplash.com/photos/eIgHtU-FWfY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

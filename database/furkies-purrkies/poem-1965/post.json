@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1965",
+  "guid": "1049638a-cdde-48a6-87a3-db7aa393f216",
+  "title": "Signals, Signals: But What Can I Do With Them In My Laboratory?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-19T01:18:45.615Z",
+  "lastmod": null,
+  "weight": 196500,
+  "audio": "poem-1965.mp3",
+  "image": "poem-1965-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

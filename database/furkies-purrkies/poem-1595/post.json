@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1595",
+  "guid": "40271b70-fe36-49e6-ae9f-cbc50491e3c4",
+  "title": "Life After High School; Or, The Big Bada Boom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-14T04:12:15.157Z",
+  "lastmod": null,
+  "weight": 159500,
+  "audio": "poem-1595.mp3",
+  "image": "poem-1595-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

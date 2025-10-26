@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1796",
+  "guid": "f0d16cbd-fd0f-4ed1-924c-30bf2a237a4c",
+  "title": "Asking AI About Learning Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-31T01:20:18.636Z",
+  "lastmod": null,
+  "weight": 179600,
+  "audio": "poem-1796.mp3",
+  "image": "poem-1796-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

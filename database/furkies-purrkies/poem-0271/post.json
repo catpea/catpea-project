@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0271",
+  "guid": "98cd0662-38e8-4fd4-9c2e-ac4430af4b36",
+  "title": "Are You Really Learning In School?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-26T23:59:00.896Z",
+  "lastmod": null,
+  "weight": 27100,
+  "audio": "poetry-0271.mp3",
+  "image": "poetry-0271-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Bd99sJ4MKuU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

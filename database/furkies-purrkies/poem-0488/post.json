@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0488",
+  "guid": "ccfe880a-e591-466b-8848-dfba513e823f",
+  "title": "Trail Magic",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-02T01:42:48.904Z",
+  "lastmod": null,
+  "weight": 48800,
+  "audio": "poetry-0488.mp3",
+  "image": "poetry-0488-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CInqxM5725c"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

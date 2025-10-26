@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1228",
+  "guid": "cf9d46f8-5d03-4cfe-bbd9-dce126696541",
+  "title": "The Power Of Serenity; Or How Humanity’s Greatest Accomplishment Was Rooted In Peace Of Mind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-13T03:10:35.150Z",
+  "lastmod": null,
+  "weight": 122800,
+  "audio": "poem-1228.mp3",
+  "image": "poem-1228-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/W7LcfI0UyWU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1714",
+  "guid": "dafb9170-4014-456a-8049-6e46c077acbd",
+  "title": "Visual Programming === Future Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-10T05:07:03.700Z",
+  "lastmod": null,
+  "weight": 171400,
+  "audio": "poem-1714.mp3",
+  "image": "poem-1714-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

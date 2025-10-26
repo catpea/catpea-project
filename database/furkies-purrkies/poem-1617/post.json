@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1617",
+  "guid": "917468a6-0270-4a17-9c64-dfba54ee881a",
+  "title": "Hominus Noctrurna; Or, What Is Late Night Programming, Anywho?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-05T03:15:28.945Z",
+  "lastmod": null,
+  "weight": 161700,
+  "audio": "poem-1617.mp3",
+  "image": "poem-1617-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

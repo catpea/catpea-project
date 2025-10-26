@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1425",
+  "guid": "496f70f8-fb1a-496b-beb0-8ecc56c862df",
+  "title": "Make Learning Camping A Bit Easier; Or, Bug Repellent, Narrated Books, Handy Dandy Saw, And Cut Proof Gloves",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-26T04:58:41.753Z",
+  "lastmod": null,
+  "weight": 142500,
+  "audio": "poem-1425.mp3",
+  "image": "poem-1425-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

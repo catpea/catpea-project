@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1821",
+  "guid": "69f0bc12-6493-4751-8cb6-1b3aac77f638",
+  "title": "The Church Of High School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-25T01:10:39.132Z",
+  "lastmod": null,
+  "weight": 182100,
+  "audio": "poem-1821.mp3",
+  "image": "poem-1821-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1375",
+  "guid": "372a5b4b-1c3f-4091-bb63-4d12ee81772e",
+  "title": "Growing Up With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-07T03:40:13.702Z",
+  "lastmod": null,
+  "weight": 137500,
+  "audio": "poem-1375.mp3",
+  "image": "poem-1375-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

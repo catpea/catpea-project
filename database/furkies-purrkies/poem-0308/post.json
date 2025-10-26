@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0308",
+  "guid": "3afd5a68-d83f-4a33-bd68-aa4f6926fa0a",
+  "title": "The Cat Pea University Commencement Address",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-02T23:44:22.388Z",
+  "lastmod": null,
+  "weight": 30800,
+  "audio": "poetry-0308.mp3",
+  "image": "poetry-0308-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/e6f8IaRQY7M"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

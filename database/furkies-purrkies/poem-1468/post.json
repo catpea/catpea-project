@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1468",
+  "guid": "631bf1d4-bee2-415b-85da-f5e19779226a",
+  "title": "How To Structure Your Computer Programs And Clearly Communicate Their Internal Architecture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-09T05:41:34.853Z",
+  "lastmod": null,
+  "weight": 146800,
+  "audio": "poem-1468.mp3",
+  "image": "poem-1468-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

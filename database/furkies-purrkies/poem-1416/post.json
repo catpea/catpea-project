@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1416",
+  "guid": "63d10527-aa3a-4a79-85ab-769887b19471",
+  "title": "Camping For Health",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-17T05:02:31.334Z",
+  "lastmod": null,
+  "weight": 141600,
+  "audio": "poem-1416.mp3",
+  "image": "poem-1416-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

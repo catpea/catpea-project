@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0326",
+  "guid": "9b69df3b-0cae-4a64-a735-b214fd1e6671",
+  "title": "Awakenings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-21T04:02:50.829Z",
+  "lastmod": null,
+  "weight": 32600,
+  "audio": "poetry-0326.mp3",
+  "image": "poetry-0326-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1528",
+  "guid": "b8975c04-10a6-4f2a-89d7-214a733b07c6",
+  "title": "Hiking And Fitness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-08T03:31:54.716Z",
+  "lastmod": null,
+  "weight": 152800,
+  "audio": "poem-1528.mp3",
+  "image": "poem-1528-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

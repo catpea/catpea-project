@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1545",
+  "guid": "ca6cbf21-d172-46df-ab47-0382d915bf8c",
+  "title": "A Neat Little Jogging Secret: Bodybuilding Is Just Jogging With Progressively Heavier Weights",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-25T05:03:15.073Z",
+  "lastmod": null,
+  "weight": 154500,
+  "audio": "poem-1545.mp3",
+  "image": "poem-1545-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

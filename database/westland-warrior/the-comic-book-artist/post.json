@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-comic-book-artist",
+  "guid": "b0c0f961-e1ea-4190-819f-13e03a39f45c",
+  "title": "The Comic Book Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-07-11T00:14:27.324Z",
+  "lastmod": null,
+  "weight": 13400,
+  "audio": null,
+  "image": "warrior-the-comic-book-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

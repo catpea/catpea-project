@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1356",
+  "guid": "6f9822ab-0400-42ba-9ed3-095fa78173e2",
+  "title": "Artificial Alien Intelligence And Brilliant New Futures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-18T04:17:52.230Z",
+  "lastmod": null,
+  "weight": 135600,
+  "audio": "poem-1356.mp3",
+  "image": "poem-1356-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

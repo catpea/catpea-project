@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1910",
+  "guid": "eb61248d-c0a1-49ab-ab9e-222bf653f571",
+  "title": "AI Helps You Easily Put Your Foot In JavaScript's Door",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-25T00:44:30.470Z",
+  "lastmod": null,
+  "weight": 191000,
+  "audio": "poem-1910.mp3",
+  "image": "poem-1910-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1859",
+  "guid": "7d26b2bb-8ea8-4037-9b7e-d110a019516f",
+  "title": "The Light Of United States Of America - An Important Reminder From Abraham Lincoln",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-03T23:52:56.533Z",
+  "lastmod": null,
+  "weight": 185900,
+  "audio": "poem-1859.mp3",
+  "image": "poem-1859-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

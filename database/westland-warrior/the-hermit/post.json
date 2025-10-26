@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-hermit",
+  "guid": "87326570-c70e-438b-b169-73a448864790",
+  "title": "The Hermit",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-09-17T23:31:10.353Z",
+  "lastmod": null,
+  "weight": 1310,
+  "audio": null,
+  "image": "the-hermit-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

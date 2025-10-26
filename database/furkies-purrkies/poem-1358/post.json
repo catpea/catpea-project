@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1358",
+  "guid": "deff5a50-2493-46dd-a267-ab97a4a46b8c",
+  "title": "A Fistful Of Pickles; Or, Programming Stuff Shouldn't Take Very Long",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-20T04:17:34.996Z",
+  "lastmod": null,
+  "weight": 135800,
+  "audio": "poem-1358.mp3",
+  "image": "poem-1358-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0514",
+  "guid": "a9e073c1-bc4b-4aac-a314-96b44c733250",
+  "title": "From Place To Place: The Search For Talent And Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-28T02:15:29.604Z",
+  "lastmod": null,
+  "weight": 51400,
+  "audio": "poetry-0514.mp3",
+  "image": "poetry-0514-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7lPRphsfiXw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,115 @@
+Use wisdom,
+
+Get ahead of trouble.
+
+Find them,
+
+find all your ends.
+
+Bring them within,
+
+make a start.
+
+We do not age,
+
+we amplify.
+
+Don't stop,
+
+align in balance.
+
+The slightest push,
+
+is the greatest force.
+
+---
+
+You cannot grow,
+
+without a multiplex.
+
+One thousand,
+
+little audio books.
+
+One thousand lives,
+
+to power your start.
+
+Quickening worthy,
+
+of gods and royalty.
+
+We are unbreakable,
+
+we are truly, Unimaginable.
+
+---
+
+As flowers need water.
+
+we need books.
+
+We have minds,
+
+and those must grow.
+
+Don't listen to anybody,
+
+they are not enough.
+
+You need,
+
+a thousand voices.
+
+A thousand,
+
+lifetimes.
+
+---
+
+Flowers,
+
+need light to bloom.
+
+Our minds need,
+
+a thousand lifetimes.
+
+In darkness,
+
+nothing can bloom.
+
+The curse was never knowing,
+
+that you were to bloom.
+
+One Thousand Books,
+
+and the curse is broken now.
+
+---
+
+Do not be scared,
+
+wisdom is safety.
+
+Do not be worried,
+
+Humanity grows with you.
+
+One for all,
+
+and all of one.
+
+Let the nature trails,
+
+bring you moon and sun.
+
+Slow down and listen,
+
+let the narrators read.
+
+Let a thousand wise beings
+
+speak to you as one.

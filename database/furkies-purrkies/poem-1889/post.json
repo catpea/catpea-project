@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1889",
+  "guid": "311fb04a-5440-45a1-a691-fef71639286e",
+  "title": "Learning And Growing; And, So The Philosopher In You Stirred",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-03T22:51:23.665Z",
+  "lastmod": null,
+  "weight": 188900,
+  "audio": "poem-1889.mp3",
+  "image": "poem-1889-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2035",
+  "guid": "dcdb3043-55e3-4ebd-9e95-1d693306bfc0",
+  "title": "Eternal Returns: A Letter From One Of My Oldest Friends",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-25T22:33:50.881Z",
+  "lastmod": null,
+  "weight": 203500,
+  "audio": "poem-2035.mp3",
+  "image": "poem-2035-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/the-sun-is-shining-over-a-lake-surrounded-by-mountains-lbeZG-w0j7o"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

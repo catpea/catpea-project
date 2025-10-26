@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0460",
+  "guid": "261186d1-6501-4d3a-8163-3fc01d19e19d",
+  "title": "A Beautiful Mind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-03T23:52:17.050Z",
+  "lastmod": null,
+  "weight": 46000,
+  "audio": "poetry-0460.mp3",
+  "image": "poetry-0460-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TEUny-MLLF0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2013",
+  "guid": "cfed3915-a22c-4ac5-9674-3fa248f742d7",
+  "title": "Of Rising, And Beyond the Sun",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-04T23:08:26.567Z",
+  "lastmod": null,
+  "weight": 201300,
+  "audio": "poem-2013.mp3",
+  "image": "poem-2013-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

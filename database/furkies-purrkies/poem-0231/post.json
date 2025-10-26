@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0231",
+  "guid": "ee6aefa3-7a74-4266-ae4f-8c3fcc3ca82e",
+  "title": "Chopping Wood, Moose, and Beaver, Gol Dang It!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-17T17:37:03.026Z",
+  "lastmod": null,
+  "weight": 23100,
+  "audio": "poetry-0231.mp3",
+  "image": "poetry-0231-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

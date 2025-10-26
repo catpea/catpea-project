@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0226",
+  "guid": "0fb0fca7-c3c9-4d3e-9121-e2641d37edd6",
+  "title": "Back Row",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-12T22:19:41.165Z",
+  "lastmod": null,
+  "weight": 22600,
+  "audio": "poetry-0226.mp3",
+  "image": "poetry-0226-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

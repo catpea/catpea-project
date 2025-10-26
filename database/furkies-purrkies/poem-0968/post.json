@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0968",
+  "guid": "d51a1ad7-10c9-4ad9-8e1c-51e997d2a196",
+  "title": "The Human Tail Research Trials; Or, Beyond The Science Of Biology",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-25T01:54:01.347Z",
+  "lastmod": null,
+  "weight": 96800,
+  "audio": "poem-0968.mp3",
+  "image": "poem-0968-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HwMxe5F6KtA"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

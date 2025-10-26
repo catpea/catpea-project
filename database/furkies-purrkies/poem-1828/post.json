@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1828",
+  "guid": "dceaa32f-66b4-48a7-9d5f-6282c9e6dedd",
+  "title": "If You Aren’t Sure What To Do In Life… Why Not Become A Great Warrior?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-04T02:05:40.014Z",
+  "lastmod": null,
+  "weight": 182800,
+  "audio": "poem-1828.mp3",
+  "image": "poem-1828-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

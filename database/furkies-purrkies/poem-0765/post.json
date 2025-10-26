@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0765",
+  "guid": "67d4f61c-221d-4572-befe-798777c7e684",
+  "title": "First Impressions Of Impressionism: It's Fast",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-05T01:18:55.659Z",
+  "lastmod": null,
+  "weight": 76500,
+  "audio": "poetry-0765.mp3",
+  "image": "poetry-0765-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

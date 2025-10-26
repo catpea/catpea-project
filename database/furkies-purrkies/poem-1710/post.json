@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1710",
+  "guid": "4c5b6d30-8cc3-4643-b8fa-34bfeaf129c6",
+  "title": "The Hoist Must Make You Moist - A Message From Abraham Lincoln",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-05T22:37:20.488Z",
+  "lastmod": null,
+  "weight": 171000,
+  "audio": "poem-1710.mp3",
+  "image": "poem-1710-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

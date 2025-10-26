@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0212",
+  "guid": "76a963f6-bb37-424a-a944-876cec2b326c",
+  "title": "Helping Humanity Grow in Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-28T23:39:49.398Z",
+  "lastmod": null,
+  "weight": 21200,
+  "audio": "poetry-0212.mp3",
+  "image": "poetry-0212-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ViEBSoZH6M4"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

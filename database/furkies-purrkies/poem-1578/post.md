@@ -1,0 +1,102 @@
+Just like you can ask today’s generative AI to write a story,
+or create some photograph or doodle, or even animate a still.
+
+You can ask AI to create a song,
+all you need to say is “Create a song about stars”.
+
+And it will give you, a 30 second clip,
+if you like it, you can prefix it with an intro.
+
+Add more sections, including vocals,
+and close the creation with an outro.
+
+The first clip the AI generates,
+sets the mood, instruments, and even genre.
+
+Things you can specify, if you wish to be more specific than.
+“Create a song about stars”.
+
+If the initial audio clip you get,
+serves well as a beginning, then it becomes the intro section.
+
+If it feels like it goes in the middle somewhere,
+then you prefix the song with a section of type intro.
+
+You are moving 30 seconds at a time,
+and you can change everything.
+
+I even tested getting the AI to generate lyrics,
+in Tolken’s Elvish, and it worked.
+
+Then I fused it with an old Lithuanian Commonwealth song,
+and the AI ended mixing Elvish with outdated Polish.
+
+Here is a 40 second clip,
+to show you sung gibberinsh.
+
+(clip)
+
+When I asked the AI to generate a song inspired by a specific artist,
+the program refused.
+
+But replaced the author’s name,
+with an pretty accurate description of how they sing.
+
+And while this is good,
+it was not trained on that particular artists music.
+
+So the description was valid,
+but the audio result was way off.
+
+This will change,
+as dinosaurs suffer a prolonged end.
+
+---
+
+This is the beginning of the everyday maestro,
+every teenager can now learn to create masterpieces.
+
+---
+
+Artists, artists are still artists,
+if you want to listen to a particular artists, do so.
+
+Personally, my favorite song is,
+[Tchaikovsky's Capriccio Italien][1].
+
+It tells a story,
+it is the way songs should be.
+
+So I prefer to create such songs with AI,
+and don’t much care for any other creator but myself.
+
+---
+
+I present the first song I made,
+in full.
+
+But, it is not a masterpiece yet,
+I strained the system.
+
+I plowed forward to test it,
+I wanted to see if I could find limits.
+
+To me this is an educational song,
+and I learned.
+
+That I should spend more time,
+on that initial sample that sets the mood.
+
+And I need better war drums,
+powerful deep snappy bass.
+
+That shifting genre in the middle of a song,
+is as beautiful as I always imagined.
+
+And that vocals, and actual lyrics,
+are a whole new world to explore.
+
+Without further ado,
+here is my song.
+
+[1]: https://www.youtube.com/watch?v=OJbZykloK7Q

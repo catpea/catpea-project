@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0944",
+  "guid": "79349761-f97b-4969-ada9-d8843e92655e",
+  "title": "Learning Programming Is Easy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-01T01:41:12.950Z",
+  "lastmod": null,
+  "weight": 94400,
+  "audio": "poem-0944.mp3",
+  "image": "poem-0944-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bPVM4nOy0Rg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

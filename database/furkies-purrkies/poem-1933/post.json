@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1933",
+  "guid": "e7de16a7-8beb-48ba-b8ca-d0e942e8d3ec",
+  "title": "Learning Programming With AI: Yeah, Artificial Intelligence Is Getting Smarter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-17T02:01:18.337Z",
+  "lastmod": null,
+  "weight": 193300,
+  "audio": "poem-1933.mp3",
+  "image": "poem-1933-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

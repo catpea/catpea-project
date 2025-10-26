@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1606",
+  "guid": "048bcc4c-476f-4bd5-90b0-34e697e9c4a0",
+  "title": "Holiday Mischief; Or, A Tiny Little The Last Minute Thanksgiving Gift",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-25T03:45:11.520Z",
+  "lastmod": null,
+  "weight": 160600,
+  "audio": "poem-1606.mp3",
+  "image": "poem-1606-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

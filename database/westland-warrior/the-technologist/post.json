@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-technologist",
+  "guid": "7cb43a14-8f68-4b59-8d98-9ebd2e622232",
+  "title": "The Technologist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-06-19T15:22:40.475Z",
+  "lastmod": null,
+  "weight": 9700,
+  "audio": null,
+  "image": "warrior-the-technologist.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1004",
+  "guid": "17f655e8-1a02-4040-94da-7e9ff2da9bb1",
+  "title": "Confusing Programming Can Be Pretty Colorful If You Build Everything Out Of Interesting Little Machines",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-30T04:11:09.289Z",
+  "lastmod": null,
+  "weight": 100400,
+  "audio": "poem-1004.mp3",
+  "image": "poem-1004-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/vuAkRNH4sGA"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

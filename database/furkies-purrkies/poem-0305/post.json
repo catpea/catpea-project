@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0305",
+  "guid": "549e01ac-9f3d-4531-9eae-447b3e5b2250",
+  "title": "Prevention",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-31T03:23:03.256Z",
+  "lastmod": null,
+  "weight": 30500,
+  "audio": "poetry-0305.mp3",
+  "image": "poetry-0305-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/72Wp636Fdfo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

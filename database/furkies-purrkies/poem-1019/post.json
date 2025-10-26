@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1019",
+  "guid": "bdadb39f-c850-4adc-98b3-8c195b3bbd67",
+  "title": "Thinking Outside Windows, Where Developer Experience And Power User Experience Is One And The Same",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-15T04:03:20.161Z",
+  "lastmod": null,
+  "weight": 101900,
+  "audio": "poem-1019.mp3",
+  "image": "poem-1019-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

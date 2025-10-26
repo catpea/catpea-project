@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1956",
+  "guid": "bc2f27bc-324e-4331-a568-a7fc06659760",
+  "title": "Bodybuilding Is Very Simple, But You Can’t Do The Same Thing And Expect Different Results",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-10T01:19:50.734Z",
+  "lastmod": null,
+  "weight": 195600,
+  "audio": "poem-1956.mp3",
+  "image": "poem-1956-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

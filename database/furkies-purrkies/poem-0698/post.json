@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0698",
+  "guid": "487ea9ea-c75b-4771-9a92-3dd425857c88",
+  "title": "Pipe Programming: A Look At Object Passing And Transformation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-28T03:11:49.666Z",
+  "lastmod": null,
+  "weight": 69800,
+  "audio": "poetry-0698.mp3",
+  "image": "poetry-0698-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

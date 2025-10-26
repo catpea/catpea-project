@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0497",
+  "guid": "77373fc7-8bef-40dd-85d5-ab22fad116ab",
+  "title": "The Right To Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-10T22:19:55.145Z",
+  "lastmod": null,
+  "weight": 49700,
+  "audio": "poetry-0497.mp3",
+  "image": "poetry-0497-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/f9e2ETfjOZY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

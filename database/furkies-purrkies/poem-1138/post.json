@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1138",
+  "guid": "4ecfbba5-3e8c-4a7c-b6cc-852d6b4059f3",
+  "title": "The Human Culture Is A Culture Of Greatness, And Growing Up, Is For All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-14T02:48:14.648Z",
+  "lastmod": null,
+  "weight": 113800,
+  "audio": "poem-1138.mp3",
+  "image": "poem-1138-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/C4ny6HRtBZI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1740",
+  "guid": "c61ac51c-e497-4425-bbdb-ed96a4a2dcb0",
+  "title": "War Of Art; Or, The Explosive Birth Of An Artist",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-06T05:12:40.007Z",
+  "lastmod": null,
+  "weight": 174000,
+  "audio": "poem-1740.mp3",
+  "image": "poem-1740-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

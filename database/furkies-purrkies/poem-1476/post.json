@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1476",
+  "guid": "a1075571-532e-4b55-ae4c-6c2a259149e6",
+  "title": "Hard Adventure; Or, A Workout Is The Worst Thing You Can Do",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-17T04:03:44.815Z",
+  "lastmod": null,
+  "weight": 147600,
+  "audio": "poem-1476.mp3",
+  "image": "poem-1476-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

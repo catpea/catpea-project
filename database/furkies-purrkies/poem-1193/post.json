@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1193",
+  "guid": "3613c08f-ed56-4f0e-a230-01945712951d",
+  "title": "From Visual Programming To A Smart And Annoying Little Company",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-08T03:23:01.248Z",
+  "lastmod": null,
+  "weight": 119300,
+  "audio": "poem-1193.mp3",
+  "image": "poem-1193-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://nodered.org"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

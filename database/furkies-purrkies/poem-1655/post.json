@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1655",
+  "guid": "30cd9744-2cd6-46e4-aef9-ab7a09dbf3ab",
+  "title": "Bodybuilding For Young Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-12T04:41:46.195Z",
+  "lastmod": null,
+  "weight": 165500,
+  "audio": "poem-1655.mp3",
+  "image": "poem-1655-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

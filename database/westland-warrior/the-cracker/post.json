@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-cracker",
+  "guid": "83556935-d71c-4d4e-adb0-4e9897550742",
+  "title": "The Cracker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-10-17T01:41:24.226Z",
+  "lastmod": null,
+  "weight": 15310,
+  "audio": null,
+  "image": "the-cracker-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

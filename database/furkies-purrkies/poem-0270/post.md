@@ -1,0 +1,23 @@
+Surely, this is a very mild winter season,
+
+and Spring will come a month sooner just for that reason.
+
+Therefore, we are really just about 84 days away,
+
+it is coming real fast even though today the sky was gray.
+
+And since this was an extremely warm year,
+
+we can be certain that Spring really is near.
+
+I'd say we are looking at just about 54 days in total,
+
+and this is hard evidence, not at all, anecdotal.
+
+But you know, as well as I do too,
+
+that this Spring will be a meteorological breakthrough.
+
+So all in total, give or take a day,
+
+I think Spring is just about 24 days away.

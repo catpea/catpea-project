@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1181",
+  "guid": "4a98c2c7-162c-47aa-a072-02b5065a51db",
+  "title": "Programming In Reverse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-27T02:39:26.310Z",
+  "lastmod": null,
+  "weight": 118100,
+  "audio": "poem-1181.mp3",
+  "image": "poem-1181-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

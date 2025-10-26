@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1846",
+  "guid": "7636f272-cc0e-4277-aec0-4b7828c085d1",
+  "title": "Light Of Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-22T00:42:36.571Z",
+  "lastmod": null,
+  "weight": 184600,
+  "audio": "poem-1846.mp3",
+  "image": "poem-1846-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

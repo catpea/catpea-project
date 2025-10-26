@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1401",
+  "guid": "ef4d9072-8454-41ab-b183-63edef256ab8",
+  "title": "Retro Futurism To The Rescue; Or, Chasing All The Bugs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-02T05:46:46.041Z",
+  "lastmod": null,
+  "weight": 140100,
+  "audio": "poem-1401.mp3",
+  "image": "poem-1401-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

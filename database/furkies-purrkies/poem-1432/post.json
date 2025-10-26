@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1432",
+  "guid": "43c93129-7eb8-4cbb-a823-b5fbf6a59d74",
+  "title": "Walking, Hiking, And Dancing; Or, Gradually Increasing Endurance To Transform Your Body",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-02T04:11:30.183Z",
+  "lastmod": null,
+  "weight": 143200,
+  "audio": "poem-1432.mp3",
+  "image": "poem-1432-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

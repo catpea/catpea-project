@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1209",
+  "guid": "074159e1-5413-473a-b5de-1dedeeaa74e6",
+  "title": "A Safer World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-24T03:23:02.340Z",
+  "lastmod": null,
+  "weight": 120900,
+  "audio": "poem-1209.mp3",
+  "image": "poem-1209-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JadxVFIXYQg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

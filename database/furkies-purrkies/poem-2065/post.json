@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2065",
+  "guid": "87449623-a2c1-4b2b-901e-171ae0aa490e",
+  "title": "Really Weird Programming And The Modulo Of Doom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-26T02:42:41.138Z",
+  "lastmod": null,
+  "weight": 206500,
+  "audio": "poem-2065.mp3",
+  "image": "poem-2065-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

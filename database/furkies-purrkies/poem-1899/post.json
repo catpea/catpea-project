@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1899",
+  "guid": "b09d0440-6dd2-47f3-918a-f39f0bcc87bd",
+  "title": "Helping The World Grow With Adaptive Audio Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-14T00:20:03.228Z",
+  "lastmod": null,
+  "weight": 189900,
+  "audio": "poem-1899.mp3",
+  "image": "poem-1899-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

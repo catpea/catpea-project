@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-artificial-artist",
+  "guid": "be758b79-7db0-4362-975f-d3cfe878b8b7",
+  "title": "The Artificial Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-10-10T02:12:26.383Z",
+  "lastmod": null,
+  "weight": 11860,
+  "audio": null,
+  "image": "the-artificial-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

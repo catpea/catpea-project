@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0958",
+  "guid": "a838c384-07ba-4aae-877b-f55ab635333f",
+  "title": "A Very Brief Introduction To User Interface Design",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-15T02:57:11.308Z",
+  "lastmod": null,
+  "weight": 95800,
+  "audio": "poem-0958.mp3",
+  "image": "poem-0958-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ml1IgjV8OvY"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

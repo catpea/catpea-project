@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1096",
+  "guid": "8abe5673-2a13-41f9-bc72-6d65422800d9",
+  "title": "What Is The Meaning Of Life?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-02T04:04:26.839Z",
+  "lastmod": null,
+  "weight": 109600,
+  "audio": "poem-1096.mp3",
+  "image": "poem-1096-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/f8nHGR0kOqA"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

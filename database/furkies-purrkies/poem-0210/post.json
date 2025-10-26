@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0210",
+  "guid": "739de794-37c5-4b32-aaae-20d4773d13ef",
+  "title": "Bring School To The Student",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-27T01:42:50.987Z",
+  "lastmod": null,
+  "weight": 21000,
+  "audio": "poetry-0210.mp3",
+  "image": "poetry-0210-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

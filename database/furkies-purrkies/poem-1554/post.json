@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1554",
+  "guid": "af6f0ae5-8dce-40dd-b96f-99854f2337b3",
+  "title": "Michigan, Itch Again; Or, Mosquitoes The Size Of Small Dogs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-03T03:46:16.698Z",
+  "lastmod": null,
+  "weight": 155400,
+  "audio": "poem-1554.mp3",
+  "image": "poem-1554-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

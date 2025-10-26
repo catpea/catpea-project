@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1793",
+  "guid": "da216a3c-b58b-44f5-8f94-e9cf4d7b1ec2",
+  "title": "You Must Become A Little Philosopher",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-28T04:13:01.101Z",
+  "lastmod": null,
+  "weight": 179300,
+  "audio": "poem-1793.mp3",
+  "image": "poem-1793-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

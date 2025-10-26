@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1978",
+  "guid": "409fb06c-3369-4e78-b7dd-255f2f20068d",
+  "title": "World In Trouble: A Call To Young Philosophers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-31T23:04:53.921Z",
+  "lastmod": null,
+  "weight": 197800,
+  "audio": "poem-1978.mp3",
+  "image": "poem-1978-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

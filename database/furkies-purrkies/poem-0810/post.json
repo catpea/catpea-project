@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0810",
+  "guid": "02e3bd44-57a0-4970-a5a9-02eb3a50392a",
+  "title": "Snarkedy Snarks: A Caaaall To Literary Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-19T17:24:28.048Z",
+  "lastmod": null,
+  "weight": 81000,
+  "audio": "poetry-0810.mp3",
+  "image": "poetry-0810-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-DnKOro7GaQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

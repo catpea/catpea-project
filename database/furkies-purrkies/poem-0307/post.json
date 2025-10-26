@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0307",
+  "guid": "82a937f3-7b19-4bb5-8789-c7a61094151f",
+  "title": "Believe In Yourself",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-02T04:16:47.356Z",
+  "lastmod": null,
+  "weight": 30700,
+  "audio": "poetry-0307.mp3",
+  "image": "poetry-0307-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JOYtT8_Y7c8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1958",
+  "guid": "f96d041e-a001-45ab-bbc0-3f9429cf752e",
+  "title": "AI Vs School, And A Lonewolf Research Example",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-12T01:58:03.452Z",
+  "lastmod": null,
+  "weight": 195800,
+  "audio": "poem-1958.mp3",
+  "image": "poem-1958-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

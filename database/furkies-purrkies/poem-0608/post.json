@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0608",
+  "guid": "18739a23-7e19-4863-a971-e99cbfbe72f6",
+  "title": "A Slice Of Heaven",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-30T01:43:46.934Z",
+  "lastmod": null,
+  "weight": 60800,
+  "audio": "poetry-0608.mp3",
+  "image": "poetry-0608-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Yv6LauvlV44"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

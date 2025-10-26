@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1412",
+  "guid": "7e025d0f-7b01-4280-977d-917a8343c5a7",
+  "title": "Michigan Geese Know No Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-13T02:00:33.445Z",
+  "lastmod": null,
+  "weight": 141200,
+  "audio": "poem-1412.mp3",
+  "image": "poem-1412-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

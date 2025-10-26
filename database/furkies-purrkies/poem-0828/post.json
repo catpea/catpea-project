@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0828",
+  "guid": "5cfd949d-01b0-427a-89dd-4a86241544a1",
+  "title": "The Little Froggie From Peru",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-06T21:01:57.611Z",
+  "lastmod": null,
+  "weight": 82800,
+  "audio": "poetry-0828.mp3",
+  "image": "poetry-0828-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

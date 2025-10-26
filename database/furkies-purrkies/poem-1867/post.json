@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1867",
+  "guid": "7f274473-f399-4020-8a32-a0917d60d33a",
+  "title": "Don’t Give Up On Fitness, Tough Words And Reminders For Tough People",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-12T01:56:16.597Z",
+  "lastmod": null,
+  "weight": 186700,
+  "audio": "poem-1867.mp3",
+  "image": "poem-1867-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

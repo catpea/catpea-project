@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0667",
+  "guid": "b69b39d5-a7f4-40b8-899d-d727c200dfba",
+  "title": "Westland Loco",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-28T02:12:42.263Z",
+  "lastmod": null,
+  "weight": 66700,
+  "audio": "poetry-0667.mp3",
+  "image": "poetry-0667-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

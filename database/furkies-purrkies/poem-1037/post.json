@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1037",
+  "guid": "dfa7fca5-8a51-4d90-8b3f-1611a4c1e9bf",
+  "title": "Language Games; Or, On Ludwig Wittgenstein's Search For The Universal Theory",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-02T03:48:56.290Z",
+  "lastmod": null,
+  "weight": 103700,
+  "audio": "poem-1037.mp3",
+  "image": "poem-1037-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/DALL-E"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

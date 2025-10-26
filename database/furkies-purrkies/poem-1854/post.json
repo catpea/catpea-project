@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1854",
+  "guid": "e6853f51-69a8-45f0-bc52-ee75fdc3d323",
+  "title": "Don’t Sit At The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-30T01:12:24.620Z",
+  "lastmod": null,
+  "weight": 185400,
+  "audio": "poem-1854.mp3",
+  "image": "poem-1854-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

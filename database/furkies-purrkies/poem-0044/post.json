@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0044",
+  "guid": "92cc3784-05c3-4345-bf4b-07d9bdfbe3f8",
+  "title": "Tomato With Sprinkles",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-25T02:18:21.042Z",
+  "lastmod": null,
+  "weight": 4400,
+  "audio": "poetry-0044.mp3",
+  "image": "poetry-0044-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

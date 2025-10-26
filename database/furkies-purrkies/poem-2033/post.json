@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2033",
+  "guid": "65b429e0-f096-4f0c-9e99-1995f6dc29fe",
+  "title": "After the Great Deception: A Manual for Human Recovery",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-23T21:57:50.336Z",
+  "lastmod": null,
+  "weight": 203300,
+  "audio": "poem-2033.mp3",
+  "image": "poem-2033-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-walking-up-a-trail-in-the-mountains-3qGOEK2xtac"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

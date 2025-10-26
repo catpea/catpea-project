@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0342",
+  "guid": "1f75b113-bdf3-4a0b-869d-356ad8f3f0c1",
+  "title": "Hundreds Of Good Books and Decades Of Good Decisions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-06T02:24:06.149Z",
+  "lastmod": null,
+  "weight": 34200,
+  "audio": "poetry-0342.mp3",
+  "image": "poetry-0342-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8D2k7a3wMKQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

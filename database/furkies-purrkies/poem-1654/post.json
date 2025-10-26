@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1654",
+  "guid": "8a06218b-ae48-41b6-ac94-d8dbfec3edaf",
+  "title": "Super Nerd; Or, A Fistful Of Code And The Age Of Enlightenment",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-11T03:57:36.160Z",
+  "lastmod": null,
+  "weight": 165400,
+  "audio": "poem-1654.mp3",
+  "image": "poem-1654-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

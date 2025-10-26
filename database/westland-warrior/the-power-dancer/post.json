@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-power-dancer",
+  "guid": "a16c27d4-e0e9-43d0-aa8c-8b58e43941ef",
+  "title": "The Power Dancer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-08-20T23:32:46.212Z",
+  "lastmod": null,
+  "weight": 6019,
+  "audio": null,
+  "image": "the-power-dancer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

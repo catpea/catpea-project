@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0232",
+  "guid": "ec81497e-51a7-417e-8c73-58238953d7e1",
+  "title": "A Touch of Magic: Keep a Backpack",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-19T00:07:41.066Z",
+  "lastmod": null,
+  "weight": 23200,
+  "audio": "poetry-0232.mp3",
+  "image": "poetry-0232-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UVyOfX3v0Ls"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

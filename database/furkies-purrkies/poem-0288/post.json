@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0288",
+  "guid": "2f752dac-c549-4322-99c1-b625f292b1eb",
+  "title": "Self Awareness, Open Your Eyes And Rise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-13T23:38:15.743Z",
+  "lastmod": null,
+  "weight": 28800,
+  "audio": "poetry-0288.mp3",
+  "image": "poetry-0288-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/MeMbExzoyF8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

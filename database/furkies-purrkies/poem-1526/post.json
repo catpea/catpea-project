@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1526",
+  "guid": "b0e6c35e-62e0-47dc-bd4e-e17d7298ef47",
+  "title": "The Final Vacation; Or, An Adventure Is One Way, You Never Retreat, Never Surrender, And Never Ever Return",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-06T04:50:42.498Z",
+  "lastmod": null,
+  "weight": 152600,
+  "audio": "poem-1526.mp3",
+  "image": "poem-1526-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

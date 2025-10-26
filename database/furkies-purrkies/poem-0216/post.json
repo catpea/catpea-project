@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0216",
+  "guid": "6ae84ea8-6f7d-4835-b269-293ba435e8b3",
+  "title": "The League of Extraordinary Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-03T02:48:07.933Z",
+  "lastmod": null,
+  "weight": 21600,
+  "audio": "poetry-0216.mp3",
+  "image": "poetry-0216-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

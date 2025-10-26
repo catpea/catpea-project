@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1704",
+  "guid": "af6b60a6-0df0-4c0d-bb2c-0befbc8c7d6e",
+  "title": "Automatic AI Magic; Or, How I Am Experimenting With AI Today",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-31T03:39:21.212Z",
+  "lastmod": null,
+  "weight": 170400,
+  "audio": "poem-1704.mp3",
+  "image": "poem-1704-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

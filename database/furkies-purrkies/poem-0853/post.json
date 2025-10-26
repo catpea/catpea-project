@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0853",
+  "guid": "29ad71a7-4c5c-4517-9316-d506ba35d3b2",
+  "title": "The Cure And The Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-01T18:54:37.776Z",
+  "lastmod": null,
+  "weight": 85300,
+  "audio": "poetry-0853.mp3",
+  "image": "poetry-0853-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/LiLPRqxWI9I"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

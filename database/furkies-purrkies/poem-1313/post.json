@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1313",
+  "guid": "61279c42-52e5-4147-8534-a85297cdc895",
+  "title": "A Handsome Tail; Or, Evolution Made A Terrible Mistake And Everything Is At Stake",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-06T03:25:50.522Z",
+  "lastmod": null,
+  "weight": 131300,
+  "audio": "poem-1313.mp3",
+  "image": "poem-1313-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ULuiy_sLOjw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

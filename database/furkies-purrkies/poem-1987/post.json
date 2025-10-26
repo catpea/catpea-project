@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1987",
+  "guid": "f8fce652-b61c-4e62-958e-48ce49b6bf3e",
+  "title": "Grant Your Children The Power Of Clarity And Reason",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-10T00:06:50.258Z",
+  "lastmod": null,
+  "weight": 198700,
+  "audio": "poem-1987.mp3",
+  "image": "poem-1987-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Gilbert_Stuart_1796_portrait_of_Washington.jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

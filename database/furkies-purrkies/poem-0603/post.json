@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0603",
+  "guid": "6ee3bb8a-8ed2-471a-a52a-ba17d2542ba8",
+  "title": "Write Far Into The Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-24T22:19:29.128Z",
+  "lastmod": null,
+  "weight": 60300,
+  "audio": "poetry-0603.mp3",
+  "image": "poetry-0603-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/B6yDtYs2IgY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

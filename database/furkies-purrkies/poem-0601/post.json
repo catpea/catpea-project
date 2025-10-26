@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0601",
+  "guid": "8395f752-8402-439a-a133-b173380921d8",
+  "title": "Freedom And Tools For Thinking",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-23T00:22:27.675Z",
+  "lastmod": null,
+  "weight": 60100,
+  "audio": "poetry-0601.mp3",
+  "image": "poetry-0601-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/XbPG4k-KUwE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

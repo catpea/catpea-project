@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1090",
+  "guid": "b1973e9d-8967-49c9-a2bb-647e20b9ad41",
+  "title": "Dare To Create Magnificent Confusion",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-24T02:38:34.670Z",
+  "lastmod": null,
+  "weight": 109000,
+  "audio": "poem-1090.mp3",
+  "image": "poem-1090-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

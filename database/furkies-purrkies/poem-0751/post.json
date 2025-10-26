@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0751",
+  "guid": "edbc19ad-b29b-43a1-aa82-ed01a05e643e",
+  "title": "First Day Of Summer In Just 92 Days",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-22T02:55:48.679Z",
+  "lastmod": null,
+  "weight": 75100,
+  "audio": "poetry-0751.mp3",
+  "image": "poetry-0751-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ifo6FAbFoHY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

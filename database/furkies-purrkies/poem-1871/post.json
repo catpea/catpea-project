@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1871",
+  "guid": "64563bdf-3b3a-4a80-93a4-a4509dd4ae1a",
+  "title": "Building A Teaching Agent; Or, Educational Principles for Clear Thinking and Fact-Based Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-16T00:33:26.748Z",
+  "lastmod": null,
+  "weight": 187100,
+  "audio": "poem-1871.mp3",
+  "image": "poem-1871-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

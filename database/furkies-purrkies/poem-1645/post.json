@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1645",
+  "guid": "c6fc42ca-9a33-4dca-9f4f-feff4f4a1340",
+  "title": "Programmers! Don't Just Use Plain Variables, Oh No!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-02T01:24:09.966Z",
+  "lastmod": null,
+  "weight": 164500,
+  "audio": "poem-1645.mp3",
+  "image": "poem-1645-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

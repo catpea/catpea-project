@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0388",
+  "guid": "74723a3c-b017-4dbc-bba6-f836e5cc8881",
+  "title": "Secrets Of Faerie Tales: Gwarchae Peryglus",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-24T00:33:35.110Z",
+  "lastmod": null,
+  "weight": 38800,
+  "audio": "poetry-0388.mp3",
+  "image": "poetry-0388-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Siege_perilleux_galaad.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

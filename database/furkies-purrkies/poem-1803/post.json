@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1803",
+  "guid": "e666f5d6-e83c-403d-8d61-ab09887b1b75",
+  "title": "A Look Back at 2025",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-07T00:22:02.023Z",
+  "lastmod": null,
+  "weight": 180300,
+  "audio": "poem-1803.mp3",
+  "image": "poem-1803-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

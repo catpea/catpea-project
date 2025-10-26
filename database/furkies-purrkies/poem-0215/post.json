@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0215",
+  "guid": "a32ac8cb-fa71-4434-9747-ad2401399466",
+  "title": "They Walk Among Us",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-02T01:16:29.907Z",
+  "lastmod": null,
+  "weight": 21500,
+  "audio": "poetry-0215.mp3",
+  "image": "poetry-0215-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

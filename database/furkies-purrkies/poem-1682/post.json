@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1682",
+  "guid": "740bde24-415c-4b3a-9d1b-b13de4c25314",
+  "title": "Easy Bodybuilding For The Sophisticated Lady",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-09T03:05:47.662Z",
+  "lastmod": null,
+  "weight": 168200,
+  "audio": "poem-1682.mp3",
+  "image": "poem-1682-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

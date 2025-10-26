@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0817",
+  "guid": "24c8860f-4bbb-4eea-bf89-99d0c62fe856",
+  "title": "The Never Ending Chronicle Of The Grand Human Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-26T21:00:39.844Z",
+  "lastmod": null,
+  "weight": 81700,
+  "audio": "poetry-0817.mp3",
+  "image": "poetry-0817-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:DAPIMitoTrackerRedAlexaFluor488BPAE.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

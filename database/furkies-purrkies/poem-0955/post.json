@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0955",
+  "guid": "95966ca8-acee-4663-b8b4-c295364190bb",
+  "title": "Self Education And The Future Of Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-12T02:46:17.945Z",
+  "lastmod": null,
+  "weight": 95500,
+  "audio": "poem-0955.mp3",
+  "image": "poem-0955-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RPgXS5joO-k"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

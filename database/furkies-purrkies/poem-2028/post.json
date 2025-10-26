@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2028",
+  "guid": "1d9226a5-0b51-433c-bf4f-871347f4b082",
+  "title": "Witch and Witchcraft: Malleus Maleficarum And The Continuing Attack On Women",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-18T23:36:47.687Z",
+  "lastmod": null,
+  "weight": 202800,
+  "audio": "poem-2028.mp3",
+  "image": "poem-2028-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/birds-eye-view-of-gray-mountain-during-daytime-UqCnDyc_3vA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

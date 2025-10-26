@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1047",
+  "guid": "73493cde-4c8d-45fd-8b5d-d94e5a4fb9f2",
+  "title": "Where Can A Book Take You Anyway?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-12T04:16:05.927Z",
+  "lastmod": null,
+  "weight": 104700,
+  "audio": "poem-1047.mp3",
+  "image": "poem-1047-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://huggingface.co/spaces/anzorq/finetuned_diffusion"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

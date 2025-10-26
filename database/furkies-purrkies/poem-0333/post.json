@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0333",
+  "guid": "e6ecd384-16d5-4b30-86a2-d838c3eecbab",
+  "title": "Minimalist Techno Tutorial With DJ Lil Dandelion",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-27T22:34:11.528Z",
+  "lastmod": null,
+  "weight": 33300,
+  "audio": "poetry-0333.mp3",
+  "image": "poetry-0333-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JMpnwlDTSBM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

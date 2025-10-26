@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0794",
+  "guid": "b0383b11-86a7-40c9-9c66-a7e27266cbdc",
+  "title": "A Glance At Jewelry Design: The Pug Shield Pendant",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-04T01:31:06.819Z",
+  "lastmod": null,
+  "weight": 79400,
+  "audio": "poetry-0794.mp3",
+  "image": "poetry-0794-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

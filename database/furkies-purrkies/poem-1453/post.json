@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1453",
+  "guid": "d366b8fe-2b26-4a67-be0f-d7f76d26a787",
+  "title": "How Books Change Culture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-23T04:19:21.575Z",
+  "lastmod": null,
+  "weight": 145300,
+  "audio": "poem-1453.mp3",
+  "image": "poem-1453-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

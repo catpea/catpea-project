@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1025",
+  "guid": "b0bd7aee-7490-4cd4-a139-4b769bbc4711",
+  "title": "Art Changes Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-21T03:14:05.519Z",
+  "lastmod": null,
+  "weight": 102500,
+  "audio": "poem-1025.mp3",
+  "image": "poem-1025-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/sHzFtN-b1Yw"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

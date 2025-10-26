@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0243",
+  "guid": "aea1a2c7-d6a5-4dc6-b286-fc1807b69dc7",
+  "title": "Playing With Computers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-29T22:04:43.376Z",
+  "lastmod": null,
+  "weight": 24300,
+  "audio": "poetry-0243.mp3",
+  "image": "poetry-0243-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RNqs_Ve8qAo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

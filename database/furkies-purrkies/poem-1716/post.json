@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1716",
+  "guid": "81f62013-aa14-4bea-b022-6b62fb43c11b",
+  "title": "Cat Calque; Or, The Case Of A Missing Idiom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-12T04:49:41.731Z",
+  "lastmod": null,
+  "weight": 171600,
+  "audio": "poem-1716.mp3",
+  "image": "poem-1716-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

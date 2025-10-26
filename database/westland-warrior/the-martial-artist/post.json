@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-martial-artist",
+  "guid": "e2058883-4ad8-4f60-a642-f65b71dbb9c8",
+  "title": "The Martial Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-12-07T04:46:52.000Z",
+  "lastmod": null,
+  "weight": 6500,
+  "audio": null,
+  "image": "warrior-the-martial-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

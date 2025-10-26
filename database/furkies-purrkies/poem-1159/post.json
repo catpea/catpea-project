@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1159",
+  "guid": "5984c774-877c-43fe-8e31-e90d5ed88ca7",
+  "title": "To Call A Function; Or, A Tiny Introduction To Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-05T03:23:17.510Z",
+  "lastmod": null,
+  "weight": 115900,
+  "audio": "poem-1159.mp3",
+  "image": "poem-1159-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

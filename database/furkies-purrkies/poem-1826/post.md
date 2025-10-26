@@ -1,0 +1,102 @@
+It is an honest argument, not a straw-man, at all,
+hand drawn diagrams are fast and never a mere doodle.
+
+First of all, paper and pencil,
+is not what it seems.
+
+We make fun of people who do quantum physics,
+with little more than pen, paper, and strong coffee.
+
+But there is nothing funny about it, we are navigators,
+a pencil and a nice clean piece of paper will multiply our abilities.
+
+And hand drawn diagrams are equally useful,
+when you are learning and when you are pushing boundaries.
+
+So as long as your notebooks are nice, and pencil sharp,
+learning programming will be fast.
+
+And if you you splurge not on sketching but the thicker drawing paper,
+and then use a one sided, dual tipped marker, it will become art.
+
+---
+
+Older programmers get used to their litter machines on paper,
+and they don’t want to give them up.
+
+They become good at mapping massive systems,
+and breaking them down, to rebuild them as more powerful.
+
+Without touching the keyboard,
+giving that up, is highly questionable.
+
+And it may not be possible for a program that requires multiple clicks,
+like that shutdown menu that asks if you want to sleep or shut down.
+
+---
+
+And paper will be faster,
+and more pleasant.
+
+Now here I must say, that a powerful Visual Programming Language,
+eliminates the programming step, even if it takes some practice at first.
+
+---
+
+I don’t think messing with a person’s internal art,
+is good at all, it won’t make them better, perhaps ever.
+
+---
+
+My discovery of awaiting all pipes to submit data,
+in other words, waiting on dry pipes.
+
+Is one strong example, that will give a professional pause,
+because they can map put an entire organization or flow.
+
+And wait for all the HR ladies, and departments,
+or downloads and AI responses to finish, before the program continues.
+
+It takes a moment to see this as a Flow Control alternative,
+but once you see some lines in green and others in gray.
+
+Your diagrams,
+become stuck in time.
+
+Especially on a Friday afternoon when searching for a bug,
+you can see what is not working, by just looking for a gray lines.
+
+When I saw the tragedy of Marble Diagrams,
+I added animated marbles to my User Interface tests.
+
+I am experimenting with slowing down or pausing time in my language,
+and seeing the marbles come to a crawl for debugging will give everyone pause.
+
+To be clear, all the magnificent things about Functional Reactive Programming,
+become greatly simplified under a Visual Programming Language.
+
+So much so, that many complex functions can be reduced to a checkbox,
+such is the case with combineLatest it is a checkbox of whether or not to await pipes.
+
+---
+
+I am one of the people who will not give up diagrams,
+they just make me so much smarted, it would be shameful.
+
+But, I entertain myself by refining small puzzles,
+such as refining signals.
+
+My research very strongly indicates that Signal Dependencies are dumb,
+32 lines of code signal is perfect without untangling dependencies my mangling context.
+
+But as I sat down today to integrate with browser storage,
+and web extension storage, by way of adapters and an intermediate table.
+
+I was just manipulating visual programming concepts,
+Diagram or not in 10 years, I will not remember what I was doing in there.
+
+If I wrote this out as a visual program, even in 50 years,
+I would be able to watch it all come to life on the screen like a movie.
+
+And have no problems,
+understanding the entire symphony of the thing.

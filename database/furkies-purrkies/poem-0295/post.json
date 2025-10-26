@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0295",
+  "guid": "989ad9e2-8dd9-46dc-bc1c-13f12501e4c0",
+  "title": "Informed Decision-Making",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-21T03:08:33.051Z",
+  "lastmod": null,
+  "weight": 29500,
+  "audio": "poetry-0295.mp3",
+  "image": "poetry-0295-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1365",
+  "guid": "5ef7adc8-b9b3-46ec-820c-0d03b69e994e",
+  "title": "The Ghost Is In The Machine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-27T02:14:05.498Z",
+  "lastmod": null,
+  "weight": 136500,
+  "audio": "poem-1365.mp3",
+  "image": "poem-1365-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

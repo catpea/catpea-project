@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0360",
+  "guid": "0eb51575-8796-4703-ae29-99f703a75ed5",
+  "title": "The Lighthouse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-24T01:50:46.651Z",
+  "lastmod": null,
+  "weight": 36000,
+  "audio": "poetry-0360.mp3",
+  "image": "poetry-0360-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1725",
+  "guid": "a3d1d212-8a9c-40d3-ad07-397b2d6d52bf",
+  "title": "Children of the Future, Hear Me! - A Message From Friedrich Nietzsche",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-21T04:23:00.439Z",
+  "lastmod": null,
+  "weight": 172500,
+  "audio": "poem-1725.mp3",
+  "image": "poem-1725-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

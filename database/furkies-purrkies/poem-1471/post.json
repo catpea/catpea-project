@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1471",
+  "guid": "cc887cd5-73b5-4a29-97f8-3f969e12ea53",
+  "title": "How To Become A Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-12T03:28:49.373Z",
+  "lastmod": null,
+  "weight": 147100,
+  "audio": "poem-1471.mp3",
+  "image": "poem-1471-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

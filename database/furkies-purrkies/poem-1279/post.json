@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1279",
+  "guid": "6cf2f192-90a7-4cfe-b8d7-89f5e01abe63",
+  "title": "Can Standardized Education Become Effective?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-02T03:00:27.180Z",
+  "lastmod": null,
+  "weight": 127900,
+  "audio": "poem-1279.mp3",
+  "image": "poem-1279-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/VeHfrpKD2YY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

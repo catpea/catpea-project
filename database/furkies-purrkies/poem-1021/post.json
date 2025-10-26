@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1021",
+  "guid": "b8e04265-49ca-4c30-9c15-2cc1c9d33c0c",
+  "title": "Our World, In Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-17T03:54:07.179Z",
+  "lastmod": null,
+  "weight": 102100,
+  "audio": "poem-1021.mp3",
+  "image": "poem-1021-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uG0k37LBQUM"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

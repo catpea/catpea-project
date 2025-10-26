@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0451",
+  "guid": "c082e15a-17c6-45b0-813e-fbae3c7dd7c1",
+  "title": "Invention Without Intention",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-26T03:15:19.862Z",
+  "lastmod": null,
+  "weight": 45100,
+  "audio": "poetry-0451.mp3",
+  "image": "poetry-0451-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IIX7rdGc1RI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

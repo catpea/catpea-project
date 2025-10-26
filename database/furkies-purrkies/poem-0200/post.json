@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0200",
+  "guid": "ad172d40-72a9-4508-82bf-1f6e9cdd9ca4",
+  "title": "The Light Of Authenticity and Pursuits of Excellence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-17T01:14:16.966Z",
+  "lastmod": null,
+  "weight": 20000,
+  "audio": "poetry-0200.mp3",
+  "image": "poetry-0200-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7NAFnzzB024"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

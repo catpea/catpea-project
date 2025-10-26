@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1602",
+  "guid": "4bed426a-6aac-46e1-a8c9-8f425c7b9512",
+  "title": "The Unusual Creatures Of My Suburbia",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-21T03:20:19.680Z",
+  "lastmod": null,
+  "weight": 160200,
+  "audio": "poem-1602.mp3",
+  "image": "poem-1602-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

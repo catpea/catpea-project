@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0304",
+  "guid": "8b9993cc-5258-4e0b-9835-a6377481eef4",
+  "title": "Unique",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-30T03:05:18.230Z",
+  "lastmod": null,
+  "weight": 30400,
+  "audio": "poetry-0304.mp3",
+  "image": "poetry-0304-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

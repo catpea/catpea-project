@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1355",
+  "guid": "dfe6d5ff-6d8c-44b4-9722-5b71b5d1dbd2",
+  "title": "What Does Fake Education Look Like?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-17T04:49:50.959Z",
+  "lastmod": null,
+  "weight": 135500,
+  "audio": "poem-1355.mp3",
+  "image": "poem-1355-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-holding-balloons-_0aKQa9gr4s"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1008",
+  "guid": "11df7d63-2f08-4fbb-92f7-a0e5dc4c1a4f",
+  "title": "The Birds Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-04T02:51:01.267Z",
+  "lastmod": null,
+  "weight": 100800,
+  "audio": "poem-1008.mp3",
+  "image": "poem-1008-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0uN9iF4mgDI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

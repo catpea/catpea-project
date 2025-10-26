@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-bobby-tables",
+  "guid": "387b297f-6ff2-4f88-b38d-15ee2fe85a04",
+  "title": "The Bobby Tables",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-03-26T18:27:31.640Z",
+  "lastmod": null,
+  "weight": 15319,
+  "audio": null,
+  "image": "the-bobby-tables-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

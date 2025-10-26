@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0963",
+  "guid": "7992c424-4de3-4b35-b3be-3f5ab3766415",
+  "title": "One World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-20T02:37:25.698Z",
+  "lastmod": null,
+  "weight": 96300,
+  "audio": "poem-0963.mp3",
+  "image": "poem-0963-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Qvis5Z0Dw7E"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0883",
+  "guid": "4854c75e-716c-474b-b63a-fd8bd224c709",
+  "title": "Batteries Not Included",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-31T14:13:14.372Z",
+  "lastmod": null,
+  "weight": 88300,
+  "audio": "poetry-0883.mp3",
+  "image": "poetry-0883-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/vorH-CF_SZI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

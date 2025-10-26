@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-artist-of-the-fantastic",
+  "guid": "646e1295-bc4b-4990-8002-d106e53b51dd",
+  "title": "The Artist Of The Fantastic",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-02-27T17:09:39.837Z",
+  "lastmod": null,
+  "weight": 14100,
+  "audio": null,
+  "image": "warrior-the-artist-of-the-fantastic-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

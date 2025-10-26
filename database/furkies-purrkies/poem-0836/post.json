@@ -1,0 +1,33 @@
+{
+  "features": {},
+  "id": "poem-0836",
+  "guid": "c1463b72-1705-488e-940e-4120bba1bcfe",
+  "title": "On Designing Enchanted Rings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-14T22:12:19.606Z",
+  "lastmod": null,
+  "weight": 83600,
+  "audio": "poetry-0836.mp3",
+  "image": "poetry-0836-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/Y_bxfTa_iUA",
+    "https://en.wikipedia.org/wiki/File:Anneau_episcopal_cluny.JPG",
+    "https://unsplash.com/photos/kuko1hX_kXw",
+    "https://en.wikipedia.org/wiki/File:Ring_Ruby.jpg",
+    "https://en.wikipedia.org/wiki/File:Cameo_ring_bm_2022.JPG",
+    "https://en.wikipedia.org/wiki/File:Claddaghring.jpg",
+    "https://en.wikipedia.org/wiki/File:Doktorsring_Uppsala_filfak.JPG",
+    "https://en.wikipedia.org/wiki/File:European_-_Ring_with_Clasped_Right_Hands_-_Walters_571636.jpg",
+    "https://en.wikipedia.org/wiki/File:Giardinetti_ring_british_museum2020.JPG",
+    "https://en.wikipedia.org/wiki/File:Late_medieval_ring_thimble_(FindID_152522).jpg",
+    "https://en.wikipedia.org/wiki/File:WLA_vanda_jade_thumb_ring.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

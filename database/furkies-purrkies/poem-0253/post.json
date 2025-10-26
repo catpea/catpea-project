@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0253",
+  "guid": "f006556f-6192-4320-8fb5-b1ee297b1278",
+  "title": "For All Your Achievements",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-09T04:29:15.046Z",
+  "lastmod": null,
+  "weight": 25300,
+  "audio": "poetry-0253.mp3",
+  "image": "poetry-0253-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1snMC30pdvI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

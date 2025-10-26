@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1064",
+  "guid": "33d2a240-04a8-45cb-8d7f-203b5fcafa11",
+  "title": "Follow Your Noblest Curiosities",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-29T03:43:56.419Z",
+  "lastmod": null,
+  "weight": 106400,
+  "audio": "poem-1064.mp3",
+  "image": "poem-1064-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

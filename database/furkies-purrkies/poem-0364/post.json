@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0364",
+  "guid": "2ce1259c-7d0b-4ce0-84db-af81f1bf4dcf",
+  "title": "So, What Is Learning Anyway?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-28T00:52:49.545Z",
+  "lastmod": null,
+  "weight": 36400,
+  "audio": "poetry-0364.mp3",
+  "image": "poetry-0364-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hLvQ4-QEBAE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

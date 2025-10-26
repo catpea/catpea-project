@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0161",
+  "guid": "e357a7e1-e961-48fa-a8df-5bbac74c675a",
+  "title": "Inspirational Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-08-08T22:20:13.955Z",
+  "lastmod": null,
+  "weight": 16100,
+  "audio": "poetry-0161.mp3",
+  "image": "poetry-0161-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

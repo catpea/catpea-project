@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-art-mechanic",
+  "guid": "0a216864-3c2d-4a66-ac83-3c774d6de993",
+  "title": "The Art Mechanic",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-08-28T15:17:53.942Z",
+  "lastmod": null,
+  "weight": 14300,
+  "audio": null,
+  "image": "warrior-the-art-mechanic-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

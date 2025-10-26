@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0223",
+  "guid": "782e080e-9832-445a-af00-0ac385c9e822",
+  "title": "The Programmers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-09T19:01:58.005Z",
+  "lastmod": null,
+  "weight": 22300,
+  "audio": "poetry-0223.mp3",
+  "image": "poetry-0223-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gyGyIEeikSw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

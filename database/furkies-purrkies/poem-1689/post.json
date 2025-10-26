@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1689",
+  "guid": "bbee5179-d65a-40df-8911-ed36442d085a",
+  "title": "The Wise AI; A Speculative Little Journey",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-16T03:14:49.210Z",
+  "lastmod": null,
+  "weight": 168900,
+  "audio": "poem-1689.mp3",
+  "image": "poem-1689-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

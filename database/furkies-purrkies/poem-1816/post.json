@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1816",
+  "guid": "86b1e173-4767-4f46-9f0d-834b03ee4baa",
+  "title": "Do Not Use Gym Machines",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-20T00:38:14.297Z",
+  "lastmod": null,
+  "weight": 181600,
+  "audio": "poem-1816.mp3",
+  "image": "poem-1816-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

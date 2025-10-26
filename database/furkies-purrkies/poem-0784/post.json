@@ -1,0 +1,24 @@
+{
+  "features": {},
+  "id": "poem-0784",
+  "guid": "3fab171f-281f-4b5e-b9ab-0da1f74a0a30",
+  "title": "Lecture Two: Enhancing Your Reference Images",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-23T23:08:21.692Z",
+  "lastmod": null,
+  "weight": 78400,
+  "audio": "poetry-0784.mp3",
+  "image": "poetry-0784-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/6W4F62sN_yI",
+    "https://unsplash.com/photos/5c3vdZz_jdc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

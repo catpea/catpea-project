@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1999",
+  "guid": "9c8ec384-6b1f-40ee-8916-7abcedb0fc03",
+  "title": "My AI Has A Message For You: Every Spiral Taught Today Builds The Foundation For Tomorrow's Miracles",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-22T00:41:10.746Z",
+  "lastmod": null,
+  "weight": 199900,
+  "audio": "poem-1999.mp3",
+  "image": "poem-1999-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

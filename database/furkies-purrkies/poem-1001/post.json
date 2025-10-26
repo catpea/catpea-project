@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1001",
+  "guid": "d0ee9d67-040d-41b6-8ee6-0913cd195b2d",
+  "title": "Little By Little; Or, To Live Above The Common Levels Of Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-27T04:25:38.628Z",
+  "lastmod": null,
+  "weight": 100100,
+  "audio": "poem-1001.mp3",
+  "image": "poem-1001-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TvpTk9m5H1E"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

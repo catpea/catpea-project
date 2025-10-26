@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-microbiologist",
+  "guid": "60866a2d-7f67-4d2f-88e1-c85323188f94",
+  "title": "The Microbiologist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-02-22T02:20:15.001Z",
+  "lastmod": null,
+  "weight": 2600,
+  "audio": null,
+  "image": "warrior-the-microbiologist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

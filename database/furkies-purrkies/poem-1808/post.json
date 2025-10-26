@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1808",
+  "guid": "8946a6be-cbec-4029-b523-fb679cc404fd",
+  "title": "The Measuring Stick; Or, A Way To Tell If Your Exercise Is Effective",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-12T01:46:33.395Z",
+  "lastmod": null,
+  "weight": 180800,
+  "audio": "poem-1808.mp3",
+  "image": "poem-1808-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

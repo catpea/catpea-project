@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0782",
+  "guid": "595edd76-64bb-4f5f-9a34-db5836111fa2",
+  "title": "A Tiny Little Introduction To Digital Paining (Recap And Lecture Practice)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-21T22:37:16.386Z",
+  "lastmod": null,
+  "weight": 78200,
+  "audio": "poetry-0782.mp3",
+  "image": "poetry-0782-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

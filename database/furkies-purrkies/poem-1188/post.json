@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1188",
+  "guid": "662206c0-2648-4415-984b-4c19686076dd",
+  "title": "Advancing Human Kind Is Really Easy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-03T03:07:43.680Z",
+  "lastmod": null,
+  "weight": 118800,
+  "audio": "poem-1188.mp3",
+  "image": "poem-1188-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2_mt0wxp0tI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-weekend-menace",
+  "guid": "0bbb808b-6ee1-4e64-947d-9725d931eaa7",
+  "title": "The Weekend Menace",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-07-02T23:50:14.377Z",
+  "lastmod": null,
+  "weight": 10010,
+  "audio": null,
+  "image": "the-weekend-menace-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0508",
+  "guid": "318fe2b0-7c84-4658-82cd-c00f529e0348",
+  "title": "My First Homemade Portable Music Player",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-22T02:15:16.078Z",
+  "lastmod": null,
+  "weight": 50800,
+  "audio": "poetry-0508.mp3",
+  "image": "poetry-0508-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

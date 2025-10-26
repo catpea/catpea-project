@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0060",
+  "guid": "f1227e78-0a5a-47bc-8a25-e834b7a71284",
+  "title": "Big Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-07T02:47:58.991Z",
+  "lastmod": null,
+  "weight": 6000,
+  "audio": "poetry-0060.mp3",
+  "image": "poetry-0060-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

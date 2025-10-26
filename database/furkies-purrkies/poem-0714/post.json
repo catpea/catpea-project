@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0714",
+  "guid": "e73997d9-7bb2-4d10-9239-06e8e69621dc",
+  "title": "The Cat Pea Technique: The Digital Portrait Experiment Is A Success",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-13T02:14:47.651Z",
+  "lastmod": null,
+  "weight": 71400,
+  "audio": "poetry-0714.mp3",
+  "image": "poetry-0714-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

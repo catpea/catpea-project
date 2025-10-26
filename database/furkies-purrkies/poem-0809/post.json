@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0809",
+  "guid": "3795fd2c-7f60-47f8-940b-296300e2904a",
+  "title": "Learn, But Learn Things That Interest You Only",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-19T01:14:35.219Z",
+  "lastmod": null,
+  "weight": 80900,
+  "audio": "poetry-0809.mp3",
+  "image": "poetry-0809-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

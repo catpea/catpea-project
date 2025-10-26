@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0056",
+  "guid": "c77c5e17-2a23-4408-a410-038de3955f30",
+  "title": "Harold and Wally",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-04T02:34:27.184Z",
+  "lastmod": null,
+  "weight": 5600,
+  "audio": "poetry-0056.mp3",
+  "image": "poetry-0056-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

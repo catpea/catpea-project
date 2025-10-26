@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2020",
+  "guid": "35496f95-6197-499c-abb6-5f7fdf938cb9",
+  "title": "Home Cooked Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-11T23:49:29.186Z",
+  "lastmod": null,
+  "weight": 202000,
+  "audio": "poem-2020.mp3",
+  "image": "poem-2020-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

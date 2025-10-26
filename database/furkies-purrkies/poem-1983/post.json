@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1983",
+  "guid": "e5450310-7640-4cf2-a594-1f0c518df2f6",
+  "title": "Intergalactic JavaScript",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-05T22:55:59.107Z",
+  "lastmod": null,
+  "weight": 198300,
+  "audio": "poem-1983.mp3",
+  "image": "poem-1983-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

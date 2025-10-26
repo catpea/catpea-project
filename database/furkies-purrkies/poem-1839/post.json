@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1839",
+  "guid": "1bd23f02-4df8-48b5-9496-f6395b6205aa",
+  "title": "Fitness Advice: “Sets And Reps” Are A Lie, Use The Keyhole Method",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-15T02:08:22.270Z",
+  "lastmod": null,
+  "weight": 183900,
+  "audio": "poem-1839.mp3",
+  "image": "poem-1839-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

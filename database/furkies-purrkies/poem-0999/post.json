@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0999",
+  "guid": "16b76fa5-9fed-4258-ad03-0deda95a9bf5",
+  "title": "Is It Possible To Create A Cute And Tiny Software Empire?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-25T04:11:46.973Z",
+  "lastmod": null,
+  "weight": 99900,
+  "audio": "poem-0999.mp3",
+  "image": "poem-0999-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kr-olxRwCa4"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1499",
+  "guid": "06495d8e-3ccd-4ff6-88aa-c18980271ec7",
+  "title": "How To Improve Your Grades",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-09T04:22:52.588Z",
+  "lastmod": null,
+  "weight": 149900,
+  "audio": "poem-1499.mp3",
+  "image": "poem-1499-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

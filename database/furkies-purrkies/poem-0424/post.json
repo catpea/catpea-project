@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0424",
+  "guid": "5a40ec5c-bff2-4f8d-a6b8-b5fedfc662d7",
+  "title": "Introduction To Dance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-29T02:48:01.529Z",
+  "lastmod": null,
+  "weight": 42400,
+  "audio": "poetry-0424.mp3",
+  "image": "poetry-0424-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UYtEI-acsuY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

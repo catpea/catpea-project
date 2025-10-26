@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0403",
+  "guid": "3228a0da-5c4c-4c80-b37e-ba78ee029453",
+  "title": "Art Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-08T02:06:06.621Z",
+  "lastmod": null,
+  "weight": 40300,
+  "audio": "poetry-0403.mp3",
+  "image": "poetry-0403-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/yTX-hfxbO6A"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

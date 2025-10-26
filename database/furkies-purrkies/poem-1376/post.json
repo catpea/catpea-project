@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1376",
+  "guid": "1f3a360e-c517-4746-8487-17c6771eb73c",
+  "title": "Brilliant Expression And Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-08T04:44:28.877Z",
+  "lastmod": null,
+  "weight": 137600,
+  "audio": "poem-1376.mp3",
+  "image": "poem-1376-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-stack-of-books-sitting-in-front-of-a-computer-1Lt1ny9nGWY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

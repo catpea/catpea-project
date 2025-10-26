@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0588",
+  "guid": "e41117eb-0977-4484-8c5c-e98954b266f7",
+  "title": "Unknown Unknowns And The Mélange Of A Thousand Biographies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-10T00:31:15.585Z",
+  "lastmod": null,
+  "weight": 58800,
+  "audio": "poetry-0588.mp3",
+  "image": "poetry-0588-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Mc75C46Y49s"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

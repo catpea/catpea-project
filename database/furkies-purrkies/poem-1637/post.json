@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1637",
+  "guid": "9a0a95d3-41b2-4c20-bf2c-244a4364ede9",
+  "title": "Learn Programming First! Don’t Let Ghouls And Ineffective Education Trick You Out Of Your Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-25T03:39:01.329Z",
+  "lastmod": null,
+  "weight": 163700,
+  "audio": "poem-1637.mp3",
+  "image": "poem-1637-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

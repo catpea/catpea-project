@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0859",
+  "guid": "ad1e59fd-bfb2-4385-b6ab-7423dc650545",
+  "title": "The High School Cookbook",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-08T00:45:32.276Z",
+  "lastmod": null,
+  "weight": 85900,
+  "audio": "poetry-0859.mp3",
+  "image": "poetry-0859-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/QkyRG0bB_xg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

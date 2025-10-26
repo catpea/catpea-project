@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-legendary",
+  "guid": "b9387d8c-e5b5-4243-8ac3-3fb69f019520",
+  "title": "The Unforgettable",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-10-24T15:53:23.555Z",
+  "lastmod": null,
+  "weight": 17600,
+  "audio": null,
+  "image": "warrior-the-unforgettable-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

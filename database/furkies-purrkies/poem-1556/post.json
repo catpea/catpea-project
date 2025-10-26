@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1556",
+  "guid": "1f1cd22a-f575-4cbb-9d90-26611ef5d755",
+  "title": "What Is Even Hiking For?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-05T04:05:19.747Z",
+  "lastmod": null,
+  "weight": 155600,
+  "audio": "poem-1556.mp3",
+  "image": "poem-1556-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

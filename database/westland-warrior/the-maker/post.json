@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-maker",
+  "guid": "5885b2cf-345e-4372-8271-ca0e06c1609c",
+  "title": "The Maker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-11-06T02:32:54.218Z",
+  "lastmod": null,
+  "weight": 7600,
+  "audio": null,
+  "image": "warrior-the-maker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

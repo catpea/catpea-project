@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2036",
+  "guid": "650333c9-90a2-4af7-aa8b-ba7fab94c5b7",
+  "title": "The Architecture of Emergent Deception: Why False Conspiracies Seem So Well Organized",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-26T22:45:17.777Z",
+  "lastmod": null,
+  "weight": 203600,
+  "audio": "poem-2036.mp3",
+  "image": "poem-2036-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

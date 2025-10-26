@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0224",
+  "guid": "d2e8bc0a-6ef4-4952-adf7-44b542ad1310",
+  "title": "The Dark Nights At Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-10T23:13:38.618Z",
+  "lastmod": null,
+  "weight": 22400,
+  "audio": "poetry-0224.mp3",
+  "image": "poetry-0224-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

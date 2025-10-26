@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1541",
+  "guid": "130068fe-ae2b-45de-9778-f7d47fcf90fc",
+  "title": "You Are More Than You Think, And The Problem Of Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-21T02:57:45.366Z",
+  "lastmod": null,
+  "weight": 154100,
+  "audio": "poem-1541.mp3",
+  "image": "poem-1541-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

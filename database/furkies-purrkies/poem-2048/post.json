@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2048",
+  "guid": "ff43ca08-b09a-47ab-abcf-c9000fb9045a",
+  "title": "Bodybuilding For Busy Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-09T01:27:46.190Z",
+  "lastmod": null,
+  "weight": 204800,
+  "audio": "poem-2048.mp3",
+  "image": "poem-2048-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

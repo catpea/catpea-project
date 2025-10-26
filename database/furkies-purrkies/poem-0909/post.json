@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0909",
+  "guid": "04fdff5d-bf13-49e7-8cfc-e154d190fa34",
+  "title": "Making The World Beautiful; Or, The Idea To Unite The World Will Never Get Old",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-26T23:56:08.898Z",
+  "lastmod": null,
+  "weight": 90900,
+  "audio": "poetry-0909.mp3",
+  "image": "poetry-0909-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

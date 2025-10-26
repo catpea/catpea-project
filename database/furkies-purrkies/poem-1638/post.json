@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1638",
+  "guid": "26660e0c-4fa8-4bc8-be76-4bce06346cf4",
+  "title": "So You Have Learned Programming... What Do?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-26T03:50:12.787Z",
+  "lastmod": null,
+  "weight": 163800,
+  "audio": "poem-1638.mp3",
+  "image": "poem-1638-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

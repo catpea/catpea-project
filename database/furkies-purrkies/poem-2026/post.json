@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2026",
+  "guid": "4717d021-4050-4b21-9225-1d2ad6dccb72",
+  "title": "A Powerful Prompt; Or, Notes From My Artificial Intelligence On Softening Some Of The Tears Of Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-17T15:42:23.285Z",
+  "lastmod": null,
+  "weight": 202600,
+  "audio": "poem-2026.mp3",
+  "image": "poem-2026-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-red-window-with-bars-on-a-stone-wall-KkcpUYfkZSk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

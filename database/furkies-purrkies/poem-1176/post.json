@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1176",
+  "guid": "5b882c5c-3cf8-4fcc-a7a5-3ae763e0f746",
+  "title": "Of The Wild Fire And The Hungry Hurricane; Or, Real Education Is Profound, And Immediately Meaningful And Useful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-22T02:55:33.443Z",
+  "lastmod": null,
+  "weight": 117600,
+  "audio": "poem-1176.mp3",
+  "image": "poem-1176-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/SdAiz5q0KV4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

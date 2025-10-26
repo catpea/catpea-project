@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0976",
+  "guid": "23532caa-dce5-43c4-a522-b2b1c6e8860b",
+  "title": "How To Become A Real Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-02T03:11:06.820Z",
+  "lastmod": null,
+  "weight": 97600,
+  "audio": "poem-0976.mp3",
+  "image": "poem-0976-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RC_MrnvayWw"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

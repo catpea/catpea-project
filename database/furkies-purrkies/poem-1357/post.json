@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1357",
+  "guid": "c814fa32-f6ad-4b61-9042-996a86f1dff2",
+  "title": "Five True Facts About Geese; Or, When You See Michigan Geese You Might Want To Call The Police",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-19T04:37:18.277Z",
+  "lastmod": null,
+  "weight": 135700,
+  "audio": "poem-1357.mp3",
+  "image": "poem-1357-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-couple-of-birds-that-are-standing-in-the-grass-1sB6tTTdhCc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

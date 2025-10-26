@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0641",
+  "guid": "44f11343-0d38-40d8-8ad3-dfd03adc527d",
+  "title": "Making Our Civilization Better",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-02T02:13:50.170Z",
+  "lastmod": null,
+  "weight": 64100,
+  "audio": "poetry-0641.mp3",
+  "image": "poetry-0641-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bzi9lC6JM-k"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1695",
+  "guid": "0bf21379-e6b4-4607-903c-6dea3b5b656c",
+  "title": "One Two And One Anew: It Won’t Take Much For AI To Think And Such",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-22T03:41:57.728Z",
+  "lastmod": null,
+  "weight": 169500,
+  "audio": "poem-1695.mp3",
+  "image": "poem-1695-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

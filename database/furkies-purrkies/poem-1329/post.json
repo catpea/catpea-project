@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1329",
+  "guid": "0220b147-d771-4383-a64e-d99c40eec325",
+  "title": "Wisdom; Or, All The Right Humanity Has Ever Had",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-22T03:39:15.809Z",
+  "lastmod": null,
+  "weight": 132900,
+  "audio": "poem-1329.mp3",
+  "image": "poem-1329-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/shallow-focus-photography-of-woman-standing-on-snow-field-looking-her-backj-9yyisk8vg_w"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

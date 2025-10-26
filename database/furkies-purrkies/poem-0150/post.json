@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0150",
+  "guid": "a288985a-9f2c-4249-831a-16c505f68377",
+  "title": "Riding Red",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-07-29T03:55:55.709Z",
+  "lastmod": null,
+  "weight": 15000,
+  "audio": "poetry-0150.mp3",
+  "image": "poetry-0150-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

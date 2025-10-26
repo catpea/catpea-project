@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1433",
+  "guid": "7b3876ba-e518-4251-9ba7-6b3e73b2116a",
+  "title": "Easing Yourself Into Camping",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-03T05:49:13.831Z",
+  "lastmod": null,
+  "weight": 143300,
+  "audio": "poem-1433.mp3",
+  "image": "poem-1433-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

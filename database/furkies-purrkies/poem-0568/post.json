@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0568",
+  "guid": "ef2f7ed1-6c6a-4f49-9a39-f37567aa875a",
+  "title": "The Future Generations",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-19T19:22:37.489Z",
+  "lastmod": null,
+  "weight": 56800,
+  "audio": "poetry-0568.mp3",
+  "image": "poetry-0568-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/lEcFyyOGRvo"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

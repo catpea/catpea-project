@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0469",
+  "guid": "1866fe16-b97f-4fc2-b0ff-76c3e4b2ab5d",
+  "title": "All Human Beings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-12T23:50:52.705Z",
+  "lastmod": null,
+  "weight": 46900,
+  "audio": "poetry-0469.mp3",
+  "image": "poetry-0469-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/y1wVavuxZtE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

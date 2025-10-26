@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2014",
+  "guid": "4a516bfe-e774-457c-bca9-fe164a595278",
+  "title": "Γενναῖον Ψεῦδος: Κριτίας καὶ Πλάτων (The Noble Lie: Critias & Plato)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-05T19:30:41.871Z",
+  "lastmod": null,
+  "weight": 201400,
+  "audio": "poem-2014.mp3",
+  "image": "poem-2014-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

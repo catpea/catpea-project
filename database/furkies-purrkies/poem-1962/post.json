@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1962",
+  "guid": "8a7f494e-ab56-41c8-a728-b6f4d4b76736",
+  "title": "The Lullaby Of The Last Mother",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-15T21:09:14.703Z",
+  "lastmod": null,
+  "weight": 196200,
+  "audio": "poem-1962.mp3",
+  "image": "poem-1962-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

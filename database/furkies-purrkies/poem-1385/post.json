@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1385",
+  "guid": "26456579-f765-4d6f-a22d-bf6c6db22760",
+  "title": "Don't Become Your Teacher’s Punch Line; Or, Philosophy And The Urgency Of Authentic Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-17T04:25:06.599Z",
+  "lastmod": null,
+  "weight": 138500,
+  "audio": "poem-1385.mp3",
+  "image": "poem-1385-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-walking-on-rocky-and-grass-hill-during-day-aThbxMu_PN8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

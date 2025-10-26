@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1233",
+  "guid": "84fa96bd-b13e-4e5d-a6f5-d91ec6f89567",
+  "title": "The Betrayal Of Subject Divisions, And Why Real Education Is Replaced With Memorization",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-18T03:32:58.558Z",
+  "lastmod": null,
+  "weight": 123300,
+  "audio": "poem-1233.mp3",
+  "image": "poem-1233-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/U1bgZ7JKNFw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

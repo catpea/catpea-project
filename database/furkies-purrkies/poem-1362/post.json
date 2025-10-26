@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1362",
+  "guid": "c57d1d4a-b140-43fa-91f7-89350d8333ed",
+  "title": "The Thanksgiving Programmer; Or, Making A GUI Out Of A VPL, FUI, And The ZUI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-24T04:46:47.394Z",
+  "lastmod": null,
+  "weight": 136200,
+  "audio": "poem-1362.mp3",
+  "image": "poem-1362-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-gray-sweater-using-macbook-pro-YcO98VqQlnA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1054",
+  "guid": "e280a218-d298-4527-b229-d5f3ad5581ed",
+  "title": "Space Kitten Refrigerator Magnets vs. Smart Phone Applications",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-19T04:27:52.593Z",
+  "lastmod": null,
+  "weight": 105400,
+  "audio": "poem-1054.mp3",
+  "image": "poem-1054-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

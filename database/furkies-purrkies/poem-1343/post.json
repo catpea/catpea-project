@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1343",
+  "guid": "4557d9b5-9c47-435e-b81f-fc16b89597b0",
+  "title": "Why, Oh Why, Can’t We Just Work And Die",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-05T01:31:47.290Z",
+  "lastmod": null,
+  "weight": 134300,
+  "audio": "poem-1343.mp3",
+  "image": "poem-1343-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/people-walking-on-mountain-alps-with-clouds-An4DuozJUnY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

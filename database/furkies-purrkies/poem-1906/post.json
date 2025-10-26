@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1906",
+  "guid": "134afbb7-e00d-4666-8d83-b1f1f33896d7",
+  "title": "Growing Out Of Religion; Or, No One Is Allowed To Make A Fool Out Of You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-21T00:45:36.572Z",
+  "lastmod": null,
+  "weight": 190600,
+  "audio": "poem-1906.mp3",
+  "image": "poem-1906-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

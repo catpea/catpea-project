@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1529",
+  "guid": "f73e4347-f973-4a85-88d8-73b9d80e3427",
+  "title": "Beefcupcake Jail; Or, How To Hit A Plateau",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-08T21:58:41.474Z",
+  "lastmod": null,
+  "weight": 152900,
+  "audio": "poem-1529.mp3",
+  "image": "poem-1529-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

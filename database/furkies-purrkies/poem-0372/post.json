@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0372",
+  "guid": "f33eb5ee-ee00-45b8-ad2f-eb0b1c207867",
+  "title": "How To Study For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-08T00:40:31.417Z",
+  "lastmod": null,
+  "weight": 37200,
+  "audio": "poetry-0372.mp3",
+  "image": "poetry-0372-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/90zq00SWJIc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

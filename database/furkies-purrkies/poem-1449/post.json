@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1449",
+  "guid": "8716409a-2573-4284-ba2d-8221f63750ea",
+  "title": "First Time At The Gym; Or, Heavy Or Light",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-19T04:44:10.661Z",
+  "lastmod": null,
+  "weight": 144900,
+  "audio": "poem-1449.mp3",
+  "image": "poem-1449-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

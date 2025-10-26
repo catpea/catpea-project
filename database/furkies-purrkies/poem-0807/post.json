@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0807",
+  "guid": "1295286d-b1f0-4531-8998-6fefa86db679",
+  "title": "Programming Jewelry Explained",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-16T23:07:51.561Z",
+  "lastmod": null,
+  "weight": 80700,
+  "audio": "poetry-0807.mp3",
+  "image": "poetry-0807-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

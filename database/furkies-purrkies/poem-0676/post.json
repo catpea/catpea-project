@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0676",
+  "guid": "20f9dc85-ac7e-4aa9-8c4b-e4d36e332d6e",
+  "title": "Γνῶθι Σεαυτόν",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-06T00:31:41.823Z",
+  "lastmod": null,
+  "weight": 67600,
+  "audio": "poetry-0676.mp3",
+  "image": "poetry-0676-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3RcHzAAgKCU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

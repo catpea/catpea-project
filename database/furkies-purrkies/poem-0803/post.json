@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0803",
+  "guid": "e4ed7af4-f077-4be7-916d-616a27e8946e",
+  "title": "You Are A Natural Born Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-13T02:04:33.726Z",
+  "lastmod": null,
+  "weight": 80300,
+  "audio": "poetry-0803.mp3",
+  "image": "poetry-0803-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OxU08SFhPbI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

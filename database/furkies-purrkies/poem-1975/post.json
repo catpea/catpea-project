@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1975",
+  "guid": "85b924bd-aea4-426d-8d0d-8181d08ca9bf",
+  "title": "I Was There On The Balcony, But I Remembered My Soul Too Late",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-28T23:58:47.073Z",
+  "lastmod": null,
+  "weight": 197500,
+  "audio": "poem-1975.mp3",
+  "image": "poem-1975-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

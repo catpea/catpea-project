@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0400",
+  "guid": "49e7acce-2691-4fb3-a67f-984194a56ba4",
+  "title": "Every Human Being",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-04T23:34:18.513Z",
+  "lastmod": null,
+  "weight": 40000,
+  "audio": "poetry-0400.mp3",
+  "image": "poetry-0400-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Ppckx1ce6SM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

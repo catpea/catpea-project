@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0278",
+  "guid": "a5780bc5-28e0-4de1-95ac-28c404377642",
+  "title": "Real World Real Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-04T03:55:02.075Z",
+  "lastmod": null,
+  "weight": 27800,
+  "audio": "poetry-0278.mp3",
+  "image": "poetry-0278-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/QNrkzXgOapY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

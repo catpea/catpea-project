@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1414",
+  "guid": "a2cb66a1-013c-480a-82e8-8bf9e672e08a",
+  "title": "Rise, You Are Super Smart, And Life Is An Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-15T04:49:40.185Z",
+  "lastmod": null,
+  "weight": 141400,
+  "audio": "poem-1414.mp3",
+  "image": "poem-1414-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

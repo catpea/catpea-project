@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1272",
+  "guid": "2c627496-1fcb-4ba4-a2ce-59b7488c5866",
+  "title": "Half Way Up Mount Katahdin; Or, Use Your Superpower Of Endurance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-26T03:29:05.310Z",
+  "lastmod": null,
+  "weight": 127200,
+  "audio": "poem-1272.mp3",
+  "image": "poem-1272-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ER1r_mllqGE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

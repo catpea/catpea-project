@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0225",
+  "guid": "65e68b08-58c3-4238-86d2-930546097c7e",
+  "title": "Education vs Knowledge ",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-12T01:47:33.372Z",
+  "lastmod": null,
+  "weight": 22500,
+  "audio": "poetry-0225.mp3",
+  "image": "poetry-0225-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JaH62ihQLuE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

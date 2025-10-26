@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1318",
+  "guid": "d0e37209-acbc-4c86-80a8-4d8a3d23f61a",
+  "title": "Walking: A Cute Little Weight Loss Program That Changes Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-11T03:25:40.553Z",
+  "lastmod": null,
+  "weight": 131800,
+  "audio": "poem-1318.mp3",
+  "image": "poem-1318-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OsMWWAL0saQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

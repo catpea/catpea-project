@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1280",
+  "guid": "1cfcf7fb-89c6-4c6e-9b4c-9fb12acc2e30",
+  "title": "The Uncorking Of The Pipeline Of Wisdom; Or; Beautiful Adventure And Cheerful Storytellers vs. The Fake Education Ecosystem",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-03T03:00:28.509Z",
+  "lastmod": null,
+  "weight": 128000,
+  "audio": "poem-1280.mp3",
+  "image": "poem-1280-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/woman-peak-summit-clouds-6012907/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

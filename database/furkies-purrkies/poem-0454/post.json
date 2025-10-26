@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0454",
+  "guid": "6622bdda-8d70-4585-a052-90d23d07ca94",
+  "title": "One By One, Book By Book",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-29T02:37:37.839Z",
+  "lastmod": null,
+  "weight": 45400,
+  "audio": "poetry-0454.mp3",
+  "image": "poetry-0454-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cN-QMLQCxBI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

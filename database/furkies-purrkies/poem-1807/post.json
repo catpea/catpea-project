@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1807",
+  "guid": "a5a91cda-8fcd-4e2b-90fe-c160520c33ab",
+  "title": "Modern Culture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-11T04:43:11.232Z",
+  "lastmod": null,
+  "weight": 180700,
+  "audio": "poem-1807.mp3",
+  "image": "poem-1807-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

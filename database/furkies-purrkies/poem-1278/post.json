@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1278",
+  "guid": "937760a2-7fe7-4e01-b2bf-5249676634c5",
+  "title": "Don’t Jump Hoops, Don’t Just Go To College, Don’t Just Work",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-01T03:32:02.521Z",
+  "lastmod": null,
+  "weight": 127800,
+  "audio": "poem-1278.mp3",
+  "image": "poem-1278-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/V58katgrQPY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

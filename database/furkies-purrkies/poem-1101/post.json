@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1101",
+  "guid": "a9a0f3f2-86c9-4e10-af81-583719c06232",
+  "title": "Programming Programming; Or, Notes On Making Program Structure More Informative",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-08T03:48:27.995Z",
+  "lastmod": null,
+  "weight": 110100,
+  "audio": "poem-1101.mp3",
+  "image": "poem-1101-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 6
+}

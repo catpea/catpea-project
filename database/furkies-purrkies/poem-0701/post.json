@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0701",
+  "guid": "8a51e32d-be3a-4028-bafb-2a6a906f9dfa",
+  "title": "Wisdom: Our Most Natural And Greatest Superpower",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-30T15:13:05.217Z",
+  "lastmod": null,
+  "weight": 70100,
+  "audio": "poetry-0701.mp3",
+  "image": "poetry-0701-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UarzJkKgTww"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

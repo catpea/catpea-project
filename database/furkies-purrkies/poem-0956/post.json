@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0956",
+  "guid": "c0baa64a-267b-438e-b504-fe019dfdba7a",
+  "title": "Looking Towards Powerful Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-13T02:34:47.844Z",
+  "lastmod": null,
+  "weight": 95600,
+  "audio": "poem-0956.mp3",
+  "image": "poem-0956-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/GTYU1zvhv3U"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

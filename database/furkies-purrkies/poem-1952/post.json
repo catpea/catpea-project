@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1952",
+  "guid": "d5476cfc-ba83-4df7-87e3-72294604e6bc",
+  "title": "Instant Beef Cupcakes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-06T01:06:59.405Z",
+  "lastmod": null,
+  "weight": 195200,
+  "audio": "poem-1952.mp3",
+  "image": "poem-1952-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

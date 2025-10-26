@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1537",
+  "guid": "c566438b-0897-4c2c-906a-33ba315b650a",
+  "title": "Nordhouse Dunes: The Noble And Just Dolomedes Tenebrosus",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-17T02:57:58.193Z",
+  "lastmod": null,
+  "weight": 153700,
+  "audio": "poem-1537.mp3",
+  "image": "poem-1537-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

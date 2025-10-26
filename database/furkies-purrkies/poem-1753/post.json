@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1753",
+  "guid": "e23ab25b-1686-403b-ba97-5b857af4489c",
+  "title": "The Conscience of a Hacker (Hacker Manifesto) Reaction",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-19T01:25:53.459Z",
+  "lastmod": null,
+  "weight": 175300,
+  "audio": "poem-1753.mp3",
+  "image": "poem-1753-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

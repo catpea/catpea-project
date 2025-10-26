@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1424",
+  "guid": "7f164d22-0c03-4344-a750-20ed5304f38f",
+  "title": "The Secret Society Of Extraordinary Kitties: Full Disclosure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-25T04:47:08.509Z",
+  "lastmod": null,
+  "weight": 142400,
+  "audio": "poem-1424.mp3",
+  "image": "poem-1424-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0871",
+  "guid": "b73e13fa-eade-440b-907d-404fbd3eed09",
+  "title": "Rise And Protect Knowledge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-19T21:43:43.612Z",
+  "lastmod": null,
+  "weight": 87100,
+  "audio": "poetry-0871.mp3",
+  "image": "poetry-0871-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/dunnqE0fcfY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1756",
+  "guid": "baf7524c-ecae-427c-8b4d-488a7de323c7",
+  "title": "Protect Your Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-22T04:31:14.550Z",
+  "lastmod": null,
+  "weight": 175600,
+  "audio": "poem-1756.mp3",
+  "image": "poem-1756-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

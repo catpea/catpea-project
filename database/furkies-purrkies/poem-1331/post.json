@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1331",
+  "guid": "f1964485-45ba-46f5-a5d7-66ae7a950a95",
+  "title": "The Flight Of The Mocking Birds",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-24T03:41:35.654Z",
+  "lastmod": null,
+  "weight": 133100,
+  "audio": "poem-1331.mp3",
+  "image": "poem-1331-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-carrying-backpack-on-forest-pg3E6_VioZY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

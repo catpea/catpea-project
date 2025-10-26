@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0444",
+  "guid": "c184475b-d76d-46b8-80eb-f4820e008ed9",
+  "title": "The Road To Greatness Welcomes All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-19T02:53:32.853Z",
+  "lastmod": null,
+  "weight": 44400,
+  "audio": "poetry-0444.mp3",
+  "image": "poetry-0444-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HQzVpPwTj6I"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

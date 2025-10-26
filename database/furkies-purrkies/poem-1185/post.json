@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1185",
+  "guid": "4a84e03e-2795-4325-988c-8ccf8630bd7e",
+  "title": "Profound Self Education Is Now More Important Than Ever",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-31T03:23:25.925Z",
+  "lastmod": null,
+  "weight": 118500,
+  "audio": "poem-1185.mp3",
+  "image": "poem-1185-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AkM9RkPSJnY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

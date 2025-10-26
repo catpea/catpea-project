@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1837",
+  "guid": "77072412-f06b-47b4-888c-0e3c9d8fd25d",
+  "title": "Lords Of Purr; Or, What Does Your Cat Think About Your Exercise?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-13T00:14:05.823Z",
+  "lastmod": null,
+  "weight": 183700,
+  "audio": "poem-1837.mp3",
+  "image": "poem-1837-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

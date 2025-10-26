@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1616",
+  "guid": "9976d56f-8fe3-4a02-ae04-899a85c5f61e",
+  "title": "Programming Data Structures; Or, Inventing A Machine That Is Already Old And Wrong",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-04T03:28:51.080Z",
+  "lastmod": null,
+  "weight": 161600,
+  "audio": "poem-1616.mp3",
+  "image": "poem-1616-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

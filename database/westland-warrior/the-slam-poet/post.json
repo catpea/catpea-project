@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-slam-poet",
+  "guid": "1472fafb-4eeb-48f5-ada4-a8e4388f3064",
+  "title": "The Slam Poet",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-08-22T01:08:03.000Z",
+  "lastmod": null,
+  "weight": 10300,
+  "audio": null,
+  "image": "warrior-the-slam-poet-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

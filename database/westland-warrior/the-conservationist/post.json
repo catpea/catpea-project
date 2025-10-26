@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-conservationist",
+  "guid": "3be22973-7c1c-4c1d-8b1b-9968f804d932",
+  "title": "The Conservationist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-01-30T21:05:30.050Z",
+  "lastmod": null,
+  "weight": 2800,
+  "audio": null,
+  "image": "warrior-the-conservationist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

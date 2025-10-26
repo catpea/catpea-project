@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1917",
+  "guid": "09e993c4-c383-4e4d-b94c-ef4921c2df05",
+  "title": "Getting Stuck With AI; Or, If You Ask For Bugs AI Will Give You Bugs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-01T02:42:11.830Z",
+  "lastmod": null,
+  "weight": 191700,
+  "audio": "poem-1917.mp3",
+  "image": "poem-1917-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

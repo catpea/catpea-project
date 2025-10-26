@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0762",
+  "guid": "73d983f2-ed31-4235-a5c6-90f40a605141",
+  "title": "The New Leaders",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-01T20:18:36.944Z",
+  "lastmod": null,
+  "weight": 76200,
+  "audio": "poetry-0762.mp3",
+  "image": "poetry-0762-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tnhta3qKQtw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

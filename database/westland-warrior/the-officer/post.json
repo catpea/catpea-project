@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-officer",
+  "guid": "1e7434fe-00cc-4330-820d-1f6242c63cfc",
+  "title": "The Officer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-06-19T02:47:33.740Z",
+  "lastmod": null,
+  "weight": 800,
+  "audio": null,
+  "image": "warrior-the-officer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

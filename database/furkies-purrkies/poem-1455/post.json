@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1455",
+  "guid": "7baedc6e-3405-4dfd-948f-24320224bbd7",
+  "title": "Visualizing Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-25T05:38:36.027Z",
+  "lastmod": null,
+  "weight": 145500,
+  "audio": "poem-1455.mp3",
+  "image": "poem-1455-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

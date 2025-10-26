@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0117",
+  "guid": "4e528e10-f925-4ee7-b3df-1a94c4b7afd9",
+  "title": "The Way Of The Warrior",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-25T00:59:53.016Z",
+  "lastmod": null,
+  "weight": 11700,
+  "audio": "poetry-0117.mp3",
+  "image": "poetry-0117-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uWdzlMWijiI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

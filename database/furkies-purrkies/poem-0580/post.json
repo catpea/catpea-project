@@ -1,0 +1,23 @@
+{
+  "features": {},
+  "id": "poem-0580",
+  "guid": "442626db-6641-432c-99ab-c27e65030899",
+  "title": "Learning composition by copying songs: Fix The World v2 (Prep for music composition with vocals)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-01T19:43:19.617Z",
+  "lastmod": "2021-10-02T21:05:57.511Z",
+  "weight": 58000,
+  "audio": "poetry-0580.mp3",
+  "image": "poetry-0580-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fEbhVdAWx64"
+  ],
+  "resources": null,
+  "draft": false,
+  "copyright": "Sony",
+  "chapter": 3
+}

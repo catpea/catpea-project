@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1780",
+  "guid": "ccf6d7fe-4ed6-40b9-9d06-0239eb2a8b57",
+  "title": "Get Fancy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-15T04:40:01.379Z",
+  "lastmod": null,
+  "weight": 178000,
+  "audio": "poem-1780.mp3",
+  "image": "poem-1780-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

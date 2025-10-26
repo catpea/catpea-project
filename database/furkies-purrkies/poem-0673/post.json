@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0673",
+  "guid": "a75ae3ba-928a-4f0e-ac1c-28f0ced1318b",
+  "title": "Thingamabobs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-03T02:54:14.985Z",
+  "lastmod": null,
+  "weight": 67300,
+  "audio": "poetry-0673.mp3",
+  "image": "poetry-0673-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

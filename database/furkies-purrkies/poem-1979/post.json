@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1979",
+  "guid": "97aca434-3fe7-4333-97a8-4a9895586d6d",
+  "title": "Wild Wild Days; Or, The Spooky Paths Of Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-02T01:39:04.946Z",
+  "lastmod": null,
+  "weight": 197900,
+  "audio": "poem-1979.mp3",
+  "image": "poem-1979-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

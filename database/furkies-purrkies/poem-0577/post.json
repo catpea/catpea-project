@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0577",
+  "guid": "5c253c65-1aef-4903-ac3b-2f06ac93c849",
+  "title": "The Genius Within Us All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-28T23:32:54.886Z",
+  "lastmod": null,
+  "weight": 57700,
+  "audio": "poetry-0577.mp3",
+  "image": "poetry-0577-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FqdfVIdgR98"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

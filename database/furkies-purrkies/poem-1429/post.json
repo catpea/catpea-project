@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1429",
+  "guid": "577c2ba2-154a-4941-a8e5-44fdeeca9561",
+  "title": "One Thing Done Well; Or, The Two Reasons Why Programming Seems Scary",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-30T04:44:51.891Z",
+  "lastmod": null,
+  "weight": 142900,
+  "audio": "poem-1429.mp3",
+  "image": "poem-1429-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

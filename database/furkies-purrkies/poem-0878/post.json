@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0878",
+  "guid": "5035a41d-9608-43ea-aa91-582e649d2471",
+  "title": "Art Is Adventure, And A Good Portrait Photo May Help You Travel To Distant Galaxies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-27T00:33:04.020Z",
+  "lastmod": null,
+  "weight": 87800,
+  "audio": "poetry-0878.mp3",
+  "image": "poetry-0878-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ImydssfRpSg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

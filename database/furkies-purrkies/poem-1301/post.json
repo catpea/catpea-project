@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1301",
+  "guid": "ea2688af-600e-49ff-886b-20d39d5051a0",
+  "title": "Body, Mind, And Humankind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-24T03:13:16.830Z",
+  "lastmod": null,
+  "weight": 130100,
+  "audio": "poem-1301.mp3",
+  "image": "poem-1301-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iMK3ZJSDY_4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

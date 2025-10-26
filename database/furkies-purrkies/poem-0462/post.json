@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0462",
+  "guid": "c37809a0-ef7b-4bfa-956c-58aef00f6c33",
+  "title": "In The Company Of Philosophers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-05T22:52:22.921Z",
+  "lastmod": null,
+  "weight": 46200,
+  "audio": "poetry-0462.mp3",
+  "image": "poetry-0462-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IfTKequW2Mk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

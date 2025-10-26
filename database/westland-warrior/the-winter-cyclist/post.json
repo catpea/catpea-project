@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-winter-cyclist",
+  "guid": "6372e35a-9db6-491e-bca7-734ecc8e543d",
+  "title": "The Winter Cyclist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-12-19T18:58:58.662Z",
+  "lastmod": null,
+  "weight": 5700,
+  "audio": null,
+  "image": "warrior-the-winter-cyclist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

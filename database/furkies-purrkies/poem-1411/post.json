@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1411",
+  "guid": "cd9be2a0-2f55-4a1c-b6e9-6450445c08af",
+  "title": "Programming Art; Or, Beyond One Illustration Per Generation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-12T02:49:06.615Z",
+  "lastmod": null,
+  "weight": 141100,
+  "audio": "poem-1411.mp3",
+  "image": "poem-1411-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

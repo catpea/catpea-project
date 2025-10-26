@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0428",
+  "guid": "cda04ed8-90d4-44ff-bbe1-06a1d6ea9f49",
+  "title": "Little Drummer Boy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-02T23:36:45.195Z",
+  "lastmod": null,
+  "weight": 42800,
+  "audio": "poetry-0428.mp3",
+  "image": "poetry-0428-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

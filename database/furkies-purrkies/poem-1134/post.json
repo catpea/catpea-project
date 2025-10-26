@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1134",
+  "guid": "ee3bda24-844c-4b87-8128-cb4a982ca911",
+  "title": "Standardized Education Is An Impossible Fantasy, Because Learning Requires A Unique Sequence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-10T02:40:58.114Z",
+  "lastmod": null,
+  "weight": 113400,
+  "audio": "poem-1134.mp3",
+  "image": "poem-1134-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5UHFPbvBBzY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

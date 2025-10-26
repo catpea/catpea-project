@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0284",
+  "guid": "6af88845-8ab6-40ab-ae29-d3a5a62f9222",
+  "title": "A More Capable World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-10T02:15:45.858Z",
+  "lastmod": null,
+  "weight": 28400,
+  "audio": "poetry-0284.mp3",
+  "image": "poetry-0284-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

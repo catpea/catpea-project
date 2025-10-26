@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0937",
+  "guid": "9fc46152-a0de-41e3-85bd-9d2a6b500147",
+  "title": "The Shiny People",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-24T03:13:11.472Z",
+  "lastmod": null,
+  "weight": 93700,
+  "audio": "poetry-0937.mp3",
+  "image": "poetry-0937-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DtyLsWYy3rE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1751",
+  "guid": "1f0aabc7-7e26-4ea4-8e31-3f7b17c79985",
+  "title": "Become An Intellectual; Don’t Wait For Knowledge, You Have To Learn On Your Own",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-17T04:55:47.172Z",
+  "lastmod": null,
+  "weight": 175100,
+  "audio": "poem-1751.mp3",
+  "image": "poem-1751-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

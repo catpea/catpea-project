@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1435",
+  "guid": "7335cfd5-4a9f-4e9f-b230-630c374fba54",
+  "title": "What Would A Kitty Ask, If It Could Handle Such A Task",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-04T18:38:17.912Z",
+  "lastmod": null,
+  "weight": 143500,
+  "audio": "poem-1435.mp3",
+  "image": "poem-1435-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

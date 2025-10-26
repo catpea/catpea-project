@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0016",
+  "guid": "5ab71fd3-7d1a-4f6d-b392-2ca4f1e532cb",
+  "title": "The Squirrels Attack",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-28T22:31:17.209Z",
+  "lastmod": null,
+  "weight": 1600,
+  "audio": null,
+  "image": "poetry-0016-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

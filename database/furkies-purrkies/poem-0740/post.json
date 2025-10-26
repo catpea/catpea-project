@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0740",
+  "guid": "63496b1a-4c96-4927-b6c5-c96ea664225e",
+  "title": "A Tiny Business Tutorial: Considering Artists And Builders Of Art Communities",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-10T22:28:48.870Z",
+  "lastmod": null,
+  "weight": 74000,
+  "audio": "poetry-0740.mp3",
+  "image": "poetry-0740-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

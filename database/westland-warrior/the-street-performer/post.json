@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-street-performer",
+  "guid": "af88cdf4-4d9e-49f8-97cf-1087f6dc7cfe",
+  "title": "The Street Performer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-01-24T23:57:53.217Z",
+  "lastmod": null,
+  "weight": 9900,
+  "audio": null,
+  "image": "warrior-the-street-performer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

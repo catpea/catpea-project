@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-sinkhole-explorer",
+  "guid": "f8eaa979-0467-456a-be6c-e045e4f0a15f",
+  "title": "The Sinkhole Explorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-05-08T01:25:34.349Z",
+  "lastmod": null,
+  "weight": 4410,
+  "audio": null,
+  "image": "the-sinkhole-explorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1446",
+  "guid": "61270afb-65d6-4b5d-a8cf-8db86db3cc41",
+  "title": "Speedrunning Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-16T05:26:20.939Z",
+  "lastmod": null,
+  "weight": 144600,
+  "audio": "poem-1446.mp3",
+  "image": "poem-1446-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

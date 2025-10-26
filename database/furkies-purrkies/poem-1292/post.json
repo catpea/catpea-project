@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1292",
+  "guid": "b2ae5086-8d8f-4a4c-a1b3-4084a4fa2820",
+  "title": "How Parasites Ate School; And On Hiking, Camping And Listening To Great Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-15T02:12:29.389Z",
+  "lastmod": null,
+  "weight": 129200,
+  "audio": "poem-1292.mp3",
+  "image": "poem-1292-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/78gHd4C9aR8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

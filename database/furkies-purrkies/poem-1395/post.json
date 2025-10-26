@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1395",
+  "guid": "a1b33b40-040f-4d1c-905a-4d33819111bf",
+  "title": "Indoctrination, Education, And Prevention",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-27T05:27:01.993Z",
+  "lastmod": null,
+  "weight": 139500,
+  "audio": "poem-1395.mp3",
+  "image": "poem-1395-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-standing-on-top-of-stone-facing-village-near-body-of-water-and-mountain-at-distance-6vNXIUt_LJo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

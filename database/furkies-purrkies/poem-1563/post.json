@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1563",
+  "guid": "dd2b5ec2-f2b6-4f7b-9454-4bfaef02555e",
+  "title": "Due Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-12T03:58:59.401Z",
+  "lastmod": null,
+  "weight": 156300,
+  "audio": "poem-1563.mp3",
+  "image": "poem-1563-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

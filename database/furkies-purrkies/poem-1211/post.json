@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1211",
+  "guid": "890b4545-3830-45e0-8fd1-bd96d221a8bd",
+  "title": "Where The Giants Leave Off",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-26T03:07:02.547Z",
+  "lastmod": null,
+  "weight": 121100,
+  "audio": "poem-1211.mp3",
+  "image": "poem-1211-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CLyjFBb0zzM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1361",
+  "guid": "75649b34-32a0-4833-86d4-59a9592b7297",
+  "title": "Surprise Holidays",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-23T04:34:32.866Z",
+  "lastmod": null,
+  "weight": 136100,
+  "audio": "poem-1361.mp3",
+  "image": "poem-1361-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-black-tank-top-and-blue-denim-jeans-sitting-on-brown-sofa-SN9H1gyRaro"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

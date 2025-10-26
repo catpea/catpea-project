@@ -1,0 +1,145 @@
+A real workout is non stop, like fierce walking...
+you get bathroom breaks; but you got to hurry.
+
+A fantasy workout, includes sitting, laying down,
+using machines, and chest exercises.
+
+A workout is hard, it is annoying if not sometimes painful,
+and it demands that you use your wisdom as not to hurt yourself, too much.
+
+---
+
+The gym, like High School, or College,
+will sell you an impression of what you want.
+
+But if you want the real thing,
+then all a gym is, is a reliable climate control box...
+
+It never has enough dumbbells,
+and they are too-far spaced in weight.
+
+Jumping from 8 pounds per hand,
+to 10 pounds, is a difference of accelerated 4 pounds.
+
+You will fell that thing in you back,
+like a train wreck.
+
+---
+
+On your first day at the gym,
+you will only go as far as a fat kid can jog.
+
+That is the couch potato standard,
+it is not a shame, but a baseline.
+
+For me it was 30 seconds of lifting,
+to the beat of a medium speed song.
+
+And then waiting over a minute,
+to try to pull my self back together.
+
+---
+
+When you see people resting,
+they are somewhat misinformed.
+
+Rest does feature in a workout,
+but only at first.
+
+While it is carefully measured,
+and shortened, until it is eliminated.
+
+This is exactly what joggers do,
+to run their trail non stop.
+
+At the gym, in addition to your legs,
+you also put dumbbells in your hands.
+
+They will act on your entire body,
+especially legs, then your back, biceps and six pack.
+
+---
+
+The machines you see at the gym,
+are for when you get hurt.
+
+More specifically,
+when you hurt your feet, tendons or back.
+
+You scratch up your feet from bad shoes,
+hurt your tendons from the foam heal being too high.
+
+And your back will hurt from electrolyte imbalance,
+long before you lift too heavy.
+
+Never lift heavy, never,
+heavy means injury, it means time off, and it means ego.
+
+Anything above 8 pounds per hand, or 16 pounds total,
+requires that you stabilize your back.
+
+That it is safe,
+to put that weight on there.
+
+But that means that you can't flex or twist, or dance,
+and you will not burn fat.
+
+---
+
+The gym is the most difficult setting,
+you can pick for yourself.
+
+It is just a climate controlled box,
+and by climate I mean rain.
+
+Because it will be too hot in summer,
+and too hot in winter.
+
+If you stop heating in winter,
+one of the elderly will run up to the from desk.
+
+And yell, "Turn up the heat, I paying for gym to avoid the chill of the morgue, you little bastards.",
+and you can't argue with that, at all.
+
+The best setting, is either walking and then jogging through your city,
+or walking the Appalachian trail, with a comfy backpack.
+
+---
+
+I recommend that you take to adventure,
+before reducing your path to health.
+
+To a climate controlled box,
+where it does not rain, but never gets cool either.
+
+Walk a long time, across thousands of miles,
+have your body use up all your fat.
+
+Grant yourself extra decades of life,
+and then sign up for the gym.
+
+To stay flexible, and bouncy,
+and active, and forever young.
+
+---
+
+
+Afterword,
+
+Not sitting at a gym is for large people,
+skinny people, no matter their age don't need the gym.
+
+They need an umbrella,
+and long walks in the park, with all their friends, and sandwiches.
+
+Now having said that,
+it is OK, to hang out at a gym.
+
+Except that parks, lakes, state parks, ocean beaches,
+are just so much more beautiful.
+
+There is nothing wrong,
+with bringing a couple 3 pound weights along, or slowly jogging.
+
+It is something that others will admire,
+and copy.

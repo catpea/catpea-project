@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1340",
+  "guid": "527d5a5c-1124-4a33-bcc9-3359064fff9b",
+  "title": "The Stopwatch And The Impossible Reward",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-02T03:08:15.003Z",
+  "lastmod": null,
+  "weight": 134000,
+  "audio": "poem-1340.mp3",
+  "image": "poem-1340-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

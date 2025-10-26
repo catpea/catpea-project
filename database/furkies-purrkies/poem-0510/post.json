@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0510",
+  "guid": "3e9b73ec-b6aa-46ba-bd81-8ebd2ed8901c",
+  "title": "A Very Brief Overview Of Linux",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-23T20:03:46.889Z",
+  "lastmod": null,
+  "weight": 51000,
+  "audio": "poetry-0510.mp3",
+  "image": "poetry-0510-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.flickr.com/photos/124384873@N02/13966512147"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

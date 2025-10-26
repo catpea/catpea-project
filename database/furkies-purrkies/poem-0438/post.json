@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0438",
+  "guid": "68f7147c-a815-4afa-a54e-93c166bc971d",
+  "title": "On Understanding The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-13T02:05:36.606Z",
+  "lastmod": null,
+  "weight": 43800,
+  "audio": "poetry-0438.mp3",
+  "image": "poetry-0438-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Zf0-90SpDD0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

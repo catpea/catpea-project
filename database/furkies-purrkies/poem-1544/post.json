@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1544",
+  "guid": "732b0a40-83e1-4ac4-931b-e5345ca077c5",
+  "title": "Don't Ignore Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-24T03:26:45.886Z",
+  "lastmod": null,
+  "weight": 154400,
+  "audio": "poem-1544.mp3",
+  "image": "poem-1544-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

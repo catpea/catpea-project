@@ -1,0 +1,113 @@
+I had my first solo hiking adventures,
+when I was really little.
+
+There is nothing to it,
+you need a bottle of sweet cherry juice.
+
+A couple of cold pierogies,
+some Almond Joy candy from America.
+
+And maybe some xmass tree candy canes,
+if you know where they keep them.
+
+---
+
+And cutlery,
+of course,
+
+You will need a range of knives,
+but no more than fifteen.
+
+You need folding knives, hunter knives,
+butterfly knives,
+
+A curiously non stably switchblade,
+as it folds when you try to stick yourself.
+
+And some weird knives,
+and a couple of broken ones.
+
+---
+
+You will need binoculars, and a looking glass,
+as you always need a closer look.
+
+And a camera,
+but remember to develop the film.
+
+And be quick about it,
+I just remembered right now.
+
+And it has been like 30 years,
+so all my blurry bunny and deer shots are probably lost.
+
+---
+
+While I don't know if we had ticks,
+probably not, but maybe.
+
+You also want to make sure,
+that the bottom of your pant leg is closed.
+
+I used a shoelace once,
+and frankly, looked awesome.
+
+---
+
+And then you walk,
+and you keep taking turns away from civilization.
+
+Some hours later,
+you will no doubt find a clearing.
+
+Or some fancy hill if you a re lucky,
+as then you'll be able to see how war you walked.
+
+---
+
+I had a hill, that seemed like a mountain to me,
+it wasn't a very tall hill, maybe it was like a bump.
+
+But listen to this,
+the entire walk to an fro my hill was 9,000 feet.
+
+And Mt. Everest is some 29,000 feet,
+though I admit, I did not have to climb.
+
+I just walked forward...
+it is still a lot, for a little boy.
+
+Especially weighted down,
+with all those knives.
+
+And that incredibly heavy
+glass bottle of juice.
+
+---
+
+I continued walking, as I grew older,
+I discovered WW2 bunkers by a bridge.
+
+And that there was a gnarly shortcut,
+to a local swimming spot.
+
+Then I had interesting adventures,
+exploring New York.
+
+Nothing too fancy, but let me just say,
+Lady Liberty and I, are not strangers.
+
+Once I got to Michigan,
+I discovered a strange little road by a highway.
+
+That later turned out to be,
+the supremely fancy i275 Bicycle Trail.
+
+But before I got into bicycling,
+I discovered Nordhouse Dunes by the Ludington State Part.
+
+I'll never forget laying in a cheap oversized tent,
+in the middle of a massive thunder storm.
+
+Wandering, if the tent poles,
+conduct electricity, and why make a tent like this?

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-genius",
+  "guid": "53ef4aca-c663-496b-a13b-31f29f0b1f93",
+  "title": "The Genius",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-04-01T04:22:10.551Z",
+  "lastmod": null,
+  "weight": 17100,
+  "audio": null,
+  "image": "warrior-the-genius-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

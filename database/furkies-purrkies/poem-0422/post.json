@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0422",
+  "guid": "18bcd98b-c02c-4c12-b3fc-e79b89442829",
+  "title": "Skunk Works: How To Become An Inventor",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-26T21:47:52.444Z",
+  "lastmod": null,
+  "weight": 42200,
+  "audio": "poetry-0422.mp3",
+  "image": "poetry-0422-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jG8eaA5Iq3A"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

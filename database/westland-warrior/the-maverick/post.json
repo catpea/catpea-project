@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-maverick",
+  "guid": "b81c4f1b-4bab-4414-8143-b7a5a13635cc",
+  "title": "The Maverick",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-06-27T04:47:44.000Z",
+  "lastmod": "2021-08-01T21:16:19.131Z",
+  "weight": 10000,
+  "audio": null,
+  "image": "warrior-the-maverick-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

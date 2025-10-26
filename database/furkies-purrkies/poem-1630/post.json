@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1630",
+  "guid": "5864cae8-67f1-4737-be51-1eb5eda11928",
+  "title": "How I Completely Ruined My Quest To Become Thin And Skinny",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-18T04:59:10.992Z",
+  "lastmod": null,
+  "weight": 163000,
+  "audio": "poem-1630.mp3",
+  "image": "poem-1630-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

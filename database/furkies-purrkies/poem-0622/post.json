@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0622",
+  "guid": "b5919586-94f1-47af-9cfe-a38cbdb6fa65",
+  "title": "The Firewall: A Fine Internet Business Idea For High School Students",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-12T22:21:56.516Z",
+  "lastmod": null,
+  "weight": 62200,
+  "audio": "poetry-0622.mp3",
+  "image": "poetry-0622-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ZKHksse8tUU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

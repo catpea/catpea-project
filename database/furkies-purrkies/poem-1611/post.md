@@ -1,0 +1,130 @@
+Bukowski, might have hinted in his poem "[Go All The Way][1]",
+that growing up, is not going to be sweet.
+
+He hinted that you may become a cast away, lose jobs, and maybe mind,
+as you rise higher, your mind will shift.
+
+My classmates noticed that back when I was a teenager,
+they said that people coming to America go crazy.
+
+That is what it looks like,
+from the view of the newly arrived.
+
+But what happened, is that the exposure to a new culture,
+melts your restrictions away, and you become a citizen of the world.
+
+Your mind goes into a higher gear,
+it becomes less crystalline and more fluid.
+
+---
+
+In fact, I once wrote that shifting cultures,
+is a way towards genius.
+
+Children who grow up in many cultures,
+are at an incredible advantage.
+
+---
+
+Bukowskki added, you may end up on the park bench or even jail,
+that you will face derision, mockery, and isolation.
+
+That there will be days without food,
+and this does happen to some people.
+
+This is all correct, this is growing up,
+you come undone for all the cultures.
+
+Your government will mark you,
+as living in poverty.
+
+But you will never be poor,
+[not once will you fell less][0].
+
+Because as a citizen of the world,
+you will learn to see poverty as something that was intentionally forced on you.
+
+It is a political invention,
+it is away to cause you so much discomfort.
+
+That you will spend the rest of your life working hard,
+beer and cigarette in hand.
+
+---
+
+Here is a thought that he wanted you to dwell on:
+
+"How in the hell could a man enjoy being awakened at 8:30 a.m. by an alarm clock, leap out of bed, dress, force-feed, shit, piss, brush teeth and hair, and fight traffic to get to a place where essentially you made lots of money for somebody else and were asked to be grateful for the opportunity to do so?"
+
+---
+
+And now Robert Audrey, leads us into the idea,
+that there is this thing above the common level of life.
+
+"But we were born of risen apes, not fallen angels, and the apes were armed killers besides. And so what shall we wonder at? Our murders and massacres and missiles, and our irreconcilable regiments? Or our treaties whatever they may be worth; our symphonies however seldom they may be played; our peaceful acres, however frequently they may be converted into battlefields; our dreams however rarely they may be accomplished. The miracle of man is not how far he has sunk but how magnificently he has risen. We are known among the stars by our poems, not our corpses."
+
+---
+
+And here is my contribution,
+to this misery of growing up.
+
+You must become a philosopher, poet, narrator and writer,
+because that is how you will deliver your wisdom to whoever want to hear it.
+
+You must become a a skater, dancer, jogger, runner, bodybuilder,
+or some kind of athlete, to keep your body healthy.
+
+This time, for all those who can stand your presence,
+so that you will stick around a while longer.
+
+Obesity, or sitting around all day long,
+makes us ill, we are animals after all, or in an animal body, is that is how you want to think about it.
+
+---
+
+And finally
+we have to resist.
+
+We have to resist the incredible, and overwhelming, richly sweet and loving pleasure,
+of an ordinary existence.
+
+No, you can't have a beer or some other brain-dead sh&t, or a shortcut, you can't even lie,
+and you certainly can't have a fake education either.
+
+Being of that mindset alone, will have your teacher rope-a-dope you,
+into inventing cramming, and being grateful that they let you pass.
+
+Wile they robbed you of real education,
+and took a paycheck home.
+
+You can't skate though any given decade of your life,
+and you can't just make every day count.
+
+You have to celebrate your days, as if each day was a holiday,
+just make one up, and write it down somewhere.
+
+Maybe use it as a title,
+to you poems.
+
+You have to ensure that every day,
+adds to the body of work of all your previous days.
+
+That is how you become a philosopher and an athlete,
+bodybuilding is a reminder of how life works.
+
+Close your eyes, look your older self in the eyes,
+and ask them if they want you to grow all the way up and become great being.
+
+[Begin with adventure][2] that will [clear your mind][3],
+so that you can comprehend narrated books written by great beings.
+
+And know that it is not just about the wisdom you inherit,
+but also the culture, that you will finally adopt.as your own.
+
+The culture,
+of greatness.
+
+[0]: https://www.youtube.com/watch?v=hPSvdKTEZug
+[1]: https://www.youtube.com/watch?v=k6_QUhUPrF4
+[2]: https://www.youtube.com/watch?v=Mwx3RvDWvDM
+[3]: https://www.youtube.com/watch?v=8IzaUP7RhSk

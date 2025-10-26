@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0368",
+  "guid": "d19388aa-84fe-4a23-87df-e578aff4b57c",
+  "title": "How To Create A Tiny Product",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-04T02:09:50.700Z",
+  "lastmod": null,
+  "weight": 36800,
+  "audio": "poetry-0368.mp3",
+  "image": "poetry-0368-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WI088gwX2Dk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

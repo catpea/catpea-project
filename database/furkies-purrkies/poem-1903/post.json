@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1903",
+  "guid": "f44bd459-02c7-4ddb-bda0-5862cfe06795",
+  "title": "The Quest For Authentic Wisdom And World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-18T01:36:59.233Z",
+  "lastmod": null,
+  "weight": 190300,
+  "audio": "poem-1903.mp3",
+  "image": "poem-1903-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-walking-down-a-trail-in-the-woods-A1BNg6pbpu4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

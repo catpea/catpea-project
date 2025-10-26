@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0916",
+  "guid": "c32c23f5-5a9f-4184-adbc-64948d0c0c76",
+  "title": "Is Computer Programming Fun; Or, Should I Learn Programming?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-03T02:15:25.448Z",
+  "lastmod": null,
+  "weight": 91600,
+  "audio": "poetry-0916.mp3",
+  "image": "poetry-0916-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0ytf310EmWc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

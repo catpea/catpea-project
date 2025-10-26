@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1720",
+  "guid": "99923b18-61d9-439b-9123-861a9b0e433b",
+  "title": "Bodybuilding For Golden Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-16T06:08:12.503Z",
+  "lastmod": null,
+  "weight": 172000,
+  "audio": "poem-1720.mp3",
+  "image": "poem-1720-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

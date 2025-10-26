@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0402",
+  "guid": "b1c5b5f6-d1db-43ff-be00-b368fdf655a2",
+  "title": "The Instant Artist",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-07T03:04:47.567Z",
+  "lastmod": null,
+  "weight": 40200,
+  "audio": "poetry-0402.mp3",
+  "image": "poetry-0402-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0WQOCx1g8hw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

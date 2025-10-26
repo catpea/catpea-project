@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1717",
+  "guid": "56591f9e-e0f6-4531-aeb3-cbbee5739f7a",
+  "title": "Working Out Is Very Bad!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-13T05:03:25.724Z",
+  "lastmod": null,
+  "weight": 171700,
+  "audio": "poem-1717.mp3",
+  "image": "poem-1717-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

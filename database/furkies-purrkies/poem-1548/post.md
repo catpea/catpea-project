@@ -1,0 +1,166 @@
+Preface
+
+I wrote this strange work, as part of a poem about your empolyer,
+respecting your focus and creativity, by giving you a private office.
+
+As employers go, many of which would laugh at this idea,
+I wrote the following to help you dream about programming solo.
+
+And more importantly,
+multiplying your programmer power by catfooding your own unicorn.
+
+Remember, you deserve all the respect in the world,
+as you are meant to grow all the way up[ and become a great being.
+
+---
+
+You need top move fast,
+can’t debug other peoples layers of bug-fixes.
+
+So you need a head start, and that is the browser,
+the DOM, the SVG.
+
+Nd you will need to code your own OOP,
+where ll properties er observable.
+
+SO you read with a getter,
+and subscribe with a .on.
+
+Now you just use swing as inspiration,
+Just componet as base class, and then continer and control.
+
+I recommend Vbox Hbox from flex,
+for your layout, a VPL needs simple layout.
+
+Then use Blender’s geometry nodes as design inspiration,
+and while you should code your input boxes from scratch.
+
+You don’t want to forget how everything works,
+so use esbuild to give you the power of svelt.
+
+And embed svelte components in SVG’s
+foreignElement.
+
+You should create a concept of domains, or windows,
+with tools unique to those domains.
+
+So in one window you have visual programming nodes,
+for mapping table relationships,
+
+In another you have nodes for Filter, Map, and Reduce,
+and other windows with other programming models.
+
+And as with nodes,
+you can connect windows together.
+
+While you should generate code,
+making an XML file for object instantiation.
+
+Gives you the ability to code by hand,
+in a text editor, and you will need that during development.
+
+But listen, npm’s cheerio wraps XML,
+so you get jQuery over xml, no trouble here.
+
+The objects you should consider instantiation,
+s opposed to the code you should be generating.
+
+Would be based on the Event Emitter,
+it will be messy, because you will pile data in to a tree of emitters.
+
+It it was plain functions,
+you would know when your program is done.
+
+The emitter networks will need to signal at each leaf,
+that you can move on to the next one.
+
+But that is,
+pleasant programming.
+
+The thing about code generation,
+is that you should dive into AST wrangling.
+
+And that is not really edit programs,
+they are meant to be edited in text, not via codemods.
+
+But, there is a question of shouldn't you,
+manage some executions patters that execute all the part of a program.
+
+Like say a state machine,
+to which you attach all the funcions.
+
+Which then brings us back to XML,
+why wound’t immediateExecution EventEmitters be just as good.
+
+The code is generated,
+everything is managed precisely.
+
+Control flow is not very readable,
+but you have a visual programming language, and don’t need to read it.
+
+---
+
+So every visual block in your VPL is backed by an EventEmitter,
+you can now do do step by step message passing.
+
+And have blinkenlights help you trace packets of information,
+as they flow through you event emitter networks.
+
+---
+
+I am sorry to speak like this,
+but explaining all the gibberish would just make it worse.
+
+The point is, you use SVG to make a VPL,
+that spits out programs weaved out of EventEmitter networks.
+
+---
+
+And the final step, is making it game like,
+including a store where nodes can be puchased.
+
+---
+
+This is not a big undertaking,
+though it will take years, all of which will be fun.
+
+And then you just share,
+let your users sell plugins and blocks, and take a cut.
+
+And that is all, your users advertise you to their customers,
+you take  cut of their sales, and you call it you little company.
+
+Finally, critics who say EventEmitter based apps are no good,
+need to understand that this is just a convenient expression.
+
+The underlying XML,
+which is just nodes that point to serverless-friendly functions, and edges that connect them.
+
+Can be expressed as funcions, too,
+it is nodes, their ports and edges that connect the ports.
+
+Output port is the main function,
+input ports are just arguments that it receives.
+
+EventEmitter Networs are just,
+beautiful.
+
+And move readable in a visual programming language,
+then code stored in a src folder tree.
+
+---
+
+Redux is a visual program,
+and that is often enough to make an application go.
+
+In a visual programming language,
+you can make redux loop visual, and the commands as well.
+
+You can have a window with a tree of your components,
+all windows arranged in a row.
+
+Code readability is very precious,
+visual programming languages maximize that value.
+
+And your signups,
+will appreciate being able to grok their program structure at a glance.

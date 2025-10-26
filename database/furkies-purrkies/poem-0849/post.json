@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0849",
+  "guid": "42b6906b-361d-433c-9be9-fe0839125746",
+  "title": "Fancy Little Rings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-27T23:21:50.753Z",
+  "lastmod": null,
+  "weight": 84900,
+  "audio": "poetry-0849.mp3",
+  "image": "poetry-0849-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

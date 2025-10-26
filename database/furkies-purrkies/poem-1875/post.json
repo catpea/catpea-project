@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1875",
+  "guid": "68c192aa-29bd-4c33-bfff-3de0e9e84d78",
+  "title": "The Miracle Requirements Document; Or, Investigating The Power Of Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-19T22:55:11.441Z",
+  "lastmod": null,
+  "weight": 187500,
+  "audio": "poem-1875.mp3",
+  "image": "poem-1875-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

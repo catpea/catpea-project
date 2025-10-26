@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1310",
+  "guid": "5d284504-3391-4b28-b30f-e4469a7a3a07",
+  "title": "Avoid Standardized Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-03T03:25:11.043Z",
+  "lastmod": null,
+  "weight": 131000,
+  "audio": "poem-1310.mp3",
+  "image": "poem-1310-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HfuZE4Z0kl4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

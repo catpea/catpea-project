@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-frontend-developer",
+  "guid": "8f0ba3e3-e0c5-49ed-a893-0b7b218f5355",
+  "title": "The Frontend Developer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-04-09T16:05:53.964Z",
+  "lastmod": null,
+  "weight": 15464,
+  "audio": null,
+  "image": "the-frontend-developer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

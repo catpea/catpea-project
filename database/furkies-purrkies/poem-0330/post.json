@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0330",
+  "guid": "677999a3-a051-4466-9b4a-c1756d61cadb",
+  "title": "For The Advancement Of Human Kind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-24T23:58:45.412Z",
+  "lastmod": null,
+  "weight": 33000,
+  "audio": "poetry-0330.mp3",
+  "image": "poetry-0330-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6dDHofabCQ8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

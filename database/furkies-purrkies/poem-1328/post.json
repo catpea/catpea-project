@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1328",
+  "guid": "94757a46-73bf-4329-bca0-baa3834dd769",
+  "title": "On The Art Apocalypse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-21T02:28:36.501Z",
+  "lastmod": null,
+  "weight": 132800,
+  "audio": "poem-1328.mp3",
+  "image": "poem-1328-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1590",
+  "guid": "27850561-20aa-4360-a101-c6a193a6737b",
+  "title": "The Legacy And The Spire; A Note On The Importance Of Authentic Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-08T23:29:52.084Z",
+  "lastmod": null,
+  "weight": 159000,
+  "audio": "poem-1590.mp3",
+  "image": "poem-1590-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

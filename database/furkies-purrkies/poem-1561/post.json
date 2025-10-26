@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1561",
+  "guid": "f4a411ab-ebc0-4a86-a84e-76de6aa9bd57",
+  "title": "The Internet Has A Problem; And Here Is How You Can Solve It",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-10T03:51:32.098Z",
+  "lastmod": null,
+  "weight": 156100,
+  "audio": "poem-1561.mp3",
+  "image": "poem-1561-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

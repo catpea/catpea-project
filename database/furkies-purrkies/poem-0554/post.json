@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0554",
+  "guid": "63d44bce-c07d-48fd-9712-d1b6b95c92e8",
+  "title": "You Must Expand The Meaning Of Poetry",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-06T02:15:21.146Z",
+  "lastmod": null,
+  "weight": 55400,
+  "audio": "poetry-0554.mp3",
+  "image": "poetry-0554-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gKqIvUBsxEc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

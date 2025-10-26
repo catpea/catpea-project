@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0414",
+  "guid": "d1284b57-600f-4339-8d56-f9e5f337c429",
+  "title": "Of Self Education And Foresight",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-18T18:02:01.828Z",
+  "lastmod": null,
+  "weight": 41400,
+  "audio": "poetry-0414.mp3",
+  "image": "poetry-0414-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fHXP17AxOEk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

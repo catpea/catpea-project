@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0530",
+  "guid": "f7399a5a-3fd2-480b-98ec-4c34569a9561",
+  "title": "Letter To The Teacher Community",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-12T20:24:05.155Z",
+  "lastmod": null,
+  "weight": 53000,
+  "audio": "poetry-0530.mp3",
+  "image": "poetry-0530-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

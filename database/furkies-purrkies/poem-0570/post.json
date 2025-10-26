@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0570",
+  "guid": "3599346c-e191-459d-9f2e-c374c7fcda13",
+  "title": "One World, One People, One Great Family",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-21T21:02:04.576Z",
+  "lastmod": null,
+  "weight": 57000,
+  "audio": "poetry-0570.mp3",
+  "image": "poetry-0570-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OBok3F8buKY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

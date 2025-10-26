@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2015",
+  "guid": "32c3a988-de93-472c-b219-d764329a2fe1",
+  "title": "Healthy Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-07T01:34:44.877Z",
+  "lastmod": null,
+  "weight": 201500,
+  "audio": "poem-2015.mp3",
+  "image": "poem-2015-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

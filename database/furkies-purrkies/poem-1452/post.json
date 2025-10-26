@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1452",
+  "guid": "3b0e93a9-68b7-40ea-a340-b5cbe702f173",
+  "title": "Michigan Bird Report 2024; Or, First Day Of Michigan Spring",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-22T05:19:39.529Z",
+  "lastmod": null,
+  "weight": 145200,
+  "audio": "poem-1452.mp3",
+  "image": "poem-1452-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1396",
+  "guid": "b5bac77f-7327-4d85-9b60-aaaec1a3ec8a",
+  "title": "Missy Klepto Kissy: The Legendary Seagull Mama Of Westland Crossing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-28T04:43:06.614Z",
+  "lastmod": null,
+  "weight": 139600,
+  "audio": "poem-1396.mp3",
+  "image": "poem-1396-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0352",
+  "guid": "fb1ac5b1-6bb4-48be-abed-9ca6cbd4e7eb",
+  "title": "Trying To Sing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-15T22:44:37.880Z",
+  "lastmod": null,
+  "weight": 35200,
+  "audio": "poetry-0352.mp3",
+  "image": "poetry-0352-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/betmVWGYcLY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

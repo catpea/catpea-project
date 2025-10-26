@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1775",
+  "guid": "6da6e9a7-d6e2-4999-85d0-1dd07d3bad80",
+  "title": "Midnight Hour",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-10T03:19:27.407Z",
+  "lastmod": null,
+  "weight": 177500,
+  "audio": "poem-1775.mp3",
+  "image": "poem-1775-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

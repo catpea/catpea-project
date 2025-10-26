@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1990",
+  "guid": "af2778d5-ccb9-4744-8b14-dd89f2e59ba7",
+  "title": "Mommy, I Don't Like School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-12T21:29:16.951Z",
+  "lastmod": null,
+  "weight": 199000,
+  "audio": "poem-1990.mp3",
+  "image": "poem-1990-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

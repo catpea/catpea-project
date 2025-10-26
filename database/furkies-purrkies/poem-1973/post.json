@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1973",
+  "guid": "adb207e4-5d61-4d84-b7d4-aa86b8f9e30a",
+  "title": "The Quest For Wisdom: You Have A Great Responsibility",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-27T02:11:55.210Z",
+  "lastmod": null,
+  "weight": 197300,
+  "audio": "poem-1973.mp3",
+  "image": "poem-1973-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

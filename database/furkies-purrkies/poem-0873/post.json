@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0873",
+  "guid": "addf6424-5fb0-47ac-a627-2b0e333c40a9",
+  "title": "School Subject Divisions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-21T23:12:52.700Z",
+  "lastmod": null,
+  "weight": 87300,
+  "audio": "poetry-0873.mp3",
+  "image": "poetry-0873-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FUoyHvCUpGY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

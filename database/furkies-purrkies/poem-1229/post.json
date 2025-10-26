@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1229",
+  "guid": "865984ea-1138-4b48-8349-3312bb8cc34f",
+  "title": "Take To Adventure, Become 40 Years Younger, And Wallop The Oodles Out Of Your Whippersnapper Self",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-14T03:07:10.359Z",
+  "lastmod": null,
+  "weight": 122900,
+  "audio": "poem-1229.mp3",
+  "image": "poem-1229-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zZDsK4UWgFk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

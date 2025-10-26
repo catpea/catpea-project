@@ -1,0 +1,25 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0792",
+  "guid": "b724717a-11a1-49c5-ac40-bf282b16dcc1",
+  "title": "Value, Color, And Composition; Or, A Photo Is A Treasure Chest Of Color",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-02T01:20:05.683Z",
+  "lastmod": null,
+  "weight": 79200,
+  "audio": "poetry-0792.mp3",
+  "image": "poetry-0792-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/xP_AGmeEa6s"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

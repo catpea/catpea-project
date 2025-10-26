@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0578",
+  "guid": "36881070-cb72-47a0-a6e0-bf2a564fe164",
+  "title": "How To Become A Writer In Three Easy Steps",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-30T00:35:51.377Z",
+  "lastmod": null,
+  "weight": 57800,
+  "audio": "poetry-0578.mp3",
+  "image": "poetry-0578-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/rHiBe-ySUNs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

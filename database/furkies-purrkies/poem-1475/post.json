@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1475",
+  "guid": "bb8d56ad-b3d7-4b96-a16e-b5ebf10c5090",
+  "title": "Meaningful Diet & Weight Loss",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-16T04:31:08.294Z",
+  "lastmod": null,
+  "weight": 147500,
+  "audio": "poem-1475.mp3",
+  "image": "poem-1475-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

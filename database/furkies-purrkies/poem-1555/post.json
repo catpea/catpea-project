@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1555",
+  "guid": "a7ca74fd-1573-41ff-ae58-317f72af2484",
+  "title": "Free As In Speech, Great As In Mind; Or, Visual Programming As A Right, And Great Idea",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-04T04:26:51.546Z",
+  "lastmod": null,
+  "weight": 155500,
+  "audio": "poem-1555.mp3",
+  "image": "poem-1555-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

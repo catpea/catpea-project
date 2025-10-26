@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0287",
+  "guid": "a846b2d6-f62d-48c4-a541-c236e11154fd",
+  "title": "Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-12T22:36:03.026Z",
+  "lastmod": null,
+  "weight": 28700,
+  "audio": "poetry-0287.mp3",
+  "image": "poetry-0287-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/summerfield-woman-girl-sunset-336672/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0987",
+  "guid": "b3421be3-862d-4c45-88e3-47fb917fa9cc",
+  "title": "Learn For Real Do Not Gamble With Your Knowledge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-13T01:13:05.984Z",
+  "lastmod": null,
+  "weight": 98700,
+  "audio": "poem-0987.mp3",
+  "image": "poem-0987-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/LJ1WdwgK8CE"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1274",
+  "guid": "17f52f65-2e61-4dae-acc3-98ed9edd2f56",
+  "title": "Get Up! The Commencement Address Is As Fake As Your Education, And You Still Need To Learn For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-28T02:07:36.719Z",
+  "lastmod": null,
+  "weight": 127400,
+  "audio": "poem-1274.mp3",
+  "image": "poem-1274-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Nj09rsh9mvI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1382",
+  "guid": "b503c8c7-3b50-4c9a-bbd6-0867359513ab",
+  "title": "Fitness Myths: Diet, Sets & Reps, Machines, And A Real Shortcut",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-14T05:22:06.743Z",
+  "lastmod": null,
+  "weight": 138200,
+  "audio": "poem-1382.mp3",
+  "image": "poem-1382-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

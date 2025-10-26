@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1777",
+  "guid": "eb55d231-ae7e-46c6-b249-6d3eb5619dd0",
+  "title": "Six Months A Year; Or, Do Not Forget About Yourself",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-12T05:34:09.922Z",
+  "lastmod": null,
+  "weight": 177700,
+  "audio": "poem-1777.mp3",
+  "image": "poem-1777-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

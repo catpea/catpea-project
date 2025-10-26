@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0010",
+  "guid": "130fcc20-2f7b-44ef-8069-e532e4b62bf7",
+  "title": "Invictus by William Ernest Henley",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-24T13:36:42.106Z",
+  "lastmod": null,
+  "weight": 1000,
+  "audio": null,
+  "image": "poetry-0010-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

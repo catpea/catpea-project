@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0705",
+  "guid": "82da6d82-075a-489f-898d-4b8464eeec8e",
+  "title": "The Electric Blanket",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-04T03:40:30.407Z",
+  "lastmod": null,
+  "weight": 70500,
+  "audio": "poetry-0705.mp3",
+  "image": "poetry-0705-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0seRAP1mXgY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

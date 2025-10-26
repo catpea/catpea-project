@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-wire-artist",
+  "guid": "f393e4be-2ebc-4894-bbf7-846f31115076",
+  "title": "The Wire Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-05-08T23:34:35.849Z",
+  "lastmod": null,
+  "weight": 8200,
+  "audio": null,
+  "image": "warrior-the-wire-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

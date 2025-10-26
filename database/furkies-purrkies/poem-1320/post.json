@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1320",
+  "guid": "7301c438-1d3f-4eb6-9478-02abbcc63bb0",
+  "title": "Paint-overs and Color Picking",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-13T02:47:06.285Z",
+  "lastmod": null,
+  "weight": 132000,
+  "audio": "poem-1320.mp3",
+  "image": "poem-1320-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

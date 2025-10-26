@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1257",
+  "guid": "0826f902-84a8-4464-b089-080c913ffd68",
+  "title": "Authentic Wealth Of Wisdom; Or, On The Importance Of Interconnectedness Of Knowledge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-11T03:16:36.080Z",
+  "lastmod": null,
+  "weight": 125700,
+  "audio": "poem-1257.mp3",
+  "image": "poem-1257-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KWqw45qJtys"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

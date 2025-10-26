@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1852",
+  "guid": "1d49bb36-71dd-4115-bdec-b5220f9079e8",
+  "title": "You Are Not A Worker, Or; For All The Good That Is Left",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-27T20:37:21.041Z",
+  "lastmod": null,
+  "weight": 185200,
+  "audio": "poem-1852.mp3",
+  "image": "poem-1852-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

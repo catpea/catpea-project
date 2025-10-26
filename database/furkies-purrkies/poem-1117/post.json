@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1117",
+  "guid": "071691d1-8f0b-4264-a5dd-ac5c92331a0e",
+  "title": "Chaos To Chaos, A Sci-Fi Poem",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-24T00:18:44.562Z",
+  "lastmod": null,
+  "weight": 111700,
+  "audio": "poem-1117.mp3",
+  "image": "poem-1117-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

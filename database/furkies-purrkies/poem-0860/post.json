@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0860",
+  "guid": "24df42fc-fd9a-47ac-9785-82238462cddc",
+  "title": "What Is In A Programming Language Anyway?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-08T19:43:19.171Z",
+  "lastmod": null,
+  "weight": 86000,
+  "audio": "poetry-0860.mp3",
+  "image": "poetry-0860-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AS80CJTzM5Q"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

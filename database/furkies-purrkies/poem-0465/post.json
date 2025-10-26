@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0465",
+  "guid": "dd5e9f5c-c0ff-4d77-96bb-f9a5aba410cb",
+  "title": "Super Nintendent Meow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-08T21:14:09.624Z",
+  "lastmod": null,
+  "weight": 46500,
+  "audio": "poetry-0465.mp3",
+  "image": "poetry-0465-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/io0ZLYbu31s"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

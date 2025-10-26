@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1878",
+  "guid": "edc4d54c-894a-45e6-88b0-fe92cce3cb4f",
+  "title": "Please Stand Up For Authentic Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-22T22:58:46.984Z",
+  "lastmod": null,
+  "weight": 187800,
+  "audio": "poem-1878.mp3",
+  "image": "poem-1878-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0934",
+  "guid": "3a6f4d53-50a6-4f33-8579-872ac5b026ac",
+  "title": "Easy Peasy Muscle; Or, How To Get Your Beefcupcake On",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-21T03:18:07.713Z",
+  "lastmod": null,
+  "weight": 93400,
+  "audio": "poetry-0934.mp3",
+  "image": "poetry-0934-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

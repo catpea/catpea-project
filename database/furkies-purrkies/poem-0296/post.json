@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0296",
+  "guid": "abadba22-e5d5-4159-8f6b-de8ec75120f1",
+  "title": "Listening To The Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-22T03:09:50.430Z",
+  "lastmod": null,
+  "weight": 29600,
+  "audio": "poetry-0296.mp3",
+  "image": "poetry-0296-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/PLBcLq3GQZA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

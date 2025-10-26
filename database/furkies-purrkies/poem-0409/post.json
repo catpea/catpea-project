@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0409",
+  "guid": "b9c52c5c-7f88-41ad-abf6-851b59eb1e7d",
+  "title": "The Older Business People",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-14T02:23:29.712Z",
+  "lastmod": null,
+  "weight": 40900,
+  "audio": "poetry-0409.mp3",
+  "image": "poetry-0409-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/phlc0v-lcvw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

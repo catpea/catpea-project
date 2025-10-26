@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1800",
+  "guid": "4aef4aa5-bd79-4d9c-89ce-7a55b83e29a2",
+  "title": "Subscribable, Observable, Signal, Sugar and Whipflash",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-04T02:32:55.035Z",
+  "lastmod": null,
+  "weight": 180000,
+  "audio": "poem-1800.mp3",
+  "image": "poem-1800-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

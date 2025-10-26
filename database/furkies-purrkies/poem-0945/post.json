@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0945",
+  "guid": "8a728cfe-bcef-4d1e-a1de-42efb6bcadb7",
+  "title": "Programmers Shmogrammers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-02T03:01:58.358Z",
+  "lastmod": null,
+  "weight": 94500,
+  "audio": "poem-0945.mp3",
+  "image": "poem-0945-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CpPF4W5PB1c"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

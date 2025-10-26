@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1538",
+  "guid": "f798191e-8d59-4a56-97c4-7263ce5a8f67",
+  "title": "How To Study For A Pop Quiz",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-18T01:54:14.582Z",
+  "lastmod": null,
+  "weight": 153800,
+  "audio": "poem-1538.mp3",
+  "image": "poem-1538-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

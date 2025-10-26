@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0995",
+  "guid": "63b93e16-5d6d-4f34-a4f4-95219b003cbd",
+  "title": "Squirrels Are Free And The First Snow-day Is Key!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-21T02:17:55.761Z",
+  "lastmod": null,
+  "weight": 99500,
+  "audio": "poem-0995.mp3",
+  "image": "poem-0995-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KJ7Symk2u2w"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0003",
+  "guid": "ee4e2493-65b7-4d97-93a6-0216d0e04454",
+  "title": "Song Of Kosmos",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-19T20:14:25.929Z",
+  "lastmod": null,
+  "weight": 300,
+  "audio": null,
+  "image": "poetry-0003-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/E0AHdsENmDg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

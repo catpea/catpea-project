@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-portrait-artist",
+  "guid": "fc769c57-f8f6-4175-852e-8e062f0286c6",
+  "title": "The Portrait Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-02-14T00:52:20.006Z",
+  "lastmod": null,
+  "weight": 13700,
+  "audio": null,
+  "image": "warrior-the-portrait-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

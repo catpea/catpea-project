@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1024",
+  "guid": "ea7d5629-df88-4bbd-9160-25e61428a3a2",
+  "title": "No One Can Tell You Which Books To Pick, It Is Tradition",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-20T04:07:06.301Z",
+  "lastmod": null,
+  "weight": 102400,
+  "audio": "poem-1024.mp3",
+  "image": "poem-1024-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Bv48XbNtXX4"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0996",
+  "guid": "27e21555-adbd-428f-a210-9d13e517494e",
+  "title": "Building Your First Software Empire; Or, Self Editable Applications Are Just Operating Systems",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-22T02:07:07.265Z",
+  "lastmod": null,
+  "weight": 99600,
+  "audio": "poem-0996.mp3",
+  "image": "poem-0996-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

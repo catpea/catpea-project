@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1894",
+  "guid": "7c9fd3b1-9725-474d-a89a-0df45d30491a",
+  "title": "Transcendence For You Is Transcendence For Your Species",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-08T21:27:58.377Z",
+  "lastmod": null,
+  "weight": 189400,
+  "audio": "poem-1894.mp3",
+  "image": "poem-1894-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/white-and-pink-jellyfish-in-water-TSpo9MsPFBc",
+    "https://unsplash.com/photos/purple-and-black-galaxy-illustration-uXchDIKs4qI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

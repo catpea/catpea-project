@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0275",
+  "guid": "353c052a-ab6a-4da7-bb39-fa8ed8f7911e",
+  "title": "Gnothi Seauton: An Old Kind Of School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-30T21:51:52.569Z",
+  "lastmod": null,
+  "weight": 27500,
+  "audio": "poetry-0275.mp3",
+  "image": "poetry-0275-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/yHOEIBxeVNI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-bodybuilder",
+  "guid": "31da85ac-f498-459c-b88e-68cd19fa108f",
+  "title": "The Bodybuilder",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-10-09T04:40:45.490Z",
+  "lastmod": null,
+  "weight": 6100,
+  "audio": null,
+  "image": "warrior-the-bodybuilder-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

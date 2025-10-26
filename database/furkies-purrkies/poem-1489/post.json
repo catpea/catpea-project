@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1489",
+  "guid": "61f4e6a1-e112-454d-bcdb-94958eb46278",
+  "title": "The Devil In The Details; Or, What The Hell Have I Been Inventing Anyways?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-30T04:23:59.679Z",
+  "lastmod": null,
+  "weight": 148900,
+  "audio": "poem-1489.mp3",
+  "image": "poem-1489-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

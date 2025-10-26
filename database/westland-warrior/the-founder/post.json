@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-founder",
+  "guid": "573bf54a-72ab-4307-bf48-ccd822410d08",
+  "title": "The Founder",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-04-22T02:59:23.796Z",
+  "lastmod": null,
+  "weight": 17700,
+  "audio": null,
+  "image": "warrior-the-founder-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1558",
+  "guid": "47448ebe-0ece-4981-b932-3ce0e0712e97",
+  "title": "A Computer Program Is Just A Neat Little Machine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-07T05:02:03.350Z",
+  "lastmod": null,
+  "weight": 155800,
+  "audio": "poem-1558.mp3",
+  "image": "poem-1558-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

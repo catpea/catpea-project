@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1902",
+  "guid": "4e3f1653-139e-4b91-a911-f2a437538cd9",
+  "title": "You Are Not Lost, You Are Being Found",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-17T00:04:13.394Z",
+  "lastmod": null,
+  "weight": 190200,
+  "audio": "poem-1902.mp3",
+  "image": "poem-1902-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

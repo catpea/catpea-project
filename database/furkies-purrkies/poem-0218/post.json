@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0218",
+  "guid": "b9875518-55e9-4e4e-9926-211340ef88da",
+  "title": "You Have To Move Mountains",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-04T23:34:50.744Z",
+  "lastmod": null,
+  "weight": 21800,
+  "audio": "poetry-0218.mp3",
+  "image": "poetry-0218-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eUFfY6cwjSU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

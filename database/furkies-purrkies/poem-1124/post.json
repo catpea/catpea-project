@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1124",
+  "guid": "18ad004d-275e-4757-81c4-49d5e1d82dba",
+  "title": "Dancing Yourself To Health; Or, Just Dance, And Don't Stop Under Any Circumstance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-31T00:50:57.772Z",
+  "lastmod": null,
+  "weight": 112400,
+  "audio": "poem-1124.mp3",
+  "image": "poem-1124-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2YCy6l14Opo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

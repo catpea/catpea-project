@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0362",
+  "guid": "a63d3d39-7ff4-47b9-a07d-6c67d218503d",
+  "title": "Little Adventures At Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-26T02:19:34.350Z",
+  "lastmod": null,
+  "weight": 36200,
+  "audio": "poetry-0362.mp3",
+  "image": "poetry-0362-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

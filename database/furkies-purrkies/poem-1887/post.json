@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1887",
+  "guid": "97ef4c9d-8443-4071-aea8-2535f1a99174",
+  "title": "The Ladies and Gentlemen: A Moral Standard",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-01T23:30:54.535Z",
+  "lastmod": null,
+  "weight": 188700,
+  "audio": "poem-1887.mp3",
+  "image": "poem-1887-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

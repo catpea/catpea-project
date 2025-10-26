@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "foreword",
+  "guid": "13a2cb4e-18c2-493e-88c3-e3802d3c42c5",
+  "title": "Foreword",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-04-30T23:35:48.000Z",
+  "lastmod": null,
+  "weight": 100,
+  "audio": null,
+  "image": "warrior-foreword-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

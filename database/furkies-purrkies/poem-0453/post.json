@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0453",
+  "guid": "14cbfbcf-057d-486d-a332-a13491c1a388",
+  "title": "Informed Consciousness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-28T02:28:17.542Z",
+  "lastmod": null,
+  "weight": 45300,
+  "audio": "poetry-0453.mp3",
+  "image": "poetry-0453-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eZ1TNhbITDw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

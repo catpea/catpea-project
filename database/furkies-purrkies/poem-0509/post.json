@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0509",
+  "guid": "f8cc06bd-0903-42f0-b25c-fbb5a49d68f9",
+  "title": "Self Education At A Glance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-23T02:37:27.895Z",
+  "lastmod": null,
+  "weight": 50900,
+  "audio": "poetry-0509.mp3",
+  "image": "poetry-0509-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jEgQpfkHEWY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

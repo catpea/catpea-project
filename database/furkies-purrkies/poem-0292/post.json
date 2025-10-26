@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0292",
+  "guid": "b0aee2d0-316a-4296-9e00-6a634be3e157",
+  "title": "Real Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-18T01:38:02.697Z",
+  "lastmod": null,
+  "weight": 29200,
+  "audio": "poetry-0292.mp3",
+  "image": "poetry-0292-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/elHKkgom1VU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

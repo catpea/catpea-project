@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-lady-and-the-gentleman",
+  "guid": "7720052d-4694-4871-8b4b-4a00392c651a",
+  "title": "The Lady And The Gentleman",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-06-12T04:49:11.893Z",
+  "lastmod": null,
+  "weight": 700,
+  "audio": null,
+  "image": "warrior-the-lady-and-the-gentleman-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

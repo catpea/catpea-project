@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2024",
+  "guid": "e971f8c1-9d01-42ef-91d4-81657c00377e",
+  "title": "Shine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-16T00:22:55.466Z",
+  "lastmod": null,
+  "weight": 202400,
+  "audio": "poem-2024.mp3",
+  "image": "poem-2024-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/sunset-photo-M4I_e5_z5Ww"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

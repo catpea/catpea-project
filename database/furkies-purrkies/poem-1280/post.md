@@ -1,0 +1,79 @@
+There is no substitute for effective, enabling, and functional education,
+nor is it possible to learn much under the thereat of punishment or low GPA.
+
+As with the other blight that grasped humanity for thousands of years,
+standardized education will largely remain unchanged.
+
+Only making promises,
+for after it is already too late to back out, or turn things around.
+
+---
+
+Fundamentally, a very easy explanation for this kind of clustered corruption,
+is that it exists, because that is the only thing that can exist in this large area.
+
+Corruption grows because it is fed, while being easy, brainless,
+and low effort – or automatic.
+
+---
+
+It is unimportant what role our genetic predispositions play into this,
+are we blind in the face of whatever our elders are blindly propagating?
+
+Maybe, but this is not the question we should be asking,
+as that will only end up in feeding the corruption some more.
+
+If the issue of effective versus ineffective education could come up,
+and it can’t due to sentiment analysis on whatever platform you are hearing this.
+
+Then if ever hard pressed, standardized education would simply fly the banner:
+“Teach The Controversy” borrowing from the other church.
+
+---
+
+Trying to fix standardized education, is like walking into a nuclear plant,
+becoming upset, that the nuclear material is just boiling water into steam.
+
+That the whole damn thing turning the magnets that generate electricity,
+is a god damn steam engine – and then trying to fix it.
+
+You can’t do that, the nuclear plant exists because it is a simple steam engine,
+standardized education exists, because everyone gets paid for little more than showing up.
+
+You can’t fix it,
+you have to start from scratch – if you have the technology.
+
+---
+
+And in just about the last 10 years, narrated books,
+became accessible enough to be that new kind of technology.
+
+But education here,
+is not divided into subjects.
+
+A stupid idea to begin with,
+that only helped to defraud the students of their futures.
+
+Narrated book driven education transfers worthy wisdom,
+that worth is evaluated by all the world’s clear thinking intellectuals.
+
+Intellectuals who come from all the different corners of human reality,
+of the human condition.
+
+---
+
+That leaves only own detail, the uncorking of the pipeline of wisdom,
+helping young people out of stress towards serenity…
+
+Where that wisdom can easily transfer,
+and that means a life of adventure.
+
+---
+
+To defraud humanity, schools and religion have to build up a lot of momentum,
+including threats; and miracles, such as saints, geniuses, and impressions of success and education.
+
+---
+
+But reality is more elegant,
+it is just vacations, and cheerful storytellers that make everyone laugh while sharing their wisdom.

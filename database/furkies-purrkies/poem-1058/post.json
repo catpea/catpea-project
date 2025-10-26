@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1058",
+  "guid": "7cebe672-c37c-44e8-a80b-74df60d47529",
+  "title": "Learning Photo Restoration; Or, Almost Almost, But Not Quite Yet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-23T02:03:04.068Z",
+  "lastmod": null,
+  "weight": 105800,
+  "audio": "poem-1058.mp3",
+  "image": "poem-1058-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

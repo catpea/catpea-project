@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0952",
+  "guid": "bec14de1-b56b-4db7-9754-e69f19400094",
+  "title": "On Strange Little Computer Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-09T02:02:08.160Z",
+  "lastmod": null,
+  "weight": 95200,
+  "audio": "poem-0952.mp3",
+  "image": "poem-0952-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

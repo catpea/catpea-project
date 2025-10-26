@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1128",
+  "guid": "61e1d26c-666d-4a24-b60b-ee26ec293644",
+  "title": "An Escape From The Dark Ages Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-04T03:02:08.504Z",
+  "lastmod": null,
+  "weight": 112800,
+  "audio": "poem-1128.mp3",
+  "image": "poem-1128-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/59yRYIHWtzY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

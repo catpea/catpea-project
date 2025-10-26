@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0789",
+  "guid": "1053ee18-4380-49a7-a2a9-ee917ddecd7b",
+  "title": "Art Smart; or, The Power Of Seeing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-29T00:13:20.450Z",
+  "lastmod": null,
+  "weight": 78900,
+  "audio": "poetry-0789.mp3",
+  "image": "poetry-0789-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

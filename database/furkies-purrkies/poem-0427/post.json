@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0427",
+  "guid": "c4e47182-5521-4b92-8797-d9d1c325c60f",
+  "title": "The Ancient Bear On Mount Ślęża",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-02T00:52:13.944Z",
+  "lastmod": null,
+  "weight": 42700,
+  "audio": "poetry-0427.mp3",
+  "image": "poetry-0427-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Poland_mount_Sleza_-_ancient_cult_figure.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1503",
+  "guid": "c3335db5-e0e5-42f9-90ff-907ed56e0d50",
+  "title": "Nurnberg Trailhead, Early Summer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-13T03:55:30.682Z",
+  "lastmod": null,
+  "weight": 150300,
+  "audio": "poem-1503.mp3",
+  "image": "poem-1503-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1029",
+  "guid": "62579575-a2be-473a-b485-e16bb4535924",
+  "title": "Merry Squirrels",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-25T00:52:02.496Z",
+  "lastmod": null,
+  "weight": 102900,
+  "audio": "poem-1029.mp3",
+  "image": "poem-1029-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kwy4oUgCC2A",
+    "https://unsplash.com/photos/Sq90-UfVZXQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

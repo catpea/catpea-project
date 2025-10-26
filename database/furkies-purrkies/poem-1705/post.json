@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1705",
+  "guid": "045834a0-21fa-46e2-8bd5-0bab25e5967a",
+  "title": "Artificial Intelligence Helps",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-01T03:45:18.772Z",
+  "lastmod": null,
+  "weight": 170500,
+  "audio": "poem-1705.mp3",
+  "image": "poem-1705-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

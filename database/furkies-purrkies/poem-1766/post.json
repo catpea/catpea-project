@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1766",
+  "guid": "35f36670-ee7d-478d-87ba-5790bf0e32d7",
+  "title": "Neat New Year Resolutions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-01T03:26:10.259Z",
+  "lastmod": null,
+  "weight": 176600,
+  "audio": "poem-1766.mp3",
+  "image": "poem-1766-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

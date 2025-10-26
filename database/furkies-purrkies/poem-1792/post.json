@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1792",
+  "guid": "e315c4c8-9df8-417b-8180-4d4861ff9360",
+  "title": "Vanilla; Or, Programming JavaScript Without The Use Of Frameworks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-27T05:25:32.582Z",
+  "lastmod": null,
+  "weight": 179200,
+  "audio": "poem-1792.mp3",
+  "image": "poem-1792-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

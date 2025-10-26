@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0815",
+  "guid": "c87918ab-c71d-4b0d-b697-e9f02645a0a0",
+  "title": "A Computer Based Government",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-24T21:23:52.957Z",
+  "lastmod": null,
+  "weight": 81500,
+  "audio": "poetry-0815.mp3",
+  "image": "poetry-0815-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:League_of_Nations_Organization.png"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

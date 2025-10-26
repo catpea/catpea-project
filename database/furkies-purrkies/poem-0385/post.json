@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0385",
+  "guid": "b15ae202-fcd1-49c4-9fbf-e11fb7e073b4",
+  "title": "What In The Equinox?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-21T01:49:23.197Z",
+  "lastmod": null,
+  "weight": 38500,
+  "audio": "poetry-0385.mp3",
+  "image": "poetry-0385-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hB_xgEXucQs"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1946",
+  "guid": "5745d22a-bd4a-45da-b195-c16a89035910",
+  "title": "The Call of Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-30T00:13:21.014Z",
+  "lastmod": null,
+  "weight": 194600,
+  "audio": "poem-1946.mp3",
+  "image": "poem-1946-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1125",
+  "guid": "67f5e43d-ce7e-4b4d-9491-98ec8aa7ab54",
+  "title": "Endurance, Trance, And The Window",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-01T03:06:31.171Z",
+  "lastmod": null,
+  "weight": 112500,
+  "audio": "poem-1125.mp3",
+  "image": "poem-1125-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/lhXycMCAlQk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

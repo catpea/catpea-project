@@ -1,0 +1,147 @@
+Above all, you are propagating a myth,
+that hurts those who need to transform their body to save themselves.
+
+If they come into a gym, not really sure where to start,
+and see you lift something 10 times.
+
+And then have a bout, or what could be called,
+sitting incontinence, with your digital dingleberry.
+
+They will think, that is is part of exercise,
+and begin exercising by sitting for 95% of their stay.
+
+---
+
+Sitting is the worst of it, but also, muscle isolation is bad,
+as it slows you down, from 2 years to success to about 40 years.
+
+Performing standing exercises with cable macines,
+where you work three muscles at a time, or one arm.
+
+Also does little nothing,
+and must be avoided at all cost.
+
+---
+
+If you a singe machine for three or four hours a day,
+you will grow six or fewer muscles.
+
+And you will not look like a bodybuilder,
+you will not look healthy.
+
+Muscle isolation, sitting down, working one arm,
+or the worst of it all, laying down, is very bad.
+
+If you ignore this advice,
+take plenty of photos, and ask around how you look.
+
+---
+
+What you need, is motion, constant full body motion,
+you may not even stand in one place.
+
+In fact, that will mess with your circulation,
+you have to move your legs and torso.
+
+Don’t stabilize,
+flex.
+
+To be precise, power walk,
+and twist and turn with dumbbells.
+
+Start in the begging of the rack,
+but not so! Light that you can lift more.
+
+And not so heavy,
+that you are forced to stop.
+
+In the beginning, you will not have endurance,
+to lift for long.
+
+So as long as you are constantly extending your endurance,
+you can stop to end your exercise after 15 or 20 minutes.
+
+Then rest, maybe have some complex carbs,
+and do it again, aim for one hour of motion.
+
+At first it won’t matter that you take a break in the middle,
+or even two, so as long as you aim to eliminate them.
+
+---
+
+If you start with power walking with light dumbbells,
+while cycling standing dumbbell exercises.
+
+Namely, [Dumbbell Lateral Raise][1], [Standing Dumbbell Curls][2],
+and the mighty [Overhead Shoulder Press][3].
+
+Because these are different muscle groups,
+you are actually letting one muscle group rest while working another.
+
+That is how you can exercise non-stop,
+without any distraction.
+
+You should be able to get to one hour non-stop,
+somewhat quickly.
+
+And just the moment you can handle one hour, well,
+you go up in dumbbell weight.
+
+Please, go up by 2.5lb rather than 5,
+give your body time to adapt.
+
+By the time you are power-walking with 7.5lb,
+you may consider safely jogging with dumbbells.
+
+Which will use up your fat reserves,
+of go to the gym, and keep going up in weight.
+
+Eventually you won’t be able to power-walk very quickly,
+but then you start pushing a new.
+
+Close those rest gaps,
+use an interval timer to make sure you are always lifting for longer.
+
+Once you are working out with 20lb per hand,
+you will see what a disaster muscle isolation is.
+
+You will have huge legs, abdominal muscles,
+back, that will never ever bother you.
+
+Your shoulders will be huge,
+but also in proportion with your body.
+
+And of course biceps and arms,
+will be strong and large.
+
+---
+
+Now that you start in the beginning,
+and dive your body time to adapt.
+
+The only other reason why you would need to sit,
+is boredom, and that you address by lifting to the beat of music.
+
+Not just listening to music, but hitting every beat,
+one beat up, next beat, down, starting with songs at about 95 bpm.
+
+---
+
+Once you see that what used to take years,
+now takes weeks and months.
+
+You will swiftly become very outspoken,
+about not sitting, and by extension.
+
+Influence people new to the gym,
+and help them see that they have to keep moving non-stop.
+
+Twisting and turning, to the rhythm,
+and with manageable dumbbells that you body can handle.
+
+Not so light, that you can lift more,
+and not so heavy, that you are forced to stop.
+
+[1]: https://youtu.be/FeJP4E4Z-PY?t=121
+[2]: https://youtu.be/av7-8igSXTs
+[3]: https://youtu.be/Gu1t7X2yq4M?t=153

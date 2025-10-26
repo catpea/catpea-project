@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-chaser",
+  "guid": "3aa364da-60e7-4a22-86e4-9bae4bcee8d8",
+  "title": "The Chaser",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-11-14T02:42:39.282Z",
+  "lastmod": null,
+  "weight": 4580,
+  "audio": null,
+  "image": "the-chaser-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1234",
+  "guid": "fbe75c6e-2f48-4791-a493-9f8e81661568",
+  "title": "Self Education And Life Changing Narrated Non-Fiction Books At The Library",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-19T03:17:27.017Z",
+  "lastmod": null,
+  "weight": 123400,
+  "audio": "poem-1234.mp3",
+  "image": "poem-1234-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-oRWR_cUI-w"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0788",
+  "guid": "929cabd2-2723-4833-b3cb-4d3c927a71f5",
+  "title": "The Shiny Pug, Or Coloring Line Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-28T03:06:58.912Z",
+  "lastmod": null,
+  "weight": 78800,
+  "audio": "poetry-0788.mp3",
+  "image": "poetry-0788-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

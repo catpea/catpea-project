@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1354",
+  "guid": "2bc0f3de-2f35-4ed4-aa1a-bd36a6997d7e",
+  "title": "Rediscovering Socks; Or, Are Achy Feet A Thing Of The Past?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-16T04:55:31.859Z",
+  "lastmod": null,
+  "weight": 135400,
+  "audio": "poem-1354.mp3",
+  "image": "poem-1354-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/white-long-haired-small-sized-dog-lying-on-white-and-black-textile-phVFb-lK0Z4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1483",
+  "guid": "b1382c61-4636-4e56-a812-4db58754b175",
+  "title": "Just Learn On Your Own",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-24T03:06:41.609Z",
+  "lastmod": null,
+  "weight": 148300,
+  "audio": "poem-1483.mp3",
+  "image": "poem-1483-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

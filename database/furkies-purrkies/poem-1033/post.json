@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1033",
+  "guid": "aeeb2ed7-41f8-425f-8dac-d703c2a2a905",
+  "title": "Oh, Oh, Pea; Or, A Strange Look At Object Oriented Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-29T04:20:15.610Z",
+  "lastmod": null,
+  "weight": 103300,
+  "audio": "poem-1033.mp3",
+  "image": "poem-1033-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iBW28FXHAxg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0574",
+  "guid": "6d1b7edc-5799-47ef-9312-e5ccaaa156da",
+  "title": "High School 101: Building Your Own Secret Laboratory",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-26T01:25:31.013Z",
+  "lastmod": null,
+  "weight": 57400,
+  "audio": "poetry-0574.mp3",
+  "image": "poetry-0574-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ZPeXrWxOjRQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

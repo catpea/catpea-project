@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0293",
+  "guid": "296d8c02-b25c-4828-a20f-ab8c9f654184",
+  "title": "Into The Wilderness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-19T01:46:54.327Z",
+  "lastmod": null,
+  "weight": 29300,
+  "audio": "poetry-0293.mp3",
+  "image": "poetry-0293-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kv5gkR2OPFc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

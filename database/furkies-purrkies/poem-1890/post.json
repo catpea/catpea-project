@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1890",
+  "guid": "132f0472-7399-4a5d-a67d-f49fdbfcac63",
+  "title": "The Mighty Lady; Or, A Quick Explanation Of A Powerful Workout For Busy Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-04T23:42:09.979Z",
+  "lastmod": null,
+  "weight": 189000,
+  "audio": "poem-1890.mp3",
+  "image": "poem-1890-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/two-woman-doing-workouts-8Xhf30pcUpw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

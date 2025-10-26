@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1294",
+  "guid": "f579c0c4-6194-4785-b269-6811a6521677",
+  "title": "Authentic Education And The Resulting Culture Of Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-17T03:14:36.611Z",
+  "lastmod": null,
+  "weight": 129400,
+  "audio": "poem-1294.mp3",
+  "image": "poem-1294-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/c7_FK3TaQqQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

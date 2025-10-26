@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0896",
+  "guid": "43c57f08-4af7-42e6-b1e4-ed87940737e1",
+  "title": "The Filaments, The Core, And Great Many Great Roads; Or, The Definition Of Good Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-14T01:14:55.593Z",
+  "lastmod": null,
+  "weight": 89600,
+  "audio": "poetry-0896.mp3",
+  "image": "poetry-0896-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

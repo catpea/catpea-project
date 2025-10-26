@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-diffusion-artist",
+  "guid": "f6ae4a5f-2682-4301-af97-b4ecfa29eb85",
+  "title": "The Diffusion Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-01-16T02:57:50.660Z",
+  "lastmod": null,
+  "weight": 11811,
+  "audio": null,
+  "image": "the-diffusion-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

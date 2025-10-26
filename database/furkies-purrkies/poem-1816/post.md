@@ -1,0 +1,134 @@
+The only reason why you think a machine works,
+is because you don’t know how incredibly fast your muscles grow.
+
+They grow so fast and so well,
+refined by billions of years of biological wisdom.
+
+That you are actually hurting yourself,
+by using a bench, or a machine.
+
+---
+
+You are not increasing muscle growth by muscle isolation,
+you are preventing the rest of your musculature from developing.
+
+Do you understand? You need to lift with all your body,
+all your muscles, for hours, not with four muscles for eight seconds.
+
+Non stop duration is earned by jogging for an hour with light dumbells,
+and then increasing their weight, until it is no longer safe to slowly jog.
+
+At which point you enter a gym, with 5 or 7.5 pounds per hand,
+and do standing dumbbell exercises, which are even better than jogging.
+
+Cycling three of four standing dumbbell exercises,
+means you don’t need to stop…
+
+Because you are switching,
+between different muscle groups.
+
+This and synchronizing to the beats of music,
+will help you with focus.
+
+---
+
+Just do it for three months,
+you will not believe the results.
+
+You need to see for yourself, that muscle isolation,
+does not make your muscles bigger.
+
+It just prevents your other muscles,
+from developing.
+
+---
+
+When you sit on a bench, and lift something somehow,
+the incredibly complex system of muscles throughout your body, is off-line.
+
+You trick yourself into thinking that you can lift heavier,
+without endangering your back muscle…
+
+But you are actually preventing your back muscles,
+from developing.
+
+---
+
+More than that, lifting heavier than your body allows,
+means the exercise will fail.
+
+That is not muscle failure that stops you,
+you are just cutting off your circulation.
+
+All the while, preventing the rest of your body from adapting at all,
+by not using it, at all.
+
+---
+
+I am not even going to speak about machines,
+other than just to say that they sell memberships well.
+
+And I will mention that they could help the elderly,
+but they would need much smaller weights.
+
+So they are not even good,
+at the closest thing they could be good for.
+
+Helping people with severe muscle atrophy, and perhaps deformations,
+to get a gentle without much injury.
+
+---
+
+Treadmills, and step machines are minor exceptions,
+but there is a huge problem as well.
+
+Because if walking or even jogging is what you are after,
+doing so out in nature, will increase your chances of success.
+
+Even in rain, which is wonderful in summer, and an adventure in autumn,
+even in snow, which is awesome for your legs and you wear cleats and goggles.
+
+---
+
+Finally, all that bodybuilding is,
+is slowly learning to slowly jog for an hour.
+
+And then jogging with 3lb per hand,
+and when you can handle that with 5lb.
+
+And then when you can handle that for an hour,
+going up to 7.5 pounds, and 10, and 12.5, and up.
+
+---
+
+Jogging really is optional, because eventually,
+you lift so heavy that you slow down to a walk.
+
+Slowly jogging at first,
+will just make you burn more fat.
+
+But swiftly walking, is just as good,
+I bet there is no difference, at all.
+
+So you either slowly jog with dumbbells,
+or just power-walk with them.
+
+And always start in the beginning with 3 or 5 pounds,
+so that you body has time to adapt for a full non stop hour.
+
+Duration of your exercise,
+is more important than the weight you lift.
+
+Though never lift so light that you can lift more,
+and of course never so heavy that you are forced to stop.
+
+---
+
+And please consider, how you must power walk with these dumbbells,
+as you age, and for life.
+
+How your muscles will protect you,
+and your bones will be strong.
+
+How you are going to become,
+forever beautiful and forever young.

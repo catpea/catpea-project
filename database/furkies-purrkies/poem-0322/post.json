@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0322",
+  "guid": "f6960c33-8188-4b6f-a6b8-c0d4262d72dd",
+  "title": "No Ordinary Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-16T23:24:33.800Z",
+  "lastmod": null,
+  "weight": 32200,
+  "audio": "poetry-0322.mp3",
+  "image": "poetry-0322-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YSN4xhXuPig"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

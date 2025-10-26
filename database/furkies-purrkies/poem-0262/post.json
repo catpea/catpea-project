@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0262",
+  "guid": "f34d24a1-1f13-4ad9-92b6-7741f7ccaa6a",
+  "title": "A Day At Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-18T00:37:56.866Z",
+  "lastmod": null,
+  "weight": 26200,
+  "audio": "poetry-0262.mp3",
+  "image": "poetry-0262-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

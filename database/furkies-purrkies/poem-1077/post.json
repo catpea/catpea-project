@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1077",
+  "guid": "254c6951-b050-4a1e-95b5-bf295dff2a93",
+  "title": "Talents",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-11T04:12:58.278Z",
+  "lastmod": null,
+  "weight": 107700,
+  "audio": "poem-1077.mp3",
+  "image": "poem-1077-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

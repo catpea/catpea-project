@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2012",
+  "guid": "6a4b792f-ad84-42e5-b4ac-c050be3527ae",
+  "title": "Consciousness Rising",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-03T20:00:26.540Z",
+  "lastmod": null,
+  "weight": 201200,
+  "audio": "poem-2012.mp3",
+  "image": "poem-2012-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

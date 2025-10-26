@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0080",
+  "guid": "c940acc0-567d-40ae-b313-f01012d30fa4",
+  "title": "Holy Guacamole",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-25T02:05:06.582Z",
+  "lastmod": null,
+  "weight": 8000,
+  "audio": "poetry-0080.mp3",
+  "image": "poetry-0080-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

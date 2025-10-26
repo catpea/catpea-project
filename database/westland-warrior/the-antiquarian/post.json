@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-antiquarian",
+  "guid": "cab5de2b-8828-404f-96c5-b9067137afcc",
+  "title": "The Antiquarian",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-07-11T23:55:11.735Z",
+  "lastmod": null,
+  "weight": 7100,
+  "audio": null,
+  "image": "warrior-the-antiquarian-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

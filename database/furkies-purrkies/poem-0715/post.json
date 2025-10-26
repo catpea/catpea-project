@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0715",
+  "guid": "62e960b6-945a-4716-b948-4c5161cf8535",
+  "title": "Art Is For All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-14T02:15:09.924Z",
+  "lastmod": null,
+  "weight": 71500,
+  "audio": "poetry-0715.mp3",
+  "image": "poetry-0715-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

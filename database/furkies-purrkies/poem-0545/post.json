@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0545",
+  "guid": "2f808f68-f0c8-460f-a672-3a8db1e93383",
+  "title": "Michigan Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-28T03:07:05.468Z",
+  "lastmod": null,
+  "weight": 54500,
+  "audio": "poetry-0545.mp3",
+  "image": "poetry-0545-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gtJ6oDl87jQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

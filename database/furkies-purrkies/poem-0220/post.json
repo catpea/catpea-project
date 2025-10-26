@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0220",
+  "guid": "69aaa7bf-688c-46ba-8782-66b0cccb574d",
+  "title": "The Midnight Owl",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-07T02:35:21.575Z",
+  "lastmod": null,
+  "weight": 22000,
+  "audio": "poetry-0220.mp3",
+  "image": "poetry-0220-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/xRGsSHIKHas"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

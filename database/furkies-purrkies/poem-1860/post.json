@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1860",
+  "guid": "fd243790-eb94-4561-a3e7-cc03b164a6f1",
+  "title": "Wake Up, It's Time For School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-05T01:15:23.347Z",
+  "lastmod": null,
+  "weight": 186000,
+  "audio": "poem-1860.mp3",
+  "image": "poem-1860-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

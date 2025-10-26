@@ -1,0 +1,25 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0759",
+  "guid": "7d5d53b7-2461-4e50-a568-de69e3761967",
+  "title": "Making Mountains",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-29T20:26:03.884Z",
+  "lastmod": null,
+  "weight": 75900,
+  "audio": "poetry-0759.mp3",
+  "image": "poetry-0759-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/GO5IdnmYdKk"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

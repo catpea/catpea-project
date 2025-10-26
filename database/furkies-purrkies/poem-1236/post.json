@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1236",
+  "guid": "8e9dc984-216b-4aca-8822-f42f1f6c9524",
+  "title": "Growing Stronger; Or, Real Education Is Not Just About Learning For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-21T03:41:21.684Z",
+  "lastmod": null,
+  "weight": 123600,
+  "audio": "poem-1236.mp3",
+  "image": "poem-1236-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/_p1sfUo-Cpo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

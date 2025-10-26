@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0808",
+  "guid": "89c77bc7-8dda-45ba-9362-fbe205f0a8f4",
+  "title": "Blender Geometry Nodes: Tough, But Neat And Sweet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-18T01:21:50.142Z",
+  "lastmod": null,
+  "weight": 80800,
+  "audio": "poetry-0808.mp3",
+  "image": "poetry-0808-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

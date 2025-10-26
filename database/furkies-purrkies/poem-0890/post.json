@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0890",
+  "guid": "b85ea9aa-5e8a-4b3a-9f94-5570b415493f",
+  "title": "Beyond Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-07T19:27:58.639Z",
+  "lastmod": null,
+  "weight": 89000,
+  "audio": "poetry-0890.mp3",
+  "image": "poetry-0890-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/QTGIHhAhdMU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

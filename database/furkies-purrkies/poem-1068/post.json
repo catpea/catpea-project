@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1068",
+  "guid": "d4ca6053-5f7b-4859-9419-db7a0dd4db9c",
+  "title": "Endurance Is One Of Your Major Superpowers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-02T04:19:40.371Z",
+  "lastmod": null,
+  "weight": 106800,
+  "audio": "poem-1068.mp3",
+  "image": "poem-1068-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Zp-wTck-3Zw"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

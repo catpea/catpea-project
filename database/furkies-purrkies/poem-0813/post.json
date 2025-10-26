@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0813",
+  "guid": "80702dd0-30b1-460f-b76a-f499447bd517",
+  "title": "Works Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-23T00:12:49.949Z",
+  "lastmod": null,
+  "weight": 81300,
+  "audio": "poetry-0813.mp3",
+  "image": "poetry-0813-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-J1Z32zolUY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

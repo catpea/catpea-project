@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1833",
+  "guid": "046ddb7e-483b-434a-8939-e1d21c1c6114",
+  "title": "Reactive Programming For Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-09T03:02:48.791Z",
+  "lastmod": null,
+  "weight": 183300,
+  "audio": "poem-1833.mp3",
+  "image": "poem-1833-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

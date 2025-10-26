@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0563",
+  "guid": "cbad39d4-1986-4146-b09f-6b35fd2ac52d",
+  "title": "On Dignity And Classiness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-14T21:08:20.918Z",
+  "lastmod": null,
+  "weight": 56300,
+  "audio": "poetry-0563.mp3",
+  "image": "poetry-0563-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TPsaDZSs56Y"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

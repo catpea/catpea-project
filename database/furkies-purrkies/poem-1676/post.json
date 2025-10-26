@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1676",
+  "guid": "e86fe602-7602-4ec6-8abf-fb48ce0ad1c9",
+  "title": "Sustainable Bodybuilding: Don’t Lift Heavy, And Lift For Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-03T04:19:23.897Z",
+  "lastmod": null,
+  "weight": 167600,
+  "audio": "poem-1676.mp3",
+  "image": "poem-1676-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

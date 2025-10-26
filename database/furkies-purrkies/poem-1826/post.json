@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1826",
+  "guid": "f5ffe7cc-d7a6-44a2-af1f-c311681b3746",
+  "title": "Paper Diagrams; Or, The One Good Argument Against Visual Programming Languages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-01T22:18:41.864Z",
+  "lastmod": null,
+  "weight": 182600,
+  "audio": "poem-1826.mp3",
+  "image": "poem-1826-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

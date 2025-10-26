@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0398",
+  "guid": "af3ebeb4-a290-48a2-bcb9-04827794a4f7",
+  "title": "New Music Revolution",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-03T01:33:20.721Z",
+  "lastmod": null,
+  "weight": 39800,
+  "audio": "poetry-0398.mp3",
+  "image": "poetry-0398-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/D_LYjtHnDXE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

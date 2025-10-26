@@ -1,0 +1,115 @@
+Protein powders and supplements are a mostly a lie,
+and if you are large, then they are just more candy.
+
+Eat well, don’t starve yourself,
+burn up your fat with exercise not diet because your body needs nutrition.
+
+Fitness is a life long commitment, if you cut yourself away from foods,
+you’ll eventually develop issues.
+
+Eat a mixed diet of everything,
+that humans and animals normally eat.
+
+Think of your body as a cute and delicate kitty that you are taking care of,
+don’t give it sugar, don’t starve it, and give it a little bit of everything.
+
+Make sure it is ready for occasional long adventures,
+and that it can not just handle the common cold, but maybe get ahead of it.
+
+---
+
+It you are large,
+and desperate.
+
+Prepare your meals by filling a large bowl with shredded lettuce,
+then add a much smaller version of your usual meal, as flavoring.
+
+But to do it right,
+add an extra hour to your daily exercise routine.
+
+---
+
+Don’t count sets/reps at the gym, your body does not care for numbers,
+counting will cut you off from finishing your exercise.
+
+I think counting was just invented to prevent people from hugging equipment,
+to keep everyone moving, it is not useful.
+
+The only reason to use a machine at the gym, is when you are hurt,
+when your back is out, when you can’t walk, when you have broken bones.
+
+You must not isolate muscle groups while you are healthy,
+those machines make you worse off.
+
+While you are healthy, you should move, flex, and dance, live,
+so that if you do get hurt you have all kinds of muscles everywhere that may help you.
+
+Think of the machines at the gym as poor analogues,
+exactly like the ones at the space station.
+
+They will cause you to lose muscle mass,
+you want to do the real thing.
+
+Even if you became a professional body builder,
+you would still want to avoid those machines.
+
+For every muscle you focus on,
+you will lose the other ones.
+
+And if you are hoping to make some muscles smaller,
+to make some other larger...
+
+Or have a crazy bodybuilding judge who is set,
+on seeing some tiny muscle somewhere...
+
+Then you need change in your life,
+I recommend walking the Appalachian Trail with Narrated Books in your ears.
+
+Stretch, flex, dance, swim, hike,
+and chop and carry wood.
+
+Every fiber of muscle,
+should tell an authentic story of who you are.
+
+---
+
+Don’t sit at the gym, and don’t’ sit on equipment between exercises,
+a workout is non-stop.
+
+Imagine if you were walking a horse where you take tend steps,
+and then rest five minutes.
+
+The horse wouldn't understand that as an exercise,
+he’d think you are just trying to find a better spot to rest.
+
+You need to walk the horse for three hours strait,
+you need to make the horse worry that it is never going to be over.
+
+Go slow and long,
+and never stop.
+
+---
+
+Finally, the part of you that gets bored, is healthy,
+it just means that your exercise is boring, and your mind is sound and healthy.
+
+To get into the warrior groove, where you gradually increase your endurance,
+and send a clear message to your body to adapt or die.
+
+You will need to synchronize with the beat of songs,
+otherwise called dancing.
+
+That is the shortcut,
+you have to dance with dumbbells.
+
+While fitness,
+is a lifetime commitment.
+
+Diet, sets, reps, protein powders, and muscle machines,
+take five times longer, and put more strain on your body.
+
+If you dance with dumbbells
+you can accomplish in thee years, what will take others fifteen.
+
+And then you can put less strain on your body,
+and take better care to maintaining it.

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1210",
+  "guid": "d7fe9bea-410b-4167-ab4a-3ea7b97d50ee",
+  "title": "Integrity And Integration",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-25T03:08:10.398Z",
+  "lastmod": null,
+  "weight": 121000,
+  "audio": "poem-1210.mp3",
+  "image": "poem-1210-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/i9FLJwYhVQs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

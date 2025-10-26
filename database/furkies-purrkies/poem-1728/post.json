@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1728",
+  "guid": "c8ad3dac-a340-4f3e-860d-acef946191d7",
+  "title": "The Last Dark Age",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-24T04:10:32.949Z",
+  "lastmod": null,
+  "weight": 172800,
+  "audio": "poem-1728.mp3",
+  "image": "poem-1728-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

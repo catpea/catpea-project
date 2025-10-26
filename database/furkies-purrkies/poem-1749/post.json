@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1749",
+  "guid": "b69ae309-9a6c-4143-8e05-0cceea93f69c",
+  "title": "My Strange Little Caturday Mornings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-15T05:13:40.106Z",
+  "lastmod": null,
+  "weight": 174900,
+  "audio": "poem-1749.mp3",
+  "image": "poem-1749-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

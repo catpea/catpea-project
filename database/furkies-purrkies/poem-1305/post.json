@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1305",
+  "guid": "b03bd466-835f-4870-a133-d6f0e4a9d326",
+  "title": "Thrice Or Quince, Because You Are More Than Just A Human",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-28T02:26:00.528Z",
+  "lastmod": null,
+  "weight": 130500,
+  "audio": "poem-1305.mp3",
+  "image": "poem-1305-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1FPUSLkFY8Y"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

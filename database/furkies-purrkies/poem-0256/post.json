@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0256",
+  "guid": "5644d423-46fb-4fa5-9bd8-f9f379742eec",
+  "title": "Ohm's Law",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-12T04:39:44.423Z",
+  "lastmod": null,
+  "weight": 25600,
+  "audio": "poetry-0256.mp3",
+  "image": "poetry-0256-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

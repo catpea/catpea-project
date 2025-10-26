@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2050",
+  "guid": "db6a8e18-6afb-4a63-9a30-7d407aa8b79b",
+  "title": "Divide, Conquer, and Modularize: Programming is Transcendental, Not Optional",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-11T02:20:27.929Z",
+  "lastmod": null,
+  "weight": 205000,
+  "audio": "poem-2050.mp3",
+  "image": "poem-2050-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

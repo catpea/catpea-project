@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1458",
+  "guid": "2dcfb8a2-ef9f-4c3a-a527-925104289b7d",
+  "title": "How To Get Good At Programming; Or; Create Thousands Of Little Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-28T05:03:10.397Z",
+  "lastmod": null,
+  "weight": 145800,
+  "audio": "poem-1458.mp3",
+  "image": "poem-1458-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

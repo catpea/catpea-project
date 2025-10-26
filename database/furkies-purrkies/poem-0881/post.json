@@ -1,0 +1,26 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0881",
+  "guid": "f7c46adf-f88f-4470-951a-498f156e9e7e",
+  "title": "The True Teachers Of Art: Cats, Squirrels, Bush Babies, Lemurs, and Meerkats!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-29T22:45:44.722Z",
+  "lastmod": null,
+  "weight": 88100,
+  "audio": "poetry-0881.mp3",
+  "image": "poetry-0881-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://unsplash.com/photos/nnAa1VJet20",
+    "https://unsplash.com/photos/KIg7V5AbTpw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

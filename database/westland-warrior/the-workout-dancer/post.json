@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-workout-dancer",
+  "guid": "c330fbc2-d296-4a63-84c1-846b7154ca16",
+  "title": "The Workout Dancer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-12-19T01:46:54.762Z",
+  "lastmod": null,
+  "weight": 6010,
+  "audio": null,
+  "image": "the-workout-dancer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

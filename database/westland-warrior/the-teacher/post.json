@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-teacher",
+  "guid": "8862d5f8-79b4-49ec-af82-6d13bbd30446",
+  "title": "The Teacher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-03-18T02:27:27.363Z",
+  "lastmod": null,
+  "weight": 16700,
+  "audio": null,
+  "image": "warrior-the-teacher-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

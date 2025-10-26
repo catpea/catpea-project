@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0773",
+  "guid": "fbbad6a5-4404-4868-8ba4-b2f0d5435f22",
+  "title": "Fixing Programming, Or, Building Your First Trillion Dollar Company",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-12T21:18:22.187Z",
+  "lastmod": null,
+  "weight": 77300,
+  "audio": "poetry-0773.mp3",
+  "image": "poetry-0773-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EUsVwEOsblE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

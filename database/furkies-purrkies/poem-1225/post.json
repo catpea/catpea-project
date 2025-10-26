@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1225",
+  "guid": "7965d2ab-4f3f-48b9-9627-afadc69a19c0",
+  "title": "Thinking May Not Be What We Think It Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-10T03:13:46.321Z",
+  "lastmod": null,
+  "weight": 122500,
+  "audio": "poem-1225.mp3",
+  "image": "poem-1225-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6WfsLQ9nlfo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

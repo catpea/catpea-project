@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1525",
+  "guid": "8e956752-d897-4e08-84d0-8f84e8698cfa",
+  "title": "How I Reinvented Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-05T05:07:22.905Z",
+  "lastmod": null,
+  "weight": 152500,
+  "audio": "poem-1525.mp3",
+  "image": "poem-1525-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

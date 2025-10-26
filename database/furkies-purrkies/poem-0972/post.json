@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0972",
+  "guid": "41dea507-5acf-46ad-81ef-2aa346f2954c",
+  "title": "Generating An Infinite Number Of Digital Products? Not Quite Impossible...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-29T03:01:07.194Z",
+  "lastmod": null,
+  "weight": 97200,
+  "audio": "poem-0972.mp3",
+  "image": "poem-0972-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

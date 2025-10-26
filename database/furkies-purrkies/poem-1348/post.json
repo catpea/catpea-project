@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1348",
+  "guid": "9d88d5f2-9517-497a-8303-a5bd88b4add0",
+  "title": "Are Schools Working?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-10T03:23:42.975Z",
+  "lastmod": null,
+  "weight": 134800,
+  "audio": "poem-1348.mp3",
+  "image": "poem-1348-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-standing-on-a-rock-in-a-canyon-wbOKjgQv3nY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

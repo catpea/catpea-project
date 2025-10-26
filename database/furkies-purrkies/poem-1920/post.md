@@ -1,0 +1,89 @@
+As you might have guessed 1980 Dance Aerobics is how bodybuilding is done,
+you start with 3 pounds in each hand for one hour.
+
+When your body adapts to 3 pounds, you start mixing in 5 pounds per hand,
+for 10 minutes, 30 minutes, until you are able to dance with 5 pounds.
+
+You repeat the process,
+moving up by no more than 2.5 pounds.
+
+And you have the option to manipulate the speed of your music,
+or the length of your stay, you can add extra 30 minutes or double your stay.
+
+The faster you move, the more stored energy reserves you use,
+the heavier you lift, the greater your muscles.
+
+---
+
+Why boys are doing 3 sets of 10, and on various machines,
+that can only slow them down.
+
+Because they don’t want to stick out,
+they are copying each other.
+
+While I hope the following guess is incorrect,
+we must consider that the myth of 3 sets of 10.
+
+Came not from someone who did it right,
+but from a camera man filming bodybuilders.
+
+He would have said “Can you lift it 10 times,”,
+and we’ll get the footage from three angles as not to bother you again.
+
+That is how infective 3 sets of 10 are,
+any results that people report…
+
+Simply come from the fact, that they moved from the couch,
+to doing something wrong, just doing anything will grow some muscle.
+
+But, of course, it won’t keep growing them,
+because moving from not lifting, to lifting it wrong, can only occur once.
+
+---
+
+I needed to tell you about this, to get your attention,
+to underline the importance of what you are about to say next.
+
+Dance has a shape, Shuffle Dancing or Cutting Shapes is jagged,
+it is a snappy form of motion, hard on your knees and ankles.
+
+There is a special kind of dance, that has evolved to help hard working people,
+increase their flexibility, put on muscle, and protect their knees and ankles.
+
+The same people, have invented the perfect bodybuilding diet,
+because their lives depended on it.
+
+And the form of dancing they proactive, isn’t jagged,
+but rounded, protective, add progressively heavier dumbbells.
+
+And you will have muscles, so balanced and magnificent,
+no one will be able to compete against you.
+
+Please, believe me when I say this,
+I am speaking about the American Farmer, the Cowgirls and Cowboys.
+
+[Country music][1],
+from in and around year 2000.
+
+It protects your joins,
+and at its slower speed compared to Shuffle Dancing…
+
+It pushes you to control the dumbbells with more precision,
+winch combined with the broad motion dance enhances your entire musculature.
+
+---
+
+[Combine 1980’s aerobics with turn of the century Country][2],
+and farmer diet, and you will multiply your results.
+
+While looking beautiful,
+and maybe even wearing a hat to protect your eyes from the overhead lamps.
+
+Don’t take my word for it, think about it,
+try a song or two, what I said will all make sense.
+
+And as promised,
+look absolutely beautiful.
+
+[1]: https://www.youtube.com/watch?v=zmMFr8B92VY&list=PLEyxwHKKfV1ecNwn-o6vXtkyUtBLcOweT&index=37
+[2]: https://www.youtube.com/watch?v=x_ZA-60Qypw&list=PL3sfC5b2g20Onr7wi3lZ_rRht3jfJQ7Hp&index=2

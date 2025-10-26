@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1786",
+  "guid": "81b012e7-2b20-4411-bf86-e0cbe700aa4c",
+  "title": "Gently Easing Yourself Into Camping And Hiking",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-21T05:15:39.170Z",
+  "lastmod": null,
+  "weight": 178600,
+  "audio": "poem-1786.mp3",
+  "image": "poem-1786-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

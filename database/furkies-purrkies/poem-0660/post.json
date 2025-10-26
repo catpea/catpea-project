@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0660",
+  "guid": "1b511535-4179-4fb0-959b-8214b1fc57f4",
+  "title": "Searching For Silly Things To Do At Nordhouse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-20T23:31:47.638Z",
+  "lastmod": null,
+  "weight": 66000,
+  "audio": "poetry-0660.mp3",
+  "image": "poetry-0660-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

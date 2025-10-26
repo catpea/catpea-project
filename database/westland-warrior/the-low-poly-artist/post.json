@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-low-poly-artist",
+  "guid": "0ce71745-ea7b-4365-9739-4d966c5af0dc",
+  "title": "The Low Poly Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-06-12T18:16:43.523Z",
+  "lastmod": null,
+  "weight": 12900,
+  "audio": null,
+  "image": "warrior-the-low-poly-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

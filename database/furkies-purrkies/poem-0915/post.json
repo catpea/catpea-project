@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0915",
+  "guid": "47fcc56c-4bfb-4fbc-ae91-e7f71b85edc9",
+  "title": "Easy Peasy Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-01T23:57:23.512Z",
+  "lastmod": null,
+  "weight": 91500,
+  "audio": "poetry-0915.mp3",
+  "image": "poetry-0915-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/4Hg8LH9Hoxc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

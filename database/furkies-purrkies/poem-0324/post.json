@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0324",
+  "guid": "0943cf98-7bf1-41e6-9396-4e263338d94d",
+  "title": "Your Readers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-19T00:22:58.875Z",
+  "lastmod": null,
+  "weight": 32400,
+  "audio": "poetry-0324.mp3",
+  "image": "poetry-0324-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/505eectW54k"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1224",
+  "guid": "70677525-9fcc-4a46-ab48-dd12f973e291",
+  "title": "Synchronize Your Workouts With The Beats Of Songs And Speed Up The Tempo",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-09T03:23:37.005Z",
+  "lastmod": null,
+  "weight": 122400,
+  "audio": "poem-1224.mp3",
+  "image": "poem-1224-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8Xhf30pcUpw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

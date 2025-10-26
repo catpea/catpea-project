@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0702",
+  "guid": "9e36f08b-f335-459a-8373-f901b8c3de24",
+  "title": "Mona Lisa's Eyes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-31T23:02:45.138Z",
+  "lastmod": null,
+  "weight": 70200,
+  "audio": "poetry-0702.mp3",
+  "image": "poetry-0702-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

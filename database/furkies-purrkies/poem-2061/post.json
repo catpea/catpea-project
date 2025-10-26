@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2061",
+  "guid": "bb97a8ac-2963-4acd-beb7-ee67d5a5bd39",
+  "title": "Squirrel Programming 2025",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-22T01:46:07.360Z",
+  "lastmod": null,
+  "weight": 206100,
+  "audio": "poem-2061.mp3",
+  "image": "poem-2061-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

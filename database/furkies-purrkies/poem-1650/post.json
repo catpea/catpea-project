@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1650",
+  "guid": "6d988577-c95e-48e8-afac-e82690ffc020",
+  "title": "Learn For Real; Or, Don't Get Tricked, Ineffective Education Is A Shortcut For Liars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-07T03:33:13.917Z",
+  "lastmod": null,
+  "weight": 165000,
+  "audio": "poem-1650.mp3",
+  "image": "poem-1650-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

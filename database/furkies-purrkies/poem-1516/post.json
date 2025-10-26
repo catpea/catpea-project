@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1516",
+  "guid": "31c777e8-0644-42ab-af70-99571dd10f28",
+  "title": "The Great Michigan Ice Age",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-26T04:42:54.237Z",
+  "lastmod": null,
+  "weight": 151600,
+  "audio": "poem-1516.mp3",
+  "image": "poem-1516-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

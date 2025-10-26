@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-islander",
+  "guid": "53439118-b34c-432d-8ceb-ed112b77d6e4",
+  "title": "The Islander",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-07-25T23:33:00.051Z",
+  "lastmod": null,
+  "weight": 3000,
+  "audio": null,
+  "image": "warrior-the-islander-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

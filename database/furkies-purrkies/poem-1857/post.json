@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1857",
+  "guid": "02b3cf5b-7908-4037-8324-fa091a3cf5c8",
+  "title": "Protect The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-02T01:41:16.440Z",
+  "lastmod": null,
+  "weight": 185700,
+  "audio": "poem-1857.mp3",
+  "image": "poem-1857-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

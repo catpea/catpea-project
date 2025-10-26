@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1997",
+  "guid": "4b0b333c-12ea-4c17-85be-77c89a3b6a43",
+  "title": "Don’t Give Up On Programming: Unlike Success Failure Is A Path To Mastery",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-20T00:59:17.364Z",
+  "lastmod": null,
+  "weight": 199700,
+  "audio": "poem-1997.mp3",
+  "image": "poem-1997-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

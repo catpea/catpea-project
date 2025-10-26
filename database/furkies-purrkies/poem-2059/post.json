@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2059",
+  "guid": "c396da2b-7ee8-4ed4-a25f-cc7c1ed3803a",
+  "title": "Ennobled",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-20T00:43:35.836Z",
+  "lastmod": null,
+  "weight": 205900,
+  "audio": "poem-2059.mp3",
+  "image": "poem-2059-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

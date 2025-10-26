@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1061",
+  "guid": "6b036c84-fd2f-43aa-ae2a-1e3a4e9a59b2",
+  "title": "The Great World And Our Right To Meaning",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-26T04:14:24.458Z",
+  "lastmod": null,
+  "weight": 106100,
+  "audio": "poem-1061.mp3",
+  "image": "poem-1061-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/080EpPTmOxc"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

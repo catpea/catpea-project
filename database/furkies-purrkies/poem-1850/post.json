@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1850",
+  "guid": "7cc24a7c-2c46-41ed-afb7-8bc453f790e0",
+  "title": "Glass Half Full, Grasshopper",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-25T23:07:03.503Z",
+  "lastmod": null,
+  "weight": 185000,
+  "audio": "poem-1850.mp3",
+  "image": "poem-1850-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

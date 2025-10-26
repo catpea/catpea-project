@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-discoverer",
+  "guid": "6a1fd679-25a8-458b-a576-ea5174e69c42",
+  "title": "The Discoverer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-09-04T04:30:13.398Z",
+  "lastmod": null,
+  "weight": 3800,
+  "audio": null,
+  "image": "warrior-the-discoverer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

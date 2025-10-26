@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0540",
+  "guid": "a17514de-28aa-48d8-8d4e-c9f430a6017f",
+  "title": "No Cookie Cutter Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-22T22:21:57.053Z",
+  "lastmod": null,
+  "weight": 54000,
+  "audio": "poetry-0540.mp3",
+  "image": "poetry-0540-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kC0p-3kwP9k"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

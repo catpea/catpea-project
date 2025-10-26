@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1548",
+  "guid": "fc9d0d00-5e2d-4c84-b218-b3a6aee2e402",
+  "title": "The Visual Programming Language; A Strange Cyber-Poem About Catfooding Your Own Unicorn",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-28T04:53:43.295Z",
+  "lastmod": null,
+  "weight": 154800,
+  "audio": "poem-1548.mp3",
+  "image": "poem-1548-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

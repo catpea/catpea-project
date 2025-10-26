@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1473",
+  "guid": "772a6d44-87d9-4f9f-b057-6a764c6a820f",
+  "title": "Michigan Weather Report 2024",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-14T04:42:22.498Z",
+  "lastmod": null,
+  "weight": 147300,
+  "audio": "poem-1473.mp3",
+  "image": "poem-1473-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

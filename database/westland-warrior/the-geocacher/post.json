@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-geocacher",
+  "guid": "496e2e9f-df30-4e5a-9be1-d4270671f11f",
+  "title": "The Geocacher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-11-29T00:46:27.413Z",
+  "lastmod": null,
+  "weight": 4500,
+  "audio": null,
+  "image": "warrior-the-geocacher-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

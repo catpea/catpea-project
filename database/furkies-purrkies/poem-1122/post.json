@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1122",
+  "guid": "efa5fddd-70ba-4453-876f-bc2c84c53c00",
+  "title": "For The World To Rise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-29T02:32:19.423Z",
+  "lastmod": null,
+  "weight": 112200,
+  "audio": "poem-1122.mp3",
+  "image": "poem-1122-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9qeSVj6oFBI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

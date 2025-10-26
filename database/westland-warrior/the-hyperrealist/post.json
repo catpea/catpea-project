@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-hyperrealist",
+  "guid": "d5935ad5-33ac-41a6-89e7-a4437ff223dd",
+  "title": "The Hyperrealist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-02-20T21:12:00.096Z",
+  "lastmod": null,
+  "weight": 13800,
+  "audio": null,
+  "image": "warrior-the-hyperrealist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

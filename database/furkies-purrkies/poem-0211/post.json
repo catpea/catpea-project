@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0211",
+  "guid": "9cbbb65f-5dca-4edc-967b-56d3cdf36fd2",
+  "title": "Help Them Believe In Their Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-27T22:33:34.497Z",
+  "lastmod": null,
+  "weight": 21100,
+  "audio": "poetry-0211.mp3",
+  "image": "poetry-0211-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bnuFRiQDYIM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

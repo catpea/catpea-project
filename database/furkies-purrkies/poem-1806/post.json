@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1806",
+  "guid": "3a0c710c-2c66-40de-8354-1714590db3b9",
+  "title": "How To Make Your Workout More Effective Without Making It More Difficult",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-10T06:22:44.661Z",
+  "lastmod": null,
+  "weight": 180600,
+  "audio": "poem-1806.mp3",
+  "image": "poem-1806-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

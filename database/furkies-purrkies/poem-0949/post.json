@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0949",
+  "guid": "f163e174-2554-453e-8621-3ae7e2b7f0d2",
+  "title": "The Great Halloween Challenge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-06T02:37:09.458Z",
+  "lastmod": null,
+  "weight": 94900,
+  "audio": "poem-0949.mp3",
+  "image": "poem-0949-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/girl-in-red-mask-wearing-boxing-gloves-6195483/"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

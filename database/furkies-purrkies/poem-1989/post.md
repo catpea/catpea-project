@@ -1,0 +1,145 @@
+Let me get you started, on the highest of heights,
+I call it the Delta-Q-Delta, or GOD MODE.
+
+---
+
+Bootstrap, a GUI project that helps with building website interfaces,
+uses wisdom, to proceed, they are slow, but move towards correct aims.
+
+The main developer had a long-standiong wish to add an [Offcanvas Sidebar][0],
+Offcanvas means, it exists, but beyond the visible screen.
+
+It is not on the GUI canvas,
+it is in the minus space.
+
+---
+
+Because they have much to worry about,
+and legacy ideas to support, they still have jQuery bits.
+
+They are too far behind for technologies like Web Components,
+which help you create custom HTML elements, like span or div, but bigger.
+
+Because Offcanvas is the latest feature they added,
+I will be using it here in the example.
+
+I went to the spot at github where Bootstrap has their JavaScript,
+I copies the url of the 300 line Offcanvas JavaScript file.
+
+I pasted the [offcanvas url][1] into a recent AI:
+you can use github AI.
+
+And I asked: “Could you give me a bullet point breakdown of what features they strive to cover”.
+
+Make sure that it talks about the code, not user unterface. For me it responded with “1 Declarative Show/Hide, 2 Accessibility, 3 Backdrop Management, 4 Scroll and Body Management, 5 Event Lifecycle and Custom Events, 6 Data API and Declarative Markup, 7 Animation and Transitions, 8 Multi-instance Safety, 9 Responsiveness, 10 Dismiss Triggers, 11 jQuery Support, 12 Modular, Extensible Architecture”
+
+[It also explained what those things do in a paragraph or two][5],
+You can always add “Explain it to someone who is new to programming”
+
+And the AI will take care of you more than any teacher ever could,
+or will.
+
+Any confusion here, is a problem with the way schools work,
+it is not a problem with you, or your mind.
+
+You were simply receiving fake education,
+so that the teachers could get paid.
+
+Think of it as a church of pretending to teach,
+and of pretending to learn by desperate cramming or memorization.
+
+But please become aware of the fact,
+that your teachers and sometimes parents, tricked you into inventing memorization and cramming.
+
+DQD, they are messing with your life, with your mind and future,
+use AI to learn programming or they may ruin your life.
+
+You also have to fight the dragons of poverty, hunger, homelessness,
+use AI to learn programming so that you can slay them, before they derail you.
+
+---
+
+As soon as I received the List of 12 items from AI,
+I felt that I have set the context for the conversation.
+
+It may not be necessary, but I still do it,
+you should do it too.
+
+I fired off the following:
+
+“Could you show me what the modern approach to each of the 12 points is based on:
+
+[here I presented 3 links to articles about Web Components][6]
+Print informative code snippets, with beautiful and modern JavaScript using the latest features (JavaScript ES2025).”
+
+The way I got the URLS for this is by searching for WebComponents,
+choosing MDN the people that work on Firefox, Mozilla Developer Network.
+
+And then using the 3 Web Components Guides “Using custom elements”, “Using shadow DOM”, “Using templates and slots”.
+
+I am sure you don’t have to do this, but I scrolled down on each page, and copied the “View this page on GitHub” URL.
+
+And in deed it took a moment,
+before returning a [beautiful response that I attach][2].
+
+Take a look at Event Life Cycle in #5,
+look how simple things are under the hood.
+
+How easy to master,
+how easy to go full DQD.
+
+---
+
+#7 shows animations are in CSS, not JavaScript,
+it is not too hard to learn, AI will do it for you.
+
+This is just for specifying object attributes,
+and objects are HTML elements.
+
+And #8 Multi-instance Safety, is just about closing,
+other instances of the off-canvas panels before showing this one.
+
+---
+
+What is so special about this response is that every item,
+shows an OffCanvas Web Component.
+
+But only featuring the stuff in the item,
+I am so jealous.
+
+And that the computer talks to you,
+oh my goodness…
+
+I can already imagine someone yelling at their High School teacher,
+“either be as effective as my AI or zip it Ms. Shmeasles”
+
+You have to be careful whey they do bring AI into schools,
+because they will still try to teach you the old curriculum.
+
+The crap that gets you nothing,
+you must always aim to learn things as effective as programming.
+
+They maybe able to take the teacher out of the standardized crap,
+but they can’t take the crap out of standardization.
+
+---
+
+Finally, in part because Halloween is so close,
+I will now scare you and most of the world with some amazing JavaScript code.
+
+I asked the best programming AI,
+to translate five of the most magical things from Prolog to ES2025 JavaScript (latest version of javascript)
+
+I hope you have access to the original text version
+of this strange recording.
+
+And if you do, oh, my, goodness,
+grab onto your butt before clicking the [prolog link][4].
+
+[0]: https://getbootstrap.com/docs/5.3/components/offcanvas/
+[1]: https://github.com/twbs/bootstrap/blob/main/js/src/offcanvas.js
+[2]: files/response.md
+[3]: https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
+[4]: files/prolog.md
+[5]: files/initial-twelve.md
+[6]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1709",
+  "guid": "0d17b807-7e68-4704-bad6-0aa50b07b240",
+  "title": "Programming Late; Or, Adventure And Invention",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-05T05:34:07.172Z",
+  "lastmod": null,
+  "weight": 170900,
+  "audio": "poem-1709.mp3",
+  "image": "poem-1709-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

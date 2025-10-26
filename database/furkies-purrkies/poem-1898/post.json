@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1898",
+  "guid": "33e74db9-e9c0-4c17-8a14-b16c97a5f43c",
+  "title": "Bitten By A Mosquito Already? That May Be An Indication Of A Serious Condition!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-12T23:01:59.970Z",
+  "lastmod": null,
+  "weight": 189800,
+  "audio": "poem-1898.mp3",
+  "image": "poem-1898-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

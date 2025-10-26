@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0249",
+  "guid": "15c677e7-d62d-4787-9d2d-cb487da3956d",
+  "title": "You Have No Limits",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-05T04:37:58.643Z",
+  "lastmod": null,
+  "weight": 24900,
+  "audio": "poetry-0249.mp3",
+  "image": "poetry-0249-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/M5xVtIv1Lo8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

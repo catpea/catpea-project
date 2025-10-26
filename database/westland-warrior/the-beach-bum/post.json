@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-beach-bum",
+  "guid": "778308de-5872-4b9a-b537-ede7d02948c0",
+  "title": "The Beach Bum",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-12-12T16:29:48.891Z",
+  "lastmod": null,
+  "weight": 11200,
+  "audio": null,
+  "image": "warrior-the-beach-bum-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

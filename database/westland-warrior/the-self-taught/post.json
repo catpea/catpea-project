@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-self-taught",
+  "guid": "96b1db6b-d5f5-4dea-869d-381e24bdae96",
+  "title": "The Self Taught",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-12-21T02:11:48.000Z",
+  "lastmod": null,
+  "weight": 17000,
+  "audio": null,
+  "image": "warrior-the-self-taught-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

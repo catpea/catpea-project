@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1680",
+  "guid": "4c5c6366-e084-4824-8452-af6a56f302dc",
+  "title": "Your Sacred Journeys",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-07T00:24:23.472Z",
+  "lastmod": null,
+  "weight": 168000,
+  "audio": "poem-1680.mp3",
+  "image": "poem-1680-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

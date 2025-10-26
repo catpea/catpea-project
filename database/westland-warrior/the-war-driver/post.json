@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-war-driver",
+  "guid": "32b4f52f-5fb0-4fc4-aaa2-74db49b1d41e",
+  "title": "The War Driver",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-07-09T22:14:25.118Z",
+  "lastmod": null,
+  "weight": 14910,
+  "audio": null,
+  "image": "the-war-driver-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

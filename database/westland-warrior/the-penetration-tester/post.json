@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-penetration-tester",
+  "guid": "743a00dc-6ed7-42d8-9464-778b12d252b2",
+  "title": "The Penetration Tester",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-04-30T18:07:59.044Z",
+  "lastmod": null,
+  "weight": 16210,
+  "audio": null,
+  "image": "the-penetration-tester-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

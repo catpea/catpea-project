@@ -1,0 +1,23 @@
+{
+  "features": {},
+  "id": "poem-0827",
+  "guid": "79d6da58-b394-4c54-86a4-2d2c9bf5c346",
+  "title": "Fancy Little Pendants",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-06T01:16:04.922Z",
+  "lastmod": null,
+  "weight": 82700,
+  "audio": "poetry-0827.mp3",
+  "image": "poetry-0827-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://www.clevelandart.org/art/1955.375#"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

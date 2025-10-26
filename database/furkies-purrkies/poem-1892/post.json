@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1892",
+  "guid": "0e812cd3-ff8d-4fe6-a129-cffba254206e",
+  "title": "Transcendence; Or, Philosophy In Not Optional, And Neither Is Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-07T00:11:18.264Z",
+  "lastmod": null,
+  "weight": 189200,
+  "audio": "poem-1892.mp3",
+  "image": "poem-1892-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/people-walking-on-dirt-road-between-trees-during-daytime-uTEUQ2b5iI4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

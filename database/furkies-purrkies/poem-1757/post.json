@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1757",
+  "guid": "2d9cd98e-ce9f-4a83-b268-75de3a9f4467",
+  "title": "You Will Find No Tribe, Other Than The State Of Gibberish",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-22T23:47:52.320Z",
+  "lastmod": null,
+  "weight": 175700,
+  "audio": "poem-1757.mp3",
+  "image": "poem-1757-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

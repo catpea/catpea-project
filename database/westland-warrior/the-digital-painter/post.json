@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-digital-painter",
+  "guid": "1669cd4d-3d69-4ac8-83bd-ef8590e99523",
+  "title": "The Digital Painter",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-01-16T17:05:49.860Z",
+  "lastmod": null,
+  "weight": 13000,
+  "audio": null,
+  "image": "warrior-the-digital-painter-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

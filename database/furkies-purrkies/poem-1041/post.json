@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1041",
+  "guid": "c13e2d54-1564-46a0-b254-12ea1313d0bd",
+  "title": "Become An Artist Right This Moment; Or, Inspiration, Shape, Color, Canvas, And Meaning Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-06T01:15:59.706Z",
+  "lastmod": null,
+  "weight": 104100,
+  "audio": "poem-1041.mp3",
+  "image": "poem-1041-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ZpKVTa5szWA"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0450",
+  "guid": "f83459c0-8320-49cc-9cbc-b425e901643a",
+  "title": "Dr. Fancy Pants: No Expedition Too Small",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-25T02:56:32.504Z",
+  "lastmod": null,
+  "weight": 45000,
+  "audio": "poetry-0450.mp3",
+  "image": "poetry-0450-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iQRKBNKyRpo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1640",
+  "guid": "a63f43e3-5ebe-4b39-b90f-27f13b5e30d6",
+  "title": "Fitness Is Sacred, Fitness Is Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-28T03:30:38.091Z",
+  "lastmod": null,
+  "weight": 164000,
+  "audio": "poem-1640.mp3",
+  "image": "poem-1640-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

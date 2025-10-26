@@ -1,0 +1,83 @@
+[Running “Hello World!” in 10 VISUAL Programming Languages!](https://www.youtube.com/watch?v=PkmX4iMQ5lo "Play Video")
+
+[Visual History Of Visual Programming Languages](https://www.youtube.com/watch?v=mdYfFDJCDHc "Play Video")
+
+[Codeless Game Engines -- Engines with Visual Programming Languages](https://www.youtube.com/watch?v=-vo7jTQE7dc "Play Video")
+
+[PennApps Hackathon - Flowbased Programming Tech Talk](https://www.youtube.com/watch?v=3oaelUXh7sE "Play Video")
+
+[The origins of Flow Based Programming with J Paul Morrison](https://www.youtube.com/watch?v=up2yhNTsaDs "Play Video")
+
+[PolyConf 14: Flow-Based Programming for JavaScript / Henri Bergius](https://www.youtube.com/watch?v=hot_0Kn-xJE "Play Video")
+
+[Dataflow Programming](https://www.youtube.com/watch?v=aPh4Z3SioB8 "Play Video")
+
+### Blender Nodes
+
+[What are Geometry Nodes?](https://www.youtube.com/watch?v=kMDB7c0ZiKA "Play Video")
+
+[Curves - Geometry Nodes for Beginners](https://www.youtube.com/watch?v=U0-hAieXz68 "Play Video")
+
+[Intro to Simulation Nodes - Geometry Nodes Tutorial](https://www.youtube.com/watch?v=gMOgB7Ds3ZI "Play Video")
+
+[Blender Volumes Are Kinda Crazy](https://www.youtube.com/watch?v=0faTUXpphos "Play Video")
+
+[Everything New in Blender 3.5 - Updates for Modeling, UVs, Sculpting, Nodes, Physics, and more!](https://www.youtube.com/watch?v=cJuhR8aReq4 "Play Video")
+
+[Every Node in Blender Geometry Nodes | Geometry pt.1](https://www.youtube.com/watch?v=t3gm0aWJgMA "Play Video")
+
+[Every Node in Geometry Nodes pt.2 | Blender 3.5](https://www.youtube.com/watch?v=p8H8hzW_iz4 "Play Video")
+
+[EVERY Node in Geometry Nodes pt.3 | Blender 3.6](https://www.youtube.com/watch?v=_GOD1F-hWRM&t=12s "Play Video")
+
+[Geometry Nodes "Fields" 1st Look Blender 3D Tutorial](https://www.youtube.com/watch?v=Llkf_pFr550&list=PLpJWHl1fB7BG5YiW1sV9smJLdzlxKLCw1 "Play Video")
+
+### Unity VPL
+
+[Introducing Bolt: Unity's new visual scripting tool | Unite Now 2020](https://www.youtube.com/watch?v=DtbyC1OBpFg "Play Video")
+
+[How to Make a Game with Visual Scripting (E01) - Getting Started - Unity 2021 Tutorial (Bolt)](https://www.youtube.com/watch?v=KcAu65n3idI "Play Video")
+
+[How to Make a Game with Visual Scripting (E02) - Gameplay Loop - Unity 2021 Tutorial (Bolt)](https://www.youtube.com/watch?v=Ani-xBl5DNs "Play Video")
+
+[How to Make a Game with Visual Scripting (E03) - UI & LEVELS - Unity 2021 Tutorial (Bolt)](https://www.youtube.com/watch?v=pl3_Oj3xq-0 "Play Video")
+
+[How to Make a Game with Visual Scripting (E04) - Cutscene Animation - Unity 2021 Tutorial (Bolt)](https://www.youtube.com/watch?v=c9B5W2heiWE "Play Video")
+
+[How to Make a Game with Visual Scripting (E05) - Coin Shop - Unity 2021 Tutorial (Bolt)](https://www.youtube.com/watch?v=5XVvwPYuUCc "Play Video")
+
+### Node-RED (Recommended)
+
+[Introduction - Node-RED Essentials](https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6 "Play Video")
+
+[Editor Components - Node-RED Essentials](https://www.youtube.com/watch?v=veiNb6Y0ERg "Play Video")
+
+[Creating a flow - Node-RED Essentials](https://www.youtube.com/watch?v=46Ak61c_ymc "Play Video")
+
+### NoFlo (Example Of UI)
+
+[The origins of NoFlo, Interview with it’s Creator](https://www.youtube.com/watch?v=YJHT2vARAOQ "Play Video")
+
+[Overview of How to Use NoFlo - Node.js Meetup](https://www.youtube.com/watch?v=x_nhh3yg-Cs "Play Video")
+
+### Blockie (Example Of UI)
+
+[Visual flow based programming and debugging using Blockie.io](https://www.youtube.com/watch?v=c9b3fusGUFU "Play Video")
+
+[Flow-based programming and parallel multithreaded execution of a map function using Blockie.io (1/2)](https://www.youtube.com/watch?v=QhaPpzee5lk "Play Video")
+
+[Flow-based programming and parallel distributed execution of a map function using Blockie.io (2/2)](https://www.youtube.com/watch?v=XnScEeM9JPA "Play Video")
+
+### Finale
+
+[Bill Atkinson: Hypercard](https://www.youtube.com/watch?v=bdJKjBHCh18 "Play Video")
+
+[The Computer Chronicles - Hypercard (1987)](https://www.youtube.com/watch?v=FquNpWdf9vg "Play Video")
+
+[The Computer Chronicles - Visual Programming Languages (1993)](https://www.youtube.com/watch?v=AEkweKSdnHM "Play Video")
+
+[Programming's Greatest Hits from the 60s and 70s](https://www.youtube.com/watch?v=grOC9JixZyQ "Play Video")
+
+[Flow Based Programming - I shouldn't write new languages ❤️](https://www.youtube.com/watch?v=wlna48I2aIE "Play Video")
+
+[10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs "Play Video")

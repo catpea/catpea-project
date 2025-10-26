@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1038",
+  "guid": "a1d99c10-2b33-442d-9ce3-f38dbb001d8b",
+  "title": "Ad Astra; Or, Can The World Unite?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-03T04:01:45.462Z",
+  "lastmod": null,
+  "weight": 103800,
+  "audio": "poem-1038.mp3",
+  "image": "poem-1038-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/DALL-E"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1164",
+  "guid": "2d188116-caac-47f1-aba9-a63fb77dd46f",
+  "title": "Michigan Bug Report",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-10T03:22:14.128Z",
+  "lastmod": null,
+  "weight": 116400,
+  "audio": "poem-1164.mp3",
+  "image": "poem-1164-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/M9FRjjH-eqk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

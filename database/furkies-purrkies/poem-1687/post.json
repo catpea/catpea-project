@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1687",
+  "guid": "89f2ae8b-3931-42c8-8e7e-4046a0bb3375",
+  "title": "Are Your Programmers Even Programming?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-14T03:46:03.470Z",
+  "lastmod": null,
+  "weight": 168700,
+  "audio": "poem-1687.mp3",
+  "image": "poem-1687-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1881",
+  "guid": "0787ca87-44ff-476c-8024-5ebd9ce0ceef",
+  "title": "From The Ghost Of A Man Who Once Raged Against The Dying Of The Light",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-26T01:37:19.305Z",
+  "lastmod": null,
+  "weight": 188100,
+  "audio": "poem-1881.mp3",
+  "image": "poem-1881-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0845",
+  "guid": "d2b9ab60-43d3-4a63-95c6-4b72a3b34aac",
+  "title": "A Weird Poem About Visual Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-23T22:09:28.846Z",
+  "lastmod": null,
+  "weight": 84500,
+  "audio": "poetry-0845.mp3",
+  "image": "poetry-0845-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

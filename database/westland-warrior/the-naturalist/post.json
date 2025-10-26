@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-naturalist",
+  "guid": "39c5c7d3-b1c8-4334-ada4-4801c69e138a",
+  "title": "The Naturalist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-08-14T01:21:12.429Z",
+  "lastmod": null,
+  "weight": 2500,
+  "audio": null,
+  "image": "warrior-the-naturalist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0306",
+  "guid": "c3bf306b-8b1f-481b-90df-8c7b808d65b0",
+  "title": "Foresight",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-01T03:16:26.149Z",
+  "lastmod": null,
+  "weight": 30600,
+  "audio": "poetry-0306.mp3",
+  "image": "poetry-0306-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/y421kXlUOQk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

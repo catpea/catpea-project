@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1214",
+  "guid": "2ab0447c-7919-410e-b28c-4ea53cb89ae2",
+  "title": "Computer Programming For All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-29T03:29:42.791Z",
+  "lastmod": null,
+  "weight": 121400,
+  "audio": "poem-1214.mp3",
+  "image": "poem-1214-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/D_VjFp1ds1Y"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

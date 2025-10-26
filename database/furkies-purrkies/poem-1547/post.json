@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1547",
+  "guid": "1a96b370-b1ee-4beb-b67c-ca7d6138fc48",
+  "title": "Most People Are Going To Be Wrong About Most Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-27T04:17:51.638Z",
+  "lastmod": null,
+  "weight": 154700,
+  "audio": "poem-1547.mp3",
+  "image": "poem-1547-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

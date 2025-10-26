@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0247",
+  "guid": "acaa8308-b0bf-44e2-a5af-0e23b22c19fe",
+  "title": "Only Wisdom Helps Humanity Grow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-02T23:23:37.901Z",
+  "lastmod": null,
+  "weight": 24700,
+  "audio": "poetry-0247.mp3",
+  "image": "poetry-0247-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/yEauzeZU6xo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

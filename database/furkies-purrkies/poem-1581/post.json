@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1581",
+  "guid": "1d6f0280-f79e-425c-9dda-362bac437086",
+  "title": "Michigan Under Attack By Extra Itchy Mosquitoes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-30T03:19:47.637Z",
+  "lastmod": null,
+  "weight": 158100,
+  "audio": "poem-1581.mp3",
+  "image": "poem-1581-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

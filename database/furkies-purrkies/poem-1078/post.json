@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1078",
+  "guid": "13af831c-331d-4d23-b0be-85279ab89951",
+  "title": "Learn Programming Today; Because After Generative Art, Comes Your Generative Software",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-12T03:58:53.170Z",
+  "lastmod": null,
+  "weight": 107800,
+  "audio": "poem-1078.mp3",
+  "image": "poem-1078-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0433",
+  "guid": "74bd5f8b-0490-4417-b207-6125c563c6c7",
+  "title": "Of The Salamander And The Duck: The Elves In Ourselves",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-08T03:13:10.947Z",
+  "lastmod": null,
+  "weight": 43300,
+  "audio": "poetry-0433.mp3",
+  "image": "poetry-0433-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/l2PXNM9mBPg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

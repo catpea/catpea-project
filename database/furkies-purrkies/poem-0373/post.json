@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0373",
+  "guid": "7b1b5c9b-9ab7-4c54-aa75-8edf49d58a0d",
+  "title": "To Venus And Back: A Fanciful Flight Of Fancy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-08T22:59:48.256Z",
+  "lastmod": null,
+  "weight": 37300,
+  "audio": "poetry-0373.mp3",
+  "image": "poetry-0373-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KHD_FA43aMw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

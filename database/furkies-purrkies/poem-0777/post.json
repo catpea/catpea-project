@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0777",
+  "guid": "3306d137-6a78-4fad-b213-83c41ea755c3",
+  "title": "The Right Angle: The Biggest Problem In Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-16T19:42:57.819Z",
+  "lastmod": null,
+  "weight": 77700,
+  "audio": "poetry-0777.mp3",
+  "image": "poetry-0777-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

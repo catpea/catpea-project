@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0893",
+  "guid": "a26519a9-4ccc-4bfa-b05f-9b327888a2e2",
+  "title": "Color In Moderation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-11T02:09:24.326Z",
+  "lastmod": null,
+  "weight": 89300,
+  "audio": "poetry-0893.mp3",
+  "image": "poetry-0893-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

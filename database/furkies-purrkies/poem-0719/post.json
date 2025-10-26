@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0719",
+  "guid": "ae8b73a5-3ef5-4f91-a5bd-606cec247bf7",
+  "title": "True Colors",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-18T02:07:56.201Z",
+  "lastmod": null,
+  "weight": 71900,
+  "audio": "poetry-0719.mp3",
+  "image": "poetry-0719-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0633",
+  "guid": "6eb0b159-f77f-4bc6-a7d1-c013363d8efe",
+  "title": "On Understanding Divisions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-24T00:08:23.850Z",
+  "lastmod": null,
+  "weight": 63300,
+  "audio": "poetry-0633.mp3",
+  "image": "poetry-0633-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/PDRFeeDniCk"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

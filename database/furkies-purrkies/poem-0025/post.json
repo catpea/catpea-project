@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0025",
+  "guid": "20ab20e2-9ed9-422c-9af4-5ba6a3c0faeb",
+  "title": "The Ballad of Meow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-06T03:23:24.501Z",
+  "lastmod": null,
+  "weight": 2500,
+  "audio": null,
+  "image": "poetry-0025-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

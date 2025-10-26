@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1532",
+  "guid": "a8df1ecb-f614-4b04-8db7-4f6ff431589b",
+  "title": "What’s Holding Humanity Back?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-12T02:38:53.502Z",
+  "lastmod": null,
+  "weight": 153200,
+  "audio": "poem-1532.mp3",
+  "image": "poem-1532-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

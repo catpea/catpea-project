@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0776",
+  "guid": "a9345606-9d7d-441a-a08d-550dae28299b",
+  "title": "Your Art Journals Are Precious",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-16T01:18:56.613Z",
+  "lastmod": null,
+  "weight": 77600,
+  "audio": "poetry-0776.mp3",
+  "image": "poetry-0776-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-lFc4qPOyfY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

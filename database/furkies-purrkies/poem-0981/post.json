@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0981",
+  "guid": "ab3365b3-b15a-45d8-b312-e56248cdaa17",
+  "title": "Potatoes; Or, The Biggest Problem In Application Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-06T23:19:53.340Z",
+  "lastmod": null,
+  "weight": 98100,
+  "audio": "poem-0981.mp3",
+  "image": "poem-0981-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Kl4NIz8FeVc"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

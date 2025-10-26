@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0679",
+  "guid": "78aa5309-8e6c-4776-9ca8-7a0d3e889794",
+  "title": "If You Can Hit It With Something, It Is A Drum",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-09T00:02:25.215Z",
+  "lastmod": null,
+  "weight": 67900,
+  "audio": "poetry-0679.mp3",
+  "image": "poetry-0679-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/G5yz9X4DkGs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

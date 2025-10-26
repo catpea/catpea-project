@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1190",
+  "guid": "36901fc9-91e6-4458-ab15-65eb935fec3f",
+  "title": "How Engineering Failure Was The Only Way All Along",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-05T00:13:11.881Z",
+  "lastmod": null,
+  "weight": 119000,
+  "audio": "poem-1190.mp3",
+  "image": "poem-1190-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-gxW3aq6onU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

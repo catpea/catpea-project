@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0865",
+  "guid": "36ddf327-edd0-45a6-a15f-d1772ad8c7a3",
+  "title": "Little Stories From Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-14T00:05:39.111Z",
+  "lastmod": null,
+  "weight": 86500,
+  "audio": "poetry-0865.mp3",
+  "image": "poetry-0865-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

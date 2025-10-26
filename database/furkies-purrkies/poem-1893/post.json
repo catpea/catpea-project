@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1893",
+  "guid": "42081c6f-1a98-4c02-818b-dcf340ae49f5",
+  "title": "44 Days Until Summer, Gyms Are Getting Warmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-08T00:55:20.785Z",
+  "lastmod": null,
+  "weight": 189300,
+  "audio": "poem-1893.mp3",
+  "image": "poem-1893-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1036",
+  "guid": "4c79192d-c048-4dde-858c-513e51455cc8",
+  "title": "How To Become Smart? Or, Don't Get Tricked Into Thinking That You Are Not Smart",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-01T02:57:09.608Z",
+  "lastmod": null,
+  "weight": 103600,
+  "audio": "poem-1036.mp3",
+  "image": "poem-1036-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/mEJDcUKMl9w"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

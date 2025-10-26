@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-philosopher",
+  "guid": "4b210d3e-41a9-45a1-9ca5-7ddf61a36e13",
+  "title": "The Philosopher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-07-24T02:14:47.914Z",
+  "lastmod": null,
+  "weight": 1900,
+  "audio": null,
+  "image": "warrior-the-philosopher-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

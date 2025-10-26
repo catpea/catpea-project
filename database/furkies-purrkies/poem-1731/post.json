@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1731",
+  "guid": "f4a7767d-aafd-4e05-9398-9f9b350917ed",
+  "title": "Bodybuilding For Babies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-27T05:36:19.215Z",
+  "lastmod": null,
+  "weight": 173100,
+  "audio": "poem-1731.mp3",
+  "image": "poem-1731-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

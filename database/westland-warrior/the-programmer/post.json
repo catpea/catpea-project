@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-programmer",
+  "guid": "7efd7a09-5e73-4dff-851e-799a3338ecf6",
+  "title": "The Programmer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-02-12T02:30:12.403Z",
+  "lastmod": null,
+  "weight": 15400,
+  "audio": null,
+  "image": "warrior-the-programmer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

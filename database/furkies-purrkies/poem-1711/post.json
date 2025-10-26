@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1711",
+  "guid": "f998e253-f35c-4c37-a231-fa3633257b67",
+  "title": "The True Gift",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-07T04:46:34.550Z",
+  "lastmod": null,
+  "weight": 171100,
+  "audio": "poem-1711.mp3",
+  "image": "poem-1711-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

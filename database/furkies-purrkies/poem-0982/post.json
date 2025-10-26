@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0982",
+  "guid": "faa9b086-6b76-4e40-b88d-3cdf543b4a7b",
+  "title": "Programming For Your Users, Yourself, And The Older You; Or Writing Valuable, Maintainable, And Non Crazy Code",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-08T04:05:09.980Z",
+  "lastmod": null,
+  "weight": 98200,
+  "audio": "poem-0982.mp3",
+  "image": "poem-0982-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/oL3O2PybLoo"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

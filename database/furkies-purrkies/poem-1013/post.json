@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1013",
+  "guid": "dea51768-65ac-42ce-a6b8-19cebe16412c",
+  "title": "Endurance And Such",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-09T04:15:40.710Z",
+  "lastmod": null,
+  "weight": 101300,
+  "audio": "poem-1013.mp3",
+  "image": "poem-1013-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/mMzVTy2V1Do"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

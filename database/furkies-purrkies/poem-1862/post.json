@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1862",
+  "guid": "9ee80fce-bc1d-463a-b326-b6f20e4c695a",
+  "title": "You Are Royalty; Or, Your Extended Family",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-07T00:38:28.262Z",
+  "lastmod": null,
+  "weight": 186200,
+  "audio": "poem-1862.mp3",
+  "image": "poem-1862-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

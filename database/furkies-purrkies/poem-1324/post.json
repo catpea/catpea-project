@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1324",
+  "guid": "05de452f-308d-486d-bdeb-3acf553f11cb",
+  "title": "Awakening The Torch of Human Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-17T03:09:25.166Z",
+  "lastmod": null,
+  "weight": 132400,
+  "audio": "poem-1324.mp3",
+  "image": "poem-1324-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KWprYSkl-3w"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

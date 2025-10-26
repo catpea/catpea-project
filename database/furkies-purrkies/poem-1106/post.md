@@ -1,0 +1,65 @@
+Bunch a cool coder cats got together to make a crew,
+and they were going to create something utterly new.
+
+They were all pretty good code hackers,
+and they didn’t need financial backers.
+
+In their might, they started coding in Perl,
+the code was beautiful but made their heads swirl.
+
+They needed something readable that would last,
+and wasn’t going to become a thing of the past.
+
+They jumped on the PHP train as it was function dense,
+skipping over Java, ASP and all the .NET nonsense.
+
+The greed culture behind it all,
+was a nasty wall.
+
+In PHP they wrote real pretty code,
+and the databases would never overload.
+
+And just as everyone looked to Python,
+as the new code on the block that at least seemed fun.
+
+---
+
+Time came for the user interface,
+and this quickly became a new question to face.
+
+---
+
+They didn’t want to pretend
+that it is OK to use different languages for server and front end.
+
+With their reference implementation nearly complete,
+they were gonna have gnarly deadlines to beat.
+
+Eventually, they wrote their first full release,
+in JavaScript and with great ease.
+
+The EventEmitter made the code perfect and uniform.
+And made them feel all fuzzy warm.
+
+One language for server and UI,
+made the whole code-base as clear as blue sky.
+
+---
+
+Their big idea, was the first world-wide open school,
+and it quickly became the world’s most beloved tool.
+
+No threats of being held back, no stupid fake grades,
+there was no room here for incompetence or charades.
+
+Students created programs, games, music and art for sale,
+not a single student here could possibly fail.
+
+They were learning within proper context and real world aim,
+all knowing that Knowledge and Wisdom is no game.
+
+Graduation was marked by real world student success,
+not a piece of paper with a brand to impress.
+
+They learned for as long as they needed to,
+all thanks to our farseeing fancy programming crew.

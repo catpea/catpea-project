@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1693",
+  "guid": "6a88e856-e16c-4c1a-82a4-980e20ee34fc",
+  "title": "The End Of Obesity: No, You Didn’t Pick The Appalachian Trail, But It Sure As Sunshine Picked You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-20T03:52:52.234Z",
+  "lastmod": null,
+  "weight": 169300,
+  "audio": "poem-1693.mp3",
+  "image": "poem-1693-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

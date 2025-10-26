@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1915",
+  "guid": "5bf226da-3912-4f8c-96b2-a02c18bf856a",
+  "title": "Genius! Or, The Dunces Can Easily Help Themselves, But Geniuses Are Very Nearly Beyond All Hope",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-30T00:14:46.020Z",
+  "lastmod": null,
+  "weight": 191500,
+  "audio": "poem-1915.mp3",
+  "image": "poem-1915-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

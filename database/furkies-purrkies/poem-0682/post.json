@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0682",
+  "guid": "de3017c7-19f6-4c6b-a666-6e0a242e2177",
+  "title": "Running On Ice, Just Isn't Very Nice",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-12T03:35:48.352Z",
+  "lastmod": null,
+  "weight": 68200,
+  "audio": "poetry-0682.mp3",
+  "image": "poetry-0682-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EtBmBMobZac"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

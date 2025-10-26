@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1896",
+  "guid": "6819f802-8be5-4da6-a8be-5ab08145cf83",
+  "title": "Addressing Limitations Of Standardized Education And Traditional Schools",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-11T01:29:27.813Z",
+  "lastmod": null,
+  "weight": 189600,
+  "audio": "poem-1896.mp3",
+  "image": "poem-1896-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/people-sitting-on-chairs-inside-building-0HJWobhGhJs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

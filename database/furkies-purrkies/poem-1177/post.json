@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1177",
+  "guid": "6a08346c-5c30-454f-bd36-f5fbb1ea5332",
+  "title": "Of The Dance Around The Constellation Of Your Curiosities",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-23T02:49:15.554Z",
+  "lastmod": null,
+  "weight": 117700,
+  "audio": "poem-1177.mp3",
+  "image": "poem-1177-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WDZpfYmJY-0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

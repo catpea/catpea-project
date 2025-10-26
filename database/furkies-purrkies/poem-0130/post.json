@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0130",
+  "guid": "e7ed495d-1aa7-48b1-ab11-6011a16b1d3f",
+  "title": "Learn and Teach",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-07-08T03:39:10.941Z",
+  "lastmod": null,
+  "weight": 13000,
+  "audio": "poetry-0130.mp3",
+  "image": "poetry-0130-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

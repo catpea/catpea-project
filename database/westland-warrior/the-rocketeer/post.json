@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-rocketeer",
+  "guid": "c63693ea-1a4f-41c8-a96d-379462659b97",
+  "title": "The Rocketeer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-10-12T03:55:55.000Z",
+  "lastmod": null,
+  "weight": 8600,
+  "audio": null,
+  "image": "warrior-the-rocketeer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

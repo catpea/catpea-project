@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1636",
+  "guid": "345afe80-a931-401f-bf24-7a67564bb118",
+  "title": "Gentile Dedys",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-24T04:31:53.007Z",
+  "lastmod": null,
+  "weight": 163600,
+  "audio": "poem-1636.mp3",
+  "image": "poem-1636-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

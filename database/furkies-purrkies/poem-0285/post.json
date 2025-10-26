@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0285",
+  "guid": "063521cc-f847-4557-be48-0b6a402c6c1d",
+  "title": "All The World's Nations",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-11T01:53:53.358Z",
+  "lastmod": null,
+  "weight": 28500,
+  "audio": "poetry-0285.mp3",
+  "image": "poetry-0285-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UK78i6vK3sc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

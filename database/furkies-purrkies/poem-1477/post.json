@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1477",
+  "guid": "14b10292-221c-41ba-b2c4-510631bc4101",
+  "title": "The Birds Are Camping Out In Ohio Again; Or, The Fifth Michigan Winter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-18T04:30:24.003Z",
+  "lastmod": null,
+  "weight": 147700,
+  "audio": "poem-1477.mp3",
+  "image": "poem-1477-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

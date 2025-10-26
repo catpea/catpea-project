@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1390",
+  "guid": "5ae10c22-0c12-4ecb-a82a-3d83d166e657",
+  "title": "The Tiny Little Workout",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-22T04:23:27.455Z",
+  "lastmod": null,
+  "weight": 139000,
+  "audio": "poem-1390.mp3",
+  "image": "poem-1390-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

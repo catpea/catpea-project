@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1121",
+  "guid": "01b5c0cd-ff56-42d2-be8b-ea27651cc0b7",
+  "title": "The Human Super-Culture Of Greatness At A Glance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-28T03:11:14.785Z",
+  "lastmod": null,
+  "weight": 112100,
+  "audio": "poem-1121.mp3",
+  "image": "poem-1121-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CLjfYycHgGc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

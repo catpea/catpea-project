@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0600",
+  "guid": "1ec45f14-b143-452a-8ee3-55f50342f529",
+  "title": "World Building",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-21T20:49:31.101Z",
+  "lastmod": null,
+  "weight": 60000,
+  "audio": "poetry-0600.mp3",
+  "image": "poetry-0600-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

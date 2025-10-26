@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1196",
+  "guid": "318ee9f1-2d2f-491f-8367-13397513e8de",
+  "title": "Of The Ladders And Measuring Sticks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-11T03:08:09.764Z",
+  "lastmod": null,
+  "weight": 119600,
+  "audio": "poem-1196.mp3",
+  "image": "poem-1196-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IRU-trVstrI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

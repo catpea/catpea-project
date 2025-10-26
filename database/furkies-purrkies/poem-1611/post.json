@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1611",
+  "guid": "d9c4cc87-11cb-42d5-b6ec-e07cd5b19fd2",
+  "title": "Above The Common Levels Of Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-30T01:26:41.015Z",
+  "lastmod": null,
+  "weight": 161100,
+  "audio": "poem-1611.mp3",
+  "image": "poem-1611-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

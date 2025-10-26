@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-nerd",
+  "guid": "27f9c559-fa21-444c-a804-770289993b1e",
+  "title": "The Nerd",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-06-12T00:35:58.462Z",
+  "lastmod": null,
+  "weight": 14710,
+  "audio": null,
+  "image": "the-nerd-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

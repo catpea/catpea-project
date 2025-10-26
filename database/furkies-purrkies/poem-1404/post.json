@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1404",
+  "guid": "2be4cc0c-19a2-4fba-8465-60c72ca66dc3",
+  "title": "Programming Is Just A Fun Little Game",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-05T05:16:24.910Z",
+  "lastmod": null,
+  "weight": 140400,
+  "audio": "poem-1404.mp3",
+  "image": "poem-1404-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

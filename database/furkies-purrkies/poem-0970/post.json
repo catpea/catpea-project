@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0970",
+  "guid": "00df8a0a-6251-430d-b942-d20ecabcb887",
+  "title": "Code Generation And Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-27T03:08:34.526Z",
+  "lastmod": null,
+  "weight": 97000,
+  "audio": "poem-0970.mp3",
+  "image": "poem-0970-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2002",
+  "guid": "38cfdc80-4e0c-4f0e-b9b7-a74b1cfc436d",
+  "title": "Time Travel And Aliens: A Tiny And Somewhat Reasonable Interview With An AI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-25T00:25:11.207Z",
+  "lastmod": null,
+  "weight": 200200,
+  "audio": "poem-2002.mp3",
+  "image": "poem-2002-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

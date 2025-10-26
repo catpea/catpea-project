@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1336",
+  "guid": "a0bce165-cd3e-4339-b342-098ce4e68ec2",
+  "title": "Cat Owners Beware: Hunter’s Moon May Earn You A Scare",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-29T03:05:52.621Z",
+  "lastmod": null,
+  "weight": 133600,
+  "audio": "poem-1336.mp3",
+  "image": "poem-1336-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

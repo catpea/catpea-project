@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-freedom-fighter",
+  "guid": "ee0a5bdb-32ed-4968-b71a-c6fdbde07e2d",
+  "title": "The Freedom Fighter",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-12-14T03:22:14.000Z",
+  "lastmod": null,
+  "weight": 1700,
+  "audio": null,
+  "image": "warrior-the-freedom-fighter-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

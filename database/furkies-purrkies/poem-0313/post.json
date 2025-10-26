@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0313",
+  "guid": "0d821759-5bf0-42ef-b223-e5fcdb3fda6a",
+  "title": "Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-08T03:24:57.088Z",
+  "lastmod": null,
+  "weight": 31300,
+  "audio": "poetry-0313.mp3",
+  "image": "poetry-0313-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/F8sCVSW4t4E"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

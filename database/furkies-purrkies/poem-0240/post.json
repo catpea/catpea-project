@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0240",
+  "guid": "4a0a6be8-a2ac-4ae6-8aa2-1bd449beee46",
+  "title": "The Century Of The School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-26T22:49:20.174Z",
+  "lastmod": null,
+  "weight": 24000,
+  "audio": "poetry-0240.mp3",
+  "image": "poetry-0240-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Zyx1bK9mqmA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

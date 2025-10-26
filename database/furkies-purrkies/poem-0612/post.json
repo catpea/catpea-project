@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0612",
+  "guid": "9b2f46bb-d63d-4502-9cce-8642b3deb361",
+  "title": "A Poem Of Complaint: The Incredible Curse Of The Freight Train",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-03T00:24:03.371Z",
+  "lastmod": null,
+  "weight": 61200,
+  "audio": "poetry-0612.mp3",
+  "image": "poetry-0612-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8iRPWhHE2c4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

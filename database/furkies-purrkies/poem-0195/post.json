@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0195",
+  "guid": "85a1cf4a-0e31-4a47-949e-e6f499b1b5ac",
+  "title": "World School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-11T22:46:06.349Z",
+  "lastmod": null,
+  "weight": 19500,
+  "audio": "poetry-0195.mp3",
+  "image": "poetry-0195-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

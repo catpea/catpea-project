@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0361",
+  "guid": "88dfeeb6-aeb4-4df7-8366-d3ee4ef2ea8d",
+  "title": "For Contributions To Human Kind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-24T22:25:53.907Z",
+  "lastmod": null,
+  "weight": 36100,
+  "audio": "poetry-0361.mp3",
+  "image": "poetry-0361-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bpGg5wH7d08"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

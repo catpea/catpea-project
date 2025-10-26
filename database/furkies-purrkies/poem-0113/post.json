@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0113",
+  "guid": "3919127a-a211-4a34-94a9-cdf3994feac8",
+  "title": "The Snack Bar",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-20T23:35:09.875Z",
+  "lastmod": null,
+  "weight": 11300,
+  "audio": "poetry-0113.mp3",
+  "image": "poetry-0113-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

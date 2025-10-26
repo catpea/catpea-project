@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1114",
+  "guid": "56d58ba9-137a-4579-bcc8-5ad64702771a",
+  "title": "Humanity Rising; Or, For The World To Bloom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-21T01:38:11.143Z",
+  "lastmod": null,
+  "weight": 111400,
+  "audio": "poem-1114.mp3",
+  "image": "poem-1114-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fwcnv0WRsTY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

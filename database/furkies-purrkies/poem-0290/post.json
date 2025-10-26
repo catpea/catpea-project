@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0290",
+  "guid": "6f9aed47-2e65-4a29-a6cb-3150e1ab65e1",
+  "title": "Living Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-16T02:06:24.973Z",
+  "lastmod": null,
+  "weight": 29000,
+  "audio": "poetry-0290.mp3",
+  "image": "poetry-0290-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Htrhxu_dxD8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

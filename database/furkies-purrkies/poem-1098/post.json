@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1098",
+  "guid": "85f23141-3c4b-437f-acd2-bae5eeeb4088",
+  "title": "Snow Thunder",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-05T03:24:40.137Z",
+  "lastmod": null,
+  "weight": 109800,
+  "audio": "poem-1098.mp3",
+  "image": "poem-1098-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KCO_J9Ix1VI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

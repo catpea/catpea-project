@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1183",
+  "guid": "9d54c8c9-6eb5-4cb4-8814-21787a8f12bc",
+  "title": "Don’t Let The World Stress You Out",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-29T03:15:56.502Z",
+  "lastmod": null,
+  "weight": 118300,
+  "audio": "poem-1183.mp3",
+  "image": "poem-1183-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/The_Death_of_Socrates"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

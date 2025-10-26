@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0627",
+  "guid": "6516f798-cff5-4bd8-bac0-afb23587469f",
+  "title": "A Book Divided: On Truly Understanding Powerful Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-18T02:34:29.086Z",
+  "lastmod": null,
+  "weight": 62700,
+  "audio": "poetry-0627.mp3",
+  "image": "poetry-0627-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HsR2ipKU3BQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

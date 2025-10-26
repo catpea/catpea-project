@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0506",
+  "guid": "19685889-a6e7-449f-a93e-dfb9bddeeb7e",
+  "title": "History and Politics",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-20T02:11:49.488Z",
+  "lastmod": null,
+  "weight": 50600,
+  "audio": "poetry-0506.mp3",
+  "image": "poetry-0506-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/alROYtC8fDw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

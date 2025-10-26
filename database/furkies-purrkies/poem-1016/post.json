@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1016",
+  "guid": "2756f1a5-18b9-4b4b-a177-2c6c4182658d",
+  "title": "My Education Is A Spectacular Disaster",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-11T23:22:12.980Z",
+  "lastmod": null,
+  "weight": 101600,
+  "audio": "poem-1016.mp3",
+  "image": "poem-1016-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Wj1D-qiOseE",
+    "https://unsplash.com/photos/PuxXygVWWkU"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

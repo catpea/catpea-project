@@ -1,0 +1,66 @@
+The moment you start listening to wise books,
+you immediately pull your self above all the fakers.
+
+You get pulled up above a successful politician,
+who spend decades lying an pretending.
+
+---
+
+Learn, become an independent businessperson,
+maybe learn programming, and launch little side-projects.
+
+To get there, you will need to go around ineffective education,
+what we know today as standardized education.
+
+---
+
+Self education and the greater pursuits of excellence,
+promises to transform Humanity into an intellectual culture.
+
+It does not take much for victims of fake education,
+or indoctrination by religious cults or dictatorships to turn on their destroyers.
+
+---
+
+We have the more connected world now,
+that was a big step.
+
+Now we just need to embrace Adventure and Narrated Books,
+the walk about, the legendary challenge, the mythical quest…
+
+Is the oldest way to learn,
+the quest is part of every beloved myth.
+
+The best way to start, is to reject ineffective education,
+to stop pretending to learn, to stop cramming, and chasing good grades.
+
+To begin demanding,
+that you receive a self directed and integrated education, that makes you brilliant.
+
+Standardized education, is a political fantasy,
+it is the invention of the pretenders.
+
+Balanced education,
+is a way to sell your mind out for paychecks.
+
+The reason teachers that do nothing always lie that teaching is hard,
+is because they are scared to get caught.
+
+---
+
+You have to make sure, that your education is like learning programming,
+with every new lesson your program is closer to completion.
+
+If every new lesson just results in more confusion,
+that is done on purpose, to keep you in doubt for long enough to push you out.
+
+Make sure that everything you learn is something you want to learn,
+because if a lesson never calls to you again, than that is just a waste of your time.
+
+---
+
+Ultimately, you are charged with becoming a Great Being,
+living a life you will love yourself for.
+
+And yes, the same thing that makes you cheerful, courageous, inspired,
+also helps the word to advance faster to a safer and wiser future.

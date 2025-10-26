@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0983",
+  "guid": "48b45bf1-09c4-48b1-a7fe-50d1b9525f6b",
+  "title": "Programming Teaches How To Learn For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-09T04:26:24.267Z",
+  "lastmod": null,
+  "weight": 98300,
+  "audio": "poem-0983.mp3",
+  "image": "poem-0983-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/LhqLdDPcSV8"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

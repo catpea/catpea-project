@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0819",
+  "guid": "e3335782-3ebb-4273-a7ed-2f399e258928",
+  "title": "Searching For Something Neat To Write About",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-29T01:23:59.055Z",
+  "lastmod": null,
+  "weight": 81900,
+  "audio": "poetry-0819.mp3",
+  "image": "poetry-0819-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8P_8v-NKDrY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

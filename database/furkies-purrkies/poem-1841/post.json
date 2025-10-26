@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1841",
+  "guid": "437222ba-76f8-48eb-8295-6085f60cc4fa",
+  "title": "Computer Network Programming For Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-17T00:13:11.567Z",
+  "lastmod": null,
+  "weight": 184100,
+  "audio": "poem-1841.mp3",
+  "image": "poem-1841-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

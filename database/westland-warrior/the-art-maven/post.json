@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-art-maven",
+  "guid": "41aa4145-b042-43d3-bc46-c217089776db",
+  "title": "The Art Maven",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-07-25T01:25:28.779Z",
+  "lastmod": null,
+  "weight": 14200,
+  "audio": null,
+  "image": "warrior-the-art-maven-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

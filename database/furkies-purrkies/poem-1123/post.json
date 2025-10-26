@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1123",
+  "guid": "d89f34b1-7ae7-45a9-ac49-b9164889915f",
+  "title": "Simple And Lightweight Code",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-30T03:21:07.857Z",
+  "lastmod": null,
+  "weight": 112300,
+  "audio": "poem-1123.mp3",
+  "image": "poem-1123-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/person-working-remotely-3987066/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

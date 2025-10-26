@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0356",
+  "guid": "9367d4ed-72f3-4bda-b1d8-9bdcd9ee67b4",
+  "title": "A Little Look At Little Melodies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-20T01:20:50.319Z",
+  "lastmod": null,
+  "weight": 35600,
+  "audio": "poetry-0356.mp3",
+  "image": "poetry-0356-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/rM5ZHrQvUCc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1345",
+  "guid": "62c991cf-8d9b-4210-aff1-d79eea3ef49f",
+  "title": "Smartly Bonkers; Or, How To Dress For The Gym And Other Unusual Places",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-07T02:01:14.771Z",
+  "lastmod": null,
+  "weight": 134500,
+  "audio": "poem-1345.mp3",
+  "image": "poem-1345-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

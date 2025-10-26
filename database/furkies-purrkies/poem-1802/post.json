@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1802",
+  "guid": "46ad8ccb-e2cd-44a7-818b-0fd824bdba70",
+  "title": "switchMap? Why Not Restart Observable? - A Tiny Snark Free Jamboree",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-06T04:55:06.446Z",
+  "lastmod": null,
+  "weight": 180200,
+  "audio": "poem-1802.mp3",
+  "image": "poem-1802-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

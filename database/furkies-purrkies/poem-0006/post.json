@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0006",
+  "guid": "e20d7b96-0325-4850-b93d-07877758e65c",
+  "title": "The Man in the Arena by Theodore Roosevelt",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-22T20:14:25.929Z",
+  "lastmod": null,
+  "weight": 600,
+  "audio": null,
+  "image": "poetry-0006-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/D2jfHCj7T-o"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

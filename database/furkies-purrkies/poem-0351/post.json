@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0351",
+  "guid": "fe07000e-f512-4a66-824b-18d288e2ebd7",
+  "title": "You Do Not Need Theory",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-14T18:32:32.843Z",
+  "lastmod": null,
+  "weight": 35100,
+  "audio": "poetry-0351.mp3",
+  "image": "poetry-0351-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/_wa-7a6cvfQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

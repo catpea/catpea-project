@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2043",
+  "guid": "bc5a71fb-3e2c-41eb-918b-ba63a5719add",
+  "title": "Saeculum Obscurum et De Dignitate Hominis (The Dark Ages and the Dignity of Man)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-04T01:29:37.130Z",
+  "lastmod": null,
+  "weight": 204300,
+  "audio": "poem-2043.mp3",
+  "image": "poem-2043-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

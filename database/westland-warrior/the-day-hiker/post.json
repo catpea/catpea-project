@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-day-hiker",
+  "guid": "f260dd98-cab4-42e7-bf88-82d2655fadb3",
+  "title": "The Day Hiker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-07-04T23:16:28.169Z",
+  "lastmod": null,
+  "weight": 3200,
+  "audio": null,
+  "image": "warrior-the-day-hiker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1293",
+  "guid": "acfa9659-439a-4c4a-b93b-e6142db673f3",
+  "title": "The Way Of The Plumpkin; Or, On Communicating With Your Body, And Slowly Getting Into Marvelous Shape",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-16T03:04:10.934Z",
+  "lastmod": null,
+  "weight": 129300,
+  "audio": "poem-1293.mp3",
+  "image": "poem-1293-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/E6qbjeN4maY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

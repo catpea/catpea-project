@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1203",
+  "guid": "c2ef448b-b4a3-4ae9-b4d8-2df08a9ed0a3",
+  "title": "What Is Junk Education?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-18T03:23:52.539Z",
+  "lastmod": null,
+  "weight": 120300,
+  "audio": "poem-1203.mp3",
+  "image": "poem-1203-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/n9Rf4ddmRtQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

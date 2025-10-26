@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-yidaki-player",
+  "guid": "f783185f-421a-424f-a91f-0341d08912f4",
+  "title": "The Yidaki Player",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-08-14T17:47:26.738Z",
+  "lastmod": null,
+  "weight": 9300,
+  "audio": null,
+  "image": "warrior-the-yidaki-player-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

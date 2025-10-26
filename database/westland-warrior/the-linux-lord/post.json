@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-linux-lord",
+  "guid": "a977d8ed-ab24-4f3a-8392-07059a8b9a8a",
+  "title": "The Linux Lord",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-10-02T21:46:23.539Z",
+  "lastmod": null,
+  "weight": 15210,
+  "audio": null,
+  "image": "the-linux-lord-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

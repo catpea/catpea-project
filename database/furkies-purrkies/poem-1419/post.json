@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1419",
+  "guid": "95a7e612-27a6-43d2-a6bb-bed6e89b8495",
+  "title": "Build Up Your Endurance; Or, Endurance As A Multiplier",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-20T04:25:47.911Z",
+  "lastmod": null,
+  "weight": 141900,
+  "audio": "poem-1419.mp3",
+  "image": "poem-1419-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

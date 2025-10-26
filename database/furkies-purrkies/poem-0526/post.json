@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0526",
+  "guid": "85c29e2d-cb40-4cff-b81f-c9f42b63636f",
+  "title": "Real Education, Real World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-09T00:24:48.699Z",
+  "lastmod": null,
+  "weight": 52600,
+  "audio": "poetry-0526.mp3",
+  "image": "poetry-0526-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/4ws_xLKQMWI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

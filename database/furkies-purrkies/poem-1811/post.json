@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1811",
+  "guid": "65adf3d0-893f-4a69-8470-2131fb3177d7",
+  "title": "Learning To Teach JavaScript In The Strangest Of Ways",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-15T04:16:49.267Z",
+  "lastmod": null,
+  "weight": 181100,
+  "audio": "poem-1811.mp3",
+  "image": "poem-1811-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

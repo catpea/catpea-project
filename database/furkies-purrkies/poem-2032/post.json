@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2032",
+  "guid": "9cc0ebe3-1c3d-46e9-8ec7-4ecd071b0693",
+  "title": "A Letter of Recognition and Reckoning: To the Indigenous Peoples of All Lands",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-22T17:47:01.501Z",
+  "lastmod": null,
+  "weight": 203200,
+  "audio": "poem-2032.mp3",
+  "image": "poem-2032-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

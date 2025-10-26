@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-interactive-fiction-writer",
+  "guid": "0ba85b02-e125-4bb3-b3dd-88219c241bb0",
+  "title": "The Interactive Fiction Writer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-10-19T03:20:11.000Z",
+  "lastmod": null,
+  "weight": 10400,
+  "audio": null,
+  "image": "warrior-the-interactive-fiction-writer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

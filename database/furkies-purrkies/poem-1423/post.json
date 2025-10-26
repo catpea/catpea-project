@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1423",
+  "guid": "a7212635-8119-43ef-9349-5f4efdca6e9f",
+  "title": "And Now An Important Message From The Smartest Leader Of Kittens",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-24T02:45:23.716Z",
+  "lastmod": null,
+  "weight": 142300,
+  "audio": "poem-1423.mp3",
+  "image": "poem-1423-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

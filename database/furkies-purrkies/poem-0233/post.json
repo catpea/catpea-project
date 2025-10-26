@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0233",
+  "guid": "0d14c24f-d920-45dc-a184-7fef1670e7d3",
+  "title": "The Next Eighty Years",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-19T20:43:58.804Z",
+  "lastmod": null,
+  "weight": 23300,
+  "audio": "poetry-0233.mp3",
+  "image": "poetry-0233-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

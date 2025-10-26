@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0380",
+  "guid": "91e4ef4c-8aeb-4a8b-b9d3-80529df7a576",
+  "title": "Start With Baby Steps And The Little Trails",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-16T00:15:45.963Z",
+  "lastmod": null,
+  "weight": 38000,
+  "audio": "poetry-0380.mp3",
+  "image": "poetry-0380-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DusR7CnbCNU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

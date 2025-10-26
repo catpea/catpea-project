@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0960",
+  "guid": "feaa6892-0259-4f5a-a5ac-bce940d488d0",
+  "title": "Your First Programming Business; Or, Learning Programming The Easy Breezy Peasy Wheezy Way",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-17T01:56:44.497Z",
+  "lastmod": null,
+  "weight": 96000,
+  "audio": "poem-0960.mp3",
+  "image": "poem-0960-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/woman-wearing-white-cowboy-hat-and-red-top-riding-on-horse-2986105/"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

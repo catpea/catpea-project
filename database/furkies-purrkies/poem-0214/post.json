@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0214",
+  "guid": "92c0f93f-eb58-4cd4-8e81-5d7427583565",
+  "title": "Cosmopolis 1.0",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-01T01:49:42.585Z",
+  "lastmod": null,
+  "weight": 21400,
+  "audio": "poetry-0214.mp3",
+  "image": "poetry-0214-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

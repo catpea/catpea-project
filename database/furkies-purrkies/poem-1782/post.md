@@ -1,0 +1,88 @@
+It seems that music is at the center of bodybuilding,
+but it and several other concerns have to be dialed in quite right.
+
+And bodybuilding it self appears to be much different,
+from what everyone is doing.
+
+You only need dumbbells, and you need to lift non-stop,
+pausing for three or so seconds every couple of minutes.
+
+There is no lifting heavy, as that only cuts off circulation,
+and sets and reps are just a myth.
+
+Just like joggers everyone needs to stop at first,
+and just like joggers, those rest times must be eliminated.
+
+So you start on a platform of non-stop 5 pound dumbells,
+for one hour to slow songs.
+
+And from here you can add more hours, go up by a couple of pounds,
+or speed up your songs.
+
+---
+
+You need to learn to control the tempo of your songs,
+you can use Audacity, ffmpeg-atempo filter, and AI.
+
+---
+
+If your songs are too slow, the workout will feel flimsy,
+if they are too fast, you will need to stop too frequently.
+
+Aside from dictating a stable tempo you can slowly adjust,
+as your body adapts and grows muscle.
+
+Music helps with focus, there is no workout without it,
+distractions are a disaster for bodybuilding.
+
+A lot of the reason as to why it is just standing dumbbell exercises,
+is focus, switching between equipment will also ruin a workout.
+
+And the songs must always be fresh, as they have a kind of energy,
+and you must always hit every beat, as that induces the dance trance.
+
+It is actually one beat for lifting up, and one for lowering,
+a 120 BPM song, will have you lift your dumbbells 60 times a minute.
+
+---
+
+Workout energy can only come from slow to digest food,
+oatmeal does not seem to work as well as trailmix and noodles.
+
+---
+
+Dumbbells are a simple thing, so it is only,
+[Dumbbell Lateral Raise][1], [Standing Dumbbell Curls][2], and [Overhead Shoulder Press][3].
+
+And you cycle between these non stop,
+letting the different muscle groups rest.
+
+You can use an interval timer,
+to eliminate the initial stopping.
+
+
+When configuring it, you have to ask,
+how long can I cycle 5 pound dumbbells for.
+
+And how long do I need to rest,
+to do it again, several times over, to fill an entire hour.
+
+---
+
+Five pound dumbbells, could be too light,
+and they certainly become too light in a couple of months.
+
+So you lift light, but not so light, that you can lift more,
+but not so heavy, that you are forced to stop for long.
+
+---
+
+A workout is a focused multiplex of the above,
+adjusted to challenge your body, and keep it challenged.
+
+Just the moment you adapt, you adjust music, weight or duration,
+to put the challenge back on the edge.
+
+[1]: https://youtu.be/FeJP4E4Z-PY?t=121
+[2]: https://youtu.be/av7-8igSXTs
+[3]: https://youtu.be/Gu1t7X2yq4M?t=153

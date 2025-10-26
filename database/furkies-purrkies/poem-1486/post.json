@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1486",
+  "guid": "0be28047-91e3-4914-97b1-2fd8bf06a263",
+  "title": "Fitness Advice: Sets, Reps, And Proper Posture Is Not All That Great",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-27T04:00:23.770Z",
+  "lastmod": null,
+  "weight": 148600,
+  "audio": "poem-1486.mp3",
+  "image": "poem-1486-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

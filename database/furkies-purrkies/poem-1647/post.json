@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1647",
+  "guid": "bec1d26f-884d-4fc7-a1e8-ad479bff25db",
+  "title": "Creators, Navigators, And Saving The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-04T04:29:33.377Z",
+  "lastmod": null,
+  "weight": 164700,
+  "audio": "poem-1647.mp3",
+  "image": "poem-1647-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

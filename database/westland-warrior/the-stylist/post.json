@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-stylist",
+  "guid": "c7c43689-b4d4-4c3e-99b2-9c6cd7ef4853",
+  "title": "The Stylist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-02-05T17:02:20.429Z",
+  "lastmod": null,
+  "weight": 11864,
+  "audio": null,
+  "image": "the-stylist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

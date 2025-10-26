@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-slackliner",
+  "guid": "0a2fa0b3-1c70-4030-af8a-46848c2d4f51",
+  "title": "The Slackliner",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-07-11T03:54:45.000Z",
+  "lastmod": null,
+  "weight": 6200,
+  "audio": null,
+  "image": "warrior-the-slackliner-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

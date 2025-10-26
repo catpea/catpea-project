@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0401",
+  "guid": "29d728bb-1a5d-406b-8df4-9a6fc4891ef5",
+  "title": "A Workout That Will Work Out",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-06T03:14:11.231Z",
+  "lastmod": null,
+  "weight": 40100,
+  "audio": "poetry-0401.mp3",
+  "image": "poetry-0401-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

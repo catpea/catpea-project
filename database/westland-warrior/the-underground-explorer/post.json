@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-underground-explorer",
+  "guid": "b17f938a-f080-4251-bc57-0916caa8b0e0",
+  "title": "The Underground Explorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-08-16T01:12:51.105Z",
+  "lastmod": null,
+  "weight": 4200,
+  "audio": null,
+  "image": "warrior-the-underground-explorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

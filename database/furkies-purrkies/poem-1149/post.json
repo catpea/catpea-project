@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1149",
+  "guid": "255bb53c-28a3-4577-84d7-579f0f1cfcc4",
+  "title": "Shopping Etiquette",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-25T01:33:31.585Z",
+  "lastmod": null,
+  "weight": 114900,
+  "audio": "poem-1149.mp3",
+  "image": "poem-1149-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/O0j9EivTKfI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

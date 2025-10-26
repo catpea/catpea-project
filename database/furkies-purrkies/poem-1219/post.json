@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1219",
+  "guid": "89363b0f-db15-4335-9432-ddc6d2637222",
+  "title": "To Get To Know The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-04T03:32:37.918Z",
+  "lastmod": null,
+  "weight": 121900,
+  "audio": "poem-1219.mp3",
+  "image": "poem-1219-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RFEc_Rq6RJM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

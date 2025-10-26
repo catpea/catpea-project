@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0257",
+  "guid": "1a494472-d80d-4f1a-b965-4e6a2c097352",
+  "title": "Let Us All Become Poets Then",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-13T01:02:32.700Z",
+  "lastmod": null,
+  "weight": 25700,
+  "audio": "poetry-0257.mp3",
+  "image": "poetry-0257-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HYcXUU-mLwE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

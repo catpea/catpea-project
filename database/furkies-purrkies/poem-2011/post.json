@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2011",
+  "guid": "c4513ca2-4686-40b6-9b8f-b54840805741",
+  "title": "Thoughts On The The Right-Click View-Source Manifesto",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-03T00:09:29.804Z",
+  "lastmod": null,
+  "weight": 201100,
+  "audio": "poem-2011.mp3",
+  "image": "poem-2011-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

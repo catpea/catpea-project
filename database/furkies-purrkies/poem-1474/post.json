@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1474",
+  "guid": "ea57b0b6-3f5a-423b-ab54-ca014ea8e977",
+  "title": "Train Before You Sign Up For The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-15T04:21:26.799Z",
+  "lastmod": null,
+  "weight": 147400,
+  "audio": "poem-1474.mp3",
+  "image": "poem-1474-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

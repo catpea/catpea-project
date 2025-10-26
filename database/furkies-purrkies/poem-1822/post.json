@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1822",
+  "guid": "fb824408-efaa-4180-a689-bb8bdceafdc5",
+  "title": "Growing Up Is Super Easy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-26T00:35:04.539Z",
+  "lastmod": null,
+  "weight": 182200,
+  "audio": "poem-1822.mp3",
+  "image": "poem-1822-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2052",
+  "guid": "accbaeaa-031d-49e8-9cf0-18bf9702af69",
+  "title": "Your Thunder Must Precede You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-12T22:21:01.502Z",
+  "lastmod": null,
+  "weight": 205200,
+  "audio": "poem-2052.mp3",
+  "image": "poem-2052-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

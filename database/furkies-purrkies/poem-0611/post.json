@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0611",
+  "guid": "a0437af1-8dd4-43f9-b660-57db808b0bd9",
+  "title": "Education Must Lead To Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-02T01:46:50.551Z",
+  "lastmod": null,
+  "weight": 61100,
+  "audio": "poetry-0611.mp3",
+  "image": "poetry-0611-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/The_School_of_Athens"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

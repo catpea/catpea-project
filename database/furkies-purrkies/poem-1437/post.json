@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1437",
+  "guid": "8d410a74-a498-4246-9635-1fb3468638e2",
+  "title": "Before You Sign Up For The Gym; Or, Walk Before You Run",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-07T04:52:51.295Z",
+  "lastmod": null,
+  "weight": 143700,
+  "audio": "poem-1437.mp3",
+  "image": "poem-1437-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

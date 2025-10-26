@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0889",
+  "guid": "8d04cbf4-fb0b-4284-baf4-daf06a30c92a",
+  "title": "Use The Airbrush; Or, Sketch, Spray, And Emerge All The Magic From The Shadows",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-07T00:57:46.552Z",
+  "lastmod": null,
+  "weight": 88900,
+  "audio": "poetry-0889.mp3",
+  "image": "poetry-0889-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

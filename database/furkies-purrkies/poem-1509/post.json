@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1509",
+  "guid": "2f345c15-afef-4291-97d2-9556d67e5438",
+  "title": "On Feline Intelligence And Their Culinary Preference",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-19T03:28:25.211Z",
+  "lastmod": null,
+  "weight": 150900,
+  "audio": "poem-1509.mp3",
+  "image": "poem-1509-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

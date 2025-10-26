@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0011",
+  "guid": "8ca2a36d-f634-49aa-b74a-c51fab150ff4",
+  "title": "If by Rudyard Kipling",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-24T15:18:57.286Z",
+  "lastmod": null,
+  "weight": 1100,
+  "audio": null,
+  "image": "poetry-0011-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

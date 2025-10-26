@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1909",
+  "guid": "421d35c8-8bf8-4b99-a22e-d5d021a81f36",
+  "title": "Strange Programming Days; Or, The Interdimensional Alarm Clock",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-24T00:32:50.004Z",
+  "lastmod": null,
+  "weight": 190900,
+  "audio": "poem-1909.mp3",
+  "image": "poem-1909-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

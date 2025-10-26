@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1702",
+  "guid": "0392ca86-1bc9-473f-8770-356bcd966297",
+  "title": "Are People Who Don't Dress For Halloween Just Pretending To Be Adults?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-29T03:43:26.798Z",
+  "lastmod": null,
+  "weight": 170200,
+  "audio": "poem-1702.mp3",
+  "image": "poem-1702-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

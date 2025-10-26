@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1221",
+  "guid": "68aaa69e-3a33-4122-976a-e25411586da2",
+  "title": "How To Read Books, Reading Comprehension, And What If You Don’t",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-06T03:23:45.677Z",
+  "lastmod": null,
+  "weight": 122100,
+  "audio": "poem-1221.mp3",
+  "image": "poem-1221-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bbXWKcfu1YU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-humanitarian",
+  "guid": "9b24d330-02e0-4941-88bb-7bf427e97cc8",
+  "title": "The Humanitarian",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-07-03T03:26:11.435Z",
+  "lastmod": null,
+  "weight": 1000,
+  "audio": null,
+  "image": "warrior-the-humanitarian-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1133",
+  "guid": "45b0753b-356d-47df-83a9-98a512ba5aed",
+  "title": "Shoulders To Stand On",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-09T03:11:03.697Z",
+  "lastmod": null,
+  "weight": 113300,
+  "audio": "poem-1133.mp3",
+  "image": "poem-1133-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iplBKlLkBDM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

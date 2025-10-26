@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0355",
+  "guid": "4a677f0b-4f1e-47f7-9ec9-33a7ec75588a",
+  "title": "A Tiny Introduction To Drums",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-19T02:13:14.309Z",
+  "lastmod": null,
+  "weight": 35500,
+  "audio": "poetry-0355.mp3",
+  "image": "poetry-0355-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9lfubBqLbRc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

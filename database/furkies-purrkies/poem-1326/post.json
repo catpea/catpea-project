@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1326",
+  "guid": "fa2d9345-a1b2-470d-ae26-53cb4b673721",
+  "title": "For Growing Up, And Against Fear, And Isolation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-19T01:56:40.195Z",
+  "lastmod": null,
+  "weight": 132600,
+  "audio": "poem-1326.mp3",
+  "image": "poem-1326-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2-people-walking-on-green-grass-field-during-daytime-TlaOWHxtpEU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

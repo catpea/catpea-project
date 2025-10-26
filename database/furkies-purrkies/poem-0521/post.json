@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0521",
+  "guid": "e93de215-04b7-4d58-b509-5a28d322900a",
+  "title": "A Strange Little List Of Artsy Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-04T02:21:15.139Z",
+  "lastmod": null,
+  "weight": 52100,
+  "audio": "poetry-0521.mp3",
+  "image": "poetry-0521-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/photo-of-woman-in-front-of-painting-3547625/"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

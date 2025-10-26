@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1040",
+  "guid": "fad0adac-70e2-49d4-88c3-65ca81855fa5",
+  "title": "Life Is Art; Or, To Repair Mistakes Out Of Reach, Become A Great Being And Teach",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-05T03:41:36.579Z",
+  "lastmod": null,
+  "weight": 104000,
+  "audio": "poem-1040.mp3",
+  "image": "poem-1040-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/J7fxkhtOqt0"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2019",
+  "guid": "5485a998-f8af-47e0-9a41-ba0cea10f687",
+  "title": "Fixing High School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-11T00:50:55.136Z",
+  "lastmod": null,
+  "weight": 201900,
+  "audio": "poem-2019.mp3",
+  "image": "poem-2019-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

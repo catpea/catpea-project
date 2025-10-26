@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2046",
+  "guid": "bb140a00-bacf-43e9-8899-006ce54acc1e",
+  "title": "The High Art of Being Human",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-07T00:26:01.485Z",
+  "lastmod": null,
+  "weight": 204600,
+  "audio": "poem-2046.mp3",
+  "image": "poem-2046-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

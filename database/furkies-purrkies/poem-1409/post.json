@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1409",
+  "guid": "3e3c3a17-69cb-41d1-ad5a-a515d0a877b3",
+  "title": "We Are Meant To Share This World Together Like Birds Of A Feather",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-10T02:55:24.113Z",
+  "lastmod": null,
+  "weight": 140900,
+  "audio": "poem-1409.mp3",
+  "image": "poem-1409-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

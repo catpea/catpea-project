@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0708",
+  "guid": "5b9cda05-7ac6-42e1-b508-7246bbf8fc2c",
+  "title": "Don't Try To Paint The Whole Mona Lisa In One Go",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-07T01:16:19.489Z",
+  "lastmod": null,
+  "weight": 70800,
+  "audio": "poetry-0708.mp3",
+  "image": "poetry-0708-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

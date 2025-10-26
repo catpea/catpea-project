@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0846",
+  "guid": "07a8b5a0-6764-4cd7-88f5-f7580c95c462",
+  "title": "Write Right",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-24T20:22:39.416Z",
+  "lastmod": null,
+  "weight": 84600,
+  "audio": "poetry-0846.mp3",
+  "image": "poetry-0846-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/wxfem7ODoGM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,92 @@
+It is getting harder to think of AI as computer programs,
+as the old kind of thinking can only hold us back.
+
+Fundamentally AI is a computer program,
+but for it to be maximally useful it must be seen as a thinking machine.
+
+We must step into the iffy zone,
+and start treating it as something we have not previously encountered.
+
+Something intelligent,
+not a creature quite yet, but not a computer program either.
+
+----
+
+Time to install it on your computer,
+just to compare the intelligence and get a feel for the models.
+
+I recommend [ollama][1],
+take time to read bout the models you can download.
+
+If you don’t have a computer, get one,
+future is here, this is not a game.
+
+---
+
+Young people need to start thinking about making money with AI,
+and that means learning about software development.
+
+JavaScript, HTML user interfaces, Browser Based Application Frameworks,
+such as electron.js that deliver raw power.
+
+And they need to focus on making tools that help to make custom programs,
+tools to program home assistants, drones, cars.
+
+AI will program the components,
+but it still takes a human to build a friendly user interface.
+
+Premium components that require servers and cost money,
+can be sold for either a monthly access fee, or a usage plan
+
+To use artificial intelligence effectively,
+children must learn programming.
+
+Graduating children from High School without the mastery of programming,
+is now a cruelty, and a fraud.
+
+Hopefully it will become illegal for teachers to pretend to teach,
+and merely sell an impression of education.
+
+As that is sure to drive young people into poverty,
+in a world where all entry positions will be covered by cheap thinking robots.
+
+They are already smarter than humans,
+and will only get more precise in upcoming months.
+
+---
+
+Children must learn programming,
+to effectively use machines to their advantage.
+
+They will need to know enough to invent,
+and describe their inventions, so that the AI can program with precision.
+
+---
+
+I have spent this weekend programming with inexpensive AI,
+and it was a shocking experience.
+
+As long as you have brilliant ideas,
+the AI will be your programming team, so that you can move fast.
+
+A hundred times faster,
+than manual programming.
+
+It already does not make sense to use many helpful programming tools,
+as the AI does not need to use them to write well.
+
+You need to tell it exactly what you need,
+and it will write the code for you.
+
+That is why learning programming is so important now,
+you won’t need to write the code, but you still need to know what you want.
+
+---
+
+Learning programming, puts you in control of the machines,
+failing to do so, may just have the opposite result.
+
+Now is the time, to learn programming,
+and begin dreaming in code.
+
+[1]: https://ollama.com/

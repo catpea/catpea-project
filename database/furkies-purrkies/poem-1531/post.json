@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1531",
+  "guid": "0bb5e68b-ac5e-443e-8442-dfb037e4a4c0",
+  "title": "Woodland Animals Gone Wild; Or The Coronal Mass Ejection In Michigan",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-11T01:58:40.687Z",
+  "lastmod": null,
+  "weight": 153100,
+  "audio": "poem-1531.mp3",
+  "image": "poem-1531-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

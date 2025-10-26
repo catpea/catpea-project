@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2058",
+  "guid": "8a5096ab-7019-4ef3-a671-464322416e80",
+  "title": "Unbound",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-19T00:00:32.041Z",
+  "lastmod": null,
+  "weight": 205800,
+  "audio": "poem-2058.mp3",
+  "image": "poem-2058-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

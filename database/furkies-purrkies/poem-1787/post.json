@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1787",
+  "guid": "3f55cdaf-3791-4ff0-8442-5fb45db4ba8d",
+  "title": "It Is Really Not Even That Cold, Maybe You Are Just Getting Old; And, The Great Remedy For Old Age",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-22T05:07:11.374Z",
+  "lastmod": null,
+  "weight": 178700,
+  "audio": "poem-1787.mp3",
+  "image": "poem-1787-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

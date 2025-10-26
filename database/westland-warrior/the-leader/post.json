@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-leader",
+  "guid": "2ddeb781-6206-4c16-b3a9-7aa9ea90dae6",
+  "title": "The Leader",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-11-07T01:42:38.843Z",
+  "lastmod": null,
+  "weight": 16760,
+  "audio": null,
+  "image": "the-leader-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

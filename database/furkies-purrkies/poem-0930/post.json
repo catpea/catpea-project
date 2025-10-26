@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0930",
+  "guid": "65f3d198-5745-4752-b3bb-35dafd173096",
+  "title": "Helpful Diagrams",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-17T02:57:49.654Z",
+  "lastmod": null,
+  "weight": 93000,
+  "audio": "poetry-0930.mp3",
+  "image": "poetry-0930-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

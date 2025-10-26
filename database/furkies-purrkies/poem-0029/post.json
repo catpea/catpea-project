@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0029",
+  "guid": "ab1178da-81f0-4454-bf93-54687786918e",
+  "title": "History of the World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-10T01:35:43.133Z",
+  "lastmod": null,
+  "weight": 2900,
+  "audio": "poetry-0029.mp3",
+  "image": "poetry-0029-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

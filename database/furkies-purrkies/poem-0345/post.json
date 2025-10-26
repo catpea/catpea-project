@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0345",
+  "guid": "49168d16-aaa1-456f-8426-98c3ee0c9992",
+  "title": "A Note On Self Education And Entrepreneurship",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-09T02:17:30.659Z",
+  "lastmod": null,
+  "weight": 34500,
+  "audio": "poetry-0345.mp3",
+  "image": "poetry-0345-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/PNWp1dZ7sO0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

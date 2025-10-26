@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0363",
+  "guid": "44388653-45a1-4ca2-b447-53bf9ee05cce",
+  "title": "The Way The World Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-26T23:55:45.524Z",
+  "lastmod": null,
+  "weight": 36300,
+  "audio": "poetry-0363.mp3",
+  "image": "poetry-0363-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tI665XBDiAA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

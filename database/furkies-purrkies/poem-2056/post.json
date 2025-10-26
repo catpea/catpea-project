@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2056",
+  "guid": "3fa5d908-2e6d-4b74-a645-79271508785e",
+  "title": "Poking Around AI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-17T00:51:24.786Z",
+  "lastmod": null,
+  "weight": 205600,
+  "audio": "poem-2056.mp3",
+  "image": "poem-2056-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

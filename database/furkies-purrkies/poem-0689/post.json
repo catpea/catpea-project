@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0689",
+  "guid": "bf786ce7-9282-4c5f-8829-9dbabcc036c3",
+  "title": "Pop Surrealism: The Fairy Godmother Of The Fancy, Silly, And Strange",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-19T02:17:19.431Z",
+  "lastmod": null,
+  "weight": 68900,
+  "audio": "poetry-0689.mp3",
+  "image": "poetry-0689-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

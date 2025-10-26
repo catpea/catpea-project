@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1936",
+  "guid": "90b77741-6fa2-4f48-84e6-a7d3ebcc3599",
+  "title": "Do You Understand That You Are A Programmer Now?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-19T23:16:12.443Z",
+  "lastmod": null,
+  "weight": 193600,
+  "audio": "poem-1936.mp3",
+  "image": "poem-1936-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

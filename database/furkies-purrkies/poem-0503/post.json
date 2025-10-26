@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0503",
+  "guid": "696f3dfc-e9a3-4ffa-9155-8de6af955eaf",
+  "title": "Constant Transcendence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-17T01:06:02.512Z",
+  "lastmod": null,
+  "weight": 50300,
+  "audio": "poetry-0503.mp3",
+  "image": "poetry-0503-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IGOBsR93I7Y"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

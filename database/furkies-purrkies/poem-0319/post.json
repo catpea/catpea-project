@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0319",
+  "guid": "6540aa54-de87-49ef-ba95-280dc6e9695e",
+  "title": "Nurnberg Trailhead, Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-14T04:22:48.024Z",
+  "lastmod": null,
+  "weight": 31900,
+  "audio": "poetry-0319.mp3",
+  "image": "poetry-0319-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2ShvY8Lf6l0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

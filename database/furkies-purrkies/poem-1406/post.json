@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1406",
+  "guid": "9a9fcd69-a9f1-4c5a-99b3-e7bc69e7e42b",
+  "title": "Easy Introduction To Programming; And, Reactive Programming Explained",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-07T06:09:41.758Z",
+  "lastmod": null,
+  "weight": 140600,
+  "audio": "poem-1406.mp3",
+  "image": "poem-1406-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

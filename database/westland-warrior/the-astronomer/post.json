@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-astronomer",
+  "guid": "5a2db300-9251-4b3a-9fe9-43c067f9bb3c",
+  "title": "The Astronomer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-09-11T04:39:22.130Z",
+  "lastmod": null,
+  "weight": 4100,
+  "audio": null,
+  "image": "warrior-the-astronomer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

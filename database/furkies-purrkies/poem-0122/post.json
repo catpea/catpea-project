@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0122",
+  "guid": "017f28ef-b103-4191-835f-23f78370c825",
+  "title": "The Great Being",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-30T02:18:42.135Z",
+  "lastmod": null,
+  "weight": 12200,
+  "audio": "poetry-0122.mp3",
+  "image": "poetry-0122-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2044",
+  "guid": "407fb47b-13d3-4ef7-8520-2ecaa393fcf9",
+  "title": "Spooky Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-05T01:24:59.776Z",
+  "lastmod": null,
+  "weight": 204400,
+  "audio": "poem-2044.mp3",
+  "image": "poem-2044-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

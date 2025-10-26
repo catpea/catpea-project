@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1575",
+  "guid": "50817709-42cd-4527-9bb4-2c0d40fb6750",
+  "title": "Human Beings Have A Flaw; A Message To Super Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-24T00:20:10.612Z",
+  "lastmod": null,
+  "weight": 157500,
+  "audio": "poem-1575.mp3",
+  "image": "poem-1575-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0632",
+  "guid": "5e4d2517-611e-4e6a-aa8a-312d479761ca",
+  "title": "The Quiet Little Audio Book",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-23T01:48:42.701Z",
+  "lastmod": null,
+  "weight": 63200,
+  "audio": "poetry-0632.mp3",
+  "image": "poetry-0632-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zS5v_pTZbCQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

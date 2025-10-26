@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2060",
+  "guid": "78bbdd7c-4531-4734-954c-28258422c75f",
+  "title": "Unimagined",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-21T01:38:09.432Z",
+  "lastmod": null,
+  "weight": 206000,
+  "audio": "poem-2060.mp3",
+  "image": "poem-2060-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0123",
+  "guid": "208002ee-5a8f-443a-9834-cda96fca92b8",
+  "title": "To No End",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-07-01T03:38:48.751Z",
+  "lastmod": null,
+  "weight": 12300,
+  "audio": "poetry-0123.mp3",
+  "image": "poetry-0123-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

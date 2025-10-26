@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1629",
+  "guid": "07f87e17-6a58-4288-a7a4-ed50f22af70b",
+  "title": "All Too Human",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-17T02:38:13.910Z",
+  "lastmod": null,
+  "weight": 162900,
+  "audio": "poem-1629.mp3",
+  "image": "poem-1629-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

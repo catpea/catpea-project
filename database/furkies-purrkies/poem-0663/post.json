@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0663",
+  "guid": "a8752f9c-5e2c-4c2c-9b9c-fedc9139f233",
+  "title": "Bicycling, Hiking, Jogging, And Dancing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-24T02:55:36.459Z",
+  "lastmod": null,
+  "weight": 66300,
+  "audio": "poetry-0663.mp3",
+  "image": "poetry-0663-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1527pjeb6jg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-drone-operator",
+  "guid": "41afbe07-f717-4cd2-b486-9fc544ff9e0f",
+  "title": "The Drone Operator",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-08-23T00:49:20.643Z",
+  "lastmod": null,
+  "weight": 3900,
+  "audio": null,
+  "image": "warrior-the-drone-operator-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

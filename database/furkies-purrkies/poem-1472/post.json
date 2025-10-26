@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1472",
+  "guid": "52e1840e-405c-418a-ae9f-eff1e94f7944",
+  "title": "The Correct Posture For Lifting Is Dance; Or, Don’t Be Fooled By Bro Science",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-13T04:23:56.965Z",
+  "lastmod": null,
+  "weight": 147200,
+  "audio": "poem-1472.mp3",
+  "image": "poem-1472-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

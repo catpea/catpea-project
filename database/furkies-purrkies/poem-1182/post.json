@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1182",
+  "guid": "92f273e0-8c8a-490b-81c2-83fe7456ea64",
+  "title": "A 156 Days Until Halloween, And A Tail of Tales",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-28T03:07:38.312Z",
+  "lastmod": null,
+  "weight": 118200,
+  "audio": "poem-1182.mp3",
+  "image": "poem-1182-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

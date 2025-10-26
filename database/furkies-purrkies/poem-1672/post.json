@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1672",
+  "guid": "cf7e775f-12d9-413c-94cc-ee00b49a574d",
+  "title": "Door Key Meow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-29T02:20:25.036Z",
+  "lastmod": null,
+  "weight": 167200,
+  "audio": "poem-1672.mp3",
+  "image": "poem-1672-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

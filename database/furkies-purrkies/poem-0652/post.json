@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0652",
+  "guid": "d51c3e24-1675-4beb-98fc-8c7707e0b741",
+  "title": "Riding In Winter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-13T02:37:43.010Z",
+  "lastmod": null,
+  "weight": 65200,
+  "audio": "poetry-0652.mp3",
+  "image": "poetry-0652-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

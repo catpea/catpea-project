@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1900",
+  "guid": "92a0e0e5-41fb-4960-93fe-ebd3c2f35cd7",
+  "title": "Learn Programming: The Philosophy Of Syntax - For Thinkers, Hikers And The Visually Impaired",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-14T22:39:58.640Z",
+  "lastmod": null,
+  "weight": 190000,
+  "audio": "poem-1900.mp3",
+  "image": "poem-1900-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

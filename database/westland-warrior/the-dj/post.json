@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-dj",
+  "guid": "746302e0-9c34-4dbf-a8b0-b09bce9785d3",
+  "title": "The Dj",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-11-13T03:40:27.640Z",
+  "lastmod": null,
+  "weight": 8900,
+  "audio": null,
+  "image": "warrior-the-dj-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

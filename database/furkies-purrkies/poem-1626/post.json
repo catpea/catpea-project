@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1626",
+  "guid": "926becfa-ccc1-4a9b-9cdc-78021f49c13f",
+  "title": "Get Serious About Growing Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-14T03:39:33.049Z",
+  "lastmod": null,
+  "weight": 162600,
+  "audio": "poem-1626.mp3",
+  "image": "poem-1626-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0459",
+  "guid": "08cacd11-c683-4e01-bf1a-c4cd3e80c51a",
+  "title": "Art Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-03T02:53:50.401Z",
+  "lastmod": null,
+  "weight": 45900,
+  "audio": "poetry-0459.mp3",
+  "image": "poetry-0459-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cwTZxq13Uos"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

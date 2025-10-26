@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0985",
+  "guid": "4ae98927-7c33-4d1d-84c5-0b4fb76265ec",
+  "title": "Our Full Heritage & Culture; Or, Nine Thousand Nine Hundred Books Towards Wisdom And World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-11T04:12:30.945Z",
+  "lastmod": null,
+  "weight": 98500,
+  "audio": "poem-0985.mp3",
+  "image": "poem-0985-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/PW6CGOj9tbo"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

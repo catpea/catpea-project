@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0799",
+  "guid": "9c4f09a2-eb1a-4a33-a30e-3f8597519c81",
+  "title": "Dances With Singing Seagulls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-09T02:36:51.882Z",
+  "lastmod": null,
+  "weight": 79900,
+  "audio": "poetry-0799.mp3",
+  "image": "poetry-0799-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

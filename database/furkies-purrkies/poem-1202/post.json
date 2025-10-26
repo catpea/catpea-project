@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1202",
+  "guid": "dc243596-b279-405f-a85f-acfc5ce5e107",
+  "title": "Sets And Reps May Be A Myth; But Endurance Is Not",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-17T03:42:16.323Z",
+  "lastmod": null,
+  "weight": 120200,
+  "audio": "poem-1202.mp3",
+  "image": "poem-1202-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5VkcBvig52o"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

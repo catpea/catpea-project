@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0723",
+  "guid": "55f8bb23-7aa7-4071-b6e5-5c0be56e8bdb",
+  "title": "A Programmer's Poem: ORM, REST, OPSEC, MOO, And A Scary Smelly Grue",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-21T21:00:23.402Z",
+  "lastmod": null,
+  "weight": 72300,
+  "audio": "poetry-0723.mp3",
+  "image": "poetry-0723-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/QuP5RL_E5oE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

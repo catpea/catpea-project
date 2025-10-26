@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1573",
+  "guid": "797da970-7d45-4f04-b907-988f92f6049e",
+  "title": "Replace High School With Adventure School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-22T04:22:06.804Z",
+  "lastmod": null,
+  "weight": 157300,
+  "audio": "poem-1573.mp3",
+  "image": "poem-1573-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1115",
+  "guid": "60e8911c-eb17-461c-8078-9a9b0a44a8f9",
+  "title": "When Learning For Real, Every Lesson Is A Big Deal",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-22T03:01:23.780Z",
+  "lastmod": null,
+  "weight": 111500,
+  "audio": "poem-1115.mp3",
+  "image": "poem-1115-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hE5kJhgBndo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

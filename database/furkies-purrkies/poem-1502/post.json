@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1502",
+  "guid": "905524de-0be6-4471-a6b3-dc47575a5fa2",
+  "title": "Weekend Warrior Power Hiking; Or, The Gym For Those Who Like Changing Scenery",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-12T04:03:47.548Z",
+  "lastmod": null,
+  "weight": 150200,
+  "audio": "poem-1502.mp3",
+  "image": "poem-1502-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

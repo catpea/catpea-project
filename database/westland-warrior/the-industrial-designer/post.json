@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-industrial-designer",
+  "guid": "bb36a815-9ead-4348-a758-f56c966c3fba",
+  "title": "The Industrial Designer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-08-29T20:50:53.048Z",
+  "lastmod": null,
+  "weight": 7800,
+  "audio": null,
+  "image": "warrior-the-industrial-designer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

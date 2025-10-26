@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0478",
+  "guid": "982b00e5-6ffd-4660-a60f-6be8766d44ba",
+  "title": "A Whole Million Of Somewhat-Interesting Stories",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-21T23:41:17.935Z",
+  "lastmod": null,
+  "weight": 47800,
+  "audio": "poetry-0478.mp3",
+  "image": "poetry-0478-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ohqYJjYB6zM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

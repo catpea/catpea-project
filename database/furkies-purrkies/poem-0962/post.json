@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0962",
+  "guid": "2bba83fc-3821-41bb-94f0-be6221482672",
+  "title": "Saving Progress",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-19T00:55:46.148Z",
+  "lastmod": null,
+  "weight": 96200,
+  "audio": "poem-0962.mp3",
+  "image": "poem-0962-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9Bv0OzPxcOI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

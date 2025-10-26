@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0406",
+  "guid": "5cda5c87-94fa-4552-823d-fe80fcc338bb",
+  "title": "The Potato Adventures of Dr. Meow: Riding In The Rain",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-11T02:53:19.150Z",
+  "lastmod": null,
+  "weight": 40600,
+  "audio": "poetry-0406.mp3",
+  "image": "poetry-0406-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

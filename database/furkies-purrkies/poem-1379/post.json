@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1379",
+  "guid": "07a57de6-aebd-4105-8170-64935343ffab",
+  "title": "Sky Shadow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-10T15:07:37.600Z",
+  "lastmod": null,
+  "weight": 137900,
+  "audio": "poem-1379.mp3",
+  "image": "poem-1379-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1267",
+  "guid": "3216a557-8d08-4a7c-8a45-d0b662f90a38",
+  "title": "To Transform Your Body, Use An Interval Timer, And Slowly Speed Up Your Songs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-21T02:49:44.775Z",
+  "lastmod": null,
+  "weight": 126700,
+  "audio": "poem-1267.mp3",
+  "image": "poem-1267-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2cSiUpeySm0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

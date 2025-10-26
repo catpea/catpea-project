@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1300",
+  "guid": "661ce4df-dbc7-431c-899d-120bc769ee36",
+  "title": "Invitation To Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-23T02:58:30.761Z",
+  "lastmod": null,
+  "weight": 130000,
+  "audio": "poem-1300.mp3",
+  "image": "poem-1300-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EvHWW5RoHmM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

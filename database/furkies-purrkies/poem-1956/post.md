@@ -1,0 +1,88 @@
+Before you get to bodybuilding,
+you have to increase your endurance up to one hour of slow jogging.
+
+The ultimate aim is three hours,
+and you will need fluids and vegetable juice to cover sweating.
+
+Once your body adapt, you just add standing dumbbell exercises,
+and you continue moving.
+
+At first three pounds,
+often so light that you are mostly stretching, which is great.
+
+Then you mix in 5 pounds, a bit more challenging,
+and it will slow you down at first.
+
+But you let the 5 lb take over your exercise,
+and regain your speed, and watch your body grow.
+
+It is not about how much you are lifting,
+but that you are moving up in weights during a non stop dance or jog.
+
+Your body will grow muscle at every increase,
+and you probably never need to go past 20lb per hand, or 40 total.
+
+---
+
+It is not just your strengths that adapts,
+but you gain experience about what to do, what not to do, what to try next.
+
+Back pain usually means you need vegetable juice,
+but you can’t over do it, follow the label.
+
+Falling asleep in the afternoon is probably lack of sleep,
+but if you get a headache too, that means not enough water.
+
+But this isn’t something that you can read on the internet about,
+it is something you have to keep an eye on.
+
+And it is relative to every body,
+and it requires wisdom and responsibility.
+
+---
+
+Dance trance, or as it maybe called flow,
+requires that you move your body to the beats of songs.
+
+One beat up,
+next beat down.
+
+Without nice, clear, and interesting music,
+you will not endure, too many distractions.
+
+And you have to be courageous,
+sometimes that’s the greater workout.
+
+You can’t dress to hide or blend it,
+and as you see, your workout will be far different from sets & reps.
+
+Sets and reps may take 10 years,
+hopping around with dumbbells 10 months.
+
+But you need up to three hours of lifting,
+winch with dance trance feels way too short.
+
+I always try to finish,
+my programs in my mind.
+
+But you really get just about 10 minutes worth of thoughts,
+before the three hours are up, that’s dance trance for you.
+
+---
+
+I wrote a tiny little training guide,
+it is just two sentences long..
+
+Lift light, but not so light that you can lift more,
+and never lift so much that you are forced to stop.
+
+---
+
+My best case scenario for a workout,
+is open gym, on a sunny winter day.
+
+Where you have a slab of concrete with some fine sand on it,
+so that you can shuffle dance with dumbbells without any aches.
+
+While wearing,
+a cowboy hat.

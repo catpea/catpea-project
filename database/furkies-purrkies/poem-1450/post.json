@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1450",
+  "guid": "e1b3a7a3-d914-4081-938b-21dbe49581c7",
+  "title": "The Transformative Workout; Or, Of Lifting Too Heavy And The Plateau",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-20T06:22:06.642Z",
+  "lastmod": null,
+  "weight": 145000,
+  "audio": "poem-1450.mp3",
+  "image": "poem-1450-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

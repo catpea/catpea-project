@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-muse",
+  "guid": "59776b62-e7ca-472d-8772-8b8f45e6a7fa",
+  "title": "The Muse",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-10-31T20:12:42.815Z",
+  "lastmod": null,
+  "weight": 16900,
+  "audio": null,
+  "image": "warrior-the-muse-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

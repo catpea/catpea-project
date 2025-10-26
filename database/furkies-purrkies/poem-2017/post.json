@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2017",
+  "guid": "7cc06a9f-ee53-4aee-a655-10ea36bd8bfa",
+  "title": "The Radio Address",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-08T22:11:44.012Z",
+  "lastmod": null,
+  "weight": 201700,
+  "audio": "poem-2017.mp3",
+  "image": "poem-2017-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

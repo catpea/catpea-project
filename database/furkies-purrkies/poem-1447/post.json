@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1447",
+  "guid": "94a69151-a050-414a-9ca8-d0a06836d2d2",
+  "title": "Um, Are The Groundhogs Messing With Us?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-17T04:53:42.459Z",
+  "lastmod": null,
+  "weight": 144700,
+  "audio": "poem-1447.mp3",
+  "image": "poem-1447-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

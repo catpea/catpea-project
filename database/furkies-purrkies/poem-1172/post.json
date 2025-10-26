@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1172",
+  "guid": "634abaca-c591-442d-bd71-52acb9ae8405",
+  "title": "The Secret Doodads Of Cyberspace: What The Heck Is A Finite State Machine?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-18T03:07:46.084Z",
+  "lastmod": null,
+  "weight": 117200,
+  "audio": "poem-1172.mp3",
+  "image": "poem-1172-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

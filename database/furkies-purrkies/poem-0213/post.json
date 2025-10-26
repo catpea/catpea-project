@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0213",
+  "guid": "86836151-4457-441a-94ea-7dc2a895c8e8",
+  "title": "The Conjecture",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-30T00:20:13.524Z",
+  "lastmod": null,
+  "weight": 21300,
+  "audio": "poetry-0213.mp3",
+  "image": "poetry-0213-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

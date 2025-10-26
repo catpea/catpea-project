@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0291",
+  "guid": "44afa74c-bb83-4b26-bdcd-9dd68b35e445",
+  "title": "Horizons, Knowledge, and Predispositions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-17T03:44:34.990Z",
+  "lastmod": null,
+  "weight": 29100,
+  "audio": "poetry-0291.mp3",
+  "image": "poetry-0291-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ktQuuihh3_w"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

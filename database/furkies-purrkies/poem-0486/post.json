@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0486",
+  "guid": "040db672-a74c-4df2-8fb8-ed85aaaca99c",
+  "title": "Rainy Adventure: A Little Poetry Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-29T23:19:06.498Z",
+  "lastmod": null,
+  "weight": 48600,
+  "audio": "poetry-0486.mp3",
+  "image": "poetry-0486-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

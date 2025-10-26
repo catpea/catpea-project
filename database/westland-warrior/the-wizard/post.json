@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-wizard",
+  "guid": "6e6febd5-e378-4a9b-a427-49514f5bb358",
+  "title": "The Wizard",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-01-29T03:38:24.772Z",
+  "lastmod": null,
+  "weight": 15100,
+  "audio": null,
+  "image": "warrior-the-wizard-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1018",
+  "guid": "700f536a-5b9d-4c99-aaa5-f1d47bd7bf15",
+  "title": "The Algorithm",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-14T04:12:03.432Z",
+  "lastmod": null,
+  "weight": 101800,
+  "audio": "poem-1018.mp3",
+  "image": "poem-1018-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Fwj_JvfXUCs"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

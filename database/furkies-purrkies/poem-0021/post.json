@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0021",
+  "guid": "c7df8b6b-a74d-43bd-8534-9777e6f443f6",
+  "title": "Missing Underpants",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-01T16:35:20.987Z",
+  "lastmod": null,
+  "weight": 2100,
+  "audio": null,
+  "image": "poetry-0021-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

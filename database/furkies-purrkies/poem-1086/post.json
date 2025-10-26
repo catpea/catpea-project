@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1086",
+  "guid": "45919e9a-c86c-4d3a-9122-707b2328c876",
+  "title": "Considerations For Artificial Intelligence Driven Art Product Creation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-20T03:51:09.803Z",
+  "lastmod": null,
+  "weight": 108600,
+  "audio": "poem-1086.mp3",
+  "image": "poem-1086-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

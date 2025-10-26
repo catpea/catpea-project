@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0325",
+  "guid": "ba149681-1f22-4a95-a7c2-dd9f85b33b6a",
+  "title": "Real Talk With MC Meow: Music Theory",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-19T21:28:35.914Z",
+  "lastmod": null,
+  "weight": 32500,
+  "audio": "poetry-0325.mp3",
+  "image": "poetry-0325-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/MXe5tFMQonY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

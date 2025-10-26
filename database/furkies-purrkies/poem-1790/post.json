@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1790",
+  "guid": "12a0f5b1-0809-402a-b8c5-163b2c5b5b1c",
+  "title": "Treat Standardized Education The Way It Treats You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-25T04:44:38.965Z",
+  "lastmod": null,
+  "weight": 179000,
+  "audio": "poem-1790.mp3",
+  "image": "poem-1790-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

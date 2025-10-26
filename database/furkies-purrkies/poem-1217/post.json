@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1217",
+  "guid": "fef4e27e-5f86-4e28-a61d-e53f30726e98",
+  "title": "The Age Of Visual Programming Languages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-02T03:14:52.572Z",
+  "lastmod": null,
+  "weight": 121700,
+  "audio": "poem-1217.mp3",
+  "image": "poem-1217-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

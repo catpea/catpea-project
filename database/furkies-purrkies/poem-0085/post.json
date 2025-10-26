@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0085",
+  "guid": "bc43377c-6836-43bb-8c5d-e95db60c5462",
+  "title": "My Little Day",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-29T01:19:47.917Z",
+  "lastmod": null,
+  "weight": 8500,
+  "audio": "poetry-0085.mp3",
+  "image": "poetry-0085-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

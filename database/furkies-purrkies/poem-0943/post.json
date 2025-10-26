@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0943",
+  "guid": "b6b1fc46-1236-45fe-90a2-4fba752300da",
+  "title": "The World Must Grow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-29T22:04:21.500Z",
+  "lastmod": null,
+  "weight": 94300,
+  "audio": "poem-0943.mp3",
+  "image": "poem-0943-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HkWILNuhamg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

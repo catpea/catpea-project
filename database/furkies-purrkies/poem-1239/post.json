@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1239",
+  "guid": "cae9b3b7-07eb-49d2-b8c9-fc57d725a296",
+  "title": "A Glance At What Keeps Humanity Divided",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-24T03:03:21.922Z",
+  "lastmod": null,
+  "weight": 123900,
+  "audio": "poem-1239.mp3",
+  "image": "poem-1239-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/37uM6b3_6xI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

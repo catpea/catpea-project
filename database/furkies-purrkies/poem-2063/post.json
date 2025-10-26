@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2063",
+  "guid": "220c9f06-37b0-40cd-be7e-d418ca7e4dd2",
+  "title": "Once You Are Programming JavaScript: Choose Your Starting Platform",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-24T01:37:32.061Z",
+  "lastmod": null,
+  "weight": 206300,
+  "audio": "poem-2063.mp3",
+  "image": "poem-2063-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

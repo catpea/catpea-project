@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1980",
+  "guid": "0a9b9eb7-aceb-4535-80e2-34045a715f95",
+  "title": "Holy Guacamole: Learn JavaScript Today!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-03T02:19:43.892Z",
+  "lastmod": null,
+  "weight": 198000,
+  "audio": "poem-1980.mp3",
+  "image": "poem-1980-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0900",
+  "guid": "72a44969-999a-4d12-bcf3-bf71815cbbf9",
+  "title": "To Paint Freehand, Just Memorize By Simple Repetition",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-18T01:49:39.757Z",
+  "lastmod": null,
+  "weight": 90000,
+  "audio": "poetry-0900.mp3",
+  "image": "poetry-0900-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Portrait_of_Charlotte_du_Val_d%27Ognes_(Marie-Denise_Villers)"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

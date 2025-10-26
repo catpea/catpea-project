@@ -1,0 +1,102 @@
+Crappy schools would love you,
+for parading “its about the journey” slogan.
+
+They’d give you free pizza,
+and a flimsy diploma, and send you on your way.
+
+Similarly every quack between Attila and the Witch Doctor,
+would charge you for merely sightseeing a meditation.
+
+And in reality, if it was about the journey,
+then you would give up out of the body aches alone.
+
+---
+
+This journey non-sense is born from another nonsense,
+that says it is about reaching the top of the mountain.
+
+You are only going to be up there for a second,
+so if that was true, why even bother.
+
+---
+
+See, what great quests are about, is the transformation,
+a more down to earth word for transformation is growing up.
+
+Sometimes growing way up, until you are able to help,
+maybe the present, maybe the future, and sometimes the past.
+
+And never in meaningless ways,
+but in beautiful, ornate and profound ways.
+
+---
+
+High School is always a good example,
+because thinking of it in terms of a quest.
+
+Reveals how cut up, disrespectful,
+and meaningless it has become.
+
+It is not a quest where there is a neat aim,
+and you build yourself up to it.
+
+Instead, everything has been optimized,
+towards maximum profit at minimum effort.
+
+At some point someone noticed that memorization,
+is as good as comprehension on state tests.
+
+And completely sold you out,
+and you will pretend to learn.
+
+Under a threat of bad GPA and future career,
+the great discomfort of being yelled at or laughed at.
+
+---
+
+But real education,
+is more like learning programming.
+
+Where you start in the beginning,
+come to the end, and start creating programs to practice.
+
+Every day you learn something extremely valuable,
+that makes you more as a programmer.
+
+Every day, you grow more powerful,
+and then practice, will make you a master.
+
+So it is not about the learning journey,
+it is not about reaching the mountain top and finish learning.
+
+It is about the fact, that you are now,
+a computer artist, a code wizard.
+
+Very much a creator,
+where your ideas can now become programs.
+
+---
+
+But the best example of becoming on a journey,
+of growing up and becoming a mightier person…
+
+Are the Appalachian, Pacific Crest, and Continental Divide Trails,
+all together know as the Triple Crown of Hiking.
+
+The crossing will take you years, and all those years,
+you will listen to narrated books written by intellectuals and philosophers.
+
+If you leave the continental divide for last,
+and hike due north…
+
+When you reach Canada, you will be sad,
+and relieved, and shaken up.
+
+But in the years that it took you to hike these trails,
+you will grow up in ways that you didn’t understand before.
+
+You will enter the other side of humanity,
+where you can observe it, and understand its mistakes.
+
+You will understand that we must each grow all the way up,
+until we each become a wise and dignified great being.

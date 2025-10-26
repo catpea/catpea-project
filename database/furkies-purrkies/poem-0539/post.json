@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0539",
+  "guid": "ad53fe91-06d5-4e3d-abbb-9557c0c26b9f",
+  "title": "Fistful Of Skwarkis: The Journey Up The Mountain",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-22T00:25:58.819Z",
+  "lastmod": null,
+  "weight": 53900,
+  "audio": "poetry-0539.mp3",
+  "image": "poetry-0539-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qXtgtI6gntI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

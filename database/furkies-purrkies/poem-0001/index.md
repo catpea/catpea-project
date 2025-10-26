@@ -13,15 +13,7 @@ image: poetry-0001-illustration.jpg
 images: null
 artwork:
   - https://catpea.com/
-resources:
-  - title: Poetry Cover
-    src: files/poetry-cover.jpg
-  - title: Audio Jogger
-    src: files/audio-jogger.mp3
-  - title: Bird Pecking Complaint
-    src: files/bird-pecking-complaint.mp3
-  - title: Emergence
-    src: files/emergence.mp3
+resources: []
 features: {}
 draft: false
 chapter: 1

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1861",
+  "guid": "071bd2ed-37dd-4d97-9050-36ff99b4f6ac",
+  "title": "An Tiny Note On Artificial Intelligence Teachers vs. Standardized Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-06T02:11:31.609Z",
+  "lastmod": null,
+  "weight": 186100,
+  "audio": "poem-1861.mp3",
+  "image": "poem-1861-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0973",
+  "guid": "a140ee1d-4b42-4917-bf12-04a4a6759487",
+  "title": "When Teachers Don’t Know What Teaching Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-30T02:37:46.816Z",
+  "lastmod": null,
+  "weight": 97300,
+  "audio": "poem-0973.mp3",
+  "image": "poem-0973-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0XJeHr1icvY"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

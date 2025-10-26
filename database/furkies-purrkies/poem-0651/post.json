@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0651",
+  "guid": "0447e28a-3aaa-4bf4-b9b5-954adc525f32",
+  "title": "The Cat Pea Broccoliberry Thrice Upsidedown Salad",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-12T03:28:04.874Z",
+  "lastmod": null,
+  "weight": 65100,
+  "audio": "poetry-0651.mp3",
+  "image": "poetry-0651-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cqtwNFwTsLc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

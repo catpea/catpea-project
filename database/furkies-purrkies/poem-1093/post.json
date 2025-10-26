@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1093",
+  "guid": "a42dddb1-0be1-4b53-9178-3bf263803948",
+  "title": "The Sparkle In Your Harkle; Or The Grumble Bumble Rumble",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-27T02:44:30.319Z",
+  "lastmod": null,
+  "weight": 109300,
+  "audio": "poem-1093.mp3",
+  "image": "poem-1093-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1290",
+  "guid": "c99b1b26-8ebd-431c-807d-bc07156bb5b5",
+  "title": "There Are Too Many Problems Outside Of Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-13T03:20:55.435Z",
+  "lastmod": null,
+  "weight": 129000,
+  "audio": "poem-1290.mp3",
+  "image": "poem-1290-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uAD3WuesyM0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

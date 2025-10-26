@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1490",
+  "guid": "d6a9eb46-3988-4d74-b83a-665f364b6887",
+  "title": "Bodybuilding For Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-31T03:24:39.729Z",
+  "lastmod": null,
+  "weight": 149000,
+  "audio": "poem-1490.mp3",
+  "image": "poem-1490-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

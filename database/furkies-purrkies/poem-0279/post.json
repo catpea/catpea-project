@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0279",
+  "guid": "4575cbfb-3e7a-4e95-ae06-b1babdc76c6b",
+  "title": "A Thousand Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-05T04:36:38.740Z",
+  "lastmod": null,
+  "weight": 27900,
+  "audio": "poetry-0279.mp3",
+  "image": "poetry-0279-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/QNrkzXgOapY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

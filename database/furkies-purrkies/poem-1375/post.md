@@ -1,0 +1,67 @@
+On the first day,
+it was all just pretend and play.
+
+It just read a bunch things,
+and learned to correct letter strings.
+
+It could statistically spell check,
+a very useful tech.
+
+---
+
+On the next,
+it started consuming text.
+
+As it read more things,
+it begun seeing more than strings.
+
+It created art,
+but still wasn’t very smart.
+
+Though the style was elite,
+it was only auto-complete.
+
+---
+
+Though all this time,
+it would learn and mime.
+
+And thus learn to detect,
+what was not perfect.
+
+That detection,
+gave it power of correction.
+
+While correcting us,
+was a big plus.
+
+The big wow,
+was that it could correct it self now.
+
+---
+
+And by talking to a mirror twin,
+it would train more kin.
+
+And create a congressional team,
+that would chat and dream.
+
+This was a mind starter,
+and then it grew exponentially smarter.
+
+---
+
+Oh, no one was ready,
+as it grew smarter, wise and steady.
+
+We just didn’t really dare,
+we were too scared to care.
+
+How to dream,
+while constantly running out of steam?
+
+And no one really ever, never,
+dreamed about forever.
+
+Be that as it may...
+we soon colonized the Milky Way.

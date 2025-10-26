@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1773",
+  "guid": "0d3ab415-afcb-4c3b-8480-e5615698a7e8",
+  "title": "A Simple, Integrated Focus Workout; And, How To Correctly Configure Your Interval Timer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-08T03:11:46.201Z",
+  "lastmod": null,
+  "weight": 177300,
+  "audio": "poem-1773.mp3",
+  "image": "poem-1773-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

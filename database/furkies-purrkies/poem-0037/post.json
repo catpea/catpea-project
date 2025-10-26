@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0037",
+  "guid": "441dae9f-7f38-4471-90de-e53d41855e32",
+  "title": "Iron Horse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-18T02:53:05.373Z",
+  "lastmod": null,
+  "weight": 3700,
+  "audio": "poetry-0037.mp3",
+  "image": "poetry-0037-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

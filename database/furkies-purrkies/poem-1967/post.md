@@ -1,0 +1,113 @@
+Learning operators is the biggest mistake you can make,
+you have to make your own Reactive Variables and Operators.
+
+A reactive variable is one that broadcasts when it changes,
+that means it has an array of subscribers, functions called when value changes.
+
+From an outside perspective, it is a function that listens to the change,
+if you make it return another Reactive Variable.
+
+You just created a reactive operator, now whenever the first thing changes,
+everything down this Reactive Variable chain or tree will recalculate.
+
+---
+
+This is not, normal programming,
+this is programming that has been twisted and turned at strange angles.
+
+The need for reactive programming is very real,
+when you convert variables that can be updated to reactive variables.
+
+Whenever there is a change,
+your program automatically updates.
+
+The change ripples through pipes, tress, or networks of functions,
+that add up to update the running program state.
+
+When creating a layout engine for a game, or a user interface,
+you can’t just add heights to get the correct number.
+
+Because when a height changes somewhere,
+perhaps from user resizing their window or webpage font.
+
+You can’t do anything with that new value,
+you have to re-run your layout, re-render.
+
+But when all the dynamic variables in your program,
+are Reactive Variables or Signals only wherever that value is used will change.
+
+So if you have a stack of buttons in a box, and one of the buttons resizes,
+because its label wraps.
+
+Only the part of your program,
+that initially calculated the box height, will re-run.
+
+Because that calculation depends on all the heights of all the buttons,
+which are reactive variables.
+
+---
+
+Reactive Variables are Objects, which means they can do a lot more,
+than just hold a value, they can ask the browser what the value should be.
+
+In deed, couple of days ago [I created a “fake” Signal, or Reactive Variable][1],
+that does not accept a value, but an HTML element, something on a web page.
+
+And it relies on the browser, to set its value,
+as it measures and continues observing dimension of an HTML element.
+
+You can use that as a normal variable in your Reactive Operators,
+but it sets it self, and turns it self off when no longer listened to.
+
+Perhaps the most powerful feature, is being able to update your calculations,
+simply by throwing a new reactive variable into your signal set.
+
+If you want to introduce a gap property to your button layout,
+you just add it in.
+
+In standard programming, you would worry what could break,
+in reactive programming the variables and calculations come first.
+
+---
+
+But what really speaks for reactive programming,
+is the result.
+
+You go from 250 lines of “this will take a while to just grasp”,
+to [3 lines of code that will make your weaker co-wokers retire on the spot][2].
+
+Some because of the beauty,
+but most just out of the intimidating strangeness of the code.
+
+---
+
+Which is why it is so amazing to start your programming journey,
+with asking AI to make you a simple and lightweight signal implementation.
+
+That 1. ignores nullish values, 2. only notifies when the value changes,
+and 3. instantly executes the callback on subscription if the value is not nullish.
+
+Tell it to use a Set for subscribers,
+and return an unsubscribe function from the subscription, for ultimate comfort.
+
+And then you just ask it to extend your signal class
+with map, filter, scan or reduce, and combineLatest.
+
+This could be as short as 30 lines of code,
+but you start learning programming right at it heart.
+
+Becoming more and more powerful,
+with every new operator you study, comprehend, adopt or invent.
+
+Up until you are just so OP (overpowered),
+that other programmers around you will seriously consider retirement.
+
+To people who don’t know that they need to start with a lightweight Signal,
+and some base operators.
+
+Reactive programming,
+is indistinguishable from powerful magic.
+
+
+[1]: https://github.com/catpea/peepee/blob/4464c11c205fe039988da27ef07e00440385af81/modules/elements/elements.js#L16
+[2]: https://github.com/catpea/peepee/blob/7201f8b8d1f7f62de4efc73c4e7886c52da2439b/modules/widgets/plugins/LayoutPlugins.js#L80-L85

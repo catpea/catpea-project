@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0980",
+  "guid": "c93d5572-b614-48db-9c80-46a94870398c",
+  "title": "Introduction To Programming: The Heck Is A State Machine?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-06T02:53:08.113Z",
+  "lastmod": null,
+  "weight": 98000,
+  "audio": "poem-0980.mp3",
+  "image": "poem-0980-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/_uS8dKPwGrM"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

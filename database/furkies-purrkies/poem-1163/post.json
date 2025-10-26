@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1163",
+  "guid": "b9489c19-59a1-486b-a156-443158391ce6",
+  "title": "Power Programming With One Way Programs, Metadata, And Application Models",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-09T02:07:14.697Z",
+  "lastmod": null,
+  "weight": 116300,
+  "audio": "poem-1163.mp3",
+  "image": "poem-1163-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

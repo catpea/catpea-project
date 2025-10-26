@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0703",
+  "guid": "e7088989-d22c-4c39-8981-2114a038ec77",
+  "title": "The Propaganda Poster Challenge: Or, All You Need For Your First Art Show, And Then Some",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-01T20:03:44.161Z",
+  "lastmod": null,
+  "weight": 70300,
+  "audio": "poetry-0703.mp3",
+  "image": "poetry-0703-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/MUh9K0cu5OA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

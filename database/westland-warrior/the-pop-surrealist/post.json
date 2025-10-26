@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-pop-surrealist",
+  "guid": "a2792a77-9167-4c06-8571-9d0cf7be20a7",
+  "title": "The Pop Surrealist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-01-23T17:52:10.045Z",
+  "lastmod": null,
+  "weight": 13500,
+  "audio": null,
+  "image": "warrior-the-pop-surrealist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

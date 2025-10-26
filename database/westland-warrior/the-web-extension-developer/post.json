@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-web-extension-developer",
+  "guid": "97e234b7-107c-4e58-bb54-86a1e5b4721b",
+  "title": "The Web Extension Developer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-07-16T17:41:29.789Z",
+  "lastmod": null,
+  "weight": 15620,
+  "audio": null,
+  "image": "the-web-extension-developer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

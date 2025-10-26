@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-stealth-camper",
+  "guid": "65246874-0caa-4138-8c0f-528891bfb608",
+  "title": "The Stealth Camper",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-04-26T00:29:57.597Z",
+  "lastmod": null,
+  "weight": 3400,
+  "audio": null,
+  "image": "warrior-the-stealth-camper-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

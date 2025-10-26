@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-storyteller",
+  "guid": "0ec22652-6a65-429f-b16f-dfb66bdbe0a7",
+  "title": "The Storyteller",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-10-18T01:27:01.087Z",
+  "lastmod": null,
+  "weight": 10600,
+  "audio": null,
+  "image": "warrior-the-storyteller-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

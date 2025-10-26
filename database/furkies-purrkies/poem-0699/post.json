@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0699",
+  "guid": "6b1e4801-531b-40a0-b610-e7022839cb56",
+  "title": "Art Is Something Else",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-29T03:07:53.940Z",
+  "lastmod": null,
+  "weight": 69900,
+  "audio": "poetry-0699.mp3",
+  "image": "poetry-0699-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5DLRReNddWw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

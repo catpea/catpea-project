@@ -1,0 +1,185 @@
+Programming, is a very relaxing hobby,
+fore every challenge you can invent a broad range of tools.
+
+So much so that frustrations never occur,
+you are just taken on great little side quests.
+
+And such, was the case today,
+I embarked on the quest for the Golden Hoagie.
+
+---
+
+When I was little I was watching a Van Damme movie,
+where he escaped a French Foreign Legion.
+
+In a scene where he was at a bar ordering food,
+he stared eating a sandwich still in the paper wrapper.
+
+“What a dumbass” – I thought,
+“you are supposed to take the paper wrapper off”.
+
+---
+
+Today, I was messing around with PI,
+to create a test harness for a windowing system I am working on.
+
+To make the long story short, sine gently moves up and down,
+between ZERO, and 2xPI.
+
+You feed the sine function an increasing value between 0 and 2PI,
+and it will return a  gently sloping value between -1 and 1.
+
+I needed a value between .5 and 2, was good with .5,
+but the sine can’t produce 2.
+
+I ended up using multiplication,
+and not really liking my cute test harness idea anymore.
+
+---
+
+This is where I started thinking about sandwiches,
+and that Van Damme was probably eating a Burrito, not a sandwich.
+
+There are no burritos where I come from,
+we only have sausages, pierogies…
+
+And this strange transparent, possibly Baltic sea creature,
+with little things suspended in this trnsparencey.
+
+I heard it once being called a medusa,
+and the same comedian mentioned you are supposed to down it with binoculars.
+
+Which, I guessed,
+was code for two bottles of vodka.
+
+Though I have never been drunk, or even tipsy,
+as I don’t like alcohol, it being a carcinogen.
+
+I see how it would be necessary, to hork two bottles of vodka,
+to eat that damn transprent thing.
+
+---
+
+And as I finished my programming for the day,
+roughly generating numbers between .7, not .5 and 1.9 not 2.
+
+I remembered,
+something.
+
+I am not much for playing computer games.
+But I really really love pixel art.
+
+When my bullies got crafty,
+I skipped school and went to a Game Arcade.
+
+Oh my gosh, I was in there forever,
+for a semester, and never once did I care to play.
+
+I just wanted to look at the graphics,
+they were gorgeous, all hand painted, 256 color magnificent works of art.
+
+Forget the damn Louvre, the true art renascence was captured,
+in a little arcade room by a train station.
+
+In and about that time, I came across Day of The Tentacle,
+beautiful pixel art game, breath taking design and animation.
+
+And the fat boy character, was named Hoagie,
+and I just loved that name, what a beautiful word.
+
+And recently, I discovered a pizza place by a cash machine,
+that shocked me by advertising, the sale of Hoagies.
+
+Meowrvelous, so the game character was nicknamed Hoagie,
+because he got fat from eating a lot of them.
+
+But, here is the thing, I thought to my self,
+as pushed the code commit, in my code editor.
+
+---
+
+What the doodle is a Hoagie?
+Somehow this Van Damme thing has me thinking that it is a burrito style thing.
+
+But, I’ve never seen a Hoagie,
+I’ve never heard of anybody eating a hoagie.
+
+So I am going to try to guess,
+Hooooagle…???
+
+Could it be a boiled sausage, that isn’t just meat,
+but it is stuffed full of bits of spices, and bits of cheese.
+
+So that it all becomes a beautiful little symphony,
+when it is all melts in the mouth?
+
+Hoagie feels like it is something really integrated together,
+but also fine, and meant for the sophisticated pallet.
+
+Hoagie is not something you cook, or fry,
+it is a thing you boil in a little pot filled with water.
+
+---
+
+But would a fat little game character, yearn for sophistication,
+and would a pizza place sell such a thing – maybe not.
+
+---
+
+But I tell you, a hoagie,
+is nothing like pierogie.
+
+It is a spectrum of taste,
+that must be horked in haste.
+
+It will make a fat kid,
+satisfy their need.
+
+And then beg for more,
+until they can’t fit through the door.
+
+It has sausage bits and so much cheese,
+that it will even make a skinny girl wheeze.
+
+I bet her fanny,
+that some old granny…
+
+Makes it with candy bits,
+and she has no pantaloon that fits.
+
+Oh my gosh, I hope it is not transparent,
+a meal fit for only a fat parent.
+
+A hoagie is such a pretty word,
+that it got to taste ERMAGERD (oh my god with food in mouth).
+
+---
+
+I think hoagie is like a sandwich wrap,
+that you can’t unwrap.
+
+You just jam it in the mouth,
+and it slowly slides south.
+
+You don’t have to chew,
+because it is filled with a stew.
+
+--
+
+Or, maybe, hoagies are so rare,
+because very few actually... dare.
+
+What it is pigeon meat,
+dipped in honey to make it sweet.
+
+And like smoked fishes that at first smell nice,
+the pigeon still has holes for they eyes.
+
+I can hear grand parents then say,
+“yeah yeah, I member back in the day”
+
+Your grandma used to, make hoagies,
+and I’d gobble them down like sweet pierogies.
+
+Until, we ran out of pigeons in the street,
+and there was no more Hoagie meat.

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1296",
+  "guid": "538a9e48-f1e7-4d20-984a-1dc51d20e3d5",
+  "title": "Childhood’s End; On The Subject Of Post Trail Depression",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-19T03:09:35.193Z",
+  "lastmod": null,
+  "weight": 129600,
+  "audio": "poem-1296.mp3",
+  "image": "poem-1296-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bA4GgonSqqw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

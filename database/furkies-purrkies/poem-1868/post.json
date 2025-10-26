@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1868",
+  "guid": "75ca36f4-d243-4f35-a72d-fa85bd1e97d3",
+  "title": "Warrior Fit",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-13T01:20:57.050Z",
+  "lastmod": null,
+  "weight": 186800,
+  "audio": "poem-1868.mp3",
+  "image": "poem-1868-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

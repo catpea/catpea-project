@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1491",
+  "guid": "caa26143-bc50-4f83-8cfb-39f153fd18e7",
+  "title": "Computer Mouse: The Meanest Creature In The World; Or, A Programmer's Lament",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-01T02:58:05.613Z",
+  "lastmod": null,
+  "weight": 149100,
+  "audio": "poem-1491.mp3",
+  "image": "poem-1491-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

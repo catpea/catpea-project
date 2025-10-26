@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1194",
+  "guid": "6c71605d-d307-4c24-b77f-33525ff75093",
+  "title": "The Road Towards Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-09T03:04:18.388Z",
+  "lastmod": null,
+  "weight": 119400,
+  "audio": "poem-1194.mp3",
+  "image": "poem-1194-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ghWB84TETPU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

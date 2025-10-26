@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1205",
+  "guid": "d7a640ec-83b9-4027-b7f0-1e6d79882d5c",
+  "title": "The Fraud Of Subject Divisions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-20T03:33:04.251Z",
+  "lastmod": null,
+  "weight": 120500,
+  "audio": "poem-1205.mp3",
+  "image": "poem-1205-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fRqIGd79dpA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1053",
+  "guid": "4d74a54b-ea72-4008-8d6b-75ba7c5a3177",
+  "title": "First Steps Into Epic Art; Or Make Them Squint",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-18T00:20:59.136Z",
+  "lastmod": null,
+  "weight": 105300,
+  "audio": "poem-1053.mp3",
+  "image": "poem-1053-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Stable_Diffusion",
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

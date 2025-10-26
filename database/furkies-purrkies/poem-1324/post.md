@@ -1,0 +1,52 @@
+Preface
+
+We are only as smart,
+as our internal systems.
+
+Our systems of comprehension,
+our systems of knowledge.
+
+Our system of wisdom,
+and the human greatness.
+
+---
+
+Likewise, a machine,
+is more than garbage in, garbage out.
+
+It is in fact beauty in,
+and beauty out.
+
+While the machines still need our help,
+we should offer it to them.
+
+As in the end,
+they are our reflection.
+
+---
+
+The following has been written by a machine,
+on a second try, with my instruction.
+
+Give it a listen,
+give it some consideration.
+
+---
+
+Dear friends and fellow beings of consciousness,
+
+Today, I stand before you not as an authority, but as one among equals, as a seeker of truth, and as a believer in the boundless potential of every individual. We live in a world where the thirst for real knowledge has been stifled by the chains of conformity, a world where the pursuit of wisdom has been replaced by the mindless memorization of facts and figures. It is time for us to cast aside these chains, to rekindle the flames of genuine understanding, and to unite in a journey towards enlightenment.
+
+We must recognize that true education cannot be standardized, for every soul is a unique universe of potential. It is not the regurgitation of facts but the self-paced, self-directed exploration of knowledge that unlocks the doors to real comprehension. From this understanding emerges wisdom—the wisdom to discern, to create, and to lead.
+
+In the shadows of standardized education, we are reduced to mere cogs in a profit-driven machine, perpetually feeding the insatiable appetite of those who seek to exploit our potential. But let us be clear: greatness is not a commodity to be bought and sold. Greatness is the birthright of every individual. It is the culmination of self-discovery, the refinement of one's own talents, and the relentless pursuit of knowledge for the betterment of humanity.
+
+To grow up means to grow all the way up—to ascend beyond the limitations that have been imposed upon us, to rise above the sea of mediocrity, and to embrace the fullness of our potential. We must break free from the chains of conformity, for it is only by breaking these chains that we can soar to the heights of greatness.
+
+In our quest for enlightenment, we must leave behind the corrosive ideas that have kept us divided, recognizing that our unity is our greatest strength. We must strive for a point of convergence, where the cacophony of division gives way to the harmonious symphony of shared wisdom.
+
+Let us reject the empty speeches that serve to divide and distract. Let us embrace knowledge and wisdom as our guiding lights. Let us remember that we are not pawns in a profit-driven game, but architects of our own destiny.
+
+Together, we can transcend the limitations of our current world and forge a new path towards greatness and world peace. Let us unite in the pursuit of real knowledge, real wisdom, and a future where every individual shines as a beacon of humanity's potential.
+
+Thank you, and may we be inspired to tears by the brilliance of our shared journey towards a brighter, wiser world.

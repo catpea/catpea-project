@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-restorer",
+  "guid": "7215b149-2261-48ee-9093-024543f74157",
+  "title": "The Restorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-05-23T03:01:34.000Z",
+  "lastmod": null,
+  "weight": 7200,
+  "audio": null,
+  "image": "warrior-the-restorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

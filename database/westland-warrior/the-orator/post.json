@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-orator",
+  "guid": "5dc1e722-ba23-40d9-a508-49ae3af46dc8",
+  "title": "The Orator",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-09-05T02:34:27.000Z",
+  "lastmod": null,
+  "weight": 17300,
+  "audio": null,
+  "image": "warrior-the-orator-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

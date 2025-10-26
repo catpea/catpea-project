@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0272",
+  "guid": "82638040-babc-46f7-bc60-d4cd4343d789",
+  "title": "You Are Not Wrong",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-28T03:29:58.051Z",
+  "lastmod": null,
+  "weight": 27200,
+  "audio": "poetry-0272.mp3",
+  "image": "poetry-0272-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

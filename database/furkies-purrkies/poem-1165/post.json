@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1165",
+  "guid": "f167d4e7-a235-4351-9b11-e62864e342ff",
+  "title": "The Sweet And Fancy Allure Of Web Security",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-11T03:07:55.463Z",
+  "lastmod": null,
+  "weight": 116500,
+  "audio": "poem-1165.mp3",
+  "image": "poem-1165-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1189",
+  "guid": "a486616a-b7e9-41c0-ac24-5fe4873e5dbf",
+  "title": "A Sure Recipe For Deadly Bear Jerky; Or, A Weight-loss And Fitness Program For The Rest Of Us",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-04T03:19:57.506Z",
+  "lastmod": null,
+  "weight": 118900,
+  "audio": "poem-1189.mp3",
+  "image": "poem-1189-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/PEvI6UOCEYE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

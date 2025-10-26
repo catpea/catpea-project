@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1417",
+  "guid": "a3281127-4c59-4acd-b180-7ef3a9a40671",
+  "title": "The Reason Nobody Dares, To Tell You About The Art Of Fighting Bears",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-18T03:07:40.470Z",
+  "lastmod": null,
+  "weight": 141700,
+  "audio": "poem-1417.mp3",
+  "image": "poem-1417-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

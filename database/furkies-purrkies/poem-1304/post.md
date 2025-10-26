@@ -1,0 +1,137 @@
+Just because we have things called schools,
+it does not mean that they teach the way a school should.
+
+It is probably not even possible to be actually taught,
+all our knowledge consists of things we learn ourselves.
+
+Learning is an inside out process,
+not an outside in as teachers seem to believe.
+
+Reading, writing, arithmetic,
+and what should be painting, composing, and programming.
+
+Does benefit from a teacher,
+as these subjects are tool-kits.
+
+Calculus, Functional Reactive Programming (my favorite),
+Physics, Astrophysics, Chemistry, Biology, are different from tool kits.
+
+These need the kindling of a flame from within,
+and they can only be truly entered once the student’s curiosity call for them.
+
+Forcing kids to memorize that mitochondria is the powerhouse of the cell,
+and then having them pass the tests, is not education, it is fraud.
+
+It is also fraudulent to have art students turn in ugly misshapen crap,
+and grading that as passable.
+
+As with temporary memorization for the purpose of passing tests,
+the students know what they are turning-in, in the art class.
+
+---
+
+A really nice art teacher, and they are always so nice,
+whispered to me “How is he doing this?” after a boy turned in a work of art.
+
+It was superior to most other works,
+but he wanted people to believe he was special.
+
+In fact he likely used somebody else’s photo,
+so his traced work of art wasn’t really his own.
+
+But he did find a source image, with charcoal darks,
+and white chalk highlights, so he got that part right.
+
+I told the teacher that he probably used a projector,
+but she wouldn't let me finish, just nodded and faded away.
+
+---
+
+Her class was a disaster,
+I had to figure out how to use watercolors on my own.
+
+And, there was a suspicious event,
+where she led everyone to the school store, to buy paint only from that store.
+
+And this was during the lecture, the colors were significant,
+but she did not emphasize what they were traditionally used for.
+
+What the formulas were for flesh tones,
+what the various do’s and don’ts were.
+
+---
+
+The whole time she talked,
+I kept looking at the projector above her head.
+
+We could take photos of each other,
+project them, study their colors, apply some filters to see what everything was.
+
+We could even take manipulated images to a photo printing pharmacy,
+so that we would have shadow, highlight, midtone, and color reference.
+
+It would have cost cents to print them,
+instead we turned in crap, still be4lieving that this class was good for something.
+
+But actually, we simply got tricked,
+by a wonderful person, who left no evidence of fraud, lies, failure to teach.
+
+We turned in crap, got good grades,
+and overall spent several hundred dollars for the class.
+
+---
+
+All the students walking out of that class,
+with the ability to paint perfectly proportional and colored portraits.
+
+Would have changed our lives,
+if this wonderful teacher just shut up, and let us use the projector.
+
+We could all learn to setup a tiny business where we hand paint,
+pet portraits.
+
+We would all be hooked on art,
+our lives permanently altered.
+
+---
+
+Instead when I told her the boy used a projector,
+she saw that as a negative.
+
+I saw a man learning to paint photo-realism freehand,
+I saw how he was memorizing, redrawing the same scenes.
+
+Pausing from time to time,
+and saying he made a mistake.
+
+Freehand realism, may just be an expression of genius for him,
+but for us, it is not, it is a way to keep us participating in class.
+
+A way to make us feel inferior,
+so that we sit there waiting for the movement where it all adds up together.
+
+I dropped out the day I made the Dean’s List,
+not a singe one of those classes changed my life.
+
+And when I learn on my own,
+that is exactly what I get each and every time.
+
+And learning on your own,
+is exactly what little adventures are.
+
+---
+
+You are not a bird to be fed,
+you are a Human that must rise.
+
+Grow and grow all the way up,
+until you become a great being.
+
+And begin changing other people’s lives,
+for the better.
+
+Please, examine life, so that you are not caged,
+so that you know yourself.
+
+So that not until it comes to die,
+you realize you have never actually lived [paraphrasing Thoreau].

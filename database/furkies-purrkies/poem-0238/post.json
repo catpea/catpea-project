@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0238",
+  "guid": "17b55bae-005b-444c-aa6f-699578687e38",
+  "title": "3,890 Tigers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-24T21:58:51.821Z",
+  "lastmod": null,
+  "weight": 23800,
+  "audio": "poetry-0238.mp3",
+  "image": "poetry-0238-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

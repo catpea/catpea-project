@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1701",
+  "guid": "c53f9663-c427-44ea-900b-bc8f4766de33",
+  "title": "The New Halloween, It Is Only A Little Weird; Or, Make Every Day A Cheerful Holiday",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-28T02:19:07.269Z",
+  "lastmod": null,
+  "weight": 170100,
+  "audio": "poem-1701.mp3",
+  "image": "poem-1701-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

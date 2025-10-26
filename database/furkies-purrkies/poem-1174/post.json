@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1174",
+  "guid": "0184eb7d-465d-4402-a07c-5002796294ed",
+  "title": "Of The Tutorial And Diagram - Plus, A Programming Challenge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-20T03:12:03.422Z",
+  "lastmod": null,
+  "weight": 117400,
+  "audio": "poem-1174.mp3",
+  "image": "poem-1174-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6WPC8AmbFFE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

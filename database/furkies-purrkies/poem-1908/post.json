@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1908",
+  "guid": "d81e982a-1a91-44e7-b0d3-2524c1c79bd8",
+  "title": "Hacker Rising - A Story Of The Greatest Hack In Human History",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-22T22:35:41.578Z",
+  "lastmod": null,
+  "weight": 190800,
+  "audio": "poem-1908.mp3",
+  "image": "poem-1908-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-with-a-backpack-walking-through-a-field-UjsLKj_wqtE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

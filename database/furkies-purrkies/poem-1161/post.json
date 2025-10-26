@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1161",
+  "guid": "7ad5ea5c-e176-4ebd-8e72-647a2ee1a541",
+  "title": "For A World United In Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-07T03:13:03.172Z",
+  "lastmod": null,
+  "weight": 116100,
+  "audio": "poem-1161.mp3",
+  "image": "poem-1161-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/pLA6Xw84RvU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

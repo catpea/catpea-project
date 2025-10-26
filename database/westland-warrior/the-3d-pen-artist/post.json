@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-3d-pen-artist",
+  "guid": "03313957-6f35-48f1-829e-fb1778249e7a",
+  "title": "The 3D Pen Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-05-29T23:44:35.072Z",
+  "lastmod": null,
+  "weight": 10800,
+  "audio": null,
+  "image": "warrior-the-3d-pen-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

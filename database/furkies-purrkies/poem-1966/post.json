@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1966",
+  "guid": "dd2ef9f5-0593-4af6-be85-49e35b9c7e7a",
+  "title": "Signals The Big Picture, And Then, You Just Continue Inventing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-20T00:54:48.154Z",
+  "lastmod": null,
+  "weight": 196600,
+  "audio": "poem-1966.mp3",
+  "image": "poem-1966-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

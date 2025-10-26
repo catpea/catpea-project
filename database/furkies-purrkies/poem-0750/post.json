@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0750",
+  "guid": "73550ee8-1c6b-48d5-89c6-cfb9486723b1",
+  "title": "Art Revolutions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-20T16:47:31.746Z",
+  "lastmod": null,
+  "weight": 75000,
+  "audio": "poetry-0750.mp3",
+  "image": "poetry-0750-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6QKcZ8wtfoY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

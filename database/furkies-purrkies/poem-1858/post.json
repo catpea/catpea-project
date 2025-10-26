@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1858",
+  "guid": "ff3ea713-3333-44f8-8426-a4069ca1c1b7",
+  "title": "Cramming For Tests, Everything You Need To Know",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-02T21:31:11.931Z",
+  "lastmod": null,
+  "weight": 185800,
+  "audio": "poem-1858.mp3",
+  "image": "poem-1858-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

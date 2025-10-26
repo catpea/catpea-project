@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1118",
+  "guid": "a763f393-0c3a-456e-bd43-ffd972382418",
+  "title": "Legend Of Wobbles, The Mighty Warrior Queen From The Crabapple Tree",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-25T02:19:01.225Z",
+  "lastmod": null,
+  "weight": 111800,
+  "audio": "poem-1118.mp3",
+  "image": "poem-1118-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

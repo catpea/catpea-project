@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2009",
+  "guid": "a830c8fc-7a3d-4fe9-be29-72e537bb1e16",
+  "title": "Anticipate The Future, Take The Shortest Path To Where The AI Shines: Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-01T01:51:13.216Z",
+  "lastmod": null,
+  "weight": 200900,
+  "audio": "poem-2009.mp3",
+  "image": "poem-2009-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

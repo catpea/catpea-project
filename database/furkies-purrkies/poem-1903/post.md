@@ -1,0 +1,103 @@
+"There are more things in heaven and earth,
+than are dreamt of in your philosophy."
+-- Hamlet
+
+You may not cause any kind of harm,
+to the younger generations.
+
+Your comfort becomes trouble, the moment it erases natural human curiosity,
+inducing un-education, desperation, poverty, hate…
+
+And what one mad man has just referred to as,
+the "logical conclusion", war and destruction.
+
+---
+
+We are not that different from flowers,
+we need just the right conditions to bloom.
+
+Human beings when kept in a garden of fantasy become unwell,
+misguided, confused, angry, depressed, scared.
+
+But, also less than they really are,
+we are each meant to grow all the way up until we become a great being.
+
+---
+
+The correct conditions for growing up,
+are those that encourage love of wisdom.
+
+Wisdom inherited from clear thinkers,
+and hard earned by our own adventures and challenges.
+
+---
+
+I suspect, it was always about philosophy,
+parasites, all the way back in Ancient Greece knew it would destroy them.
+
+They invented gods the way than invented the coliseum,
+it was already back then, an opium of the people.
+
+Satiating natural curiosity for the world and universe around us,
+with fantasy, that when questioned, results in death.
+
+Goes a long way to corrupt Humanity,
+without real questions there are no real answers.
+
+A real answer is just a new step in a mystery,
+a fantasy based answer is either the end of the road, or a dead end.
+
+By building a world without roads leading out,
+we become blind to the reality, gravity, and sanctity of life.
+
+Just look how easily you will give up your little ones,
+when a mandatory draft letter arrives.
+
+Do you even care that the local recruitment office,
+will try to get the High School graduates to sign up.
+
+Will you just laugh it off as your boy being dumb,
+will you encourage them to fight for a god of convenience and a nation.
+
+This nation, that nation, but certainly against one corrupted for decades,
+that you did nothing to hope to repair, before it drops into war more.
+
+War is not natural,
+it is not allowed, it can only be prevented ahead of time.
+
+And how thin your morals,
+thou shall not kill goes out the window as you wave with a longing smile.
+
+---
+
+And long before war there are many other terrible things,
+that should not be allowed either.
+
+This is why you are not allowed to live a fantasy lifestyle,
+why you must become a clear thinking philosopher and a great being.
+
+---
+
+There is no harm,
+in setting of for a life long quest for Wisdom and Enlightenment.
+
+There is no harm in growing all the way up,
+until the world is represented by leaders that are admired for their wisdom.
+
+Go find all the great narrated books at the library,
+get a tent and backpack, and section hike the Appalachian Trail.
+
+For all the opinions for which we are willing to send our children into war,
+we neither read and listen to great clear thinking books, nor really know true adventure.
+
+It is out there in the crucible of the Appalachian Trail,
+that we finally make room for authentic learning.
+
+There we get to know the philosophers and adventurers,
+nature and her beauty, and ourselves.
+
+Your ancient ancestors were great heroes,
+great adventurers, and great thinkers.
+
+All of that is still in you, it is never too late,
+to reawaken the great philosopher and adventurer in you.

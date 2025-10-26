@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0461",
+  "guid": "e29939a3-cda2-4bf6-a83b-597968a3614f",
+  "title": "Gentle Silliness Across The Ages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-05T01:48:12.838Z",
+  "lastmod": null,
+  "weight": 46100,
+  "audio": "poetry-0461.mp3",
+  "image": "poetry-0461-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eDgUyGu93Yw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

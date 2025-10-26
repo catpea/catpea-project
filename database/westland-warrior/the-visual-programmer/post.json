@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-visual-programmer",
+  "guid": "6881b434-1dcb-46c0-b307-e663f3486faf",
+  "title": "The Visual Programmer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-06-18T20:07:48.921Z",
+  "lastmod": null,
+  "weight": 15451,
+  "audio": null,
+  "image": "the-visual-programmer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

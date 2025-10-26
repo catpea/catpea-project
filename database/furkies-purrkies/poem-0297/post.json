@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0297",
+  "guid": "ede5cbc2-a2d0-4923-a6eb-550033039659",
+  "title": "This Is Your World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-23T00:46:20.685Z",
+  "lastmod": null,
+  "weight": 29700,
+  "audio": "poetry-0297.mp3",
+  "image": "poetry-0297-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/djbnlVYuG-M"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

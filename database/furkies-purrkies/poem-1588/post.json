@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1588",
+  "guid": "1471b3d8-8d7e-42aa-acfc-65cc4f08c8de",
+  "title": "What Is It Like Inside A Computer Program?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-07T03:48:29.311Z",
+  "lastmod": null,
+  "weight": 158800,
+  "audio": "poem-1588.mp3",
+  "image": "poem-1588-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

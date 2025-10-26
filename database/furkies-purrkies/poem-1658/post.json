@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1658",
+  "guid": "d0363ca2-7aff-43a5-9f7f-31d10521dfeb",
+  "title": "On Cracking The Bodybuilding Code",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-15T02:24:27.447Z",
+  "lastmod": null,
+  "weight": 165800,
+  "audio": "poem-1658.mp3",
+  "image": "poem-1658-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

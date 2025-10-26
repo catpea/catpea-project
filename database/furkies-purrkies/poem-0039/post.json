@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0039",
+  "guid": "d7854b3c-eaba-4c0a-82ab-82f3d7b8238d",
+  "title": "Buckle and Goat",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-20T02:28:30.917Z",
+  "lastmod": null,
+  "weight": 3900,
+  "audio": "poetry-0039.mp3",
+  "image": "poetry-0039-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0004",
+  "guid": "9428acac-15f3-4eb8-8538-656ee25bee3a",
+  "title": "Secular Cadet by Anonymous",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-20T20:14:25.929Z",
+  "lastmod": null,
+  "weight": 400,
+  "audio": null,
+  "image": "poetry-0004-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zYVO25eyBVo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

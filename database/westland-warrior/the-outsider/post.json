@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-outsider",
+  "guid": "7c4c8b47-4bd2-486e-b0a9-4b6bcb961e6b",
+  "title": "The Outsider",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-01-02T19:20:37.002Z",
+  "lastmod": null,
+  "weight": 1400,
+  "audio": null,
+  "image": "warrior-the-outsider-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

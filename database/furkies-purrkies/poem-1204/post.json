@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1204",
+  "guid": "178a543c-d43a-400b-9164-63af432826d0",
+  "title": "What Is Real Education?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-19T02:58:00.490Z",
+  "lastmod": null,
+  "weight": 120400,
+  "audio": "poem-1204.mp3",
+  "image": "poem-1204-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YSMqXgvSzYA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

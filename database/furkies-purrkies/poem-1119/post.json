@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1119",
+  "guid": "56351c25-a9ba-4d66-ae2d-63d94ca9d152",
+  "title": "Resuming Where The Giants Left Off",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-26T03:26:43.407Z",
+  "lastmod": null,
+  "weight": 111900,
+  "audio": "poem-1119.mp3",
+  "image": "poem-1119-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/dmGDocg5FV0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1480",
+  "guid": "743b77f1-24ba-4cbe-8b82-2d388226a742",
+  "title": "For The Betterment Of The World; Or, Hiking, Camping, And The Library",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-21T04:07:51.871Z",
+  "lastmod": null,
+  "weight": 148000,
+  "audio": "poem-1480.mp3",
+  "image": "poem-1480-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

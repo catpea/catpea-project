@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1070",
+  "guid": "9d0daeaa-53c3-4beb-84ee-154a5a5f8132",
+  "title": "An Ear For Wisdom; Or, A Formula For Crafting A Powerful Magical Item",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-04T04:09:46.648Z",
+  "lastmod": null,
+  "weight": 107000,
+  "audio": "poem-1070.mp3",
+  "image": "poem-1070-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

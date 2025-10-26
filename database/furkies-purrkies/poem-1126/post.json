@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1126",
+  "guid": "4f9f0504-0452-47ad-8e95-86dd449df6d0",
+  "title": "To The Next Great Human Plateau",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-02T02:11:07.285Z",
+  "lastmod": null,
+  "weight": 112600,
+  "audio": "poem-1126.mp3",
+  "image": "poem-1126-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TgpWr5YI7Ls"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

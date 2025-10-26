@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1130",
+  "guid": "0a45ea67-a25c-402e-b09a-4c1053b52fa8",
+  "title": "Breaking: Michigan Government Rules Against Use Of Vehicles When Commuting To The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-05T22:50:35.802Z",
+  "lastmod": null,
+  "weight": 113000,
+  "audio": "poem-1130.mp3",
+  "image": "poem-1130-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WIRVS5pQK8k"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

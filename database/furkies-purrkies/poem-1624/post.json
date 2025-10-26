@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1624",
+  "guid": "fe3fb8c5-7a73-4746-b31d-b0428a30a9ea",
+  "title": "The Golden Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-11T17:01:16.638Z",
+  "lastmod": null,
+  "weight": 162400,
+  "audio": "poem-1624.mp3",
+  "image": "poem-1624-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

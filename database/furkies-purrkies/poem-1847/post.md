@@ -1,0 +1,224 @@
+Sets and reps only work once,
+because they challenge the body once.
+
+Initially, when switching,
+from no gym, to gym.
+
+This process can’t be re-created,
+because everyone ends up lifting too heavy.
+
+Too heavy,
+means, it is not possible to lift for longer.
+
+And if you aren’t lifting for long enough,
+then you won’t be able to lift heavier.
+
+---
+
+Therefore, sets and reps,
+are not a strategy.
+
+They may be some fragment,
+of a bloated one.
+
+Or a myth made up,
+based on bodybuilders showing off.
+
+Lifting 3 sets of 10 times,
+is convenient for a TV crew.
+
+Or good for showing off,
+among boys.
+
+But it does nothing,
+for making continued progress.
+
+---
+
+And muscle isolation can only slow you down,
+you need a full body exercise.
+
+All the machines, and I am sorry to say,
+even the racks, are a bad idea.
+
+And lifting super-heavy,
+will result in back injury, just don’t do it.
+
+As you are about to see,
+Good workouts that provide great results...
+
+Are simple, clear,
+and rational.
+
+---
+
+1980’s aerobics craze,
+demonstrates a full body exerciser.
+
+What was left out, however,
+is that, you don’t stop.
+
+You cycle standing,
+dumbbell exercises to rest muscle groups.
+
+And it is really best to power walk,
+rather than stand in place.
+
+---
+
+If you are just starting,
+before you establish a workout.
+
+You must train for it,
+which means, eliminating rest.
+
+You can achieve that,
+by just walking with 3lb dumbbells.
+
+But as soon as you make it,
+through the hour…
+
+The training phase, ends,
+and you begin your life long workout.
+
+It is always just dumbbells,
+but as soon as you can.
+
+Find a way to safety,
+lift them above your head as well.
+
+That will give you shoulders
+and add to your abdominal.
+
+---
+
+There is a very important rule,
+that you must adhere to.
+
+Lift light,
+but no so light that you can lift more.
+
+And never so heavy,
+that you must stop.
+
+You can see how this will keep going,
+as your body adapts.
+
+---
+
+If you want big muscle,
+move to slow music.
+
+One beat, lift up,
+next beat lower down.
+
+Less, than 100 beats per minute (BPM),
+will help you lift heavy.
+
+Songs that are below 90BPM,
+are a more advanced workout you can explore.
+
+If you want an athletic body,
+move fast, 145 bpm or more.
+
+Slow, mans you lift heavy,
+fast, will keep you at 7 to 10lb per hand.
+
+And you will be able to jog,
+and you can just go slow.
+
+---
+
+There cannot be a workout,
+without music.
+
+It is not just,
+about the tempo.
+
+Hitting every beat,
+helps you enter a dance trace.
+
+That makes time pass faster,
+turns 4 hours into 10 minutes.
+
+You will need pretty,
+and fresh songs.
+
+And they are like,
+non-rechargeable batteries.
+
+Once you deplete a song,
+with a few weeks of dancing.
+
+The song energy,
+never returns.
+
+---
+
+The workout is every day,
+until you you see benefits.
+
+In taking a day off,
+make it two, then.
+
+---
+
+This is already a beautiful workout,
+as it helps you twist and turn.
+
+And it give you results weekly,
+and makes you look mighty.
+
+But, to make it even more beautiful,
+begin shuffle dancing with dumbbells.
+
+You may need zero drop,
+wide toe-box shoes, and sandy concrete.
+
+This way you can slide your shoe,
+very easily.
+
+Your shoes won’t last long,
+but avoid thick soles or raised heels.
+
+That can only result in pump bump,
+dancing puts a lot of stress on your feet.
+
+---
+
+Wait for your body to adapt,
+before moving to the next weight.
+
+Our musculature is complex,
+it is a symphony orchestra.
+
+The muscle will keep you safe,
+and moving gradually, free of injury.
+
+---
+
+Mornings, are probably best,
+for your workout.
+
+Because of fresh and crisp air,
+and relatively cool weather.
+
+---
+
+Though you can easily dip,
+into hard bodybuilding.
+
+Lighter weights make this,
+a life long fitness routine.
+
+That in it self,
+adds to the beauty of it.
+
+Lastly, if you need a beautiful way,
+to get into shape, consider hiking.
+
+Perhaps even the Appalachian Trail,
+or the Triple Crown.
+
+The Appalachian, Pacific Crest,
+and Continental Divide.

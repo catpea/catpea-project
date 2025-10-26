@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1402",
+  "guid": "84962db9-9f57-448f-a887-7a95dd701155",
+  "title": "Fever Dreams; Or, Artificial Intelligence Makes You A Powerful Fashion, Interior and User Interface Designer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-03T05:27:22.526Z",
+  "lastmod": null,
+  "weight": 140200,
+  "audio": "poem-1402.mp3",
+  "image": "poem-1402-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

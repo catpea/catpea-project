@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0196",
+  "guid": "23d65019-250e-44cc-82cf-61701dbe060b",
+  "title": "Of Political Systems",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-12T21:33:42.582Z",
+  "lastmod": null,
+  "weight": 19600,
+  "audio": "poetry-0196.mp3",
+  "image": "poetry-0196-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6Yp99zMrsAI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

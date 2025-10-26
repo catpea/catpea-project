@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1069",
+  "guid": "26cac750-e788-49e7-8375-6f2fcf726b7c",
+  "title": "Six More Weeks Of Furry Fat Bastard Sleeping",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-03T00:51:07.088Z",
+  "lastmod": null,
+  "weight": 106900,
+  "audio": "poem-1069.mp3",
+  "image": "poem-1069-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

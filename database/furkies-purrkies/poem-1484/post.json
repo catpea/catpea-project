@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1484",
+  "guid": "0357b9b9-3607-4467-ba25-8af9ba0ee238",
+  "title": "Look Beyond, And Learn, And Rise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-25T04:15:45.376Z",
+  "lastmod": null,
+  "weight": 148400,
+  "audio": "poem-1484.mp3",
+  "image": "poem-1484-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

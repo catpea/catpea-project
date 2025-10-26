@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0822",
+  "guid": "0b162433-c91e-47a7-945b-d988e60c10db",
+  "title": "Prototype Five: Superhero Jewelry Box",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-31T23:12:50.921Z",
+  "lastmod": null,
+  "weight": 82200,
+  "audio": "poetry-0822.mp3",
+  "image": "poetry-0822-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

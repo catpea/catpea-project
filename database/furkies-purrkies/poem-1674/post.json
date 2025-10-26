@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1674",
+  "guid": "0c396325-75f7-4009-b137-9ad1457b22f4",
+  "title": "Programming Is The Very Least You Should Learn In High School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-01T01:41:42.305Z",
+  "lastmod": null,
+  "weight": 167400,
+  "audio": "poem-1674.mp3",
+  "image": "poem-1674-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-experimental-musician",
+  "guid": "2ee4580a-7d07-4527-baa5-67e3f0e12fef",
+  "title": "The Experimental Musician",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-09-03T15:42:16.659Z",
+  "lastmod": null,
+  "weight": 8910,
+  "audio": null,
+  "image": "the-experimental-musician-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

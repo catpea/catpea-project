@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0315",
+  "guid": "c35ac59b-d2ea-4798-9d91-21304492dc9c",
+  "title": "Strong",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-10T03:26:05.966Z",
+  "lastmod": null,
+  "weight": 31500,
+  "audio": "poetry-0315.mp3",
+  "image": "poetry-0315-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Qu0kvRIK5hc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

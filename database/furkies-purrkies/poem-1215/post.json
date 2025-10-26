@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1215",
+  "guid": "c2d23aa6-7f75-458f-ba9c-70760cb742bf",
+  "title": "Today, Politics Is A Mental Illness; But We Can Fix This By Replacing Politicians With House Cats",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-30T02:55:56.408Z",
+  "lastmod": null,
+  "weight": 121500,
+  "audio": "poem-1215.mp3",
+  "image": "poem-1215-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/N_G2Sqdy9QY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

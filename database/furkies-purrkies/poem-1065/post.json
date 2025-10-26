@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1065",
+  "guid": "dfc93190-2f90-4697-9c7f-79ff79535a3c",
+  "title": "Beautiful Cultures; Or, The Audio Pendant Of Knowledge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-30T03:48:48.125Z",
+  "lastmod": null,
+  "weight": 106500,
+  "audio": "poem-1065.mp3",
+  "image": "poem-1065-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1940",
+  "guid": "a15544e2-886e-46e7-9972-f1aa38b3295c",
+  "title": "Stand Up Against Fake Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-24T01:54:26.014Z",
+  "lastmod": null,
+  "weight": 194000,
+  "audio": "poem-1940.mp3",
+  "image": "poem-1940-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

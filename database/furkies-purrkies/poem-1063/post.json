@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1063",
+  "guid": "4e93f6f9-44df-4aa8-9d0d-6c2b83b68905",
+  "title": "Today, Art Is Calling Out To All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-28T03:00:07.146Z",
+  "lastmod": null,
+  "weight": 106300,
+  "audio": "poem-1063.mp3",
+  "image": "poem-1063-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://en.wikipedia.org/wiki/Midjourney"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

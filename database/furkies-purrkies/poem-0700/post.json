@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0700",
+  "guid": "c0220077-f3ea-440b-bb5d-5f1ab5866291",
+  "title": "A Letter To Brand New Artists: Mona Lisa Calls To You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-30T00:05:12.135Z",
+  "lastmod": null,
+  "weight": 70000,
+  "audio": "poetry-0700.mp3",
+  "image": "poetry-0700-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

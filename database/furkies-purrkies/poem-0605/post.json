@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0605",
+  "guid": "ab0ef4de-6b54-408f-a531-356f798329a0",
+  "title": "The Century Of Freedom And Equality",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-27T00:08:16.059Z",
+  "lastmod": null,
+  "weight": 60500,
+  "audio": "poetry-0605.mp3",
+  "image": "poetry-0605-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IWJH-l-vb4k"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

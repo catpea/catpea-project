@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-hacker",
+  "guid": "08431eae-169a-4b55-b10d-37d982d94c58",
+  "title": "The Hacker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-01-22T02:54:23.471Z",
+  "lastmod": null,
+  "weight": 15000,
+  "audio": null,
+  "image": "warrior-the-hacker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0555",
+  "guid": "9ae5da53-5ffe-40dc-aa12-c3f2eb0afaab",
+  "title": "Programming Challenge: declaration.json",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-06T18:37:40.464Z",
+  "lastmod": null,
+  "weight": 55500,
+  "audio": "poetry-0555.mp3",
+  "image": "poetry-0555-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/i_xNmRRy0kk"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

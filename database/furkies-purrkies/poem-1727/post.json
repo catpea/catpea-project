@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1727",
+  "guid": "90d98f09-e289-4ad8-8188-430616d6cbe1",
+  "title": "My Name is Aurelia Sapiens And This Is The Twistin’ Tongue-twister",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-23T00:30:37.784Z",
+  "lastmod": null,
+  "weight": 172700,
+  "audio": "poem-1727.mp3",
+  "image": "poem-1727-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

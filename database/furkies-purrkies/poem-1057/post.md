@@ -1,0 +1,146 @@
+When I was signing up for college,
+I questioned the selection of classes forced on me.
+
+I wanted to get better at programming,
+I knew what classes to take...
+
+I asked why do I need all these when I wanted to be a programmer,
+and the lady said weirdly said “balanced education”.
+
+To me a balanced education was a step down,
+and she was pushing me into something that she knew was worthless.
+
+And this young lady was doing that, to iron things out,
+to make me stop sticking out, because she needs to get paid.
+
+This seemingly benign situation,
+was actually one of the worst things that have happened to me.
+
+I was betrayed, by College, this precious thing,
+that I held in such great esteem.
+
+I was told to shut the heck up,
+and take the back seat.
+
+Because balanced education is what they do,
+and balanced education is what they get paid for.
+
+That is a cult,
+a cult of education.
+
+---
+
+It is a non religious shit show,
+where anything that sticks out, needs to be destroyed.
+
+There is no need,
+for what nobody gets paid for.
+
+---
+
+You might not have noticed, that this student,
+was exercising her authority over new sign-ups.
+
+I think of her as a movie villain,
+and call her the lawnmower-woman, in my memories.
+
+The movie lawnmower-man,
+when it was released in my country of origin…
+
+Had to be retitled, because,
+the country used to be a bit late, behind the world's advancements.
+
+The movie was retitled,
+“Mind Scyther”, as we were far more familiar with the scythe.
+
+That is exactly what she did, in her madness to adhere and get paid,
+she attempted to cut my mind off.
+
+---
+
+I say all these things with a smile,
+because I did see through it, I lost all faith in education.
+
+I didn’t even take the entrance exam,
+I took only the classes I liked.
+
+And when I was put on the Deans list, with a perfect 4.0,
+I dropped out, it was too much.
+
+---
+
+You must never do what I did,
+because every time I think about that fake college, I love it even more.
+
+I love the evenings, the smart people, that wouldn’t even look at me,
+...I loved talking to teachers.
+
+I miss the Art Professor that called me a pig for leaving paint on the easel,
+...this is before I took her class.
+
+I miss the Philosophy teacher,
+who failed to even teach Descartes.
+
+I loved talking to him after class,
+even though he was fake and said Ms. Rand was not a Philosopher.
+
+I would later learn that’s what the popular kids say,
+when they want to feel smarter than her.
+
+I loved the evenings, the strange people that flew kites,
+and the gym, the gym that I was just too shy to go to.
+
+---
+
+This institution has betrayed me,
+but I made it beautiful.
+
+It is what we all do,
+it is not just that wherever we go there we are, as High School tried to teach.
+
+Bu that wherever we go,
+we will bring out beauty with us, and make it more beautiful.
+
+We have to learn to resist inauthentic things,
+because they are not worthy of what we bring into them.
+
+---
+
+For every day of lectures, I read one less book,
+for every homework, I wrote one less happy little program.
+
+Each time I disgraced myself by perfectly memorizing for the tests,
+knowing that a test does not test what I have learned…
+
+But just the questions I was suppose to memorize,
+I destroyed valuable authentic knowledge that I could have gained by normal means.
+
+By being tied down to a College,
+I was unable to set off on my Great Adventures.
+
+---
+
+And once I left all the inauthentic things behind,
+I finally learned to bring my beauty, to beautiful things, like the Ocean and the Great Lakes.
+
+---
+
+We are all beautiful, and we all haul all that beauty with us,
+and I urge you, not to drag it through inauthentic things.
+
+The concept of “Hoop jumping”, is just as infective and inauthentic,
+as balanced or standardized education.
+
+Do not waste your beauty, instead, take to narrated books,
+to get at the wisdom, you can’t just read a book, you have to hear it.
+
+You have to have room to re-listen to it,
+until you make your way deeply into it, until you inherit the authors wisdom.
+
+---
+
+To summarize this poem and lecture,
+do not drag your beauty into inauthentic things.
+
+Ms. Rand used to say,
+“In any compromise between good and evil, it is only evil that can profit.”

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1150",
+  "guid": "056f1dcd-bace-4acb-9184-7e428fffbc18",
+  "title": "Programming Interviews Are A Mistake",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-26T03:29:39.020Z",
+  "lastmod": null,
+  "weight": 115000,
+  "audio": "poem-1150.mp3",
+  "image": "poem-1150-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6LSi_Di97rA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

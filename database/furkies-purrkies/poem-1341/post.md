@@ -1,0 +1,117 @@
+We are not used to taking about the outside,
+of our indoctrination.
+
+Outside of our knowledge rooted in ineffective schools,
+and TV shows crafted for effective advertising.
+
+And beliefs, which are always blind,
+and presented to us by a loving family member.
+
+----
+
+To get a better look at ourselves we must understand what a Human Being is,
+and where we are currently at, in our growing up in the universe.
+
+Many complex problems arise from friction,
+between reality and the way the world currently functions.
+
+And there are levels to the functioning of our word,
+as thing tend to feed off of each other.
+
+Our world brainlessly builds as it can be built,
+it is not in fact carefully arranged with great vision and wisdom.
+
+To give a few examples, false leaders, predatory pricing of medicine,
+ineffective education, indoctrination of children into made up fantasies.
+
+These are not islands of opportunity,
+for the purpose of power, profit, wage slavery, and easy control.
+
+But layered towers of corruption,
+exploiting traditions, loopholes, lack of real education.
+
+Anything and everything that is legal though maybe unethical,
+and whatever is politically advantageous.
+
+High prices of otherwise cheap medicine,
+are legal but unethical.
+
+And false campaign promises that politicians always festoon themselves with,
+are always non-legally binding, and make the voter a fool.
+
+---
+
+These systems of exploitation are not very easy to visualize,
+because they are opportunistically grown at a time when it is possible or optimal.
+
+And they stick as their large momentum keeps them going,
+and uneducation ensures that a fool is in-fact born every minute.
+
+If a system has leadership, then the leaders will emerge on their own,
+the influences rise as a function of randomness and opportunity.
+
+There are no schools of corruption, no serous world conspiracies,
+though many may convince themselves that random acts are their doing.
+
+Therefore, there is nothing to trace, prove, comprehend,
+a thing is because it happened.
+
+---
+
+It is important to note that the opposite of systems of exploitation,
+are systems of wisdom, systems that honor human greatness.
+
+But, all it takes to collapse them, and fuel a new dark age,
+is rendering schools ineffective, and burning libraries, or just books.
+
+The future of humanity is not found in merely the opposite of systems of exploitation,
+but in empowering the individual, with real education, and profound wisdom.
+
+---
+
+Human beings, are good, noble, beautiful,
+meant for love of wisdom, greatness, and great health and adventure.
+
+But we are way to easily corrupted because we tend to blindly believe whatever we are born into,
+and as a result all easily exploited.
+
+All it takes to create followers, votes, loans, sales, and a fool, every minute,
+is keeping things broken, ineffective, deaf, dumb, and blind.
+
+Making effort to improve the world look outstanding and breathtaking,
+without actually changing anything.
+
+---
+
+We must each learn to gain a good view of the world,
+is by rejecting all the broken things, many of which are killing you.
+
+And building yourself up the right way,
+from the beginning.
+
+Find all the world most profound non-ficion books written by clear thinkers,
+and held in high esteem by all the world intellectuals.
+
+And earn your triple crown,
+by walking the Appalachian, Pacific Crest, and Continental Divide Trails.
+
+Taking time away from from broken things,
+and spending it on inheriting wisdom and culture from great beings is a new start.
+
+Here, you will not be part of systems of exploitation,
+that is always trying to stretch, warp, or mangle you.
+
+You will sand, free, well outside,
+of the organically grow patchworks.
+
+Perhaps in your rise away from stress, you will find a way,
+to begin enabling each student with personalized and meaningful education.
+
+So that the world may begin growing inside out,
+to not need that strange shell that wraps it.
+
+Or perhaps, in your rise to the free world,
+you will have already found it.
+
+And become a trail guide,
+and so much more.

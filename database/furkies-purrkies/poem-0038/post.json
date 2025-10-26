@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0038",
+  "guid": "8f18cc1a-40bf-4530-a963-9ddb5d1f1567",
+  "title": "Rise To The Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-19T00:45:14.349Z",
+  "lastmod": null,
+  "weight": 3800,
+  "audio": "poetry-0038.mp3",
+  "image": "poetry-0038-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

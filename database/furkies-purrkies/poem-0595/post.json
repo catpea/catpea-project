@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0595",
+  "guid": "a76f6424-ce2d-4052-a6b1-37075ff90178",
+  "title": "To Carry On The Hopes And Dreams",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-16T22:50:08.700Z",
+  "lastmod": null,
+  "weight": 59500,
+  "audio": "poetry-0595.mp3",
+  "image": "poetry-0595-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/_ETohnW9Ock"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

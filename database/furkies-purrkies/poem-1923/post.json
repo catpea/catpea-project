@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1923",
+  "guid": "ad0deb2a-4290-4dfb-8015-2c793a88742d",
+  "title": "MikiMikiMeowMeow; Or, Getting Fancy With AI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-06T22:33:50.250Z",
+  "lastmod": null,
+  "weight": 192300,
+  "audio": "poem-1923.mp3",
+  "image": "poem-1923-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

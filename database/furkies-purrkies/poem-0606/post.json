@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0606",
+  "guid": "6c64ec01-1c37-4232-8b1f-d044824d8c5f",
+  "title": "Of School And Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-27T22:53:01.694Z",
+  "lastmod": null,
+  "weight": 60600,
+  "audio": "poetry-0606.mp3",
+  "image": "poetry-0606-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gINjJIlueHw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

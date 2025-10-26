@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1951",
+  "guid": "397ce1b3-ebbb-4a7f-9dd8-66db20f2f6ce",
+  "title": "From Silly Animation To The Pixel World Builders",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-04T23:59:27.251Z",
+  "lastmod": null,
+  "weight": 195100,
+  "audio": "poem-1951.mp3",
+  "image": "poem-1951-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0565",
+  "guid": "82617187-d25e-4e01-b52a-9d29f8ed67a8",
+  "title": "The Great Challenges",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-17T00:45:37.446Z",
+  "lastmod": null,
+  "weight": 56500,
+  "audio": "poetry-0565.mp3",
+  "image": "poetry-0565-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

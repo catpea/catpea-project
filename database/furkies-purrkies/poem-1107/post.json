@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1107",
+  "guid": "fe757b50-3dc8-44ad-a096-b94e4087fa59",
+  "title": "Quirkedy Quirks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-14T03:43:42.626Z",
+  "lastmod": null,
+  "weight": 110700,
+  "audio": "poem-1107.mp3",
+  "image": "poem-1107-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eWHJjFY1NGU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

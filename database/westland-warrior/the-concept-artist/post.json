@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-concept-artist",
+  "guid": "ed6ac20d-ee34-4ee8-8316-d19b707a524c",
+  "title": "The Concept Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-03-06T23:02:15.955Z",
+  "lastmod": null,
+  "weight": 14400,
+  "audio": null,
+  "image": "warrior-the-concept-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

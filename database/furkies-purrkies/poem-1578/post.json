@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1578",
+  "guid": "1b2b9353-5c79-4396-9a76-84b8b72c5b17",
+  "title": "Thirty Seconds At A Time; Or, A Brief Overview Of Music Generation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-26T23:47:45.649Z",
+  "lastmod": null,
+  "weight": 157800,
+  "audio": "poem-1578.mp3",
+  "image": "poem-1578-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0978",
+  "guid": "ce777fe2-49b2-425a-b037-17de3da3f80a",
+  "title": "Don't Generalize, Specialize; Or, How To Invent And Program Useful Web Applications",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-04T03:03:54.766Z",
+  "lastmod": null,
+  "weight": 97800,
+  "audio": "poem-0978.mp3",
+  "image": "poem-0978-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cqFKhqv6Ong"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

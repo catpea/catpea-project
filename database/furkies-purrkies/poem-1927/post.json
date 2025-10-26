@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1927",
+  "guid": "f637796b-d020-4e93-a1ff-d03c00a1858d",
+  "title": "Ex Pluribus Unum Facere: A Proclamation To The Peoples of Earth",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-11T00:15:53.977Z",
+  "lastmod": null,
+  "weight": 192700,
+  "audio": "poem-1927.mp3",
+  "image": "poem-1927-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://pixabay.com/sound-effects/radio-waves-248661/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

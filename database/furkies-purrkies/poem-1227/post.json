@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1227",
+  "guid": "2818668a-dbef-45f1-b3e4-9707a93f3fda",
+  "title": "Whale Fall; Or, The Betrayal Of Standardized Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-12T03:30:43.459Z",
+  "lastmod": null,
+  "weight": 122700,
+  "audio": "poem-1227.mp3",
+  "image": "poem-1227-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/k8J0eCVbWqY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

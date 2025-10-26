@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1408",
+  "guid": "5280af73-59d8-4faa-893b-19f7ab69e136",
+  "title": "Gym Clothes And Shoes; Color, Kind, And Considerations",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-09T03:30:12.864Z",
+  "lastmod": null,
+  "weight": 140800,
+  "audio": "poem-1408.mp3",
+  "image": "poem-1408-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1388",
+  "guid": "14892573-2b8a-4630-a6a8-bcd84e7336e4",
+  "title": "Life After AI; Or, Eternal Living, Forever Young",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-20T04:48:58.915Z",
+  "lastmod": null,
+  "weight": 138800,
+  "audio": "poem-1388.mp3",
+  "image": "poem-1388-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

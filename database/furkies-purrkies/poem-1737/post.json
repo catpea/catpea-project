@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1737",
+  "guid": "78bf3a23-1de7-4b7f-a839-490ac3797145",
+  "title": "The World Remedy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-03T05:08:06.844Z",
+  "lastmod": null,
+  "weight": 173700,
+  "audio": "poem-1737.mp3",
+  "image": "poem-1737-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

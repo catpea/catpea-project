@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1506",
+  "guid": "e071c557-002a-4c44-8e08-5b8305641597",
+  "title": "You Will Live Forever",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-16T03:44:41.361Z",
+  "lastmod": null,
+  "weight": 150600,
+  "audio": "poem-1506.mp3",
+  "image": "poem-1506-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

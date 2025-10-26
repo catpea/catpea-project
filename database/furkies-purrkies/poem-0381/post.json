@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0381",
+  "guid": "7be2bde1-69af-42a9-b665-4befe490acaa",
+  "title": "Evenings At Nordhouse: Adventures At The Edge Of The Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-17T01:23:55.858Z",
+  "lastmod": null,
+  "weight": 38100,
+  "audio": "poetry-0381.mp3",
+  "image": "poetry-0381-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Xb76CUAq7yU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

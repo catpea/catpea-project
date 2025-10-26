@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2003",
+  "guid": "64316751-9672-4945-b197-45ee49fe2778",
+  "title": "Selling Your Software",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-25T23:51:56.339Z",
+  "lastmod": null,
+  "weight": 200300,
+  "audio": "poem-2003.mp3",
+  "image": "poem-2003-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

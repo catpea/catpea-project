@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0847",
+  "guid": "b1548144-9fb9-42bf-a79a-eefcdd37b210",
+  "title": "The Drawing Tutorial; Or, A World Tricked Out Of Learning Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-25T15:15:28.933Z",
+  "lastmod": null,
+  "weight": 84700,
+  "audio": "poetry-0847.mp3",
+  "image": "poetry-0847-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

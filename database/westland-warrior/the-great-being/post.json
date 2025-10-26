@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-great-being",
+  "guid": "244df365-80a6-40c7-8f8f-207d9919aa5f",
+  "title": "The Great Being",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-10-25T23:40:49.000Z",
+  "lastmod": null,
+  "weight": 18000,
+  "audio": null,
+  "image": "warrior-the-great-being-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

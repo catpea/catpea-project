@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1885",
+  "guid": "b4326e8c-38c6-44f7-a499-cea57e99e55c",
+  "title": "Gym Energy Is Just Jogger Energy; And, The Vegetable Jungle Juice On A Stick Lick",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-29T21:01:03.331Z",
+  "lastmod": null,
+  "weight": 188500,
+  "audio": "poem-1885.mp3",
+  "image": "poem-1885-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

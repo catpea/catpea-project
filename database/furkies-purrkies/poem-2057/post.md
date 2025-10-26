@@ -1,0 +1,137 @@
+This is a starting point to comprehending latest modern programming,
+that allows you to assemble a library of AI generated Web Components.
+
+And make some applications that share a central object,
+referred to as context.
+
+We will not use any code, but I provide a 250 line sample application, with pretty neat code,
+and in a [single html file that you can download to your computer edit and drag onto your browser window][1].
+
+---
+
+And I am about to tell,
+you that you can attach an event listener to any HTML element.
+
+And listen for “application-context” event, replying with the same object,
+to all the requests.
+
+And canceling the application-context event,
+from going up higher.
+
+---
+
+Just like the folders on your computer,
+the web page uses the concept of a tree.
+
+You are usually a bunch of branches deep,
+so you select the branch that contains your application best.
+
+Application Context, holds the variables that must be shared,
+like selected user, or active gadget.
+
+You don’t use it, for variables that can be handled some other way,
+only for those, that must be handled at the root of everything.
+
+Application context, or the few shared variables, are so critical,
+that your application won’t come together without it.
+
+---
+
+If you are making a complicated form,
+the form container would a good place to attach the application-context listener/responder to.
+
+If you are building a fancy login profile feature with use photo,
+links to the profile editor, and a display of how many messages are waiting for them.
+
+The square area that has the button and icon, that opens the drop-down menu,
+is a pretty good place to attach the application-context listener/responder to.
+
+If you were making a little pixel art game,
+then the context would sit right where the game screen display is.
+
+If you just have one application, and honey badger don’t care,
+put it at document.body, or maybe main container.
+
+---
+
+Your custom web components,
+shouldn't really ask for application context internally.
+
+They should expose events like, user clicked on color,
+you then listen to that event in your code outside of the web component.
+
+Now when you click a color, you ask for enclosing application context context,
+and simply say context.set(‘selected color’, event color).
+
+You should emit an even here as well,
+context changed.
+
+Wow whatever displays the selected color, will have also asked for context,
+and then started listening to change event.
+
+And now it would be notified,
+of change.
+
+Where it can execute context.get(‘selected color’),
+and update its lite square that shows the color.
+
+---
+
+You can see how your components can be scattered around,
+in menus, footers, headers.
+
+But they the ask for context by emitting an application-context event,
+with a function that will be executed and given context as only argument.
+
+Where they can save it in their code,
+or keep asking.
+
+They always get the same central object,
+the response from the all enclosing thing…
+
+That you attached the,
+application-context listener/responder to.
+
+---
+
+Now you can have multiple little applications in your web page,
+all able to request their context, without stepping on one another.
+
+---
+
+Which brings us back to the opening part of this text,
+for some of you a pretty strange text.
+
+This text, doubles as teaching instruction for your favorite AI,
+to generate some web components maybe inspired by Bootstrap CSS framework.
+
+And then, showing you how you just attach an event,
+to tie all the reusable web components together.
+
+---
+
+I appreciate the idea of High School being a meeting place,
+to some degree preventing you from becoming a doom scrolling skitzoid.
+
+But that is not what school was designed for,
+they were supposed to teach you to learn class from great beings.
+
+But they nerfed you books,
+because you would be able to discover your education is fake.
+
+The system evolved to use every trick in the book on you,
+from love bombing, community of friends, to promise of great career.
+
+But you aren’t actually learning,
+you are being cheated.
+
+Ask you artificial intelligence to teach you about Web Components,
+and show you how to create a cute little context API in just a few lines.
+
+This is more important than you think,
+because in the absence of teachers, you must become a teacher.
+
+Don't let the world end in darkness, or fire,
+stand up to build where the great beings left off.
+
+[1]: files/litte-app.html

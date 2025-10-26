@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1398",
+  "guid": "e4a56877-ae36-4e8d-869a-e9d13869380c",
+  "title": "Big Bada Obesity Boom!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-30T04:06:04.065Z",
+  "lastmod": null,
+  "weight": 139800,
+  "audio": "poem-1398.mp3",
+  "image": "poem-1398-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

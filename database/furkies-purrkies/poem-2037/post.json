@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2037",
+  "guid": "b28daf1c-54e4-48f6-b5bf-257be34ce76b",
+  "title": "The Tiny Hoity Toity Codebin: Introducing JavaScript, CSS, and HTML The Right Way",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-28T00:23:37.403Z",
+  "lastmod": null,
+  "weight": 203700,
+  "audio": "poem-2037.mp3",
+  "image": "poem-2037-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

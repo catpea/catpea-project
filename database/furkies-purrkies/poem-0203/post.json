@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0203",
+  "guid": "85044eed-bc34-4681-a537-d70542ef0911",
+  "title": "Speak Out To Inspire",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-19T20:46:19.434Z",
+  "lastmod": null,
+  "weight": 20300,
+  "audio": "poetry-0203.mp3",
+  "image": "poetry-0203-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9VOGBLYCZM0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

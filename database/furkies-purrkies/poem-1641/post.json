@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1641",
+  "guid": "0f48029a-ddfe-487f-924b-c07c3b231bcb",
+  "title": "When Control Takes A Toll – A Back To School Special",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-29T01:59:50.661Z",
+  "lastmod": null,
+  "weight": 164100,
+  "audio": "poem-1641.mp3",
+  "image": "poem-1641-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

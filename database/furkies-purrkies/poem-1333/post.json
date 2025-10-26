@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1333",
+  "guid": "f05d527d-ee03-40fe-82ee-9fb74ad6e733",
+  "title": "A Tiny Look At Generative Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-26T03:09:48.310Z",
+  "lastmod": null,
+  "weight": 133300,
+  "audio": "poem-1333.mp3",
+  "image": "poem-1333-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

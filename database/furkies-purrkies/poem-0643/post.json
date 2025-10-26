@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0643",
+  "guid": "db292c0a-85ce-4a85-b27a-22eb6f80b950",
+  "title": "Color Quest: Your Mysterious Cupboard Of Magical Treasure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-04T01:04:59.785Z",
+  "lastmod": null,
+  "weight": 64300,
+  "audio": "poetry-0643.mp3",
+  "image": "poetry-0643-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/s3tPywNsLSo"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

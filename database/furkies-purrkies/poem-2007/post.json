@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2007",
+  "guid": "6d3aa8bc-3c25-4f13-833a-1c7597d1651b",
+  "title": "Goodbye Our Darling UFOs: A Farewell to Our Beautiful Delusion",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-29T20:35:08.665Z",
+  "lastmod": null,
+  "weight": 200700,
+  "audio": "poem-2007.mp3",
+  "image": "poem-2007-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

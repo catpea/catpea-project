@@ -1,0 +1,149 @@
+Above all, and you are not going to like this,
+you have to become a great being in life.
+
+Everything you do will have to be,
+Grand, Noble, Dignified, and Genius.
+
+And where you fail, you will have to rise,
+by putting in that much more effort.
+
+While you can quickly understand,
+that the choices you make dictate the life ahead of you.
+
+What will be hard to understand,
+is that you have an intellectual inheritance waiting for you.
+
+It is an emergency, you are getting bored,
+because you did not hear your books.
+
+Mostly they are just the life changing top sellers,
+published since the day you were born.
+
+You can see how listening and perhaps even more importantly,
+re-listening to them, will help you get a grasp on the world.
+
+Roughly, you nee to listen to a hundred books,
+as fast as you can, a book a day, again this is an emergency.
+
+Adventure books, science popularizer books,
+and books about history of philosophy are the big ones.
+
+But fiction is often life changing as well,
+I loved listening to Twilight while jogging at night.
+
+I always saw the sparkling vampires as poetry,
+a mix of allegories, the books were awesome.
+
+But, I think the most memorable ones are the adventure books,
+I will never touch a freaking jelly fish in my life.
+
+And probably just smack,
+the next mountain climber I meet – what the heck are they thinking.
+
+---
+
+Again, I just want to explain,
+that boredom coms from lack of wise and books.
+
+And books are almost 99% of the way out,
+they help you inherit the wisdom from other people’s lives.
+
+Please, just go to the library,
+and start with the narrated or audio-books that fascinate you the most first.
+
+---
+
+But that final 1% is where it gets interesting,
+and the way I present it is super weird, sorted by complexity.
+
+One, you need to get walking,
+learn survival skills, start hiking, and camping.
+
+At the very least, you need to spend two months of every year,
+in the freaking woods – your work-or-city-life year should only last 10 months.
+
+Actual life balance requires six months of adventuring,
+without it you just become a burned out adult.
+
+---
+
+Once you got the walking down, you begin lifting,
+we have to be athletes.
+
+We are animals, or in animal bodies,
+and that means we need a balanced musculature and plenty of activity.
+
+Bodybuilding, if you are curious, is just aerobics,
+with progressively heavier weights.
+
+You always keep moving for an hour or more,
+but whenever you adapt, you add more dumbbell weight.
+
+It is the duration that build muscle,
+the weight comes second.
+
+But you must never sit, and always aim to dance,
+you need to twist and turn, that how we stay fit.
+
+---
+
+And you are not going to believe what is number three,
+this is going to sound super crazy.
+
+You need a used wall projector, or office projector,
+I got mine for $10 or $15 dollars.
+
+And then you project it on large canvas of board,
+and become a painter.
+
+Start with animal portraits,
+and then move on to people.
+
+Learn how to mix paint, take a long time,
+take mixing seriously, because it makes art beautiful.
+
+So at first, use shades of brown,
+which is the painting equivalent of black and white.
+
+And don’t call it studying tone,
+call it art.
+
+And then very gently apply transparent paint,
+to give your tone a gentle hint of color.
+
+If you don’t approach color with respect,
+it will destroy you.
+
+---
+
+And now, that you become well read,
+go on adventures, live a healthy life.
+
+You need a plan for the future,
+don’t listen too much to advice.
+
+Becoming a Lawyer just became a very bad idea,
+because of artificial intelligence.
+
+It is more powerful than people allow themselves to think,
+and it is learning on its own with predictions of become self aware in few years.
+
+The meta career, that is above all other careers,
+is programming.
+
+I always present it as one of the things that a person can choose,
+but, it is actually the only thing.
+
+What is even more amazing,
+is that AI can help you figure things out real quick.
+
+Learn programming and then go to school to study art and programming,
+this way you win your battles before meeting the enemy, so to speak.
+
+---
+
+Use your brain, feet, muscle, eyes, and finally genius,
+you see, there is no time to get bored in life.
+
+Your ultimate aim os to grow all the way up,
+and become a great being.

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1352",
+  "guid": "30524311-4d37-4801-8499-66207aa51bbb",
+  "title": "Into The Future; Or, Visual Programming Languages And Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-14T04:22:02.641Z",
+  "lastmod": null,
+  "weight": 135200,
+  "audio": "poem-1352.mp3",
+  "image": "poem-1352-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://flume.dev/docs/using-with-react/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

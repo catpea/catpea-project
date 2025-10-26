@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-sociologist",
+  "guid": "87b95071-d7b4-430d-966b-13d1b87c6740",
+  "title": "The Sociologist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-09-06T01:14:25.187Z",
+  "lastmod": null,
+  "weight": 1500,
+  "audio": null,
+  "image": "warrior-the-sociologist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

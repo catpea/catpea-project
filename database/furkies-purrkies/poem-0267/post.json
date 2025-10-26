@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0267",
+  "guid": "41ad9fff-803c-4cfb-bdba-bc2ae9584e87",
+  "title": "For The Good Of Humankind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-23T02:18:25.055Z",
+  "lastmod": null,
+  "weight": 26700,
+  "audio": "poetry-0267.mp3",
+  "image": "poetry-0267-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

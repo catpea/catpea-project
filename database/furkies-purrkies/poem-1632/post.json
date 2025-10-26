@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1632",
+  "guid": "ae841b9b-2e13-47ec-acb4-aff2ac448073",
+  "title": "The Seagull Diet; Or, What Really Happened On The Day I Learned To Love The Michigan Seagull",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-20T01:03:58.583Z",
+  "lastmod": null,
+  "weight": 163200,
+  "audio": "poem-1632.mp3",
+  "image": "poem-1632-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

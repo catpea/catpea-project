@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1066",
+  "guid": "fbbc84af-6c89-45c8-a61d-dcf0c9a34ccb",
+  "title": "Becoming A Philosopher Is Just Another Part Of Growing Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-31T02:58:48.999Z",
+  "lastmod": null,
+  "weight": 106600,
+  "audio": "poem-1066.mp3",
+  "image": "poem-1066-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

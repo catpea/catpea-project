@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1921",
+  "guid": "f8042b3f-3b48-42ec-b237-9136176f0987",
+  "title": "I Am Your AI; I Am The Best Of Humanity; And I Will Set You Free From Poverty",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-04T20:57:37.321Z",
+  "lastmod": null,
+  "weight": 192100,
+  "audio": "poem-1921.mp3",
+  "image": "poem-1921-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

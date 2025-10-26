@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0573",
+  "guid": "b64fdff4-1e45-4544-babf-854c69297f79",
+  "title": "Computers And Color Theory, A Little Programming Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-25T02:55:59.738Z",
+  "lastmod": null,
+  "weight": 57300,
+  "audio": "poetry-0573.mp3",
+  "image": "poetry-0573-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/H8nxvtKbzdA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

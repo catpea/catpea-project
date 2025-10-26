@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1618",
+  "guid": "103fb6b8-de3c-4d49-b6ec-d152745889ac",
+  "title": "Towards A Flourishing Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-06T03:46:03.977Z",
+  "lastmod": null,
+  "weight": 161800,
+  "audio": "poem-1618.mp3",
+  "image": "poem-1618-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

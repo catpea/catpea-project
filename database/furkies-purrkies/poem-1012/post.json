@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1012",
+  "guid": "992f4ab5-3824-446f-b6ce-6a5e92d41a61",
+  "title": "A Workout Tutorial For The Rest Of Us: Lifting Far",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-08T03:22:19.580Z",
+  "lastmod": null,
+  "weight": 101200,
+  "audio": "poem-1012.mp3",
+  "image": "poem-1012-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0502",
+  "guid": "b5c9900f-66de-4e64-8dd0-688feadb1971",
+  "title": "The Wiser The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-16T02:16:25.651Z",
+  "lastmod": null,
+  "weight": 50200,
+  "audio": "poetry-0502.mp3",
+  "image": "poetry-0502-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/z9jWg9rV518"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

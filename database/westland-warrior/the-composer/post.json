@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-composer",
+  "guid": "92769065-4e8d-437f-b85d-83ad42c15fb1",
+  "title": "The Composer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-11-27T03:18:56.765Z",
+  "lastmod": null,
+  "weight": 9500,
+  "audio": null,
+  "image": "warrior-the-composer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

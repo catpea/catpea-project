@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1413",
+  "guid": "70aab240-3e71-4e0c-8691-c4d8f1f5e174",
+  "title": "The Cheerful Challenge Of Strange Little Poems",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-14T03:55:28.207Z",
+  "lastmod": null,
+  "weight": 141300,
+  "audio": "poem-1413.mp3",
+  "image": "poem-1413-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

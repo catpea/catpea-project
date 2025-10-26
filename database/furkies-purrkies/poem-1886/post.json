@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1886",
+  "guid": "33f0ac06-db34-4b76-aa93-7006f9ec62c9",
+  "title": "Semper Fidelis To Truth; If The Lights Go Out In Our Time, Light Them Again In Yours",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-30T22:37:12.685Z",
+  "lastmod": null,
+  "weight": 188600,
+  "audio": "poem-1886.mp3",
+  "image": "poem-1886-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

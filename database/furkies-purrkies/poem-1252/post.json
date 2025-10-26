@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1252",
+  "guid": "e032c80c-80bd-4c93-8f81-ddcfcd2a5f43",
+  "title": "Welcome To Planet Earth - A Word Of Caution",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-06T03:32:53.340Z",
+  "lastmod": null,
+  "weight": 125200,
+  "audio": "poem-1252.mp3",
+  "image": "poem-1252-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JIdmuiF9luY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

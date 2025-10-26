@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2049",
+  "guid": "c18b2d19-ecf3-4876-8e57-b68b2d1575a0",
+  "title": "Immensely Powerful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-10T02:06:34.148Z",
+  "lastmod": null,
+  "weight": 204900,
+  "audio": "poem-2049.mp3",
+  "image": "poem-2049-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

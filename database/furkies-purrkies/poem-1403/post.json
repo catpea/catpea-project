@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1403",
+  "guid": "d20d8fc2-c2d9-4348-b27c-2ca7c04597ec",
+  "title": "What Else Can Today’s Artificial Intelligence Do?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-04T04:38:04.301Z",
+  "lastmod": null,
+  "weight": 140300,
+  "audio": "poem-1403.mp3",
+  "image": "poem-1403-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

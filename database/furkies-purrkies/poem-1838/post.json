@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1838",
+  "guid": "74355f1a-03e8-4d88-9eab-8082c83a6e0a",
+  "title": "Six Days Until Spring",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-14T02:04:18.039Z",
+  "lastmod": null,
+  "weight": 183800,
+  "audio": "poem-1838.mp3",
+  "image": "poem-1838-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

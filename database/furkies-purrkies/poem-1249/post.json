@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1249",
+  "guid": "cf40b2f8-81b7-4c00-8bfc-d4697f076a27",
+  "title": "The High School Conspiracy; Or, Don’t Let Teachers Trick You Into Thinking That You Are Dumb",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-03T03:15:03.918Z",
+  "lastmod": null,
+  "weight": 124900,
+  "audio": "poem-1249.mp3",
+  "image": "poem-1249-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/lQ6nepOAGg4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

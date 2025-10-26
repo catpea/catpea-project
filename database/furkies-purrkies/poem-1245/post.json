@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1245",
+  "guid": "0ddec7d4-c951-4500-b26b-4b804dc64894",
+  "title": "Standardized Anything Is Standardized Nothing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-30T03:08:56.946Z",
+  "lastmod": null,
+  "weight": 124500,
+  "audio": "poem-1245.mp3",
+  "image": "poem-1245-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/z5KN9D2CJfM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

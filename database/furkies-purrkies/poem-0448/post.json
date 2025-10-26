@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0448",
+  "guid": "b6f7f392-489c-4ae4-b1c1-123f11b34488",
+  "title": "Learning For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-23T01:10:20.590Z",
+  "lastmod": null,
+  "weight": 44800,
+  "audio": "poetry-0448.mp3",
+  "image": "poetry-0448-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kcT-7cirBEw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

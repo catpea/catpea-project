@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2027",
+  "guid": "34533363-8113-4428-b41a-ce3a036d4095",
+  "title": "When They Burned The Wise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-17T16:04:53.928Z",
+  "lastmod": null,
+  "weight": 202700,
+  "audio": "poem-2027.mp3",
+  "image": "poem-2027-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-full-moon-shining-over-the-ocean-at-night-ZfETVatKa7k"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

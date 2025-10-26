@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0861",
+  "guid": "3d219033-919c-49f8-8ab8-828d6e6975f8",
+  "title": "I Went To The Woods; Or, Don’t Let Broken Schools Frighten You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-10T01:18:26.024Z",
+  "lastmod": null,
+  "weight": 86100,
+  "audio": "poetry-0861.mp3",
+  "image": "poetry-0861-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EsGIHnUEDL8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

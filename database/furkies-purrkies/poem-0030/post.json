@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0030",
+  "guid": "ac91228d-537f-49d5-ba67-b5b8736d67e8",
+  "title": "Citizens of The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-11T03:42:57.257Z",
+  "lastmod": null,
+  "weight": 3000,
+  "audio": "poetry-0030.mp3",
+  "image": "poetry-0030-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

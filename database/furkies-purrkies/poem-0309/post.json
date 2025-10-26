@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0309",
+  "guid": "858ed8f5-d7e6-4932-94a2-05ef3d5d584f",
+  "title": "Do Not Take Things For Granted, And Reject The Status Quo",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-04T03:08:53.431Z",
+  "lastmod": null,
+  "weight": 30900,
+  "audio": "poetry-0309.mp3",
+  "image": "poetry-0309-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1GExw-wU7do"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

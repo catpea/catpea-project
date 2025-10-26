@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0467",
+  "guid": "15594f98-e3eb-4b51-8c3a-c67f3d76be4a",
+  "title": "For The World To Flourish",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-10T20:16:14.690Z",
+  "lastmod": null,
+  "weight": 46700,
+  "audio": "poetry-0467.mp3",
+  "image": "poetry-0467-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FVglVsCsYCk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

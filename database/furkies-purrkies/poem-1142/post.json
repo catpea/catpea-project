@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1142",
+  "guid": "7a6b277c-a76a-4c54-bcb1-04d8bedaf951",
+  "title": "To Correct Humanity's Course",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-18T03:05:06.943Z",
+  "lastmod": null,
+  "weight": 114200,
+  "audio": "poem-1142.mp3",
+  "image": "poem-1142-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0nTVjvzt9Rc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

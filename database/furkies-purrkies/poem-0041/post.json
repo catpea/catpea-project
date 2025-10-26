@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0041",
+  "guid": "77435cf7-6c11-4a87-a2e6-4d36c6478825",
+  "title": "Everybody Counts",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-22T01:29:53.978Z",
+  "lastmod": null,
+  "weight": 4100,
+  "audio": "poetry-0041.mp3",
+  "image": "poetry-0041-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

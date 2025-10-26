@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0311",
+  "guid": "eab7bf49-86f0-4837-a537-b263caa1d61d",
+  "title": "Intransigent",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-05T21:06:27.822Z",
+  "lastmod": null,
+  "weight": 31100,
+  "audio": "poetry-0311.mp3",
+  "image": "poetry-0311-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9uEHFjGXnCE"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

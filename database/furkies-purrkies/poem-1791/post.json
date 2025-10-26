@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1791",
+  "guid": "d61c0756-1979-4203-830a-68fd47fe6557",
+  "title": "Are You A Creature Of The Stars? A Very Easy Test",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-26T06:03:27.346Z",
+  "lastmod": null,
+  "weight": 179100,
+  "audio": "poem-1791.mp3",
+  "image": "poem-1791-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

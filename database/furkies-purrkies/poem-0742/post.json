@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0742",
+  "guid": "4949d868-b1ac-4043-b170-68f5631c06f8",
+  "title": "How To Frighten Programmers: A Programming Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-12T19:12:48.697Z",
+  "lastmod": null,
+  "weight": 74200,
+  "audio": "poetry-0742.mp3",
+  "image": "poetry-0742-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Ctaj_HCqW84"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

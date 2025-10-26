@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0583",
+  "guid": "f6a221f8-42f1-4c1d-b901-6e131d8c49c2",
+  "title": "The Next Generation Of Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-05T00:06:40.737Z",
+  "lastmod": null,
+  "weight": 58300,
+  "audio": "poetry-0583.mp3",
+  "image": "poetry-0583-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YI_9SivVt_s"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

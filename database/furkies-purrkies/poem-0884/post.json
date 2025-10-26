@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0884",
+  "guid": "d3044d6f-8818-494c-8b11-891d8187d5ce",
+  "title": "A Painting Can Totally Bite You; Or, The Science Of Painting Kittens",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-02T02:41:31.548Z",
+  "lastmod": null,
+  "weight": 88400,
+  "audio": "poetry-0884.mp3",
+  "image": "poetry-0884-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/j7uVTlpwI0o"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

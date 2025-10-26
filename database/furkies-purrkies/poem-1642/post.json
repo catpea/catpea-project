@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1642",
+  "guid": "7334cf22-0bf6-4f11-98c4-07672ce304fd",
+  "title": "Bodybuilding Explained Freaky Fast",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-30T02:48:59.685Z",
+  "lastmod": null,
+  "weight": 164200,
+  "audio": "poem-1642.mp3",
+  "image": "poem-1642-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

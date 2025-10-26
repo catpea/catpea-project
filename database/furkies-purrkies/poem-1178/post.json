@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1178",
+  "guid": "2986f9ee-5d5c-4b0b-bc97-e6ec62e9a626",
+  "title": "Hello Teacher, Tell Me What’s My Lesson",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-24T03:14:23.661Z",
+  "lastmod": null,
+  "weight": 117800,
+  "audio": "poem-1178.mp3",
+  "image": "poem-1178-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/dPh3kn80Us8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

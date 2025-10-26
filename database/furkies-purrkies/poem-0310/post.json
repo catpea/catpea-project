@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0310",
+  "guid": "aa0b11b0-d300-4849-bf39-7cc279b4fc36",
+  "title": "Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-05T03:37:57.346Z",
+  "lastmod": null,
+  "weight": 31000,
+  "audio": "poetry-0310.mp3",
+  "image": "poetry-0310-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/glass-wall-people-woman-girl-hair-2557577/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0065",
+  "guid": "b1669156-9791-4f27-bcab-c43537006a3d",
+  "title": "Unique Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-09T21:48:56.291Z",
+  "lastmod": null,
+  "weight": 6500,
+  "audio": "poetry-0065.mp3",
+  "image": "poetry-0065-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

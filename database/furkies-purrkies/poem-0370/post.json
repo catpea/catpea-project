@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0370",
+  "guid": "f2a507ef-00c3-487a-81d7-93701184a62b",
+  "title": "What Does The Adventurer Seek?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-06T02:21:34.740Z",
+  "lastmod": null,
+  "weight": 37000,
+  "audio": "poetry-0370.mp3",
+  "image": "poetry-0370-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kGSapVfg8Kw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

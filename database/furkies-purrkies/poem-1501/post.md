@@ -1,0 +1,143 @@
+Eclipses,
+or as we should call them from now on Eclipsi…
+
+Have been going on since the moon joined us in orbit,
+some 4.5 billion years ago.
+
+They occur when the moon gets between us and the sun,
+in just the right way.
+
+And curious creatures have been branded by the circle,
+for hundreds of thousands of years.
+
+The circle has ever since been a pain in the neck,
+of vile men looking to hold humanity back.
+
+To create a population of at least wage salves,
+for power, for glory, and out of madness.
+
+This hope of control still occurs today,
+evil men burn books, destroy schools, and deny education.
+
+The most heartbreaking example,
+are the lost protesters, the ones we forgot about.
+
+---
+
+An eclipse, or your even brand,
+which will fade on its won, but you still see a doctor.
+
+Is a universal anomaly, historically,
+something that the mad en hoping to own humanity coudn’t predict.
+
+An eclipse would call their hold on the world,
+into question.
+
+They would brush it up to gods,
+another tool they supported, for the sole purpose of control.
+
+---
+
+The eclipse, joins a host of other phenomena,
+that was once thought unexplainable or attributed to gods.
+
+Sun Dogs, the flash of green at the sunset, and more down to earth things,
+like how glass can create a rainbow, or how ships sink at the horizon.
+
+---
+
+Copernicus (born 1473) shows us the threat,
+he published his revolutions, only, right before his death.
+
+---
+
+Giordano Bruno (born 1548, burned at the stake in year 1600),
+has a looming statue in Rome, where men who destroyd him.
+
+Still hold that they were justified,
+but apologize for use of violence.
+
+Not an apology that should ever be accepted,
+ever.
+
+The moon it self is the most revolutionary thing,
+in early imagination, it shows that celestial spheres revolve.
+
+That there is a moon around earth,
+and that we move around the sun, and that there are stars in the sky.
+
+Will forever undo,
+all intellectual bondage.
+
+By subtle analogy, even children,
+will understand that there are other planets.
+
+---
+
+Christiaan Huygens (born 1629),
+discovered the moons of Saturn in year 1655.
+
+And no religion could hold up to that,
+moons around another planet.
+
+Guess what his first thought was,
+while we are alone in our solar system.
+
+We know of attest one planet in the universe,
+that has life, and that is a lot.
+
+So much more than zero,
+that for many scientists, the answer is obvious.
+
+---
+
+Finally, you will be glad to know,
+that Sir Issac Newton (born 1642).
+
+The man who cursed you with Calculus,
+and them made fun of you by saying that he made it difficult on purpose.
+
+Made a particularity stupid experiment out of staring at the sun,
+which left him blind for three days…
+
+And had him seeing after images, what you are seeing,
+for months.
+
+---
+
+Now, that you have joined their club,
+the club of troublemakers, thinkers, exporters, and marvelous dumbasses.
+
+You have new responsibilities in life,
+first to help your eyes heal, you will need nature.
+
+But close and inseparable second,
+you will need to read the biographies of these and many other great beings.
+
+To help your eyes and mind heal best,
+you must take to the great trails.
+
+Such as the Application Trail, or Pacific Crest Trail,
+and The Continental Divide.
+
+Bring a satellite communicator, spare water-filers,
+and few extra pairs of sunglasses.
+
+Be sure to carry a stick,
+should you be approached by a bear, or a hillbilly.
+
+---
+
+it is on these trails,
+that demand a 20 mile walk each day.
+
+Your mind will after a week or two,
+become ravenous for narrated books.
+
+Where you can listen and re-listen stories of adventure and invention,
+as you walk towards an ever brighter future.
+
+---
+
+Lastly, to quote Abraham Lincoln, in regards to Sunsets and Eclipsi,
+for you and for you to share with others: "Don't be an eye hole".

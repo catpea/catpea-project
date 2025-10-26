@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2038",
+  "guid": "99e83611-caf4-4b07-8640-a44b331ec32f",
+  "title": "Unhack The Planet - The Architecture of Human Captivity: A Technical Analysis of Consciousness Exploitation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-28T22:26:15.127Z",
+  "lastmod": null,
+  "weight": 203800,
+  "audio": "poem-2038.mp3",
+  "image": "poem-2038-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1237",
+  "guid": "1fe6b10e-f168-4b5b-ab75-9497933aec6c",
+  "title": "The Really Real Truth About Great Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-22T03:12:00.179Z",
+  "lastmod": null,
+  "weight": 123700,
+  "audio": "poem-1237.mp3",
+  "image": "poem-1237-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Smwtc3xJgUk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

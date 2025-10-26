@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0711",
+  "guid": "3731abf9-3867-4170-b5ac-7a04cc9f3d11",
+  "title": "You Are An Artist",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-09T21:47:03.191Z",
+  "lastmod": null,
+  "weight": 71100,
+  "audio": "poetry-0711.mp3",
+  "image": "poetry-0711-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

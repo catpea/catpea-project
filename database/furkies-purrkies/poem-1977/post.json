@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1977",
+  "guid": "2459d26a-42d0-4c83-996a-b8d018847eb2",
+  "title": "Focus On Results, Not Appearance Or Labels",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-30T23:42:34.319Z",
+  "lastmod": null,
+  "weight": 197700,
+  "audio": "poem-1977.mp3",
+  "image": "poem-1977-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-with-a-backpack-standing-on-top-of-a-mountain-lpkPI7sgTLk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

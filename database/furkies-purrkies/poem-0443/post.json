@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0443",
+  "guid": "55ba9350-6773-4bfb-9dbb-b064bf034aa6",
+  "title": "The Great Dignity and Nobility",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-18T00:20:06.639Z",
+  "lastmod": null,
+  "weight": 44300,
+  "audio": "poetry-0443.mp3",
+  "image": "poetry-0443-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tFaJOKVC2J0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

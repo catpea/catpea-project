@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1776",
+  "guid": "0fa07eb9-0034-4dde-a510-ee447b1eb036",
+  "title": "To Get A Fire Going",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-11T05:05:09.595Z",
+  "lastmod": null,
+  "weight": 177600,
+  "audio": "poem-1776.mp3",
+  "image": "poem-1776-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

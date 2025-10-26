@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1003",
+  "guid": "7c262035-1b1e-4b9c-ac3e-c1f9b2583538",
+  "title": "You Must Unlock Your Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-29T04:28:54.843Z",
+  "lastmod": null,
+  "weight": 100300,
+  "audio": "poem-1003.mp3",
+  "image": "poem-1003-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/6EdFFNU4Qlw"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

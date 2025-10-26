@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0209",
+  "guid": "0a61d72b-6fbd-4ab9-87b7-fe4d0f6ffe49",
+  "title": "On Bringing Books To Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-26T00:22:46.841Z",
+  "lastmod": null,
+  "weight": 20900,
+  "audio": "poetry-0209.mp3",
+  "image": "poetry-0209-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

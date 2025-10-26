@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0694",
+  "guid": "6988a80d-22e7-4758-8863-5c7fa1b87e30",
+  "title": "Learn Everything And Be Mighty",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-24T02:05:16.514Z",
+  "lastmod": null,
+  "weight": 69400,
+  "audio": "poetry-0694.mp3",
+  "image": "poetry-0694-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qmLnLggEXhM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

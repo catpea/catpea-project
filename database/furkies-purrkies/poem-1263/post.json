@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1263",
+  "guid": "c4f1e201-15e9-48c8-92ff-5c1d4cf5a258",
+  "title": "Knowledge Artists; Or What Do Science Popularizers Do?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-17T03:36:27.805Z",
+  "lastmod": null,
+  "weight": 126300,
+  "audio": "poem-1263.mp3",
+  "image": "poem-1263-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HQPJEEjHqSE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

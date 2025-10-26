@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1129",
+  "guid": "d1c5f69f-56ca-47b4-aef4-e78bcd7c0552",
+  "title": "The Importance Of Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-05T03:09:49.903Z",
+  "lastmod": null,
+  "weight": 112900,
+  "audio": "poem-1129.mp3",
+  "image": "poem-1129-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/yUWKDfPLp6w"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

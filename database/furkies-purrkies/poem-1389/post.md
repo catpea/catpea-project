@@ -1,0 +1,123 @@
+When you model a process,
+and there is a step that needs human intervention.
+
+Lets say, appointment scheduling,
+traditionally done by calling the person up.
+
+If all you have to do, is drop a little icon on the canvas to make it work,
+than that is scary.
+
+Because now you are not just programming software,
+you are also programming with humans in the loop.
+
+---
+
+The way this would work, is via a kind of an inbox or a TODO app,
+the person that normally does all the phone stuff.
+
+Simply gets a another TODO item,
+they don't care that it comes from an icon in your app.
+
+They just negotiate based on instructions,
+and mark the task as done or error.
+
+And your program can take it from there,
+you route the response to the next steps.
+
+---
+
+The icon in your development environment,
+is expressed by an inbox, on the company side.
+
+You drag and drop a program together,
+hit start, and stuff gets done - that is scary.
+
+---
+
+Outside of a company,
+this is known as the mechanical turk.
+
+A component that is puggable,
+but on the inside uses the human mind.
+
+And yes, in the age of AI,
+some icons can be downgraded to a Weak AI as we have today.
+
+Programs may often still work,
+though may produce a higher error rate.
+
+---
+
+A more recognizable example, here,
+is the self checkout.
+
+An AI, could try to problem solve, on the checkout screen,
+but if a failure the checkout person will be called for help.
+
+---
+
+This is undeniably powerful,
+and crazy things can happen here.
+
+For example, one of the people checking out,
+can be offered a $5 discount.
+
+For assisting a customer,
+when the checkouts are overwhelmed.
+
+---
+
+These things are too confusing to program,
+without a visual programming language.
+
+With a visual programming language however,
+switching the program to AI, or checkout specialist, or a customer even.
+
+Can be as simple as making a connection between two boxes,
+or as safe, as setting up an IF condition that relies on a switch....
+
+Or some numeric value,
+such as "businessLevel".
+
+---
+
+Visual Programming & Diagramming Tools, don't just create programs,
+but also create a user interface for the business process.
+
+On a more down to earth scale, where a visual programming language,
+simply manages some application.
+
+A new user interface or logic,
+can be replaced or introduced with a drag and drop.
+
+Something that would be impossible and buggy,
+in conventional programming.
+
+Visual reprogramming separates concern,
+in a more logical way.
+
+So logical that even the program operator,
+could successfully make changes to adapt to some new condition.
+
+In the age of capable AI assistants,
+these changes can be suggested, and somewhat smartly reasoned about by machines.
+
+The example of that would be creating a parking lot based queue system,
+during a pandemic.
+
+Moving the checkout user interface to customer smartphones,
+adapting who puts items in the cart, and how the cart content make their way into the car's trunk.
+
+---
+
+Again, a visual Programming Language,
+is both the System Design Interface and System Management interface.
+
+Often all that changes between different business types,
+is a small set of components.
+
+The same is true for Software Applications,
+the difference between video editing and graphic design, or even web design, is not that great.
+
+Perhaps as little as 10 or 20 components,
+such as canvas, toolbox, workspace, and project management.

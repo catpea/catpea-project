@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1984",
+  "guid": "520e4009-f040-462a-84b1-ba3d5c0d594b",
+  "title": "Reactive Array Yikies!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-07T01:08:24.473Z",
+  "lastmod": null,
+  "weight": 198400,
+  "audio": "poem-1984.mp3",
+  "image": "poem-1984-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

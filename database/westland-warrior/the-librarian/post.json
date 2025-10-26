@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-librarian",
+  "guid": "2eb4137d-52e1-4835-8e8d-72e6ca659b62",
+  "title": "The Librarian",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-08-29T00:25:40.000Z",
+  "lastmod": null,
+  "weight": 16400,
+  "audio": null,
+  "image": "warrior-the-librarian-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

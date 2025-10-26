@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1235",
+  "guid": "f6ff0836-7475-4a27-a979-5741700660bc",
+  "title": "Answers Are Found In The Quest For Greatness, Not In The Search For Meaning",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-20T03:47:48.538Z",
+  "lastmod": null,
+  "weight": 123500,
+  "audio": "poem-1235.mp3",
+  "image": "poem-1235-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/M85kka8eVrU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

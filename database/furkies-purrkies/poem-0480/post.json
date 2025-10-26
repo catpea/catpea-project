@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0480",
+  "guid": "d6170c39-de31-4fbb-8079-e2224c336e00",
+  "title": "Great and Cheerful Philosophical Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-23T23:04:04.863Z",
+  "lastmod": null,
+  "weight": 48000,
+  "audio": "poetry-0480.mp3",
+  "image": "poetry-0480-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/GRwfAjpTi84"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

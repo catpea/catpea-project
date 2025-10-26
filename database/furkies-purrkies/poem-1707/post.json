@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1707",
+  "guid": "41d16962-bf4e-4ef9-957f-f79826347a42",
+  "title": "Use AI To Learn On Your Own, It Is Dangerous To Just Pretend To Learn In School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-03T03:28:49.968Z",
+  "lastmod": null,
+  "weight": 170700,
+  "audio": "poem-1707.mp3",
+  "image": "poem-1707-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

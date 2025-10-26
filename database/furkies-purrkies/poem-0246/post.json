@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0246",
+  "guid": "5ca20a09-24bf-4662-93ad-0a6c0db72822",
+  "title": "Learn In Need, Learn In Deed",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-02T04:00:48.557Z",
+  "lastmod": null,
+  "weight": 24600,
+  "audio": "poetry-0246.mp3",
+  "image": "poetry-0246-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/koo_vYrlU_U"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

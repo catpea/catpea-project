@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2041",
+  "guid": "4eae38dd-e6ef-4ee2-9f1a-e7425a4e05ed",
+  "title": "Post-Mortem Analysis of Humanity's Greatest Security Breach",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-01T20:46:00.526Z",
+  "lastmod": null,
+  "weight": 204100,
+  "audio": "poem-2041.mp3",
+  "image": "poem-2041-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

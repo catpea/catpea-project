@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1050",
+  "guid": "d51fc231-3061-4f48-8c92-666f816b2a9d",
+  "title": "The New Art World Order",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-15T02:57:41.923Z",
+  "lastmod": null,
+  "weight": 105000,
+  "audio": "poem-1050.mp3",
+  "image": "poem-1050-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

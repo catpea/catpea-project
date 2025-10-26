@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1298",
+  "guid": "18f4d940-d44c-4099-92cb-0de9c1267fbc",
+  "title": "A Message From Your Elder Self On The Subject Of Case Of Mondays And The Cure Of Wednesdays",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-21T03:16:12.458Z",
+  "lastmod": null,
+  "weight": 129800,
+  "audio": "poem-1298.mp3",
+  "image": "poem-1298-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5GbN2LeeoyY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

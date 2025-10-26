@@ -1,0 +1,128 @@
+First tip deals with graphics generation,
+and is about adding the maximum complexity into your creation.
+
+Whatever you want to create, be it from a fresh prompt,
+or by building on top of an existing prompt, which I recommend doing.
+
+Do not make it perfect, symmetrical, smooth and beautiful,
+make it ugly, really ugly.
+
+And a really good way to think about this,
+is imagining how much work an artist would need to do to recreate your work.
+
+You want wrinkles, you glitches, you want age,
+and better yet, you don’t want to start with a perfectly beautiful subject.
+
+Start with one of those naked cats, or a blob fish,
+not nasty, but fascinating, uncommon, brutal but elegant.
+
+Another good way of thinking about this,
+is walking into a gallery on a sunny vacation.
+
+Would you want to see pretty faces that are all over magazines,
+or faces so full of character…
+
+And I personally feel that this is great for Anthropomorphic Animals,
+Bored Ancient Goats, Powerful Yakuza Shrimp, Ancient Ape Philosophers.
+
+---
+
+My second tip is for smarter text generation,
+and I’ve learned it from the GPT4 programming demo.
+
+But, it works with Poetry in the free GPT 3.5 program as well,
+and probably others too.
+
+Don’t just ask the machine to create a poem for you,
+ask it to make a list of steps, and then convert it to a poem.
+
+So you want to say, make a list of 5 steps to become wise,
+add three sections to each step, and then convert it to a rhyming poem.
+
+You can feel a strong structure in the poem,
+a progression, it becomes an intelligent poem.
+
+By giving it that structure first,
+the poem actually becomes well thought out.
+
+Now a couple of examples, I'll give you the prompt I used,
+but skip over the intermediate list the AI makes and get straight to the poem.
+
+---
+
+List 5 steps towards wisdom. Then list 3 major points for each of the steps.
+Rewrite the list as a short, content rich, cheerful, inspirational poem that rhymes.
+Do not mention the steps just make them flow together.
+
+On the path to wisdom, let's brightly shine,
+A journey through life, one that's so divine.
+
+With self-reflection, we'll deeply know,
+Our strengths and our weaknesses, let the wisdom flow.
+
+In the quest for learning, we'll seek and explore,
+Through knowledge and experience, our wisdom will soar.
+
+With compassion and empathy, our hearts will sing,
+Kindness, forgiveness, and understanding we'll bring.
+
+In our decision-making, we'll choose with care,
+Aligning with values, the world we'll repair.
+
+With humility and adaptability, we'll embrace the change,
+Seek feedback, show gratitude, life rearranged.
+
+So let's walk this path, hand in hand,
+In the pursuit of wisdom, together we'll stand.
+
+---
+
+List 5 steps towards world peace. Then list 3 major points for each of the steps.
+Rewrite the list as a short, content rich, cheerful, inspirational poem that rhymes.
+Do not mention the steps just make them flow together.
+
+In a world of turmoil and strife, we strive for peace in our life,
+Through dialogue and compromise, we'll mend the rifts, remove the knives.
+
+Economic growth, a hand to lend, we'll lift the poor and be a friend,
+With equal shares, compassion's trend, together, we'll reach the end.
+
+Human rights, a shining light, we'll stand for justice, do what's right,
+For all are equal, day and night, let love and tolerance ignite.
+
+Our Earth, a gift, a precious jewel, let's safeguard it, each girl and boy,
+With clean, green dreams, we'll never be cruel, preserve our planet, bring it joy.
+
+From weapons, let's turn and face the sun, with unity, we'll overcome,
+A peaceful world, for everyone, together, we'll become as one.
+
+---
+
+List 5 steps towards growing all the way up and becoming a great being.
+Rewrite the list as a short, content rich, cheerful, inspirational poem that rhymes.
+Do not mention the steps just make them flow together.
+
+On life's grand canvas, we paint our own scene,
+A path to greatness, a joyful routine.
+In self-discovery, we find what's true,
+Embracing the strengths, and our limits too.
+
+We set our goals, in personal delight,
+With a thirst for learning, we shine so bright.
+Mentors guide us, wisdom's sweet embrace,
+In this journey of growth, we find our place.
+
+With kindness and love, we light the way,
+Listening and caring, day by day.
+Compassion's embrace, in each action and word,
+Connects us to hearts, like a melodious bird.
+
+In times of change, we stand strong and bold,
+Resilience and balance, our treasures unfold.
+Adapting with grace, we weather the storm,
+With a heart full of hope, we transform.
+
+Our legacy's the story, that we're meant to tell,
+Purpose and integrity, within us dwell.
+Responsibility and inspiration, we share our creed,
+Becoming great beings, fulfilling our need.

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0613",
+  "guid": "b0451941-be65-493a-af90-77c373d5a8c9",
+  "title": "Integrated Minds",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-03T21:53:32.088Z",
+  "lastmod": null,
+  "weight": 61300,
+  "audio": "poetry-0613.mp3",
+  "image": "poetry-0613-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DFrlRyLhCOQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

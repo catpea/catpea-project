@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0648",
+  "guid": "1f6276f7-2f6e-4dd1-a944-bd5bfe1b3ec7",
+  "title": "Art And Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-09T03:00:40.250Z",
+  "lastmod": null,
+  "weight": 64800,
+  "audio": "poetry-0648.mp3",
+  "image": "poetry-0648-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/272XXMKp3wY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

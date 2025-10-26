@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-overlander",
+  "guid": "23b347cf-2ac3-414f-987a-fd15f6dee092",
+  "title": "The Overlander",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-10-15T22:22:46.592Z",
+  "lastmod": null,
+  "weight": 3101,
+  "audio": null,
+  "image": "the-overlander-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

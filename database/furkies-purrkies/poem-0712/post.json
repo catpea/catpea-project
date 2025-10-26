@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0712",
+  "guid": "8562cd72-d258-423d-a5c7-17d300c415c3",
+  "title": "Caricatures!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-11T01:42:05.122Z",
+  "lastmod": null,
+  "weight": 71200,
+  "audio": "poetry-0712.mp3",
+  "image": "poetry-0712-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

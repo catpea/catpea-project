@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1011",
+  "guid": "39d057a7-5346-47a2-9749-269a5742ac1e",
+  "title": "Rise, Do Not Worry That Schools Are Broken",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-07T04:09:38.169Z",
+  "lastmod": null,
+  "weight": 101100,
+  "audio": "poem-1011.mp3",
+  "image": "poem-1011-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1STprdJq24g"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

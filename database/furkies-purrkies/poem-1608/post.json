@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1608",
+  "guid": "0bdcdb0e-2bb3-4848-96f5-9451a0635fa2",
+  "title": "The Future Of Programming, Where Everyone Can Create Beautiful Applications",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-27T02:35:30.035Z",
+  "lastmod": null,
+  "weight": 160800,
+  "audio": "poem-1608.mp3",
+  "image": "poem-1608-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

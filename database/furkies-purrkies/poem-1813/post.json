@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1813",
+  "guid": "351f1427-21df-45d3-8379-d88be599789d",
+  "title": "Easy Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-17T05:06:44.879Z",
+  "lastmod": null,
+  "weight": 181300,
+  "audio": "poem-1813.mp3",
+  "image": "poem-1813-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

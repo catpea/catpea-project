@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1950",
+  "guid": "64733fe9-ff0b-4b62-a669-f7297c5fbde3",
+  "title": "My Little AI Tests",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-04T00:33:14.473Z",
+  "lastmod": null,
+  "weight": 195000,
+  "audio": "poem-1950.mp3",
+  "image": "poem-1950-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

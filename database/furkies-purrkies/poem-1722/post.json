@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1722",
+  "guid": "2e01efba-255d-4fdb-a4e5-0f833abc2be5",
+  "title": "Rules and Shenanigans Of Little Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-18T04:36:28.289Z",
+  "lastmod": null,
+  "weight": 172200,
+  "audio": "poem-1722.mp3",
+  "image": "poem-1722-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

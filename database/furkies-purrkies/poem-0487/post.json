@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0487",
+  "guid": "5e73c433-abdd-40a2-9d97-1533d24dde92",
+  "title": "Bird Attacks And Speeding Up Your Workout Music: A Linux Command Line Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-01T02:40:35.825Z",
+  "lastmod": null,
+  "weight": 48700,
+  "audio": "poetry-0487.mp3",
+  "image": "poetry-0487-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

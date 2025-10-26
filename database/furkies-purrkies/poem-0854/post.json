@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0854",
+  "guid": "2ee52d32-f660-4da1-ae28-24a6941f8516",
+  "title": "The User As A Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-02T21:32:56.279Z",
+  "lastmod": null,
+  "weight": 85400,
+  "audio": "poetry-0854.mp3",
+  "image": "poetry-0854-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

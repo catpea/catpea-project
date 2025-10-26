@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-thinker",
+  "guid": "904d20af-cb15-4d0c-846f-4a723a44b910",
+  "title": "The Thinker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-11-28T02:46:29.369Z",
+  "lastmod": null,
+  "weight": 10110,
+  "audio": null,
+  "image": "the-thinker-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

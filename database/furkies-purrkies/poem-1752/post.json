@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1752",
+  "guid": "1756fcd8-6738-4143-b2c4-bd9d40f7b35d",
+  "title": "Unlocking Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-18T01:12:02.046Z",
+  "lastmod": null,
+  "weight": 175200,
+  "audio": "poem-1752.mp3",
+  "image": "poem-1752-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

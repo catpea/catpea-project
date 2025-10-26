@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1399",
+  "guid": "24aa2a21-9e8f-4bdd-8177-a12f6d99546a",
+  "title": "Resolution Meow; Or Get Buff, Fluff and Gruff",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-31T05:29:26.532Z",
+  "lastmod": null,
+  "weight": 139900,
+  "audio": "poem-1399.mp3",
+  "image": "poem-1399-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0217",
+  "guid": "3f748386-d469-4389-943b-21277f397e7a",
+  "title": "The World Belongs To You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-03T15:15:42.153Z",
+  "lastmod": null,
+  "weight": 21700,
+  "audio": "poetry-0217.mp3",
+  "image": "poetry-0217-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3tkxfe2GocY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0358",
+  "guid": "3548832c-20e4-4ec3-9534-4bd3f27435b8",
+  "title": "Real Education Is Everywhere",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-21T22:49:24.409Z",
+  "lastmod": null,
+  "weight": 35800,
+  "audio": "poetry-0358.mp3",
+  "image": "poetry-0358-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eAXpbb4vzKU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

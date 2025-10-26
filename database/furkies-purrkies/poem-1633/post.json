@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1633",
+  "guid": "41ee8ac5-a892-49cb-8d33-97890534242b",
+  "title": "Gym Advice: Lifting Heavy Is A Mistake That Can Only Slow You Down",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-21T01:39:01.024Z",
+  "lastmod": null,
+  "weight": 163300,
+  "audio": "poem-1633.mp3",
+  "image": "poem-1633-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

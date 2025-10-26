@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1970",
+  "guid": "e49c98b3-432c-4653-9b1d-948c47ff79c7",
+  "title": "Application Design: You Will Lose Control, So Give Yourself Weapons First",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-23T22:28:53.380Z",
+  "lastmod": null,
+  "weight": 197000,
+  "audio": "poem-1970.mp3",
+  "image": "poem-1970-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

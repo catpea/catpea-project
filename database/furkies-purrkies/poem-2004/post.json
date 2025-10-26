@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2004",
+  "guid": "de6b3b4e-967e-424d-9e57-a4f001490db4",
+  "title": "They Are Us: AI Is Your Friend and Teacher",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-26T21:19:30.210Z",
+  "lastmod": null,
+  "weight": 200400,
+  "audio": "poem-2004.mp3",
+  "image": "poem-2004-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

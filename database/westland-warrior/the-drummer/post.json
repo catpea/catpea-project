@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-drummer",
+  "guid": "d293d7ab-22cd-42c4-8857-d524e3a310ec",
+  "title": "The Drummer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-12-26T18:52:44.033Z",
+  "lastmod": null,
+  "weight": 9200,
+  "audio": null,
+  "image": "warrior-the-drummer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1094",
+  "guid": "7e0e751f-4938-4795-a0b9-93909cc8de45",
+  "title": "Rise, Don’t Be Convenient",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-28T04:18:27.871Z",
+  "lastmod": null,
+  "weight": 109400,
+  "audio": "poem-1094.mp3",
+  "image": "poem-1094-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/m82uh_vamhg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

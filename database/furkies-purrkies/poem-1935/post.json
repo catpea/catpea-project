@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1935",
+  "guid": "bbc669a7-af48-4d82-839d-ac9bf5e0c854",
+  "title": "In The Age Of AI, The Future Of Programming Is Not More Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-19T00:32:37.198Z",
+  "lastmod": null,
+  "weight": 193500,
+  "audio": "poem-1935.mp3",
+  "image": "poem-1935-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

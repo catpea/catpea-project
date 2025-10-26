@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0665",
+  "guid": "75cc4c67-dbdd-4246-8557-e69e5b142100",
+  "title": "Adventure Fitness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-26T02:48:16.574Z",
+  "lastmod": null,
+  "weight": 66500,
+  "audio": "poetry-0665.mp3",
+  "image": "poetry-0665-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

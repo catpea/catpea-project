@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1023",
+  "guid": "21971f46-d9ad-41f5-8ac6-7c9ce65b5968",
+  "title": "The Theft Of Genius; Or, On The Mind Of Our World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-19T00:14:40.211Z",
+  "lastmod": null,
+  "weight": 102300,
+  "audio": "poem-1023.mp3",
+  "image": "poem-1023-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/doJySGHFfEI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

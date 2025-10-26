@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1675",
+  "guid": "3b536ba1-c4f3-44ce-807d-bcc25fe32e51",
+  "title": "A Good Starter Project For Learning JavaScript, Is A Primitive WikiWiki – A Tiny High Level Overview",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-02T02:55:07.085Z",
+  "lastmod": null,
+  "weight": 167500,
+  "audio": "poem-1675.mp3",
+  "image": "poem-1675-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

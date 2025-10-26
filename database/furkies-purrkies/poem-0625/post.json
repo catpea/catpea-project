@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0625",
+  "guid": "b9a531f1-2da6-4a34-9a51-561628eef4ed",
+  "title": "Of Constellations, Superluminal Galaxies, And The Future Of Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-16T00:17:22.728Z",
+  "lastmod": null,
+  "weight": 62500,
+  "audio": "poetry-0625.mp3",
+  "image": "poetry-0625-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/BpbkLACP64M"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

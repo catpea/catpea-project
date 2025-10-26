@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2001",
+  "guid": "e3f42229-496d-4103-9d27-bb4264b2d48f",
+  "title": "Machinae Sapientes: The World Is New",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-23T23:19:11.245Z",
+  "lastmod": null,
+  "weight": 200100,
+  "audio": "poem-2001.mp3",
+  "image": "poem-2001-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

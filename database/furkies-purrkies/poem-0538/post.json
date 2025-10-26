@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0538",
+  "guid": "7ec5f5d6-37cb-4dbc-bc46-4b7bcb8a7e04",
+  "title": "Learning 3D Modeling In Blender: A Tiny Adventure In Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-21T02:04:17.709Z",
+  "lastmod": null,
+  "weight": 53800,
+  "audio": "poetry-0538.mp3",
+  "image": "poetry-0538-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3ALW9V3jNkc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

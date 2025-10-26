@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1520",
+  "guid": "5fccb09f-18f8-44e7-a7e8-3d1ef373b8fe",
+  "title": "How To Cheer Up Your Kitten",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-30T03:31:00.478Z",
+  "lastmod": null,
+  "weight": 152000,
+  "audio": "poem-1520.mp3",
+  "image": "poem-1520-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

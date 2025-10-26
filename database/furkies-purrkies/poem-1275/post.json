@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1275",
+  "guid": "031d7fac-b4b0-40f3-8229-9ecc6536ad9b",
+  "title": "Of The Sunrise And The Sunset; Or, A Slow And Tiny Step Towards Bicycling And Camping",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-29T03:06:02.038Z",
+  "lastmod": null,
+  "weight": 127500,
+  "audio": "poem-1275.mp3",
+  "image": "poem-1275-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

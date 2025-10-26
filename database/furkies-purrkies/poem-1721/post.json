@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1721",
+  "guid": "3d0d8c35-c9bb-41f3-850f-cf41bd08ff6d",
+  "title": "A Cheerful Little Legacy; Or, Growing Up Is Slow But Not That Hard, You Just Have To Keep At It",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-17T05:48:04.266Z",
+  "lastmod": null,
+  "weight": 172100,
+  "audio": "poem-1721.mp3",
+  "image": "poem-1721-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

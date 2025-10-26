@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1905",
+  "guid": "2d05cbb6-536f-4fc7-bbb1-7a890411c494",
+  "title": "On Growing Up And Legacy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-19T21:56:25.263Z",
+  "lastmod": null,
+  "weight": 190500,
+  "audio": "poem-1905.mp3",
+  "image": "poem-1905-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1569",
+  "guid": "4357d9ff-9762-4175-806d-2c7454ca611c",
+  "title": "Helping New Programmers Code Big; Or, The Aim Of Visual Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-18T04:29:30.750Z",
+  "lastmod": null,
+  "weight": 156900,
+  "audio": "poem-1569.mp3",
+  "image": "poem-1569-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

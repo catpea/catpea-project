@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0686",
+  "guid": "822f265b-1249-4537-a50a-83cae6fe1405",
+  "title": "A Beautiful Work Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-16T02:21:30.109Z",
+  "lastmod": null,
+  "weight": 68600,
+  "audio": "poetry-0686.mp3",
+  "image": "poetry-0686-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/wXYggdVFeQI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0035",
+  "guid": "ba72bad0-1944-4cd7-85a0-29e4b010f685",
+  "title": "Computers Are Slow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-16T02:49:34.356Z",
+  "lastmod": null,
+  "weight": 3500,
+  "audio": "poetry-0035.mp3",
+  "image": "poetry-0035-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

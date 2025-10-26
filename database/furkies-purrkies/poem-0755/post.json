@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0755",
+  "guid": "0781671f-8b70-440d-8676-984731dd5f3b",
+  "title": "A Look At Shadow And Color",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-25T23:04:41.717Z",
+  "lastmod": null,
+  "weight": 75500,
+  "audio": "poetry-0755.mp3",
+  "image": "poetry-0755-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

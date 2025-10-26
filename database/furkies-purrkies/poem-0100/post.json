@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0100",
+  "guid": "538acbc0-f7d9-4dac-ac31-3cd025e81ca9",
+  "title": "Bees At The Knees",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-10T01:50:18.198Z",
+  "lastmod": null,
+  "weight": 10000,
+  "audio": "poetry-0100.mp3",
+  "image": "poetry-0100-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

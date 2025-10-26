@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0691",
+  "guid": "ba0cb154-fa1d-4c54-aca7-86063b57c038",
+  "title": "Superpowers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-20T23:59:39.420Z",
+  "lastmod": null,
+  "weight": 69100,
+  "audio": "poetry-0691.mp3",
+  "image": "poetry-0691-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/46_wFTypvyQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

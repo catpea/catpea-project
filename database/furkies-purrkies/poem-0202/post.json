@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0202",
+  "guid": "c84d8c6c-a1b8-47f8-965b-b3b08d74b0b9",
+  "title": "One Life, All Life, Onto The Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-18T21:19:23.793Z",
+  "lastmod": null,
+  "weight": 20200,
+  "audio": "poetry-0202.mp3",
+  "image": "poetry-0202-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

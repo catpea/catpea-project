@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-designer",
+  "guid": "d9099be1-bb8e-4607-b8e0-b05a6e7a12e1",
+  "title": "The Designer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-01-08T01:21:52.719Z",
+  "lastmod": null,
+  "weight": 12200,
+  "audio": null,
+  "image": "warrior-the-designer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

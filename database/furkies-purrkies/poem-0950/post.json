@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0950",
+  "guid": "930f2d2f-2394-4bde-9a61-ce47f897f281",
+  "title": "Understanding Visual Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-07T02:39:23.388Z",
+  "lastmod": null,
+  "weight": 95000,
+  "audio": "poem-0950.mp3",
+  "image": "poem-0950-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

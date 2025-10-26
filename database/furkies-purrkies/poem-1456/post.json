@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1456",
+  "guid": "6298fab1-ef51-49b9-8acc-9372a7d264a2",
+  "title": "Learn Programming, Just In Case",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-26T05:26:19.012Z",
+  "lastmod": null,
+  "weight": 145600,
+  "audio": "poem-1456.mp3",
+  "image": "poem-1456-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

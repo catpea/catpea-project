@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-pontoon-buccaneer",
+  "guid": "254c004e-e1f0-418e-9b4f-baf2a4c0cc5f",
+  "title": "The Pontoon Buccaneer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-05-14T13:27:24.222Z",
+  "lastmod": null,
+  "weight": 5210,
+  "audio": null,
+  "image": "the-pontoon-buccaneer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

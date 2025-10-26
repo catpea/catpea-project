@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1179",
+  "guid": "d4218f03-b0d6-4e13-82f5-febbc818b4c9",
+  "title": "The Way The World Grows",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-25T03:17:02.580Z",
+  "lastmod": null,
+  "weight": 117900,
+  "audio": "poem-1179.mp3",
+  "image": "poem-1179-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fLVKyQ9PiRc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0961",
+  "guid": "5e8ec4c5-9f56-4638-8501-8bd4e12b9430",
+  "title": "A Handful Of Observations On The Subject Of Writing Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-18T02:50:34.920Z",
+  "lastmod": null,
+  "weight": 96100,
+  "audio": "poem-0961.mp3",
+  "image": "poem-0961-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/R_u0B2HY4Qs"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0833",
+  "guid": "dae59056-bf54-4a39-a517-67e657b0a1d9",
+  "title": "The Enchanted Ring Of The Little Froggies; Or, Hopping Around Ancient And Modern Jewelry Ideas",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-12T00:22:58.399Z",
+  "lastmod": null,
+  "weight": 83300,
+  "audio": "poetry-0833.mp3",
+  "image": "poetry-0833-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

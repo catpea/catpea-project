@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0584",
+  "guid": "560b58e5-f69d-405b-90e2-fb8fdc909bff",
+  "title": "A Portfolio Of Silly And Fun Inventions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-06T00:34:44.665Z",
+  "lastmod": null,
+  "weight": 58400,
+  "audio": "poetry-0584.mp3",
+  "image": "poetry-0584-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-ecologist",
+  "guid": "0c869084-82ed-4900-af0d-171d3eb163fc",
+  "title": "The Ecologist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-09-19T10:24:10.035Z",
+  "lastmod": null,
+  "weight": 2700,
+  "audio": null,
+  "image": "warrior-the-ecologist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "canceled-notice": "Content advisory warning, viewer discretion is advised. This is best to be left as one of the final chapters of this video book. It is not meant to crush us, it is meant to help us understand the gravity of our situation, and our place in this world. It is meant to inspire us to Knowledge, Wisdom, Greatness, and Change. Every new day can mark a new beginning, it will never be too late.",
+  "chapter": 1
+}

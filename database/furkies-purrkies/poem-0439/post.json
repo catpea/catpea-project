@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0439",
+  "guid": "19aab27e-6ea4-49b9-a2a6-727173aedb81",
+  "title": "Not Of This Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-14T01:26:51.207Z",
+  "lastmod": null,
+  "weight": 43900,
+  "audio": "poetry-0439.mp3",
+  "image": "poetry-0439-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/My48IoBMqfc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

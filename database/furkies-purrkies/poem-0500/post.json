@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0500",
+  "guid": "db871cc5-0153-4e40-9be1-6affa2fe040e",
+  "title": "Answering The Calls to Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-14T02:54:30.870Z",
+  "lastmod": null,
+  "weight": 50000,
+  "audio": "poetry-0500.mp3",
+  "image": "poetry-0500-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fvp40XPr0Ak"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

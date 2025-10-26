@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1937",
+  "guid": "79a0786e-b9d9-4ae5-a864-8aeff6fcc196",
+  "title": "The Secret Application Sauce; Or, SPA Plug-ins And The Homework Assignment",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-20T16:25:35.234Z",
+  "lastmod": null,
+  "weight": 193700,
+  "audio": "poem-1937.mp3",
+  "image": "poem-1937-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

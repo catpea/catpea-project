@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-prompt-engineer",
+  "guid": "28f1ab15-3131-4b8f-ab40-230ca28506ce",
+  "title": "The Prompt Engineer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-01-08T17:21:08.081Z",
+  "lastmod": null,
+  "weight": 11806,
+  "audio": null,
+  "image": "the-prompt-engineer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

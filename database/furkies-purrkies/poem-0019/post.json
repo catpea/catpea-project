@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0019",
+  "guid": "50e95043-7880-4a21-8e96-bfe0b688f776",
+  "title": "Lawn Flurries",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-30T13:11:22.278Z",
+  "lastmod": null,
+  "weight": 1900,
+  "audio": null,
+  "image": "poetry-0019-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

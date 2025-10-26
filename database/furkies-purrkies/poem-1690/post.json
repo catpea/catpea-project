@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1690",
+  "guid": "89c8ff24-1735-48c0-b44c-9eefac0cbbb8",
+  "title": "If You Are Not A Spring Chicken Anymore, Or Just Can’t Easily Fit Through The Car Door...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-17T00:50:40.030Z",
+  "lastmod": null,
+  "weight": 169000,
+  "audio": "poem-1690.mp3",
+  "image": "poem-1690-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

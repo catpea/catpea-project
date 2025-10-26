@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-generative-artist",
+  "guid": "9b125570-75db-420b-82c2-22b3399a469c",
+  "title": "The Generative Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-02-01T02:22:03.285Z",
+  "lastmod": null,
+  "weight": 12500,
+  "audio": null,
+  "image": "warrior-the-generative-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1488",
+  "guid": "f5a6cd79-6e02-4b9e-93c1-c1fd86a36e68",
+  "title": "How To Tell If Your School Is Fake",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-29T04:17:25.468Z",
+  "lastmod": null,
+  "weight": 148800,
+  "audio": "poem-1488.mp3",
+  "image": "poem-1488-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

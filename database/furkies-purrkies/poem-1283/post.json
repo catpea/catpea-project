@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1283",
+  "guid": "3a54046d-0697-4361-a20d-66ab20d2b5f8",
+  "title": "Do Not Be Small And Useful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-06T03:01:31.102Z",
+  "lastmod": null,
+  "weight": 128300,
+  "audio": "poem-1283.mp3",
+  "image": "poem-1283-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/mountain-sun-sunset-alps-coffee-4524970/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

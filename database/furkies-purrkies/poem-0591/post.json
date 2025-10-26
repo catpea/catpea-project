@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0591",
+  "guid": "9ed24be0-5071-4646-84b9-ab29a5ebe772",
+  "title": "Travel Writing: A Simple Recipe For Unforgettable Adventures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-12T23:06:28.173Z",
+  "lastmod": null,
+  "weight": 59100,
+  "audio": "poetry-0591.mp3",
+  "image": "poetry-0591-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/sUxtXQPyAq0"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

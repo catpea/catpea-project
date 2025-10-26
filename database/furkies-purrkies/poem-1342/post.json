@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1342",
+  "guid": "c93618ea-96e3-454c-8c1b-34df4e3afffc",
+  "title": "Joggers Beware: I Dare To Declare You Are Unaware How To Wear Your Underwear",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-04T03:53:12.858Z",
+  "lastmod": null,
+  "weight": 134200,
+  "audio": "poem-1342.mp3",
+  "image": "poem-1342-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

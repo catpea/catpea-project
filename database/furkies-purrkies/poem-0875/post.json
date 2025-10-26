@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0875",
+  "guid": "af593b42-7585-480f-8fe1-29c3cf2ea7ad",
+  "title": "World Peace: Replace Politicians With Cute Cats And Computer Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-23T23:24:06.280Z",
+  "lastmod": null,
+  "weight": 87500,
+  "audio": "poetry-0875.mp3",
+  "image": "poetry-0875-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

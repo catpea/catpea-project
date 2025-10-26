@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1651",
+  "guid": "003af69a-b659-4440-92b5-a6d2a229ddc8",
+  "title": "It Is Neither About The Journey Or Its Heights; It Is About Who You Become During Your Journey",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-08T04:22:49.096Z",
+  "lastmod": null,
+  "weight": 165100,
+  "audio": "poem-1651.mp3",
+  "image": "poem-1651-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

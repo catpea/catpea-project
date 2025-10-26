@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1250",
+  "guid": "6a092277-548b-4526-9d3d-b1762d7a455f",
+  "title": "Fitness Advice For The Rest Of Us; The Beautiful, Magnificent, And Deeply Intellectual Fhatty Fhattertons",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-04T03:27:02.902Z",
+  "lastmod": null,
+  "weight": 125000,
+  "audio": "poem-1250.mp3",
+  "image": "poem-1250-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/T-hBGkb3-xQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-graphician",
+  "guid": "8d239e3d-fcef-449c-aadb-153397bc9504",
+  "title": "The Graphician",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-02-01T02:29:55.820Z",
+  "lastmod": null,
+  "weight": 12700,
+  "audio": null,
+  "image": "warrior-the-graphician-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

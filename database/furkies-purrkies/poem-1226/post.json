@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1226",
+  "guid": "1e56943d-3e5e-4645-8d24-32cfb48e2c79",
+  "title": "Of Serenity, And Courage - It Is Not Just The Narrated Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-11T03:18:05.888Z",
+  "lastmod": null,
+  "weight": 122600,
+  "audio": "poem-1226.mp3",
+  "image": "poem-1226-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tk4OYV3L8Ts"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1696",
+  "guid": "61bb7c4c-c302-4793-a175-725994424b7b",
+  "title": "What If Education Is Just Not Your Thing, And How Not To Wail On The Appalachian Trail",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-23T03:16:26.715Z",
+  "lastmod": null,
+  "weight": 169600,
+  "audio": "poem-1696.mp3",
+  "image": "poem-1696-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

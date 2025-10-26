@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1448",
+  "guid": "4b17f335-ef97-4c0c-a820-69bb9c28f6b6",
+  "title": "Towards Simple Reactive OOP; Or, The Trouble With Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-18T05:07:49.326Z",
+  "lastmod": null,
+  "weight": 144800,
+  "audio": "poem-1448.mp3",
+  "image": "poem-1448-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-soldier",
+  "guid": "cb2403a9-5da4-40df-afd4-0d6ec963ba07",
+  "title": "The Soldier",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-05-29T04:41:25.712Z",
+  "lastmod": null,
+  "weight": 500,
+  "audio": null,
+  "image": "warrior-the-soldier-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

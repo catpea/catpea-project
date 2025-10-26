@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-luminary",
+  "guid": "7015c154-005c-4efc-9776-6aa9f555fdeb",
+  "title": "The Luminary",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-10-16T02:40:59.591Z",
+  "lastmod": null,
+  "weight": 6600,
+  "audio": null,
+  "image": "warrior-the-luminary-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

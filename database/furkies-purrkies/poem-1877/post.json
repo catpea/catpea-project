@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1877",
+  "guid": "e046f22b-b647-491b-89f9-53308403114c",
+  "title": "Architectural Programming For Ladies; Or, Teaching Your AI Who The Boss Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-21T23:23:38.571Z",
+  "lastmod": null,
+  "weight": 187700,
+  "audio": "poem-1877.mp3",
+  "image": "poem-1877-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

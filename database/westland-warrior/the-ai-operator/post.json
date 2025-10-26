@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-ai-operator",
+  "guid": "f2707772-616c-4af9-ad77-08c5fc49b720",
+  "title": "The AI Operator",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-01-22T15:28:59.154Z",
+  "lastmod": null,
+  "weight": 14455,
+  "audio": null,
+  "image": "the-ai-operator-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

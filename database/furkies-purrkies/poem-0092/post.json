@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0092",
+  "guid": "5f7ef0aa-8ec5-4c88-8694-f16a4e94a789",
+  "title": "Wise World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-05T00:44:16.895Z",
+  "lastmod": null,
+  "weight": 9200,
+  "audio": "poetry-0092.mp3",
+  "image": "poetry-0092-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

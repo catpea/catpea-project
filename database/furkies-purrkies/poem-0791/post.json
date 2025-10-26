@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0791",
+  "guid": "cfd1af21-f3c4-403f-8a50-7ab639130ce5",
+  "title": "Rising With Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-01T01:12:52.287Z",
+  "lastmod": null,
+  "weight": 79100,
+  "audio": "poetry-0791.mp3",
+  "image": "poetry-0791-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

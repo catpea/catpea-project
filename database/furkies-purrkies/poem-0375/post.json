@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0375",
+  "guid": "f28ca058-1ab3-46a0-8cb9-703a62fed84f",
+  "title": "The Nature Of Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-10T23:36:38.087Z",
+  "lastmod": null,
+  "weight": 37500,
+  "audio": "poetry-0375.mp3",
+  "image": "poetry-0375-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9wg5jCEPBsw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1332",
+  "guid": "9cafea8b-b2f6-428a-aa84-2ad61caec4c5",
+  "title": "It Takes A Backpack To Hear A Book",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-25T03:01:59.306Z",
+  "lastmod": null,
+  "weight": 133200,
+  "audio": "poem-1332.mp3",
+  "image": "poem-1332-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-is-walking-down-a-path-in-the-woods-qpZ-pTqrCOk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

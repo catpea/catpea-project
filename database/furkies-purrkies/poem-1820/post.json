@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1820",
+  "guid": "6ead0635-00fe-492f-8866-803e6bb7e659",
+  "title": "Yippee Ki-Yay JavaScript And Code Refactoring Spells",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-23T22:35:24.597Z",
+  "lastmod": null,
+  "weight": 182000,
+  "audio": "poem-1820.mp3",
+  "image": "poem-1820-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

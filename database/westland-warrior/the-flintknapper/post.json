@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-flintknapper",
+  "guid": "91c86150-cac6-4bca-8482-7ddf40a232b0",
+  "title": "The Flintknapper",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-07-25T05:36:25.000Z",
+  "lastmod": null,
+  "weight": 5000,
+  "audio": null,
+  "image": "warrior-the-flintknapper-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

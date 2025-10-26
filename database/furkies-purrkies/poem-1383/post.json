@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1383",
+  "guid": "1c95cd07-fb63-4b59-8ad2-f906d71c28f6",
+  "title": "The Friendly Superpower Of Reactive Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-15T05:04:01.806Z",
+  "lastmod": null,
+  "weight": 138300,
+  "audio": "poem-1383.mp3",
+  "image": "poem-1383-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

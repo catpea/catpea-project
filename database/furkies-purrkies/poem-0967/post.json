@@ -1,0 +1,27 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0967",
+  "guid": "81761e3c-1c98-4f03-a4ca-6e0fec527c8d",
+  "title": "Searching About For New Instruments",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-24T00:11:59.343Z",
+  "lastmod": null,
+  "weight": 96700,
+  "audio": "poem-0967.mp3",
+  "image": "poem-0967-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/aFbKlz6tnOo",
+    "https://unsplash.com/photos/AepbpQUH_OE",
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

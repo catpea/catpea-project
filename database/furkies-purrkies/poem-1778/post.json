@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1778",
+  "guid": "7b9019b0-e660-44e8-9ff2-233d641d6e10",
+  "title": "Learn JavaScript, And Don’t Use Frameworks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-13T04:53:12.092Z",
+  "lastmod": null,
+  "weight": 177800,
+  "audio": "poem-1778.mp3",
+  "image": "poem-1778-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

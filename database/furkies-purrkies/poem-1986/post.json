@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1986",
+  "guid": "314e07d2-aec0-4521-a945-9ceaa0a89be7",
+  "title": "Did Not Recant - Archivum Secretum Apostolicum Vaticanum",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-08T22:52:03.947Z",
+  "lastmod": null,
+  "weight": 198600,
+  "audio": "poem-1986.mp3",
+  "image": "poem-1986-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

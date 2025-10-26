@@ -1,0 +1,122 @@
+It takes very little to get started,
+you should just watch video tutorials.
+
+You don't even have to type any code,
+just search for JavaScript tutorials and relax.
+
+And as you watch and learn,
+about different [JavaScript modules][1].
+
+Something will eventually call out to you,
+and you'll say: hey, I can do this...
+
+And this process will repeat for decades,
+things will reach out and grab you by the button.
+
+---
+
+Once you are watching tutorials,
+you have your foot in the door.
+
+And now it is not just about using modules,
+but writing your own.
+
+You will discover that you need,
+hundred of your own modules.
+
+Mostly just to learn and progress,
+but also because they are useful to the way you code.
+
+---
+
+One of my own modules that I often re-use,
+is called one-of.
+
+You give it an array of items,
+and it returns one at random.
+
+It is useful,
+when generating user interface demos.
+
+---
+
+My favorite library that others wrote,
+is probably [lodash][2] as it is full of tiny wisdoms.
+
+---
+
+One of he nicest videos is:
+[Amy Palamountain on Backbone and Marionette][3].
+
+Because she dares to call something useless,
+by a funny name, while others struggle to learn it.
+
+---
+
+But the fun starts when your practice,
+begins making you the best.
+
+And frequently,
+at little thing or two you picked.
+
+Then the tables turn,
+and theater than you learning programming.
+
+Programming, reaches out in a way,
+and begins teaching you.
+
+And you start __rebuilding__ popular programs,
+but with your own vision in mind.
+
+You make them easier,
+more automated.
+
+And you go chasing bits of code,
+that no one else ever wrote before.
+
+---
+
+And when you finish your protect,
+not only are you more knowledgeable.
+
+But you start rebuilding your program,
+but now with the new knowledge in mind.
+
+It is like going back to you childhood,
+but with everything you know today.
+
+Now, you approach the project,
+differently, and learn more new things.
+
+And do it again, you are not requiting,
+you are reinventing.
+
+What once took you months,
+now takes you hours.
+
+And with all the new lessons,
+you become more and more powerful, by the hour.
+
+---
+
+Now all the little projects, are clear,
+and all the big libraries aren't a challenge anymore.
+
+This process of rebuilding to learn,
+is never frustrating.
+
+And always about rebellion and super powers,
+hour by hour you rise.
+
+You innovate, invent, discover, break the rules,
+and rise above others who traded passion for glory.
+
+And while you never stop learning,
+you will experience more and more triumphs in your code.
+
+Your road forward then turns to art,
+and so does your code.
+
+[1]: https://github.com/search?q=language%3AJavaScript+stars%3A%3E1000+&type=repositories&s=stars&o=desc
+[2]: https://lodash.com/docs/
+[3]: https://www.youtube.com/watch?v=0o2whtCJw8I

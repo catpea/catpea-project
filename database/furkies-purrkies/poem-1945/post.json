@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1945",
+  "guid": "dda1956a-728b-44c0-b856-ed33387f7ef0",
+  "title": "To All Who Toil Upon This Earth",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-28T21:36:55.477Z",
+  "lastmod": null,
+  "weight": 194500,
+  "audio": "poem-1945.mp3",
+  "image": "poem-1945-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

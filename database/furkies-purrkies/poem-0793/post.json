@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0793",
+  "guid": "04e31016-5233-4c24-a22d-8200111466ab",
+  "title": "If You Are Yet Again Asking: What The Doodle Is Image Masking?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-03T00:14:56.469Z",
+  "lastmod": null,
+  "weight": 79300,
+  "audio": "poetry-0793.mp3",
+  "image": "poetry-0793-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

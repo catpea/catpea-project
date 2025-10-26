@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1592",
+  "guid": "d7de7612-9daa-46af-9461-586e0b957425",
+  "title": "Rage For Wisdom; Or, Against The Hollow, Ineffective, And Sideloaded",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-11T03:36:13.132Z",
+  "lastmod": null,
+  "weight": 159200,
+  "audio": "poem-1592.mp3",
+  "image": "poem-1592-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

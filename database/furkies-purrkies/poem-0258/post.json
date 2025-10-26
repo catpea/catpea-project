@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0258",
+  "guid": "8b83e893-88c0-4441-a96a-46ae80f44929",
+  "title": "The World Over",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-14T02:18:39.231Z",
+  "lastmod": null,
+  "weight": 25800,
+  "audio": "poetry-0258.mp3",
+  "image": "poetry-0258-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FqS49X-tWNU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

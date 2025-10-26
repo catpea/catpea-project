@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0725",
+  "guid": "5f7aba86-1e77-4860-bed9-46b4f45f5a5c",
+  "title": "Beyond The Photo",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-24T01:30:44.240Z",
+  "lastmod": null,
+  "weight": 72500,
+  "audio": "poetry-0725.mp3",
+  "image": "poetry-0725-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/VknfrXRRrIc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

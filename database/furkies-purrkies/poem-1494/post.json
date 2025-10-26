@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1494",
+  "guid": "826c6b31-457a-4b91-ad94-2cc9a2d380dd",
+  "title": "Potato Bodybuilding; A Workout Program So Simple Even A Vegetable Can Get Buff",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-04T03:48:10.911Z",
+  "lastmod": null,
+  "weight": 149400,
+  "audio": "poem-1494.mp3",
+  "image": "poem-1494-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

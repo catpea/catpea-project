@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1597",
+  "guid": "72fe19af-6b7d-4153-bc86-660b061703ab",
+  "title": "JavaScript Starting Points; Or, Before You Program Your First Hello World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-16T03:28:28.775Z",
+  "lastmod": null,
+  "weight": 159700,
+  "audio": "poem-1597.mp3",
+  "image": "poem-1597-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

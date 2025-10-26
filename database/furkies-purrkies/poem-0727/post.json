@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0727",
+  "guid": "10d6ecb5-583e-4268-9a70-fab2ac4769b6",
+  "title": "Who The Heck Are The Pixels?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-26T01:38:19.917Z",
+  "lastmod": null,
+  "weight": 72700,
+  "audio": "poetry-0727.mp3",
+  "image": "poetry-0727-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

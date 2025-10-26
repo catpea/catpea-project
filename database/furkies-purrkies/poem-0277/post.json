@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0277",
+  "guid": "4594828f-825c-474f-baeb-a99e9d5b6ceb",
+  "title": "The Serious Business Of Trouble-making",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-03T03:41:19.174Z",
+  "lastmod": null,
+  "weight": 27700,
+  "audio": "poetry-0277.mp3",
+  "image": "poetry-0277-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/m4uUDTrcJeY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

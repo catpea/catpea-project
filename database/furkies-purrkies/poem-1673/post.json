@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1673",
+  "guid": "c25611e8-8cef-4be5-94c9-88cf98ebd6f9",
+  "title": "Bodybuilding For Shy Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-30T01:44:47.515Z",
+  "lastmod": null,
+  "weight": 167300,
+  "audio": "poem-1673.mp3",
+  "image": "poem-1673-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

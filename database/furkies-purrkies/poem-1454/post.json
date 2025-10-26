@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1454",
+  "guid": "8fe304f4-379b-42d8-a0d8-fecf7a2ba07d",
+  "title": "Eddy Currents; Or, Adventure, Health, Wisdom, and Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-24T04:29:58.711Z",
+  "lastmod": null,
+  "weight": 145400,
+  "audio": "poem-1454.mp3",
+  "image": "poem-1454-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

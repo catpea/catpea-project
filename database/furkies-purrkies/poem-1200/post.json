@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1200",
+  "guid": "5ec7abd2-0ef1-4c5c-9131-03cb8878f121",
+  "title": "Learn And Rise Above: Don’t Let The Parasites And Ghouls Scare You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-15T03:10:49.267Z",
+  "lastmod": null,
+  "weight": 120000,
+  "audio": "poem-1200.mp3",
+  "image": "poem-1200-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/mIblcb-GrhE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

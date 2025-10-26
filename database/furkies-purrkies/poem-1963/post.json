@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1963",
+  "guid": "99b5f923-b21d-40d1-8a43-bcaf10b2e891",
+  "title": "Learn Programming To Rise Above Poverty! Don’t Let Others Control Your Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-17T00:42:00.678Z",
+  "lastmod": null,
+  "weight": 196300,
+  "audio": "poem-1963.mp3",
+  "image": "poem-1963-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0558",
+  "guid": "bde449bc-b689-477f-abfb-a060a5fecd83",
+  "title": "Philosophers And Warriors",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-10T01:57:21.411Z",
+  "lastmod": null,
+  "weight": 55800,
+  "audio": "poetry-0558.mp3",
+  "image": "poetry-0558-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/l_MXHKODm9c"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

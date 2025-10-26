@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1378",
+  "guid": "f2fc7658-4756-4b64-b31e-092a6f8f7be3",
+  "title": "What The Michigan Birds Have Been Up To",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-10T04:56:20.862Z",
+  "lastmod": null,
+  "weight": 137800,
+  "audio": "poem-1378.mp3",
+  "image": "poem-1378-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

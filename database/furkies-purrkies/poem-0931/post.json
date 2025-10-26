@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0931",
+  "guid": "10ad7005-85ca-4141-8490-69b54d440550",
+  "title": "What The Doodle Is A Tutorial Anyway?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-18T02:34:49.821Z",
+  "lastmod": null,
+  "weight": 93100,
+  "audio": "poetry-0931.mp3",
+  "image": "poetry-0931-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/o15lOC7SJKs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

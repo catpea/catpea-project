@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1995",
+  "guid": "cf53e8a0-2abf-4350-9c34-1e5cf9eeea5d",
+  "title": "And This Is Where You Start...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-17T22:53:41.727Z",
+  "lastmod": null,
+  "weight": 199500,
+  "audio": "poem-1995.mp3",
+  "image": "poem-1995-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

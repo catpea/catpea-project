@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1080",
+  "guid": "e4b64470-78f4-409c-ac6f-8f9c737c7be3",
+  "title": "Bula, Lola, Lulu, and Kiki - They Save; Or Generating Products With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-14T03:29:51.715Z",
+  "lastmod": null,
+  "weight": 108000,
+  "audio": "poem-1080.mp3",
+  "image": "poem-1080-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

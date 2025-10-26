@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0425",
+  "guid": "d5342ec2-46de-427e-aa76-f194b5b79018",
+  "title": "To Heal The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-30T01:18:19.720Z",
+  "lastmod": null,
+  "weight": 42500,
+  "audio": "poetry-0425.mp3",
+  "image": "poetry-0425-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/I2YSmEUAgDY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

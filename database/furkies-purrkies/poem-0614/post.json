@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0614",
+  "guid": "cd290fbc-5bed-46a9-829f-656dd8338a76",
+  "title": "Full Of Stars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-05T01:26:20.794Z",
+  "lastmod": null,
+  "weight": 61400,
+  "audio": "poetry-0614.mp3",
+  "image": "poetry-0614-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8xx5BRBYwHY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

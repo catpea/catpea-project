@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1557",
+  "guid": "6d65ca06-8320-4d53-ae85-29c0f6ea37e1",
+  "title": "Point Of Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-06T02:21:00.189Z",
+  "lastmod": null,
+  "weight": 155700,
+  "audio": "poem-1557.mp3",
+  "image": "poem-1557-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

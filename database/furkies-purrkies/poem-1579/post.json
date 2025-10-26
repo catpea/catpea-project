@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1579",
+  "guid": "1246244b-97b6-41ae-8432-32c44aac7ad8",
+  "title": "Is Philosophy Still Relevant? Or, The Curse Of How Was I Supposed To Know?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-28T04:38:47.712Z",
+  "lastmod": null,
+  "weight": 157900,
+  "audio": "poem-1579.mp3",
+  "image": "poem-1579-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0993",
+  "guid": "26988f9e-3044-45aa-8d0e-69abde2b6782",
+  "title": "Our Culture, Is Philosophy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-19T03:36:28.453Z",
+  "lastmod": null,
+  "weight": 99300,
+  "audio": "poem-0993.mp3",
+  "image": "poem-0993-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WHel7Z0l4RI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

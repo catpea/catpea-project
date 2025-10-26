@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1829",
+  "guid": "9f639206-3728-40d8-9345-9370cd9624fa",
+  "title": "Oh Sure, You My Have Cold Cheeks, But Spring Is In Two Weeks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-05T02:44:10.124Z",
+  "lastmod": null,
+  "weight": 182900,
+  "audio": "poem-1829.mp3",
+  "image": "poem-1829-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

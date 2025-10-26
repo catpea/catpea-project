@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2023",
+  "guid": "b722b660-1230-4de2-984a-839db11932d3",
+  "title": "How To Cure A Case Of The Mondays",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-15T00:01:08.478Z",
+  "lastmod": null,
+  "weight": 202300,
+  "audio": "poem-2023.mp3",
+  "image": "poem-2023-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/white-and-black-lighthouse-on-green-grass-field-under-blue-sky-during-daytime-Vjn3h7PpF4c"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

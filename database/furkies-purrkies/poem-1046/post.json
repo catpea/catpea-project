@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1046",
+  "guid": "651cd397-023f-4aed-84e5-2eab3f5fb63f",
+  "title": "Look To Stars, The Moon, And Sky",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-11T04:20:42.463Z",
+  "lastmod": null,
+  "weight": 104600,
+  "audio": "poem-1046.mp3",
+  "image": "poem-1046-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/pqyMhpDkxcY"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1694",
+  "guid": "31963168-9af8-4a8e-b481-aa520b9199c7",
+  "title": "If You Want To Be Fit Don't Sit; Or, Don’t Just Work Out, Try To Figure The Gym Out",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-21T04:01:10.324Z",
+  "lastmod": null,
+  "weight": 169400,
+  "audio": "poem-1694.mp3",
+  "image": "poem-1694-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

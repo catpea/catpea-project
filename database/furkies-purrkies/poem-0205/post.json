@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0205",
+  "guid": "f9912339-527e-4042-bacb-712587bb7f4c",
+  "title": "Share Your Lectures With The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-22T00:51:11.290Z",
+  "lastmod": null,
+  "weight": 20500,
+  "audio": "poetry-0205.mp3",
+  "image": "poetry-0205-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

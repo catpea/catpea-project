@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-adventurer",
+  "guid": "845237cf-8a4d-426c-8d49-1e28eacfe3e3",
+  "title": "The Adventurer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-05-22T04:26:45.699Z",
+  "lastmod": null,
+  "weight": 400,
+  "audio": null,
+  "image": "warrior-the-adventurer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

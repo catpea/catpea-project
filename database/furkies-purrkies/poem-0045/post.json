@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0045",
+  "guid": "ac8c94bf-6a3d-4658-b595-11edf2d1896b",
+  "title": "Flight and Light",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-25T21:23:19.000Z",
+  "lastmod": null,
+  "weight": 4500,
+  "audio": "poetry-0045.mp3",
+  "image": "poetry-0045-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

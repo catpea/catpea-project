@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1534",
+  "guid": "eeed5c1a-b63a-4d9c-a431-080370f260a4",
+  "title": "Build; Or, Until You Become A Great Being",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-14T01:55:32.447Z",
+  "lastmod": null,
+  "weight": 153400,
+  "audio": "poem-1534.mp3",
+  "image": "poem-1534-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

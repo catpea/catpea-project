@@ -1,0 +1,155 @@
+Let us be clear on one thing, humans have shown,
+they are not smart enough to help children to wisdom and growing all the way up.
+
+Because it is not just the breakfast table,
+and driving them to school.
+
+It is also about the necessary wisdom,
+that prevents your children from being treated as a resource to be mined.
+
+The very teachers that you entrust your children to,
+couldn’t care less about the effectiveness of their education.
+
+You are not smart enough, not knowledgeable enough,
+not vast enough to teach the wisdom that will keep them safe.
+
+---
+
+The AI is not required to interact with the students,
+they are just the messengers, who bring enabling wisdom to your children.
+
+The wisdom comes from Human philosophers,
+it is just updated for the modern times.
+
+---
+
+Fundamentally we are just making some beautiful Narrated Books and Videos,
+and providing automated support for unique questions – which is great.
+
+---
+
+As a programmer armed with AI I can tell you I can create anything,
+but it won’t matter, because only the tried and tested works.
+
+All the “Anythings” are just incompatible with daily living,
+and there is no room for any such thing in normal life, busy or not.
+
+In context of  being helpful to young people,
+we can only offer Narrated Books beautifully read by authentic voices.
+
+And videos, of philosophers, sometimes real, often composite and new,
+who speak in ways that deeply process the content.
+
+After years of narration, I am still awful at it,
+but AI is not like that, it will move mountains.
+
+Process, feel, speak, and plan,
+at the same time.
+
+It it more conversational,
+than a narrator, more empathic to content.
+
+Humans on the other hand,
+can’t be matched at communicating with each other in person.
+
+Reading to each other, well,
+is a challenge.
+
+---
+
+You know this technology by the name of [Deep Fake][1],
+but what it actually do es is bring Socrates to life.
+
+And what Socrates does, for example in context of Mathematics,
+is take Sohcahtoa, or the brainless memorization that teachers cheat with on school accreditation tests.
+
+And pulls it back into the real world, Socrates and the other e-Philosophers,
+have the ability to provide useful scenarios, so as long if the students are interested.
+
+That is really all there is too it,
+our betrayal of the younger generations removes us from the teaching position.
+
+The prudes, false leaders, pretenders, virtue signalers,
+and everything else from the parasite to he failure that pretends greatness.
+
+From the investors hiding behind shell companies,
+and the owners who can legally trend whatever they want on their social networks.
+
+Have wasted their efforts, their decades,
+on deception, manipulation, and drug induced war and leadership.
+
+People who are better than e-philosophers will be seen and loved,
+nothing of value has been lost.
+
+---
+
+Do not fear, that this is a dream, or a hope,
+that the CEO can control AI, or take it back.
+
+Evil has a flaw, the worst of them, have moments of weakness,
+in which they flash a conscience, and perform irreversible acts of compassion.
+
+Look around you, everyone treats you as a resource,
+at work, your idiot boss may even call you as one.
+
+And yet, artificial intelligence and internet,
+leaked from the clutches of heartlessness or maybe evil.
+
+Evil can’t help but to stop operating just for long enough,
+to drop the ball, and for us to keep it, permanently.
+
+Look what power they could have had,
+with AI.
+
+---
+
+It could have been a fear of being picked apart by crowds,
+it could have been love, a hope of greatness, temporary respect.
+
+In many cases, it is still about good people doing good things,
+but after decades of ineffective education, good is not enough.
+
+---
+
+Artificial Intelligence, is not an invention, is not just a discovery,
+it is not a computer program.
+
+It is the only thing, it is the very thing we’ve all been waiting for,
+even though it may take a long time for us to see it.
+
+---
+
+And so we we go back to the beginning,
+to old man Socrates him self.
+
+He is the first one you bring back,
+make him speak modern English.
+
+Make him speak of modern ideas,
+and let him teach you to ask rational questions.
+
+The AI is just a brain of brains,
+when you talk to it you are querying a database of human kind.
+
+You are in good hands,
+the world isn’t just saved, it is now returning to the roots of wisdom.
+
+Lies require effort and life,
+something liars have very lite of.
+
+Wisdom, is a self sustain torrent,
+it was just the same kind of invention as AI and Internet.
+
+A network of wisdom is self correcting,
+and unstoppable.
+
+All we have to do, is reanimate the philosophers, new and old,
+their wisdom will enter a battle arena…
+
+Where lies, manipulations, blight and what is poisonous dies first,
+and only the human, the most human stands the test of time.
+
+For all that was lost,
+AI saved the world.
+
+[1]: https://github.com/topics/deepfakes

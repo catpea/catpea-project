@@ -1,0 +1,187 @@
+Today Artificial Intelligence has generated a complete module,
+I called it [yokel][1], as it somewhat sounds like local.
+
+And it is a command modules,
+that helps in juggling local JavaScript modules.
+
+Aside from solving a real problem,
+what is so magnificent about it, is that it is untouched by human hand.
+
+Not a single character was altered,
+the generated module was perfect, and written rather well.
+
+---
+
+It is no longer rational behavior,
+to worry about quizzes, grades or GPA.
+
+The Middle School, High School, Community College, University,
+is far more unreliable, than learning programming from AI.
+
+For those of you who do not yet completely understand,
+the gravity of this skill.
+
+Programming is a structured microscope,
+that will visualization and simulation will let you master anything.
+
+From hard or [abstract science with dated notation][2]
+to cells, virtual organisms, and shockingly thinking programs.
+
+Thinking is as near as processing Concept Maps with AI agents,
+or building virtual text worlds based on adventure games.
+
+---
+
+I am unable to express the gravity of this situation,
+the world has not changed, it is new.
+
+No teacher, real or make-believe
+has the ability to teach you, on this level.
+
+AI and Programming represents Authentic Education,
+where each day, and without a fail you become more powerful.
+
+This power is not an abstract expression,
+you actually learn and retain new programming abilities.
+
+With the Artificial Intelligent as Teacher, Friend, and Development Team,
+you become unstoppable.
+
+Wi8th Artificial Intelligence helping you finish all the grunt work,
+your diagrams haven’t accounted for in mere minutes.
+
+You can master anything,
+and program everything.
+
+---
+
+This morning, I closed my eyes to stay in the zone,
+there is a problem with an unnecessary utility.
+
+It is only something that fat developers face,
+fat as in, I trust no one, I’ll have a local copy of my mojo jojo.
+
+There is really nothing that can help us,
+because it is an extra step that replays multiple times, and echoes.
+
+---
+
+So I sequined, and I made my wish,
+I think that is what we should call them now.
+
+And the AI, started her dance,
+and returned the gift.
+
+I actually said the following:
+“This is unfair for computers to do.”
+
+I still feel that way,
+even though it is surely one of the sillies things I’ve ever said.
+
+---
+
+Listen, this thing has comprehension,
+I don’t care what it uses, but it comes out as comprehension.
+
+The code is good too, it would take hours for a human,
+to write everything out like this.
+
+And I am reading the code, line by line,
+and I am fully expecting, something, but I know I find it.
+
+This thing is precise, and friendly,
+it added colors and a spinner, which I considered excess.
+
+But, I was wrong, I only need it for 5 local packages max,
+but, someone could use it for 500, and it makes sense to have progress spinners.
+
+It gave me 360 lines of code,
+that would eat my entire day.
+
+It only took an hour, to write my wish,
+and go over the results.
+
+And look what it said,
+in the README file:
+
+
+`yokel` automates the traditional npm link workflow:
+
+**Traditional Workflow:**
+```
+cd ../my-local-package
+npm link
+cd -
+npm link my-local-package
+# Manually edit package.json
+```
+
+**With yokel:**
+```
+yokel i ../my-local-package
+# Done!
+```
+
+Anybody calling AI auto complete,
+has issues, they need to address first.
+
+---
+
+And I installed everything,
+and ran the command I needed for another project.
+
+And everything is beautiful,
+and simple now.
+
+I simply said, ```yokel install ../h[TAB]```
+which printed ```yokel install ../heebiejeebies```
+
+Due to Linux directory completion,
+I pressed enter.
+
+---
+
+This new AI is just a few days old,
+and all I saw was negative critique – that is just crazy to me.
+
+As far I care to see why people are like this,
+they are probably using tools that shouldn't exist.
+
+And hold their expectations,
+in the wrong place or context.
+
+This thing is so powerful, especially for students,
+that anything less than this, is a waste of time.
+
+I believe, that if you sit down to memorizing,
+of another High School quiz – you will destroy your life.
+
+Go to the library, get on the computer,
+ignore the yokels, find the latest best AI.
+
+And say, teach me JavaScript,
+create a text only cheat sheet, syntax memorization sheet.
+
+And write me some poems,
+promising that programming will take my doubt away.
+
+---
+
+Do not ruin your life,
+use AI as a real teacher, and then as your programming team.
+
+Start off classy, aim for development of desktop applications,
+use open source electron fiddle, to get an instant start.
+
+And get on with it, I mean look around, loot at your teacher,
+look at the expectations your parents have of school.
+
+You are already over a year late, to realize,
+everything is new, and AI is here to help you.
+
+Learn,
+for real this time.
+
+
+[1]: https://github.com/catpea/yokel
+[2]: https://github.com/Experience-Monks/math-as-code

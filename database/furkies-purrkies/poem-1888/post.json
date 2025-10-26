@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1888",
+  "guid": "71ea5457-111d-4a52-8003-f8ed5c6485a5",
+  "title": "If Any Question Why We Died, Tell Them, Because Our Fathers Lied",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-02T23:52:56.361Z",
+  "lastmod": null,
+  "weight": 188800,
+  "audio": "poem-1888.mp3",
+  "image": "poem-1888-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/the-sun-is-setting-over-a-field-of-tall-grass-UfIpCGwxYN8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

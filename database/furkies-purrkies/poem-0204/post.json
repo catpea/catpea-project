@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0204",
+  "guid": "399856e6-e0cc-432d-9e96-3cf0a94b6d6b",
+  "title": "You Are A Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-20T21:30:09.199Z",
+  "lastmod": null,
+  "weight": 20400,
+  "audio": "poetry-0204.mp3",
+  "image": "poetry-0204-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/GX8KBbVmC6c"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

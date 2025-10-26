@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1971",
+  "guid": "8487458d-c759-45c9-89e7-f5e00fb9801b",
+  "title": "Not With A Whimper",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-24T21:06:38.957Z",
+  "lastmod": null,
+  "weight": 197100,
+  "audio": "poem-1971.mp3",
+  "image": "poem-1971-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

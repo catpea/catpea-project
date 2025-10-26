@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0411",
+  "guid": "4d41b41b-8316-4834-bdc0-69ad3d633456",
+  "title": "The World Is Growing Up Faster And Faster",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-15T22:56:22.325Z",
+  "lastmod": null,
+  "weight": 41100,
+  "audio": "poetry-0411.mp3",
+  "image": "poetry-0411-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IBaVuZsJJTo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

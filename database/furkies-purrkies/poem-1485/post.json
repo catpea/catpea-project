@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1485",
+  "guid": "7319cad1-2299-4d5b-93a9-2d3ea3d6febe",
+  "title": "What Is Eating The World, And How To Fix It",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-26T03:59:31.771Z",
+  "lastmod": null,
+  "weight": 148500,
+  "audio": "poem-1485.mp3",
+  "image": "poem-1485-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

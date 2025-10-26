@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1587",
+  "guid": "361502d6-869f-415f-8668-bb167835275b",
+  "title": "Avoid The Fitness Myths: It Is Not About How Heavy You Lift, But How Long You Lift Your Heavy For",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-06T04:32:23.640Z",
+  "lastmod": null,
+  "weight": 158700,
+  "audio": "poem-1587.mp3",
+  "image": "poem-1587-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

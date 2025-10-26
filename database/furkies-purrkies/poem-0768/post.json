@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0768",
+  "guid": "f7e5a075-8da2-408d-9198-42ad79bfe7c9",
+  "title": "The Triumphant Painter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-08T01:37:58.506Z",
+  "lastmod": null,
+  "weight": 76800,
+  "audio": "poetry-0768.mp3",
+  "image": "poetry-0768-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0022",
+  "guid": "57a318f7-875f-47e4-bf79-5da06a9bf71a",
+  "title": "Workout Video",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-02T20:04:32.068Z",
+  "lastmod": null,
+  "weight": 2200,
+  "audio": null,
+  "image": "poetry-0022-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

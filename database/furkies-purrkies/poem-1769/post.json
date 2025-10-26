@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1769",
+  "guid": "603949b6-f9f4-4507-aaf2-b144af71f180",
+  "title": "Don't Let School Ruin Your Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-04T03:11:46.744Z",
+  "lastmod": null,
+  "weight": 176900,
+  "audio": "poem-1769.mp3",
+  "image": "poem-1769-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

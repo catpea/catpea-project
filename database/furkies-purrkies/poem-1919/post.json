@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1919",
+  "guid": "cbf591fc-7636-4ab0-95a1-ce701d2245b0",
+  "title": "Mothers, Don’t Lie To Your Babes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-03T00:34:35.483Z",
+  "lastmod": null,
+  "weight": 191900,
+  "audio": "poem-1919.mp3",
+  "image": "poem-1919-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-in-a-red-bandana-is-riding-a-bike-Du91UKPeCMs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

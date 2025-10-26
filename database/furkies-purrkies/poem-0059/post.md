@@ -1,0 +1,39 @@
+We must Always wisely choose Maximum over Minimum,
+
+because the minimums will attack our mind and body.
+
+When hoping to live life to the fullest,
+
+we have to choose the big things very carefully.
+
+Health, is an example of a big thing,
+
+everything we do, must stand in support of it.
+
+Time, is a big thing,
+
+everything we do, must count.
+
+We must frequently ask,
+
+"Is this event harming or helping me?"
+
+We must frequently ask,
+
+"Will this matter in six months, or next year?"
+
+We must ask,
+
+"What are the regrets of my older self?"
+
+Because only you can judge yourself,
+
+you must grow in wisdom, and age gracefully.
+
+Do not miss the point of life -
+
+You are meant to become a Great Being.
+
+You are to search and find the Light of Your Life,
+
+and discover a way contribute to Wisdom.

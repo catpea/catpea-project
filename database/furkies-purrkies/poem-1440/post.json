@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1440",
+  "guid": "59d0074d-fb4f-4eee-912c-6257b5af1596",
+  "title": "The Little Trick That Makes Bro Science Stick",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-10T04:50:24.030Z",
+  "lastmod": null,
+  "weight": 144000,
+  "audio": "poem-1440.mp3",
+  "image": "poem-1440-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

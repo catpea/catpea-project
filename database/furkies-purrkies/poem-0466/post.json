@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0466",
+  "guid": "21aa6beb-40ed-4002-b58e-aa1310db67c6",
+  "title": "The New Wonder Of The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-09T22:29:28.893Z",
+  "lastmod": null,
+  "weight": 46600,
+  "audio": "poetry-0466.mp3",
+  "image": "poetry-0466-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iS5WoH8Hr84"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

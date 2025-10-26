@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1598",
+  "guid": "66fdd6a8-6395-4c4e-83a6-141beead8c5a",
+  "title": "Programmers, Inventors, and Wizards; Or, Life After Learning Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-17T03:24:25.513Z",
+  "lastmod": null,
+  "weight": 159800,
+  "audio": "poem-1598.mp3",
+  "image": "poem-1598-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

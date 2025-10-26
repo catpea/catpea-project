@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1576",
+  "guid": "e6aabccb-d3d0-4232-ad21-42f58f16862c",
+  "title": "Fitness, Step One: Replace Your Kitchen With A Fitness Zone",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-25T03:42:37.377Z",
+  "lastmod": null,
+  "weight": 157600,
+  "audio": "poem-1576.mp3",
+  "image": "poem-1576-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

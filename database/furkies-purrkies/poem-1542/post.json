@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1542",
+  "guid": "e5baf39b-5327-489c-8da7-9b6a7b23a0d1",
+  "title": "Nordhouse Dunes: The Tale Of Two Sticks",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-22T03:56:08.123Z",
+  "lastmod": null,
+  "weight": 154200,
+  "audio": "poem-1542.mp3",
+  "image": "poem-1542-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

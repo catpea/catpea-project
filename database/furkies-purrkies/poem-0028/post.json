@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0028",
+  "guid": "905833ba-a05d-4a25-a269-0ac0f9cc1908",
+  "title": "Peanut Butter and Jelly",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-09T03:01:38.615Z",
+  "lastmod": null,
+  "weight": 2800,
+  "audio": "poetry-0028.mp3",
+  "image": "poetry-0028-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

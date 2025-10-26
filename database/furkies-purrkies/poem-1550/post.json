@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1550",
+  "guid": "da3d3857-cede-4c35-aa7d-bb87c39b8651",
+  "title": "Programming For The Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-30T04:29:17.667Z",
+  "lastmod": null,
+  "weight": 155000,
+  "audio": "poem-1550.mp3",
+  "image": "poem-1550-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

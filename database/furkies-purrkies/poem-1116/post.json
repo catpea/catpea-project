@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1116",
+  "guid": "4cc38eab-0e98-425d-8b55-904ddb202178",
+  "title": "The Philosopher Deck Art Challenge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-23T03:07:51.621Z",
+  "lastmod": null,
+  "weight": 111600,
+  "audio": "poem-1116.mp3",
+  "image": "poem-1116-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

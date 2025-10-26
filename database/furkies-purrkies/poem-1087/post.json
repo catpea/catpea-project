@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1087",
+  "guid": "4bed3db7-a898-4308-84a6-e39ac9605c58",
+  "title": "A Medley Of Inspirational Poetry",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-21T01:20:48.606Z",
+  "lastmod": null,
+  "weight": 108700,
+  "audio": "poem-1087.mp3",
+  "image": "poem-1087-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/LEgwEaBVGMo"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1048",
+  "guid": "8245213a-2e85-48dd-89ef-eca9d6af6c27",
+  "title": "Photobashing Generative AI Into Krita Masterpieces, And A Tiny Art Challenge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-13T04:14:40.301Z",
+  "lastmod": null,
+  "weight": 104800,
+  "audio": "poem-1048.mp3",
+  "image": "poem-1048-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://huggingface.co/spaces/anzorq/finetuned_diffusion"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0559",
+  "guid": "fcefd5ae-49a0-4616-a13b-c2499b1e6393",
+  "title": "Biographies: Stories of Wisdom, and Adventures in Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-11T02:04:58.250Z",
+  "lastmod": null,
+  "weight": 55900,
+  "audio": "poetry-0559.mp3",
+  "image": "poetry-0559-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ZpnVeCKf6KM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

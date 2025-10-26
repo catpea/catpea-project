@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0517",
+  "guid": "ed18771c-d1a6-4d90-91b9-8ec14a25e0bc",
+  "title": "Instant Artist: Learn Art Right Now",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-31T02:07:18.837Z",
+  "lastmod": null,
+  "weight": 51700,
+  "audio": "poetry-0517.mp3",
+  "image": "poetry-0517-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/mmYyzczxvdo"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

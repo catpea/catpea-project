@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1605",
+  "guid": "83d61938-a648-43e1-ad02-544592cf58fe",
+  "title": "Three Shrieks At Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-24T05:02:28.625Z",
+  "lastmod": null,
+  "weight": 160500,
+  "audio": "poem-1605.mp3",
+  "image": "poem-1605-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

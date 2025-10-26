@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0757",
+  "guid": "ed04326b-7fb2-4989-ae01-1c3278eac55c",
+  "title": "A Wiser World And A Better View",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-28T01:05:31.071Z",
+  "lastmod": null,
+  "weight": 75700,
+  "audio": "poetry-0757.mp3",
+  "image": "poetry-0757-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YNestQrvx80"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

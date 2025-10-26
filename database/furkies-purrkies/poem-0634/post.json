@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0634",
+  "guid": "a7104dd5-ee08-45d2-bfaf-4990805fb14b",
+  "title": "For The Turkeys",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-25T01:02:03.462Z",
+  "lastmod": null,
+  "weight": 63400,
+  "audio": "poetry-0634.mp3",
+  "image": "poetry-0634-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

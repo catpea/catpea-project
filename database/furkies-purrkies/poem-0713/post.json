@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0713",
+  "guid": "a3b98af2-bbb4-4752-92fa-64dd761b757c",
+  "title": "The Cat Pea Technique: Passionately Tracing And Coloring In Krita",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-11T18:39:02.139Z",
+  "lastmod": null,
+  "weight": 71300,
+  "audio": "poetry-0713.mp3",
+  "image": "poetry-0713-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

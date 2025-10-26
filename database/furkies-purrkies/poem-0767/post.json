@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0767",
+  "guid": "441c38bf-fcf4-41e5-a19a-90e3efe9f316",
+  "title": "Tea And Biscuit, Or How To Paint A Perfect Selfie Portrait",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-06T23:36:11.477Z",
+  "lastmod": null,
+  "weight": 76700,
+  "audio": "poetry-0767.mp3",
+  "image": "poetry-0767-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

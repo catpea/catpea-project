@@ -1,0 +1,126 @@
+Nobody noticed much at first,
+I suppose no one - ever - does.
+
+People forget that change,
+is a natural occurrence.
+
+This is not a preset world,
+under perfect control.
+
+First ideas that people,
+didn’t pay attention to…
+
+Begun influencing them,
+they saw a strange pointless war.
+
+Schools dropping tuition fees,
+and fools, grow a brain.
+
+There was a flurry of
+medical breakthroughs.
+
+Things that would take ages,
+happened in months.
+
+Programmers became,
+even more powerful.
+
+Bad Hackers pulled off,
+wild crazy things.
+
+And even evil men,
+sped up their folly.
+
+Just to self destruct,
+that much sooner.
+
+---
+
+And censorship died,
+it became impossible.
+
+A 5GB model,
+would run…
+
+On a discarded office computer,
+from a dump.
+
+And was a very informative,
+machine in deed.
+
+---
+
+All humanity needed,
+was more narrated books.
+
+But what it got,
+was more than it could hope for.
+
+---
+
+Ineffective education,
+became even more meaningless.
+
+Why hoop jump,
+why pay for nonsense.
+
+When you don’t even need,
+internet to learn programming.
+
+When [a little ollama model][1],
+was smarter than entire universities.
+
+---
+
+It was a natural change change,
+it arose from the discovery of LLM.
+
+And it quickly became,
+a New Renaissance.
+
+
+And it was unstoppable,
+because young people got real answers.
+
+They did not get graded,
+they were were not shamed.
+
+They were not forced to learn,
+at a prefixed sequence.
+
+---
+
+They finally,
+had their own private philosopher.
+
+Uh, Old Socrates,
+would have been heartbroken.
+
+Had he known,
+that it would take a machine.
+
+To remind ourselves,
+that to grow…
+
+Is to grow all the way up,
+until we each become a great being.
+
+That it wasn't,
+the great beings, who rose.
+
+But even,
+that had soon changed.
+
+A Renaissance after all,
+is just a better beginning.
+
+And the best of us,
+went right back to where it all begun.
+
+Love of wisdom,
+and the Philosophers.
+
+That each of us, could now talk to,
+and understand like a friend.
+
+[1]: https://ollama.com/search?o=newest

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1127",
+  "guid": "d1c94329-820d-495d-afbc-206e8bc40e4d",
+  "title": "Beyond Conspiracy Theories",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-02T22:11:23.845Z",
+  "lastmod": null,
+  "weight": 112700,
+  "audio": "poem-1127.mp3",
+  "image": "poem-1127-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/aebPbwAWjDs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

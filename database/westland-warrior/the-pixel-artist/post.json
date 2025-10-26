@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-pixel-artist",
+  "guid": "dbfcb3a1-9d7a-4a17-9c69-201500b7abf9",
+  "title": "The Pixel Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-04-10T19:43:38.475Z",
+  "lastmod": null,
+  "weight": 12800,
+  "audio": null,
+  "image": "warrior-the-pixel-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

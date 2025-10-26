@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1389",
+  "guid": "ba61ef27-dc59-43b4-bccc-102759aa5372",
+  "title": "The Supremely Boring World Of Visual Programming & Diagramming Tools",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-21T04:33:04.656Z",
+  "lastmod": null,
+  "weight": 138900,
+  "audio": "poem-1389.mp3",
+  "image": "poem-1389-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:BPMN-E-MailVotingProcess.jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

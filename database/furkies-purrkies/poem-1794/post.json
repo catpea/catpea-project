@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1794",
+  "guid": "23b40f77-24b5-4381-8d61-dd34d958756c",
+  "title": "Program Wild And Scary! Apologize For Nothing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-29T05:51:09.287Z",
+  "lastmod": null,
+  "weight": 179400,
+  "audio": "poem-1794.mp3",
+  "image": "poem-1794-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1504",
+  "guid": "a2d17ad8-45c8-4093-9631-fe55aed5549e",
+  "title": "In Wisdom The World Finds Peace, And All Conflicts Cease",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-14T05:02:46.105Z",
+  "lastmod": null,
+  "weight": 150400,
+  "audio": "poem-1504.mp3",
+  "image": "poem-1504-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

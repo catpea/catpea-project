@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-joystick-commando",
+  "guid": "eb5564e1-762c-45ba-957b-9c0b4a191234",
+  "title": "The Joystick Commando",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-06-05T01:01:34.594Z",
+  "lastmod": null,
+  "weight": 12810,
+  "audio": null,
+  "image": "the-joystick-commando-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

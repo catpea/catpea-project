@@ -1,0 +1,114 @@
+Bodybuilding,
+consists of two phases.
+
+Initial training for bodybuilding,
+where you extend your endurance.
+
+And a life-long, gradual challenge,
+where you wait for your body to adapt and repeat.
+
+---
+
+You begin by establishing,
+a slow but non-stop hour long routine.
+
+This will help you build up your endurance,
+and gently get rid of the initial body aches.
+
+---
+
+Once you can handle a full hour
+you switch to a daily gradual challenge.
+
+Where you wait for your body to adapt,
+and repeat the challenge.
+
+Bodybuilding requires dumbbells only,
+avoid muscle isolation to prevent injury.
+
+Sets and reps of maximum weights,
+are a myth that forces a plateau.
+
+As the weights are simply to heavy,
+to lift faster, longer, or heavier.
+
+---
+
+Begin by power-walking or slowly jogging each day,
+while carrying 3 pound dumbbells.
+
+Aim to slowly jog for an hour,
+eliminate all rest.
+
+You may switch to heavier dumbbells,
+if you can handle them.
+
+It is far more important that you jog,
+for an hour straight, than lift heavy.
+
+You may take weekends off,
+but hurry as the first phase is just trining.
+
+---
+
+You can use Couch25K or an Interval Timer,
+app or clip-on, to help you close the rest gaps.
+
+Learn to synchronize your motion with music,
+start with slow songs first.
+
+Beat synchronization will help you enter,
+a workout dance trance that makes time pass faster.
+
+Consider training outside, or outdoors,
+parks, and especially woodland areas with soft ground.
+
+Wear wide to box, zero drop shoes,
+and thicker socks to protect your feet.
+
+The muscle soreness fades away,
+after two to four weeks.
+
+---
+
+Once you earn the endurance,
+to carry dumbbells for an hour straight.
+
+---
+
+You enter the gym,
+and aim to workout slightly harder.
+
+Rapid walking or simple [Shuffle Dancing][4],
+to slight faster music will replace jogging.
+
+Be sure to workout to fresh dance songs,
+to stay within the dance trance.
+
+Upgrade your dumbbell exercises,
+from merely carrying them to:
+
+[Dumbbell Lateral Raise][1], [Standing Dumbbell Curls][2],
+and [Overhead Shoulder Press][3].
+
+Consider adding 15 minutes,
+to your routine extending it to few hours.
+
+Keep an eye on your adaptation,
+list light dumbells non-stop…
+
+But not so light that you can lift more,
+and not so heavy that you are forced to stop.
+
+---
+
+Bodybuilding, is a very simple, meditative,
+and relaxing endurance sport.
+
+Where you gradually challenge you body,
+wait for it to adapt, and repeat.
+
+[1]: https://youtu.be/FeJP4E4Z-PY?t=121
+[2]: https://youtu.be/av7-8igSXTs
+[3]: https://youtu.be/Gu1t7X2yq4M?t=153
+[4]: https://www.youtube.com/results?search_query=shuffle+dance+and+cutting+shapes+tutorial

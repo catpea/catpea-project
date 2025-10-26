@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0343",
+  "guid": "68f9c25e-cef0-40f1-9f95-aae7944c9c52",
+  "title": "Karaoke Pokie: A Cappella Eve With The Dr. Meow Quartet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-06T22:06:30.799Z",
+  "lastmod": null,
+  "weight": 34300,
+  "audio": "poetry-0343.mp3",
+  "image": "poetry-0343-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

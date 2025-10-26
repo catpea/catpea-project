@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0496",
+  "guid": "41803e25-395a-45ad-a690-6f22ed6d6488",
+  "title": "Curious Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-10T01:54:02.196Z",
+  "lastmod": null,
+  "weight": 49600,
+  "audio": "poetry-0496.mp3",
+  "image": "poetry-0496-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/nJx-bOJcisc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

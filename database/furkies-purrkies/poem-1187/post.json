@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1187",
+  "guid": "8eb2a9a7-f5bc-4be2-8aee-73b378cf2c02",
+  "title": "Doodle Diagrams; For Learning, Programming, and Tactical Office Shenanigans",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-02T02:55:15.814Z",
+  "lastmod": null,
+  "weight": 118700,
+  "audio": "poem-1187.mp3",
+  "image": "poem-1187-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:LMMS_1.2.1_Demo.png"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

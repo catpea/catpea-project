@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0392",
+  "guid": "dd883f9b-c850-46f3-9dba-4e3d817952ed",
+  "title": "Mastering Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-27T21:37:27.481Z",
+  "lastmod": null,
+  "weight": 39200,
+  "audio": "poetry-0392.mp3",
+  "image": "poetry-0392-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Ronin,_or_masterless_Samurai,_lunging_forward.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

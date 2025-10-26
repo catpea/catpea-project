@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1913",
+  "guid": "817a6e4e-185d-4161-96d8-bb7744418aed",
+  "title": "How Artificial Intelligence Just Grabbed Me By The Button",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-28T00:51:47.201Z",
+  "lastmod": null,
+  "weight": 191300,
+  "audio": "poem-1913.mp3",
+  "image": "poem-1913-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gray-and-white-robot-illustration-FTfjMijq-Ws"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

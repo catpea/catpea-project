@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0201",
+  "guid": "8bcd61fb-1e17-4dfd-98cd-09ad0353a919",
+  "title": "Her Wisdom and World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-17T23:52:13.367Z",
+  "lastmod": null,
+  "weight": 20100,
+  "audio": "poetry-0201.mp3",
+  "image": "poetry-0201-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/oUyfE8l8sRI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

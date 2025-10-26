@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1015",
+  "guid": "8777d1af-4fa7-4f83-ae9a-90b4dd2d3740",
+  "title": "High School And Future Generations",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-11T04:08:25.110Z",
+  "lastmod": null,
+  "weight": 101500,
+  "audio": "poem-1015.mp3",
+  "image": "poem-1015-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/X67095nzkf0"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

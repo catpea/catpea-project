@@ -1,0 +1,28 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1043",
+  "guid": "29ca9f9f-d930-4efb-a3c5-0804d32811a0",
+  "title": "The Space Kittens From Oumuamua: Attention All Humans!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-08T03:30:15.295Z",
+  "lastmod": null,
+  "weight": 104300,
+  "audio": "poem-1043.mp3",
+  "image": "poem-1043-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UgNjyPkphtU",
+    "https://unsplash.com/photos/rCbdp8VCYhQ",
+    "https://en.wikipedia.org/wiki/DALL-E",
+    "https://catpea.com/"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

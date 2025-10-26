@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-skeptic",
+  "guid": "ee48add9-eaf5-47e8-8418-01f3bca39d44",
+  "title": "The Skeptic",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-07-31T03:51:28.289Z",
+  "lastmod": null,
+  "weight": 2200,
+  "audio": null,
+  "image": "warrior-the-skeptic-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

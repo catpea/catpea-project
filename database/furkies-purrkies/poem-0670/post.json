@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0670",
+  "guid": "f5d1178b-1362-4dde-a2d0-02babc26c1ff",
+  "title": "The Real School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-31T00:38:53.999Z",
+  "lastmod": null,
+  "weight": 67000,
+  "audio": "poetry-0670.mp3",
+  "image": "poetry-0670-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EbXwRfVjfJw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

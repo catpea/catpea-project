@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1201",
+  "guid": "93099af9-84d1-4218-8297-3b1e8063532d",
+  "title": "Helping Students Identify Ineffective (Or Junk) Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-16T03:02:40.583Z",
+  "lastmod": null,
+  "weight": 120100,
+  "audio": "poem-1201.mp3",
+  "image": "poem-1201-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ulrYvfGbBIg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

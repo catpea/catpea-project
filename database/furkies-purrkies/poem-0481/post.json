@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0481",
+  "guid": "21f9124f-32d4-4893-8deb-5dc6cfdec6d1",
+  "title": "There Are No Ordinary People",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-25T01:34:19.501Z",
+  "lastmod": null,
+  "weight": 48100,
+  "audio": "poetry-0481.mp3",
+  "image": "poetry-0481-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jxd_BtnzQBQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

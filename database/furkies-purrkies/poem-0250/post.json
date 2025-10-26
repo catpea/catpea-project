@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0250",
+  "guid": "bb63ffc0-cc26-4b9a-8fdb-29de03fe018b",
+  "title": "So That The Younger Generations May Follow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-06T04:02:43.784Z",
+  "lastmod": null,
+  "weight": 25000,
+  "audio": "poetry-0250.mp3",
+  "image": "poetry-0250-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/01tbPwcWFWM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1567",
+  "guid": "ac906a33-965d-41f5-94ea-31be970a6f2a",
+  "title": "Childhood: The Most Extra Super Serious Time Of Our Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-16T04:08:55.526Z",
+  "lastmod": null,
+  "weight": 156700,
+  "audio": "poem-1567.mp3",
+  "image": "poem-1567-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1577",
+  "guid": "a1ee3b07-34e8-4125-abc8-fb6c61320e42",
+  "title": "So You Arrived At Your Camp Site! What Do, And What No Do?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-26T03:37:21.101Z",
+  "lastmod": null,
+  "weight": 157700,
+  "audio": "poem-1577.mp3",
+  "image": "poem-1577-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0533",
+  "guid": "f19450c8-64f5-4607-954f-968f2b0d61c4",
+  "title": "Books: Help The World Grow All The Way Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-15T23:46:17.502Z",
+  "lastmod": null,
+  "weight": 53300,
+  "audio": "poetry-0533.mp3",
+  "image": "poetry-0533-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kafz5Ujp5pU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

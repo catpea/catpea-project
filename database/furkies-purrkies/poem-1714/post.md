@@ -1,0 +1,167 @@
+I’ve been learning about visual programming,
+connecting boxes with lines that represent information flow.
+
+Visual Programming is way ahead of everyone else,
+and also above their heads.
+
+Common sentiment that everyone is repeating,
+is that visual programming does not scale.
+
+Meaning the bigger the program,
+the more unreadable the code becomes.
+
+The old school command line,
+is actually a visual programming languge, expressed in text.
+
+Here a box is a string of letters,
+and the vertical pipe character, the connecting line.
+
+Redux and similar, that leads the mainstream,
+are primitive visual programs.
+
+BDD a powerful way to describe programs,
+is at the heart of AI based Visual Programming.
+
+Here the description is not just for the programmer,
+but primarily for artificial intelligence.
+
+More than that, visual programming is self documenting,
+easy to navigate, to adjust, and blocks can be easily replaced.
+
+Visual programming is easy to remember and follow,
+it is more compatible with humans than standard programming
+
+---
+
+You see, I grew up writing spaghetti code,
+on my lovely C64.
+
+We didn’t have real functions back then,
+and no objects, we had goto and gosub.
+
+So to me scale is a simple problem of organization,
+and I dismiss critics of Visual Programming outright.
+
+---
+
+But the truth must be spoken,
+until today’s milestone.
+
+I am not sure if I could say,
+“I know what visual programming is”
+
+I hold my self to a very high standard,
+one opposite of the critics.
+
+But, knowing,
+really is: finishing.
+
+---
+
+Programming is going to become more automated,
+because a well trained code model, can do things better than humans.
+
+So as long as the components are small, well defined,
+and reasonably organized, preferably just black box functions.
+
+Well defined input, well defined output,
+and easy to test.
+
+That old Unix philosophy still holds true,
+“do one thing do it well”.
+
+But I also add,
+“give it to AI to do it better”.
+
+And be mindful that AI and programming languages,
+are forever improving.
+
+That means, not just code generation,
+but also code regeneration.
+
+---
+
+Be it coders wisely examining Rust,
+or in their insanity adding type definitions to JavaScript.
+
+Artificial Intelligence indicates a direction away,
+from adding more information to code, such as variable-type definitions.
+
+It has little need forgefingerpoken, und mittengrabben,
+keep das cottonpicken hander in das pocket.
+
+---
+
+And even in rust, infinite number of programmers,
+writing infinite numbers of the same code, is trouble.
+
+Rust will make things harder for the troublemaker,
+but slower if not more error prone for the pro.
+
+AI is the honey badger, it just does not care,
+how complex the function is, it will write and rewrite.
+
+And then test, pentest, and retest,
+much faster than any human.
+
+---
+
+Up on the top most levels of visual programming,
+it takes just three clicks.
+
+To swap a program block,
+responsible for translating, summarizing or tagging text.
+
+The user interface is a drop-down of options,
+more than that…
+
+Even today there would be two separate categories,
+that relate to intelligent processing.
+
+Humanoid, and Human, so an extra click,
+can switch you from AI to Human workers and back.
+
+---
+
+Everyone always talked about knowing, and efficiency,
+and today the Linux kernel is being rewritten in Rust.
+
+It will end the same way Perl 6 did,
+it will be different, from what anybody wanted.
+
+And people will move on,
+to something different.
+
+---
+
+When I look at others peoples research,
+I see less than 5 examples of visual programs.
+
+Everything else,
+is just failed experiments.
+
+---
+
+Lastly, I will leave you with the formula fo GUI work,
+you see, both programming blocks and GUI components…
+
+Are just boxes, like a Linux command,
+everything has an input and an output.
+
+And like redux, there is a switch statement,
+where different actions that reach a block do different things.
+
+So to create a left navigation pane,
+you just send IN pane configuration.
+
+And when the user clicks something,
+the pane will send OUT information about the click.
+
+Everything has a start and a stop,
+and relies on signals.
+
+Visual programming is not like functional programming,
+it is more like functional reactive programming.
+
+The underlying compoent that ies it all together,
+is not a bare Object, it is the EventEmitter, just like in the browser.

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1623",
+  "guid": "759c8875-9df8-4f7b-9a4c-c2bcf494e5b0",
+  "title": "Are Programmers Scientists Or Just Really Weird Wizards?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-11T03:33:40.274Z",
+  "lastmod": null,
+  "weight": 162300,
+  "audio": "poem-1623.mp3",
+  "image": "poem-1623-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

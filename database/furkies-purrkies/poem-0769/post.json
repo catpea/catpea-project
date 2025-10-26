@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0769",
+  "guid": "bc52975e-7fa7-4402-8262-4e1fc3e3bda4",
+  "title": "Sitting In A Chair Learning To Paint Hair",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-08T18:22:19.234Z",
+  "lastmod": null,
+  "weight": 76900,
+  "audio": "poetry-0769.mp3",
+  "image": "poetry-0769-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

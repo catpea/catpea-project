@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2006",
+  "guid": "0095b1e6-d919-446e-a5a2-75cda820f337",
+  "title": "Let AI Make Your Programming Inventions Come To Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-29T00:21:50.287Z",
+  "lastmod": null,
+  "weight": 200600,
+  "audio": "poem-2006.mp3",
+  "image": "poem-2006-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

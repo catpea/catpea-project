@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0886",
+  "guid": "0aa63124-4d0f-4adb-99ed-07539127fa88",
+  "title": "Lemur Limericks - Can Bush Babies Save The World?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-03T22:25:09.038Z",
+  "lastmod": null,
+  "weight": 88600,
+  "audio": "poetry-0886.mp3",
+  "image": "poetry-0886-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://commons.wikimedia.org/wiki/File:Komba_u%C5%A1at%C3%A12.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

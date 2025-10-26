@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1938",
+  "guid": "5782ec18-4c09-4c17-a9b1-ec2569ca947a",
+  "title": "The New Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-22T01:23:53.594Z",
+  "lastmod": null,
+  "weight": 193800,
+  "audio": "poem-1938.mp3",
+  "image": "poem-1938-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

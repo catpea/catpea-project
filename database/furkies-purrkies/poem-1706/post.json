@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1706",
+  "guid": "8ec0589d-7acb-4369-b1e8-99d7be224e99",
+  "title": "The Unfortunate And Misleading Myth Of Sets And Reps",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-02T04:40:29.655Z",
+  "lastmod": null,
+  "weight": 170600,
+  "audio": "poem-1706.mp3",
+  "image": "poem-1706-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1551",
+  "guid": "35bf9e74-09e0-4b68-aab1-63d3e5b920b2",
+  "title": "Michigan Beach Fancy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-31T04:20:16.464Z",
+  "lastmod": null,
+  "weight": 155100,
+  "audio": "poem-1551.mp3",
+  "image": "poem-1551-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

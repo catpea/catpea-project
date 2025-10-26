@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1285",
+  "guid": "87ce7a87-853f-48ff-8749-cd160c860ae1",
+  "title": "The Allegory Of The Cave",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-08T02:43:32.872Z",
+  "lastmod": null,
+  "weight": 128500,
+  "audio": "poem-1285.mp3",
+  "image": "poem-1285-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/j8gmwboVhpw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

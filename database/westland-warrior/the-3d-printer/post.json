@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-3d-printer",
+  "guid": "b217f77a-5dc3-4da3-875d-9eb6935d97a1",
+  "title": "The 3D Printer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-12-05T22:59:22.112Z",
+  "lastmod": null,
+  "weight": 7500,
+  "audio": null,
+  "image": "warrior-the-3d-printer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

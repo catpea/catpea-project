@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0070",
+  "guid": "053e1f35-286d-4579-8d51-b246556bca1c",
+  "title": "Friday and I",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-15T03:46:46.063Z",
+  "lastmod": null,
+  "weight": 7000,
+  "audio": "poetry-0070.mp3",
+  "image": "poetry-0070-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

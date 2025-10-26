@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1295",
+  "guid": "5a9fe13e-8241-4d51-a9c9-6c19ec1ed355",
+  "title": "To Resume Where The Great Beings Leave Off",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-18T02:42:19.551Z",
+  "lastmod": null,
+  "weight": 129500,
+  "audio": "poem-1295.mp3",
+  "image": "poem-1295-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DVWBq-94qrs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1049",
+  "guid": "ac86c0bf-2e7d-4118-9330-3c4fc9064305",
+  "title": "Getting Generative Artificially Created Art Out Into The Real World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-14T03:29:50.005Z",
+  "lastmod": null,
+  "weight": 104900,
+  "audio": "poem-1049.mp3",
+  "image": "poem-1049-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

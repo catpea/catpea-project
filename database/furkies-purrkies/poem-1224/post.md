@@ -1,0 +1,78 @@
+The toughest thing is to eliminate rest periods,
+it is so unfair that this is the first thing you have to do.
+
+To do it quick, follow the couch to 5K pattern,
+possibly using your own clip-on-or-app interval timer.
+
+You narrow down the rest periods expanding the activity periods,
+until one day, you stop stopping.
+
+---
+
+This act of eliminating rest, and never sitting down,
+has been perfected by joggers.
+
+Except at the gym, you don’t just jog with your feet,
+but also the dumbbells.
+
+And the act of moving your hands and feet to music,
+is not called a jog, or workout, it is actually called dancing.
+
+Being shy is beautiful, but health is so important,
+that for the duration of your workout, you will have to fight it.
+
+---
+
+Moreover, by placing dumbbells in your hands,
+and varying their weight, relative to the speed of your motion…
+
+Your entire musculature; __all__ your muscles,
+biceps, shoulders, but also abdominals, and legs will begin adapting.
+
+In a word, your arms, are connected;
+to the rest of your body.
+
+Doing a little abdominal twist, at the speed of music,
+will have those dumbbells pushing; your hands, your arms, your shoulders.
+
+And even your abdominal area will be trying to stop the inertial motion,
+caused by the dumbbells.
+
+---
+
+You see, adding dumbbells to your dance workout,
+induces a full body adaptation in order to stay with the beat of your songs.
+
+---
+
+Perhaps most importantly, music will help you enter a state of trance,
+your mind will bee too busy hitting every beat, for you to get distracted.
+
+This is also why, coffee is __really__ bad for your workouts,
+to put it simply, it will not let you enter a state of trance.
+
+To burn fat, you have to stay away from sugar, as it ruins workouts,
+it is such a powerful substance that it ends up successfully feeding your body.
+
+Sugar is pure magic for skinny people,
+not for the rest of us.
+
+Drink water, and if you sweat a lot, you will need to replenish your electrolytes,
+but to do it safely and wisely, you need a cheap blood pressure machine.
+
+And you need a nurse to verify that it is giving you correct measurements,
+alternatively see if maybe your pharmacy has a public blood pressure monitor.
+
+Because you are altering your body,
+you are going to have to get some accurate feedback – consult your doctor.
+
+---
+
+It is just dancing you know,
+if you do it frequently and for a goodie long while…
+
+It will make you more cheerful,
+younger, more beautiful, healthier, and more flexible;
+
+And as I discovered, from my own workouts,
+more bouncier.

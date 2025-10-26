@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1770",
+  "guid": "bff33a64-31ce-4d88-9e81-b22f180972cf",
+  "title": "The Three Letters About Learning",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-05T04:36:34.494Z",
+  "lastmod": null,
+  "weight": 177000,
+  "audio": "poem-1770.mp3",
+  "image": "poem-1770-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

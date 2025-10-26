@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-artificial-intelligence",
+  "guid": "5e18504f-8d66-4302-b99e-d71c3a244b76",
+  "title": "The Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-02-13T00:41:40.635Z",
+  "lastmod": null,
+  "weight": 11803,
+  "audio": null,
+  "image": "the-artificial-intelligence-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

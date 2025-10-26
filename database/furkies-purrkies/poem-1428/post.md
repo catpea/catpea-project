@@ -1,0 +1,121 @@
+Duration of your non-stop exercise,
+is really the big driving force.
+
+If you keep it at two hours,
+you will gain muscle.
+
+But if you workout for more,
+you will start using up your fat.
+
+---
+
+If you work out too little,
+it will all take too long.
+
+If you work out too much,
+you'll be tired all the time.
+
+If you don't eat enough,
+you will burn far very quickly.
+
+And if you eat a lot,
+it will all go into building muscle.
+
+---
+
+If you take too many breaks,
+the workout won't work.
+
+A workout is supposed to order,
+your body, to adapt.
+
+It must speak loudly and clearly,
+so that your body listens.
+
+---
+
+There are no days off,
+unless you can't heal fast enough.
+
+And you need a gym,
+to basically control the weather.
+
+You need a precise schedule,
+so that your body can breathe in and out.
+
+---
+
+If you don't see change weekly,
+just add an extra hour.
+
+There are no trick here,
+no shortcuts.
+
+---
+
+During your exercise,
+you can take it easy.
+
+By synchronizing your motion,
+with the beats of a song.
+
+This will put you into a trance,
+and three hours will feel like 30 minutes.
+
+---
+
+Obesity is no trick,
+as it is deadly.
+
+But, large people,
+are already bodybuilders.
+
+All they do,
+is work out.
+
+A long enough non stop workout,
+is all they need to burn their fat.
+
+---
+
+Obesity is also great justification,
+of suspending your career.
+
+And going into a gym to recover,
+and become a bodybuilder.
+
+---
+
+I don't know about lifting heavy,
+compared to a 3 hour non stop...
+
+Few minutes of lifting heavy,
+probably does not do much.
+
+Though it is a million times heather,
+then not being at the gym.
+
+---
+
+But that fight out of obesity,
+is worth the while.
+
+It is a question,
+of doubling your lifespan.
+
+It is a pretty good deal,
+a little scary.
+
+---
+
+Once you cross the line,
+where the obese you passed away.
+
+It feels weird,
+and life feels more precious.
+
+It feels,
+the way it always should have felt.
+
+Like it is yours,
+like it trully belongs to you.

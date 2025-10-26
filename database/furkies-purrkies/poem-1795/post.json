@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1795",
+  "guid": "a4be7a5a-4453-412b-8cb9-c4990fc3ca48",
+  "title": "Advice For Growing Up: Don’t Let Adults Make You Bored",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-30T06:19:01.388Z",
+  "lastmod": null,
+  "weight": 179500,
+  "audio": "poem-1795.mp3",
+  "image": "poem-1795-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

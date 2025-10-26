@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1207",
+  "guid": "d9d16f35-4b1f-4ba9-bc77-d3ff61b8159b",
+  "title": "Super Thick Woolen Socks; Or, Your Feet Don’t Have To Ache From Fatigue",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-22T03:22:00.070Z",
+  "lastmod": null,
+  "weight": 120700,
+  "audio": "poem-1207.mp3",
+  "image": "poem-1207-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IIMvRgVOjRo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1384",
+  "guid": "772df490-ea13-4174-a868-bee885fe7964",
+  "title": "The History Of Our Greatest Heights; Or, Why We Will Always Need Philosophy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-16T05:34:40.194Z",
+  "lastmod": null,
+  "weight": 138400,
+  "audio": "poem-1384.mp3",
+  "image": "poem-1384-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-white-long-sleeve-shirt-sitting-on-rock-near-mountain-during-daytime-k-2Z5ovVHW0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

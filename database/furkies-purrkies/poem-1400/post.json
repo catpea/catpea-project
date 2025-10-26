@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1400",
+  "guid": "66c079b3-9576-4c94-bed1-b23c8768344c",
+  "title": "Visual Programming Done Right",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-01T05:50:03.007Z",
+  "lastmod": null,
+  "weight": 140000,
+  "audio": "poem-1400.mp3",
+  "image": "poem-1400-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

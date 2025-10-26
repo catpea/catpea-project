@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0642",
+  "guid": "61cb8580-985e-4430-8bf4-0fbeb41880f8",
+  "title": "A Fun Little Road Towards Inventing New Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-03T02:43:19.001Z",
+  "lastmod": null,
+  "weight": 64200,
+  "audio": "poetry-0642.mp3",
+  "image": "poetry-0642-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gPRvTP0sZ2M"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

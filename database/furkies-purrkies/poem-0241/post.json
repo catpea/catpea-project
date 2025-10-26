@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0241",
+  "guid": "0ad60008-1e10-4a5b-b4e9-8d97c177791e",
+  "title": "To Michiganders That Don't Always Like The Snow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-28T03:16:47.115Z",
+  "lastmod": null,
+  "weight": 24100,
+  "audio": "poetry-0241.mp3",
+  "image": "poetry-0241-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/y_E4scvo9lI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

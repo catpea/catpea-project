@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0430",
+  "guid": "e75dec29-bb4b-42f4-aea2-0a8a45ffdcda",
+  "title": "Pay Attention To The Broken Things",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-05T02:07:41.347Z",
+  "lastmod": null,
+  "weight": 43000,
+  "audio": "poetry-0430.mp3",
+  "image": "poetry-0430-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HDPbafemBI4"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

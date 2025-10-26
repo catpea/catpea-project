@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1304",
+  "guid": "a2e8073d-3828-4fb0-bd48-e72b7d965465",
+  "title": "Little Adventures Go A Long Way",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-27T03:14:25.657Z",
+  "lastmod": null,
+  "weight": 130400,
+  "audio": "poem-1304.mp3",
+  "image": "poem-1304-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/X87fQWH7ZcA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

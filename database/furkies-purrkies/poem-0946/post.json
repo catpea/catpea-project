@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0946",
+  "guid": "6a276ac4-5f23-4881-a9ca-7b5cd6b1b80b",
+  "title": "Busy Bee",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-02T12:15:38.781Z",
+  "lastmod": null,
+  "weight": 94600,
+  "audio": "poem-0946.mp3",
+  "image": "poem-0946-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1R9DX6tOc0k"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

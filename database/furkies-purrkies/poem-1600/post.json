@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1600",
+  "guid": "3e8d4070-4dac-4301-816f-6c1fb4844f66",
+  "title": "Do Not Forget Who You Are",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-19T01:48:49.521Z",
+  "lastmod": null,
+  "weight": 160000,
+  "audio": "poem-1600.mp3",
+  "image": "poem-1600-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

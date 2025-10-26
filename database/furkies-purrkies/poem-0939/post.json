@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0939",
+  "guid": "d4fad591-92d4-40bc-b866-78841040efe7",
+  "title": "Reimagining Socrates",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-26T02:12:05.139Z",
+  "lastmod": null,
+  "weight": 93900,
+  "audio": "poetry-0939.mp3",
+  "image": "poetry-0939-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uz4DGy4IesU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

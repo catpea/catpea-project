@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0429",
+  "guid": "67c6fb60-d0fe-43ca-bd2d-d4c7798ecefc",
+  "title": "The Noble Quest Against Falsehoods",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-04T00:07:51.153Z",
+  "lastmod": null,
+  "weight": 42900,
+  "audio": "poetry-0429.mp3",
+  "image": "poetry-0429-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KYTT8L5JLDs"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1754",
+  "guid": "c5cdde65-90c6-4507-bf98-d11cc2d6ff54",
+  "title": "Two Socks Enter, One Sock Leaves; Or; Angry Washer Repair",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-20T05:15:38.951Z",
+  "lastmod": null,
+  "weight": 175400,
+  "audio": "poem-1754.mp3",
+  "image": "poem-1754-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

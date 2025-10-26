@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1955",
+  "guid": "28630b51-1431-4c4d-afae-32fa81d95d60",
+  "title": "A Tiny Report On The Future Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-09T01:11:29.572Z",
+  "lastmod": null,
+  "weight": 195500,
+  "audio": "poem-1955.mp3",
+  "image": "poem-1955-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

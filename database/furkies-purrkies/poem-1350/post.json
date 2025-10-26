@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1350",
+  "guid": "5b30350e-f81d-4924-a63a-1220bea50e9f",
+  "title": "Every Human Being Is Meant To Become A Powerful Philosopher",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-12T04:31:49.346Z",
+  "lastmod": null,
+  "weight": 135000,
+  "audio": "poem-1350.mp3",
+  "image": "poem-1350-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-man-walking-up-a-trail-in-the-woods-CiE8qQhsasQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

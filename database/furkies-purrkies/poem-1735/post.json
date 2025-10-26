@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1735",
+  "guid": "cab32035-4f08-4e8e-86ec-5b279c1961db",
+  "title": "Volition, Virtue, And Pursuits Of Excellence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-01T05:47:43.759Z",
+  "lastmod": null,
+  "weight": 173500,
+  "audio": "poem-1735.mp3",
+  "image": "poem-1735-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

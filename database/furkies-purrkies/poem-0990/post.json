@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0990",
+  "guid": "313894aa-5c1a-40ea-b352-b1a29fec1089",
+  "title": "The Brilliance Of Content Of Character; Or, Live So Sturdily, As To Put To Rout All That Is Not Life",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-16T04:12:28.870Z",
+  "lastmod": null,
+  "weight": 99000,
+  "audio": "poem-0990.mp3",
+  "image": "poem-0990-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qB19_LKdFdM"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

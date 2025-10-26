@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1620",
+  "guid": "19b8c81b-c36b-4794-807a-80cc02fd0555",
+  "title": "Burn Fat, But Get Serious, And Protect Yourself From Giving Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-08T03:16:01.647Z",
+  "lastmod": null,
+  "weight": 162000,
+  "audio": "poem-1620.mp3",
+  "image": "poem-1620-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

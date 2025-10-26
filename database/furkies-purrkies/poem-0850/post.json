@@ -1,0 +1,23 @@
+{
+  "features": {},
+  "id": "poem-0850",
+  "guid": "d9777465-8218-4df3-b13e-da92c3b0b49b",
+  "title": "Programming By Describing Actions In Plain Text",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-29T01:05:07.134Z",
+  "lastmod": null,
+  "weight": 85000,
+  "audio": "poetry-0850.mp3",
+  "image": "poetry-0850-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8A6nVEEYulQ",
+    "https://unsplash.com/photos/O2MdroNurVw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

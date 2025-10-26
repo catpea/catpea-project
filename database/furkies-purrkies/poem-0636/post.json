@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0636",
+  "guid": "15319613-40a1-4bf4-a1d3-899d90f04fdd",
+  "title": "Always Learning",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-27T00:27:42.332Z",
+  "lastmod": null,
+  "weight": 63600,
+  "audio": "poetry-0636.mp3",
+  "image": "poetry-0636-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qoAIlAmLJBU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

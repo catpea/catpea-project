@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0529",
+  "guid": "ff2d0c75-0b90-431e-9950-6b71b6c47562",
+  "title": "Into The World Of Design",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-12T01:00:23.127Z",
+  "lastmod": null,
+  "weight": 52900,
+  "audio": "poetry-0529.mp3",
+  "image": "poetry-0529-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/97tEm_VSHBs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0654",
+  "guid": "4d30b717-d61a-4999-842c-d6a1d6feca3e",
+  "title": "Pursuit Of Wisdom And Growing Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-15T01:46:55.542Z",
+  "lastmod": null,
+  "weight": 65400,
+  "audio": "poetry-0654.mp3",
+  "image": "poetry-0654-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cN-QMLQCxBI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1593",
+  "guid": "b190d7df-7baf-49a8-b76a-2ce805ef7284",
+  "title": "Three; Or, Don't Let High School Slow You Down",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-12T03:44:02.647Z",
+  "lastmod": null,
+  "weight": 159300,
+  "audio": "poem-1593.mp3",
+  "image": "poem-1593-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

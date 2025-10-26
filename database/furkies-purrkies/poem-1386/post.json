@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1386",
+  "guid": "72988287-56a8-4292-964f-fda7940905d0",
+  "title": "Bonkers Honkers; Or, The Noise Of The Gaggle Convoys",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-18T04:19:46.161Z",
+  "lastmod": null,
+  "weight": 138600,
+  "audio": "poem-1386.mp3",
+  "image": "poem-1386-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

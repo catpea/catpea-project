@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1873",
+  "guid": "f13f4e6f-543a-4687-9d85-a37797a41de6",
+  "title": "Crimes Against Humanity Committed Through The Classroom; With A Note To All The World's Students",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-18T00:20:16.200Z",
+  "lastmod": null,
+  "weight": 187300,
+  "audio": "poem-1873.mp3",
+  "image": "poem-1873-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

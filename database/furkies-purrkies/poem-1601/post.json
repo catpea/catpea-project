@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1601",
+  "guid": "d33182f5-9f86-4ce8-bf7e-fedf2a721a21",
+  "title": "How To Look Nice: The Slow Fitness Advice",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-20T04:01:06.818Z",
+  "lastmod": null,
+  "weight": 160100,
+  "audio": "poem-1601.mp3",
+  "image": "poem-1601-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

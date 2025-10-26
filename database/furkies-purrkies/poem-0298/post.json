@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0298",
+  "guid": "87917925-322f-420d-83f7-8b6c7ae25dde",
+  "title": "Strive To Be Cheerful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-24T04:17:27.975Z",
+  "lastmod": null,
+  "weight": 29800,
+  "audio": "poetry-0298.mp3",
+  "image": "poetry-0298-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HS5CLnQbCOc"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

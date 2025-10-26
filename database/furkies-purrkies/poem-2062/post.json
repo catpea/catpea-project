@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2062",
+  "guid": "7b39c6f5-4462-4978-9f03-af62acd54eda",
+  "title": "Learn For Real, Learn Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-23T01:20:41.574Z",
+  "lastmod": null,
+  "weight": 206200,
+  "audio": "poem-2062.mp3",
+  "image": "poem-2062-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

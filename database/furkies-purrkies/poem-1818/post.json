@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1818",
+  "guid": "9ca410a7-8544-4b18-89a4-1c7164b142fd",
+  "title": "The Most Beautiful Way To Become Fit, Healthy, And Ever More Beautiful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-22T02:46:04.991Z",
+  "lastmod": null,
+  "weight": 181800,
+  "audio": "poem-1818.mp3",
+  "image": "poem-1818-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

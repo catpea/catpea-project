@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0485",
+  "guid": "f0ae2d9f-d489-4777-ad22-c9a50638fe80",
+  "title": "Fixing Politics By Throwing Computers Into The Mix",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-29T00:55:24.348Z",
+  "lastmod": null,
+  "weight": 48500,
+  "audio": "poetry-0485.mp3",
+  "image": "poetry-0485-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

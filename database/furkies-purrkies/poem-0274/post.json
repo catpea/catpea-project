@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0274",
+  "guid": "c97533f4-5a99-428f-b892-6017d9b564e3",
+  "title": "Towards Convergence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-30T04:27:12.772Z",
+  "lastmod": null,
+  "weight": 27400,
+  "audio": "poetry-0274.mp3",
+  "image": "poetry-0274-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

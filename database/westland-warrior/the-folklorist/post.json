@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-folklorist",
+  "guid": "4631c7a8-696f-4754-a41d-ec17ade4b46d",
+  "title": "The Folklorist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-05-28T23:04:36.298Z",
+  "lastmod": null,
+  "weight": 9710,
+  "audio": null,
+  "image": "the-folklorist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

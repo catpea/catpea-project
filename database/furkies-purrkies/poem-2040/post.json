@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2040",
+  "guid": "59a9aab0-bc2f-449a-95ec-ed0a60ea17e6",
+  "title": "Your Genius Is Not Optional",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-30T23:42:24.469Z",
+  "lastmod": null,
+  "weight": 204000,
+  "audio": "poem-2040.mp3",
+  "image": "poem-2040-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

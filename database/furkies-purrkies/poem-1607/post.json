@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1607",
+  "guid": "8c37e399-88b3-423d-9a96-bcbeae0b2e51",
+  "title": "Muscles Like A Chimpanzee, But Is This Really The Right Look For Me?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-26T04:59:47.059Z",
+  "lastmod": null,
+  "weight": 160700,
+  "audio": "poem-1607.mp3",
+  "image": "poem-1607-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

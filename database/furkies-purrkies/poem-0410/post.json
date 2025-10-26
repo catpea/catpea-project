@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0410",
+  "guid": "eafd07b0-9cf9-45fd-84a6-89cdb339837b",
+  "title": "Programming Is A Superpower",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-15T02:50:16.255Z",
+  "lastmod": null,
+  "weight": 41000,
+  "audio": "poetry-0410.mp3",
+  "image": "poetry-0410-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Fo-HQUlRGkU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

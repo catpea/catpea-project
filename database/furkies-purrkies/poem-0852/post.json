@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0852",
+  "guid": "ff6b7d99-f0a5-41f5-888e-e9b60af9c1ea",
+  "title": "Programming Is Fun",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-30T21:39:51.987Z",
+  "lastmod": null,
+  "weight": 85200,
+  "audio": "poetry-0852.mp3",
+  "image": "poetry-0852-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uKVs2ovR0KY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

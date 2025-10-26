@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1366",
+  "guid": "cb36923e-35da-4a27-8d8c-10da34a9352b",
+  "title": "Programming: The Most Powerful Thing You Can Learn",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-28T04:39:48.047Z",
+  "lastmod": null,
+  "weight": 136600,
+  "audio": "poem-1366.mp3",
+  "image": "poem-1366-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,105 @@
+An old book friend once warned,
+that we are not to serve as Piano keys.
+
+We are not to be played like a melody,
+we are different from nature.
+
+We are in fact a force too,
+but the manual of life is yet to be writ.
+
+---
+
+We have the opening chapter,
+in the Universal Declaration Of Human Rights.
+
+But it is in desperate need of updates,
+tens of thousands of new articles are desperately needed.
+
+---
+
+Another enlightened man reminds us,
+that we are not fallen angels.
+
+That we are in fact risen apes,
+with a history of war.
+
+---
+
+If you unplug from the world,
+and allow your self to hear it.
+
+You will see that there are two roads ahead,
+a road that leads to constant war.
+
+And a road that recognizes,
+that we must rise yet again.
+
+Rise, beyond what we think our limits must be,
+we must rise above our nature.
+
+And only thinking,
+can make it so.
+
+Soon, the wold will be locked,
+by irreversible laws written by uneducated men.
+
+False leaders, who in their childish desperation,
+saw on the branches they sit on just to get through another day.
+
+To give the future generations the ability to shrug the chains,
+and break the cycle of repeating mistakes.
+
+We must recognize we, the risen apes,
+suffer from the blight of indoctrination.
+
+It does not take much convincing,
+for us to saw on our own branches…
+
+To protect the beliefs,
+that we were merely born into.
+
+Where had we been born to the opposite end,
+we’d end up fighting from the other end.
+
+We have to leave indoctrination behind,
+we have to reject being played like the piano keys.
+
+This world does not belong to us,
+not does it belong to the past anymore.
+
+It belongs to all the future generations,
+that are yet to come.
+
+We must take to crafting self directed educational systems,
+that bring forth a culture of Knowledge, Wisdom, and Greatness.
+
+---
+
+There comes a moment in every student's life,
+when they figure out the teachers are fake, or even hateful.
+
+Today, there is something you can do to help you children,
+tell them that they are right, that they have been betrayed.
+
+That false leaders and teachers, can only put on a show,
+only pretend that there is a meaning to what they do.
+
+Ask them to turn away from the false leaders,
+and face all the great beings in human history…
+
+Who in their great wisdom, actually made,
+positive, lasting and meaningful contributions to human kind.
+
+Deliver the countless narrated books right into their hands,
+so as the libraries close, they will know their way to books.
+
+---
+
+Remind them that Philosophers love and honor them,
+and that your children are not to serve, but rise.
+
+Only the dark machinery of war needs workers,
+the real future is desperately calling for thinkers and lovers of wisdom.
+
+There is much work to be done, do not fail to remind them, that to grow up,
+means to grow all the way up, until they become great beings.

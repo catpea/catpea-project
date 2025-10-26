@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1625",
+  "guid": "4d1725d5-f49d-448a-9a81-a991238161c2",
+  "title": "The Rise Of The Couch Potato; Or, If It Is Too Hard, Then You Are Doing It Wrong",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-13T03:25:40.976Z",
+  "lastmod": null,
+  "weight": 162500,
+  "audio": "poem-1625.mp3",
+  "image": "poem-1625-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

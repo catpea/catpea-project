@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-landscape-painter",
+  "guid": "79cc3f10-2207-4fd8-bf9e-2b1da9225d99",
+  "title": "The Landscape Painter",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-03-27T19:12:37.842Z",
+  "lastmod": null,
+  "weight": 13600,
+  "audio": null,
+  "image": "warrior-the-landscape-painter-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

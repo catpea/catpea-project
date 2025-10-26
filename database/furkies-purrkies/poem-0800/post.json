@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0800",
+  "guid": "96559910-7f99-465a-b8f0-1bd0129dd948",
+  "title": "Baroque",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-09T22:45:42.557Z",
+  "lastmod": null,
+  "weight": 80000,
+  "audio": "poetry-0800.mp3",
+  "image": "poetry-0800-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

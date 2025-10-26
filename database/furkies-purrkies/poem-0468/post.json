@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0468",
+  "guid": "11a670b3-a38e-4811-a65e-1914c7040b67",
+  "title": "Programming Is Not That Scary",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-11T23:05:56.713Z",
+  "lastmod": null,
+  "weight": 46800,
+  "audio": "poetry-0468.mp3",
+  "image": "poetry-0468-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/woman-sitting-while-operating-macbook-pro-1181676/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-prompt-hero",
+  "guid": "89bc4607-d853-4751-9779-7e12ae76afc9",
+  "title": "The Prompt Hero",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-01-29T22:24:18.157Z",
+  "lastmod": null,
+  "weight": 11800,
+  "audio": null,
+  "image": "the-prompt-hero-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0391",
+  "guid": "abab7d6e-c646-439d-9701-afa18426fdbd",
+  "title": "In The Year 3000",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-27T00:00:10.305Z",
+  "lastmod": null,
+  "weight": 39100,
+  "audio": "poetry-0391.mp3",
+  "image": "poetry-0391-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0997",
+  "guid": "d55ccc56-7441-4c78-8d9c-2aa8cffa124b",
+  "title": "Self Referential Systems; Or, How To Pull Yourself Up By Your Own Shoelaces",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-22T22:59:15.002Z",
+  "lastmod": null,
+  "weight": 99700,
+  "audio": "poem-0997.mp3",
+  "image": "poem-0997-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Muenchhausen_Herrfurth_7_500x789.jpg",
+    "https://en.wikipedia.org/wiki/File:Serpiente_alquimica.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

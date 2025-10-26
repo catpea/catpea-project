@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0932",
+  "guid": "ac66b84d-1f80-45bd-b4a0-382a9080214f",
+  "title": "The Students Know",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-19T02:50:28.395Z",
+  "lastmod": null,
+  "weight": 93200,
+  "audio": "poetry-0932.mp3",
+  "image": "poetry-0932-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/4vCJdtUz9lk"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

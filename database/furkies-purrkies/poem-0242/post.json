@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0242",
+  "guid": "e6949ae8-338a-42f6-b615-f5f56e32d19b",
+  "title": "On The Vastness Of Heart",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-28T21:10:55.977Z",
+  "lastmod": null,
+  "weight": 24200,
+  "audio": "poetry-0242.mp3",
+  "image": "poetry-0242-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3XQin_mwudk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

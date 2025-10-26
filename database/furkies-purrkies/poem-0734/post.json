@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0734",
+  "guid": "d6839507-0918-40fa-be8e-63eff1a357bf",
+  "title": "The Magic Of Painting",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-04T20:54:27.638Z",
+  "lastmod": null,
+  "weight": 73400,
+  "audio": "poetry-0734.mp3",
+  "image": "poetry-0734-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

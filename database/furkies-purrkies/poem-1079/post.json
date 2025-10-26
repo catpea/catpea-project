@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1079",
+  "guid": "6d1eeec4-004f-4177-844e-3eaa88f005ef",
+  "title": "Into Greatness; Or, On Growing All The Way Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-13T03:57:45.693Z",
+  "lastmod": null,
+  "weight": 107900,
+  "audio": "poem-1079.mp3",
+  "image": "poem-1079-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

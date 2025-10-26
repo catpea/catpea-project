@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0823",
+  "guid": "27bd9d0d-5641-49e4-b5c9-3d16660798b1",
+  "title": "Thoughts On Writing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-02T00:25:38.941Z",
+  "lastmod": null,
+  "weight": 82300,
+  "audio": "poetry-0823.mp3",
+  "image": "poetry-0823-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tcyW6Im5Uug"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0505",
+  "guid": "50f24b80-ebf4-4114-b42a-997045bb3d96",
+  "title": "World Poverty: Nobody Noticed, Nobody Knew",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-19T03:46:49.399Z",
+  "lastmod": null,
+  "weight": 50500,
+  "audio": "poetry-0505.mp3",
+  "image": "poetry-0505-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/VsbdJGrjmp8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

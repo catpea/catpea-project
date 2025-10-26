@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0513",
+  "guid": "318ac326-0556-4a82-89b5-44b4a3f1736d",
+  "title": "The Woodland Creatures Of America",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-27T02:51:57.893Z",
+  "lastmod": null,
+  "weight": 51300,
+  "audio": "poetry-0513.mp3",
+  "image": "poetry-0513-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fxgcZgkl68w"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

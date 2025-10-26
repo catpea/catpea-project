@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0206",
+  "guid": "cb1a2df8-9880-4110-9eea-4267f51dcab2",
+  "title": "To The Men Who Sold The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-22T23:59:27.854Z",
+  "lastmod": null,
+  "weight": 20600,
+  "audio": "poetry-0206.mp3",
+  "image": "poetry-0206-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-I-McziCxxM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

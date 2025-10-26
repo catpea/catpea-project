@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1508",
+  "guid": "df834282-8870-4cbf-9cfc-48f2c187c48d",
+  "title": "A Word Of Advice For The Creatures Of The Stars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-18T03:51:01.314Z",
+  "lastmod": null,
+  "weight": 150800,
+  "audio": "poem-1508.mp3",
+  "image": "poem-1508-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

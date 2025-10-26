@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0747",
+  "guid": "d3b7f2b9-7a72-479e-959a-6ba208fe7d7d",
+  "title": "Towards The Future Of Human Kind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-17T19:36:19.859Z",
+  "lastmod": null,
+  "weight": 74700,
+  "audio": "poetry-0747.mp3",
+  "image": "poetry-0747-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CWG04YOkONA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

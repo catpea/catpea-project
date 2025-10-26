@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1039",
+  "guid": "9d81d738-33d7-443c-8005-dd1b6a7a9b11",
+  "title": "From Fluff To Buff, A Real Doctor's Advice",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-04T02:15:14.281Z",
+  "lastmod": null,
+  "weight": 103900,
+  "audio": "poem-1039.mp3",
+  "image": "poem-1039-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/DALL-E",
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

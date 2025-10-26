@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1073",
+  "guid": "a763d5e5-800a-404a-a86e-5f70d88b4acb",
+  "title": "Become The Heroes, Teachers, And Guardians That You Wish You Had",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-07T03:42:43.043Z",
+  "lastmod": null,
+  "weight": 107300,
+  "audio": "poem-1073.mp3",
+  "image": "poem-1073-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/NhU0nUR7920"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

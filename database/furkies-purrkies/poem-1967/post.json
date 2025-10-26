@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1967",
+  "guid": "e389b182-e337-429e-9737-dd9e0a9b587b",
+  "title": "Don’t Try To Learn Reactive Programming, Reinvent It Inside Out With Signals",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-21T02:13:21.900Z",
+  "lastmod": null,
+  "weight": 196700,
+  "audio": "poem-1967.mp3",
+  "image": "poem-1967-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

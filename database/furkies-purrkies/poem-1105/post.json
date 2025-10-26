@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1105",
+  "guid": "d34aabf3-042f-4bcf-bd29-bd09195bf148",
+  "title": "A Game Of Chess With Infinite Complexity; Or, Return To Antwerp",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-12T04:17:52.195Z",
+  "lastmod": null,
+  "weight": 110500,
+  "audio": "poem-1105.mp3",
+  "image": "poem-1105-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

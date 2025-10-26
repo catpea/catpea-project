@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0230",
+  "guid": "70c86757-8f5d-45d1-8e5a-54a103dfcb61",
+  "title": "Take A Year Off, To Read",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-17T02:31:42.522Z",
+  "lastmod": null,
+  "weight": 23000,
+  "audio": "poetry-0230.mp3",
+  "image": "poetry-0230-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/vGReyBvIX-o"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

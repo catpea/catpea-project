@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1303",
+  "guid": "44ee094e-5044-4d67-b10d-f4b685716cd9",
+  "title": "The Mother Of All Sciences",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-26T03:26:08.889Z",
+  "lastmod": null,
+  "weight": 130300,
+  "audio": "poem-1303.mp3",
+  "image": "poem-1303-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-white-and-pink-flower-on-a-green-background-VhR8BQU0DCk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

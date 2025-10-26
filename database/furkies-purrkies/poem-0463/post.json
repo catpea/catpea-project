@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0463",
+  "guid": "b6d8c11d-e8e1-4b4e-8fc5-db0f235c5929",
+  "title": "Convergence On Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-06T21:54:52.254Z",
+  "lastmod": null,
+  "weight": 46300,
+  "audio": "poetry-0463.mp3",
+  "image": "poetry-0463-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HELLcxdpz5g"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0621",
+  "guid": "60475272-e7e8-4e30-a13d-0fad1e946055",
+  "title": "Maple Tree Mischief At Nordhouse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-11T20:49:22.562Z",
+  "lastmod": null,
+  "weight": 62100,
+  "audio": "poetry-0621.mp3",
+  "image": "poetry-0621-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/XMCLLGGMMYU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

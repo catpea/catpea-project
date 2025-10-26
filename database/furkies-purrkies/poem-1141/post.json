@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1141",
+  "guid": "5500d6ea-5036-406e-9a8e-63d54ac407dd",
+  "title": "Programming, The Fourth Subject; Or, Start Learning In The Middle With Promising Blank Platforms",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-17T03:20:06.506Z",
+  "lastmod": null,
+  "weight": 114100,
+  "audio": "poem-1141.mp3",
+  "image": "poem-1141-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Im_cQ6hQo10"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

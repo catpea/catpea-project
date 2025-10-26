@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1051",
+  "guid": "35a2aaf8-ed84-4b08-9947-a6778347f150",
+  "title": "Do Not Follow, Rise, Do Not Follow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-15T18:05:42.085Z",
+  "lastmod": null,
+  "weight": 105100,
+  "audio": "poem-1051.mp3",
+  "image": "poem-1051-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/9YUA6137D44"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

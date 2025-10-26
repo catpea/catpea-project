@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0043",
+  "guid": "03501a11-f86a-4610-8b82-3973c53cf8a8",
+  "title": "Amazing Diet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-24T01:36:49.000Z",
+  "lastmod": null,
+  "weight": 4300,
+  "audio": "poetry-0043.mp3",
+  "image": "poetry-0043-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

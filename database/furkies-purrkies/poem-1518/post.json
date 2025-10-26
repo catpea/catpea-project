@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1518",
+  "guid": "9b9e734a-720c-45e7-b026-5cac5a483b52",
+  "title": "Bodybuilding; So You Got Yourself An Interval Timer...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-28T04:52:14.797Z",
+  "lastmod": null,
+  "weight": 151800,
+  "audio": "poem-1518.mp3",
+  "image": "poem-1518-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

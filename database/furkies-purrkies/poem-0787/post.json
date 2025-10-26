@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0787",
+  "guid": "6fa95eca-175f-46f5-be75-62cc2d4b01ac",
+  "title": "The Great Pajama Ride, Or How To Finish Your Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-26T22:14:13.418Z",
+  "lastmod": null,
+  "weight": 78700,
+  "audio": "poetry-0787.mp3",
+  "image": "poetry-0787-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

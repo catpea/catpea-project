@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1734",
+  "guid": "02199693-2214-41f9-b55a-bede7d8772e8",
+  "title": "The Tokenizer and Lexer Story; Or, A Closer Look At XML Shenanigans",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-30T01:20:04.724Z",
+  "lastmod": null,
+  "weight": 173400,
+  "audio": "poem-1734.mp3",
+  "image": "poem-1734-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

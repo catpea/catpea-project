@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1922",
+  "guid": "afd4b9c3-83d8-402d-8e0b-02c13a7c9bb7",
+  "title": "The Pixel Citadel",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-05T22:38:18.357Z",
+  "lastmod": null,
+  "weight": 192200,
+  "audio": "poem-1922.mp3",
+  "image": "poem-1922-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

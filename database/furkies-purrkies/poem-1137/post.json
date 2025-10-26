@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1137",
+  "guid": "e180a7ec-9b03-4f76-9595-592c6a90c742",
+  "title": "Programming Is Really Neat",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-13T03:09:24.332Z",
+  "lastmod": null,
+  "weight": 113700,
+  "audio": "poem-1137.mp3",
+  "image": "poem-1137-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hLit2zL-Dhk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

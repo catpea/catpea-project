@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0903",
+  "guid": "49db1814-2e8b-488c-9dd8-2cff2e3c252e",
+  "title": "Beginning Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-21T00:31:21.080Z",
+  "lastmod": null,
+  "weight": 90300,
+  "audio": "poetry-0903.mp3",
+  "image": "poetry-0903-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fYEU8jokgrs"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

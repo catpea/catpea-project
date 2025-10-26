@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-gymnast",
+  "guid": "f5eaaf64-6f6f-4dae-a66c-fd3b34f53f26",
+  "title": "The Gymnast",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-05-30T03:49:48.000Z",
+  "lastmod": null,
+  "weight": 6400,
+  "audio": null,
+  "image": "warrior-the-gymnast-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

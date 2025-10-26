@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0040",
+  "guid": "d3249fe1-0d20-4aac-a1a9-968073e030b3",
+  "title": "Every Now And Then",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-20T23:05:47.100Z",
+  "lastmod": null,
+  "weight": 4000,
+  "audio": "poetry-0040.mp3",
+  "image": "poetry-0040-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

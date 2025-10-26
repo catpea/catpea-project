@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1223",
+  "guid": "338f2cfd-d4bc-4e65-8183-43222eef7e7b",
+  "title": "The New Universal Declaration Of Human Rights",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-07T23:58:23.685Z",
+  "lastmod": null,
+  "weight": 122300,
+  "audio": "poem-1223.mp3",
+  "image": "poem-1223-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RJla0P7GNiY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

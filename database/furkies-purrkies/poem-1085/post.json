@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1085",
+  "guid": "19bf40d9-b71c-47e1-b7da-2938de4564e0",
+  "title": "What Artificial Intelligence Sees In Our Poems",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-19T01:32:09.461Z",
+  "lastmod": null,
+  "weight": 108500,
+  "audio": "poem-1085.mp3",
+  "image": "poem-1085-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

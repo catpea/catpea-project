@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1564",
+  "guid": "e252ac7c-d59d-4040-ac93-cee400436011",
+  "title": "Bodybuilding: Use Trail Mix To Keep Your Muscles Strong",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-13T04:40:26.424Z",
+  "lastmod": null,
+  "weight": 156400,
+  "audio": "poem-1564.mp3",
+  "image": "poem-1564-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

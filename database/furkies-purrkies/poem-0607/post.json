@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0607",
+  "guid": "063e996d-fe17-42ed-8a56-d91b29f501e2",
+  "title": "Tail Facts With Dr. Meow, Ph.D.",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-28T22:10:03.541Z",
+  "lastmod": null,
+  "weight": 60700,
+  "audio": "poetry-0607.mp3",
+  "image": "poetry-0607-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3pajZikiPD8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

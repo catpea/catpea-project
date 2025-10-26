@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1106",
+  "guid": "53fafc49-32fb-4de5-ac4e-114ca3705888",
+  "title": "One Language To Fix The World; Or, The Fancy Pantsy Programmer Cats",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-13T03:01:29.581Z",
+  "lastmod": null,
+  "weight": 110600,
+  "audio": "poem-1106.mp3",
+  "image": "poem-1106-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1512",
+  "guid": "9d812fc9-d8e4-4861-b27e-67de1949c019",
+  "title": "Converge In Greatness On World Peace; Or, The Rise Of The Golden Army",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-22T04:24:06.068Z",
+  "lastmod": null,
+  "weight": 151200,
+  "audio": "poem-1512.mp3",
+  "image": "poem-1512-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

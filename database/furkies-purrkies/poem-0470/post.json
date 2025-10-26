@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0470",
+  "guid": "6db0c37e-46c8-4177-81fa-78a0eeb4a8a8",
+  "title": "Oh Snap! or How Not To Read The Documentation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-13T22:16:19.722Z",
+  "lastmod": null,
+  "weight": 47000,
+  "audio": "poetry-0470.mp3",
+  "image": "poetry-0470-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/pjTU9Edzc1g"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

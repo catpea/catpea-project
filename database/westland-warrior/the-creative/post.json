@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-creative",
+  "guid": "df9df58a-7efa-43d7-ab91-4ae9776a1372",
+  "title": "The Creative",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-12-12T04:02:41.655Z",
+  "lastmod": null,
+  "weight": 7510,
+  "audio": null,
+  "image": "the-creative-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

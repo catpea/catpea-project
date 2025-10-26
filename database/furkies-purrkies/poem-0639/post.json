@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0639",
+  "guid": "f0d97e81-cd79-404b-91af-cf406bb1063d",
+  "title": "Art And Projectors",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-30T02:16:09.527Z",
+  "lastmod": null,
+  "weight": 63900,
+  "audio": "poetry-0639.mp3",
+  "image": "poetry-0639-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

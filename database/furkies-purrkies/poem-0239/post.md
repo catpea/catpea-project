@@ -1,0 +1,35 @@
+You can't finish by simply getting to the end,
+
+if you don't start in the beginning.
+
+We learn a new language out there,
+
+the edge grants us a new vocabulary.
+
+A vocabulary, is also an aid for thinking,
+
+it helps us navigate better.
+
+And the edge is a sacred place,
+
+there you can quietly comprehend what all Great Beings speak of.
+
+And, it becomes your anchor,
+
+the thing that makes sense.
+
+it becomes the point from which you measure other things,
+
+as you progress forward.
+
+And, Look who else is here,
+
+the Elder You.
+
+They all come here, at every plateau, in each great loneliness,
+
+ask them what their regrets are, and prevent them all from occurring.
+
+The edge is a sacred place,
+
+you are always safe out here, you are always welcome, and you are never alone.

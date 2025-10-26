@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0610",
+  "guid": "101f20ef-bd40-48f4-bf2a-4e451f192782",
+  "title": "Lady Liberty And I",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-01T03:19:37.095Z",
+  "lastmod": null,
+  "weight": 61000,
+  "audio": "poetry-0610.mp3",
+  "image": "poetry-0610-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/spP5WTH7U8Q"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

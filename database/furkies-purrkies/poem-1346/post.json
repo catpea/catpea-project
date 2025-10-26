@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1346",
+  "guid": "3e7f4501-ca88-40ee-a01b-bd62bc07cfe8",
+  "title": "Jogger Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-08T03:09:29.461Z",
+  "lastmod": null,
+  "weight": 134600,
+  "audio": "poem-1346.mp3",
+  "image": "poem-1346-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-white-dress-walking-on-pathway-between-trees-during-daytime-MJNbBLx9W5U"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

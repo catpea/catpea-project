@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1498",
+  "guid": "60d7d20f-eb43-4e0f-9275-ac296a274367",
+  "title": "How To Avoid War And Fix The World: Tell The Teenagers The Truth About Everything",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-08T01:41:13.451Z",
+  "lastmod": null,
+  "weight": 149800,
+  "audio": "poem-1498.mp3",
+  "image": "poem-1498-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

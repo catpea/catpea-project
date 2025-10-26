@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0733",
+  "guid": "814da430-f1a1-43a5-b343-3fd149836aaa",
+  "title": "Of Sunflowers And Works Of Art That Do Not Yet Exist",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-03T23:10:19.711Z",
+  "lastmod": null,
+  "weight": 73300,
+  "audio": "poetry-0733.mp3",
+  "image": "poetry-0733-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AvOUmlZZMyY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

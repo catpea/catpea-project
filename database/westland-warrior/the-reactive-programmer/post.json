@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-reactive-programmer",
+  "guid": "4ae2ffbc-71dd-485e-8844-be95ec303929",
+  "title": "The Reactive Programmer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-06-26T18:14:29.881Z",
+  "lastmod": null,
+  "weight": 15450,
+  "audio": null,
+  "image": "warrior-the-reactive-programmer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

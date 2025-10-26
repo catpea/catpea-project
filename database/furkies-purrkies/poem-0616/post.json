@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0616",
+  "guid": "a401ad32-0d24-41c4-8ffe-584f4dcefa4b",
+  "title": "Wisdom Everywhere",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-07T01:45:14.505Z",
+  "lastmod": null,
+  "weight": 61600,
+  "audio": "poetry-0616.mp3",
+  "image": "poetry-0616-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-kpz7pVyQY4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0129",
+  "guid": "d1cad362-bdab-418e-990f-d9b8ee9422af",
+  "title": "The Seagulls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-07-07T03:15:45.978Z",
+  "lastmod": null,
+  "weight": 12900,
+  "audio": "poetry-0129.mp3",
+  "image": "poetry-0129-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

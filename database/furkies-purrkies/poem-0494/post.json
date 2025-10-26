@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0494",
+  "guid": "ffd00af8-8629-48c6-9ead-ce4261ad44de",
+  "title": "Going And Sleeping In The Woods",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-08T01:15:49.091Z",
+  "lastmod": null,
+  "weight": 49400,
+  "audio": "poetry-0494.mp3",
+  "image": "poetry-0494-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

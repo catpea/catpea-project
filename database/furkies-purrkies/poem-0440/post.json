@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0440",
+  "guid": "a0f04bd1-df35-40ec-af82-08a969c06396",
+  "title": "What The Heck Are Computer Programs Anyway?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-14T22:14:14.158Z",
+  "lastmod": null,
+  "weight": 44000,
+  "audio": "poetry-0440.mp3",
+  "image": "poetry-0440-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CZ9AjMGKIFI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

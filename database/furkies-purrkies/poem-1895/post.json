@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1895",
+  "guid": "9d96f63d-12bd-4767-85ea-fbeb0016364f",
+  "title": "They Are The Ones Who Sold The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-09T23:45:52.200Z",
+  "lastmod": null,
+  "weight": 189500,
+  "audio": "poem-1895.mp3",
+  "image": "poem-1895-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/closeup-photography-of-glass-on-top-of-wood-branch-eBbRSsV4JqU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

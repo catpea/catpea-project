@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-winter-adventurer",
+  "guid": "9dbbb7e5-1830-4aff-9cc5-f75cbd9fa1ba",
+  "title": "The Winter Adventurer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-11-14T23:28:46.664Z",
+  "lastmod": null,
+  "weight": 3600,
+  "audio": null,
+  "image": "warrior-the-winter-adventurer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0640",
+  "guid": "8456e6bb-9893-4a5d-ba0e-6d2aae83e829",
+  "title": "Why Math?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-30T23:58:37.902Z",
+  "lastmod": null,
+  "weight": 64000,
+  "audio": "poetry-0640.mp3",
+  "image": "poetry-0640-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5mZ_M06Fc9g"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

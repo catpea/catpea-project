@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1100",
+  "guid": "6087f693-bce4-4368-a42d-eb207094b58d",
+  "title": "Fixing Ineffective Education With Computer Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-07T04:27:32.312Z",
+  "lastmod": null,
+  "weight": 110000,
+  "audio": "poem-1100.mp3",
+  "image": "poem-1100-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/woman-using-a-computer-5473298/"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

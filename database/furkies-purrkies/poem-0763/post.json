@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0763",
+  "guid": "d0809aab-a65b-4a51-9575-ad34eed2b9e1",
+  "title": "Fastest Painter This Side Of Missis-sippi, Or Your First Art Show Today",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-03T02:01:23.708Z",
+  "lastmod": null,
+  "weight": 76300,
+  "audio": "poetry-0763.mp3",
+  "image": "poetry-0763-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

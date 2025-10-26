@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0647",
+  "guid": "5620a5c1-d0d3-47c7-914f-f666dd04d105",
+  "title": "On Education And World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-08T02:02:35.910Z",
+  "lastmod": null,
+  "weight": 64700,
+  "audio": "poetry-0647.mp3",
+  "image": "poetry-0647-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YMTHxZiaVV0"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

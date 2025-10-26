@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0020",
+  "guid": "2f1b2994-8578-4ff8-b0cc-7e6e382e0e5f",
+  "title": "Squirty Squirrels",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-31T16:20:21.586Z",
+  "lastmod": null,
+  "weight": 2000,
+  "audio": null,
+  "image": "poetry-0020-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

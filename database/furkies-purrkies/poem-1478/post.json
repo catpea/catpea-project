@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1478",
+  "guid": "78d6e022-76e8-48d8-bdae-dfa232136af4",
+  "title": "Is School Fake?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-19T03:10:03.120Z",
+  "lastmod": null,
+  "weight": 147800,
+  "audio": "poem-1478.mp3",
+  "image": "poem-1478-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-voice-actor",
+  "guid": "e100fb57-f05a-4b6b-869d-edb1e256c538",
+  "title": "The Voice Actor",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-07-17T17:15:16.094Z",
+  "lastmod": null,
+  "weight": 10100,
+  "audio": null,
+  "image": "warrior-the-voice-actor-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

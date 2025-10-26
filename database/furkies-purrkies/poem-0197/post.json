@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0197",
+  "guid": "ed13ee96-944d-4c22-aa4b-957c15f6c318",
+  "title": "The Future Doth Sneak",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-13T20:23:48.669Z",
+  "lastmod": null,
+  "weight": 19700,
+  "audio": "poetry-0197.mp3",
+  "image": "poetry-0197-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/VlTJdP8ZY1c"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

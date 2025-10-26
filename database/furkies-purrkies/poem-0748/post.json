@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0748",
+  "guid": "844acd34-2748-487c-8754-b4127c4f1407",
+  "title": "The Way Of The Artist",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-19T00:07:44.360Z",
+  "lastmod": null,
+  "weight": 74800,
+  "audio": "poetry-0748.mp3",
+  "image": "poetry-0748-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

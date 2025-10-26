@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1405",
+  "guid": "274e413e-2d9e-4863-964d-5331ed086d85",
+  "title": "Programming On Principle; The Challenge To Bring Powerful Programming To All",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-06T05:34:50.443Z",
+  "lastmod": null,
+  "weight": 140500,
+  "audio": "poem-1405.mp3",
+  "image": "poem-1405-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/graffiti-on-the-side-of-a-building-WRYQrPFTRJc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

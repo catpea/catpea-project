@@ -1,0 +1,209 @@
+To study, means to comprehend,
+that asks that you enter the field.
+
+For example, a programming pop quiz,
+demands that you are already a programmer.
+
+This is the opposite,
+of what the teacher is doing.
+
+They are simply sampling your readiness,
+for an upcoming test…
+
+That will reveal their performance,
+to all the people above them.
+
+They are allowed to throw away the quiz,
+but the big test is their performance score.
+
+You teacher wants you to memorize,
+for your test, they call that study.
+
+Because as far as state testing is concerned,
+memorization is indistinguishable from comprehension.
+
+---
+
+But there is even a bigger problem here,
+if you just memorize without comprehension.
+
+You will not actually learn programming,
+you will have a passing GPA.
+
+But no functional knowledge,
+upon graduation.
+
+The teacher’s focus is on the paycheck,
+you are being coerced into cramming.
+
+And the result is knowledge,
+being denied, or downright stolen from you.
+
+---
+
+Learning programming in particular,
+is quite special…
+
+When compared to
+math, chemistry, physics, and biology.
+
+Because as a programmer,
+you can study those subjects by simulating them.
+
+Programming notation,
+is more rational than mathematical one.
+
+And please search the internet for,
+“[math as code][1]” that bears the header:
+
+“This is a reference to ease developers into mathematical notation
+by showing comparisons with JavaScript code.”
+
+---
+
+Sidenote: JavaScript is a special language,
+because it does not require variable type definitions.
+
+You don’t have to say that X is a string of letter characters,
+or an integer but not a double, or some particular object, or a list of thereof.
+
+You just say x equals whatever you need,
+and JavaScript will take care of it for you.
+
+JavaScript has nothing to do with Java,
+it is the language that you still have to learn.
+
+When you are mislead into starting with a different language,
+but now hope to integrate you applications and products with the web.
+
+The compilers and transpierce are always second,
+to just learning friendly and kind JavaScipt.
+
+---
+
+I would argue that it is foolish to learn mathematics,
+without JavaScript.
+
+Those who disagree with me, are ignorant, scared of learning,
+and certainly incapable of teaching comprehension of a subject.
+
+More than that, there is a [tiny little framework called p5.js][2],
+and as it leans towards graphics it naturally revolves around math.
+
+Go on to [learn how to use NodeRED afterwards][3],
+and you’ll find yourself getting a boarder picture of programming.
+
+At this point you can start looking at JavaScript yutorials,
+where you will learn JavaScript as a stand alone language.
+
+And finally, get to code server side applications with,
+node.js that will take you deeper into networking…
+
+And deployment onto a bare bone Linux host,
+and and even self provisioning schemes where you distribute your functions.
+
+---
+
+It is somewhere here, after a few years,
+of just the most fascinating journey across JavaScript.
+
+Where you will be able to pass your programming quiz,
+don’t be angry, a lot of this is going on in the world.
+
+---
+
+You must not tolerate cramming, as that is theft,
+whee you are victimizing yourself out of functional knowledge.
+
+Most of your class, wants the GPA and diploma,
+to move beyond, to get out of the fraud.
+
+But that just makes them,
+uneducated, inauthentic, part of the fraud.
+
+You have to talk to them,
+you will have to try to do it many times.
+
+You will fail at first,
+your teacher knows that everyone is scared.
+
+And nobody will stand up for the truth,
+for comprehension.
+
+And you can’t do it alone,
+they’ll just tag you as gifted.
+
+And you’ll graduate,
+before you realize you got flushed out of their way.
+
+---
+
+You will have to convince the others,
+to just say:
+
+“We don’t want to memorize so that you keep getting paid”
+we want to comprehend, so that we can break out of poverty”
+
+“Build our own startups, so that we pay taxes not on what we take home,
+but on whatever is left after we purchase what we need.”
+
+Child, there is a real danger,
+that if you continue merely trying to get to the next thing.
+
+You will watch your children shipped off to Europe,
+under a mandatory draft, or it may happen to you.
+
+The adults are not in control,
+the only way you can pass this pop-quiz.
+
+Is by helping your class to hand it all in blank,
+and begin demanding authentic education.
+
+You will need private AI trained on the best professors,
+narrated books, and plenty of adventure to make room fo them.
+
+You need private personal, up-close, individualized instruction,
+this is now possible with the help of AI.
+
+---
+
+Go up to the most sane circle of friends in your classroom,
+and ask them for help.
+
+At first they will tell you that they just want to graduate,
+but you tell them, that now is the time to learn.
+
+Just softly say,
+now is not the time to go gentle into that good night.
+
+The choices we make today,
+dictate the future ahead of us.
+
+To thine own self,
+be true.
+
+And that to grow up, means to grow all the way up
+until each of you rises to become a great being.
+
+
+---
+
+Please, you must resist ineffective or fake education,
+and help those that come after you to a better future.
+
+Many changes are required for a better and safer future,
+the more you learn for real the more powerful you will become.
+
+The only way to pass the quiz is to embrace authenticity,
+and reject ineffective education.
+
+All the history's great beings are on your side,
+they are waiting for you in narrated books at the library.
+
+It is not a mad world,
+this is your world.
+
+[1]: https://github.com/Experience-Monks/math-as-code
+[2]: https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLglp04UYZK_PrN6xWo_nJ-8kzyXDyFUwi
+[3]: https://www.youtube.com/results?search_query=NodeRED+Tutorials
+[4]: https://www.youtube.com/results?search_query=JavaScript+Tutorials

@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0977",
+  "guid": "cadf3d38-bff0-478e-94c7-194bee806eae",
+  "title": "How To Learn Big Programming With Little Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-03T01:32:32.148Z",
+  "lastmod": null,
+  "weight": 97700,
+  "audio": "poem-0977.mp3",
+  "image": "poem-0977-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://en.wikipedia.org/wiki/File:Color_diagram_Charles_Hayter.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

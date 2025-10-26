@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1135",
+  "guid": "9a153794-42fc-4683-b06b-297572e357d2",
+  "title": "I Don’t Even; Or, Rebellious Web Design Is Super Fine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-11T02:50:37.316Z",
+  "lastmod": null,
+  "weight": 113500,
+  "audio": "poem-1135.mp3",
+  "image": "poem-1135-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KxCAa7wpzu0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

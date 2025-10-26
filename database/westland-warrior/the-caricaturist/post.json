@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-caricaturist",
+  "guid": "f22cd962-38d0-413a-a666-21bb8123ac0d",
+  "title": "The Caricaturist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-07-03T21:21:30.025Z",
+  "lastmod": null,
+  "weight": 13200,
+  "audio": null,
+  "image": "warrior-the-caricaturist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

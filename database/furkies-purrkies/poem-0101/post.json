@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0101",
+  "guid": "02fd6f60-2b59-47dc-962e-18de09c66b4a",
+  "title": "The Adventurer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-11T02:13:15.616Z",
+  "lastmod": null,
+  "weight": 10100,
+  "audio": "poetry-0101.mp3",
+  "image": "poetry-0101-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

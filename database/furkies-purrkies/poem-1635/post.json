@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1635",
+  "guid": "45208f3e-f0bc-4bbb-bd4b-566efd98acf5",
+  "title": "Fitness Above All; Before You Take Care Of Others, You Must Take Care Of Yourself",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-23T04:43:46.254Z",
+  "lastmod": null,
+  "weight": 163500,
+  "audio": "poem-1635.mp3",
+  "image": "poem-1635-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

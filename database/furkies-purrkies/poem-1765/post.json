@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1765",
+  "guid": "bda6116f-9da0-48fe-b55b-99ec674a3977",
+  "title": "Learning Programming, Yas, But Programming Is Also Learning",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-31T03:55:31.704Z",
+  "lastmod": null,
+  "weight": 176500,
+  "audio": "poem-1765.mp3",
+  "image": "poem-1765-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

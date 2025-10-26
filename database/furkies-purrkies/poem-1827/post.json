@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1827",
+  "guid": "9f646702-da7e-447e-84c6-78d96bfbeada",
+  "title": "The New Manifest; Or, The Rise Of The Young CEO",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-03T01:18:07.352Z",
+  "lastmod": null,
+  "weight": 182700,
+  "audio": "poem-1827.mp3",
+  "image": "poem-1827-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

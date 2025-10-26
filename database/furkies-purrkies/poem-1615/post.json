@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1615",
+  "guid": "f1ab2e82-bb8f-4ad7-ab21-9140bcf875df",
+  "title": "Food, Body, And Mind; A Picture Of A Simple Integrated Workout",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-03T02:40:41.666Z",
+  "lastmod": null,
+  "weight": 161500,
+  "audio": "poem-1615.mp3",
+  "image": "poem-1615-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

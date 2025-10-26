@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1845",
+  "guid": "7e8db897-8928-493b-b0b6-e01db066535e",
+  "title": "Kitten In A Cup, Inc.",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-20T22:25:34.889Z",
+  "lastmod": null,
+  "weight": 184500,
+  "audio": "poem-1845.mp3",
+  "image": "poem-1845-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

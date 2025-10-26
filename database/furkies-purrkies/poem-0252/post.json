@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0252",
+  "guid": "4e6553fe-4c7a-46d3-913a-92e0d0d815fe",
+  "title": "Jack Pine, Lighthouse, and Nordhouse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-08T02:16:15.582Z",
+  "lastmod": null,
+  "weight": 25200,
+  "audio": "poetry-0252.mp3",
+  "image": "poetry-0252-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

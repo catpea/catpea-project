@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1665",
+  "guid": "127a14dc-8d28-4d05-bc62-fdfd0aec492b",
+  "title": "Wake Up! Stop Thinking You Are Not Smart - It Is A Trick!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-22T03:31:05.518Z",
+  "lastmod": null,
+  "weight": 166500,
+  "audio": "poem-1665.mp3",
+  "image": "poem-1665-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

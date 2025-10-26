@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-metal-detectorist",
+  "guid": "1e8c8680-0624-4845-aecf-2b8233e95198",
+  "title": "The Metal Detectorist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-07-18T04:05:12.000Z",
+  "lastmod": null,
+  "weight": 4700,
+  "audio": null,
+  "image": "warrior-the-metal-detectorist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-ultra",
+  "guid": "258f8acc-f2d2-4934-ac7b-90806f3fe28f",
+  "title": "The Ultra",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-07-10T01:53:59.256Z",
+  "lastmod": null,
+  "weight": 1100,
+  "audio": null,
+  "image": "warrior-the-ultra-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

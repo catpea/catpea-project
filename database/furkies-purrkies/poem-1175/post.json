@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1175",
+  "guid": "b80e5d70-dfe5-4fc2-8044-79c44893a4e6",
+  "title": "New Internet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-21T03:11:35.975Z",
+  "lastmod": null,
+  "weight": 117500,
+  "audio": "poem-1175.mp3",
+  "image": "poem-1175-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/x5JU6lc82EA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

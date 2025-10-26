@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1470",
+  "guid": "2d2d7844-0f84-4d9a-9ad0-daba89ccebc6",
+  "title": "Advice For Trainers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-11T05:02:16.384Z",
+  "lastmod": null,
+  "weight": 147000,
+  "audio": "poem-1470.mp3",
+  "image": "poem-1470-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

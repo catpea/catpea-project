@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0801",
+  "guid": "bfe40476-a2cb-4e6d-a53e-0f5d815a4eb1",
+  "title": "This Poem Is Not For Students",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-11T01:42:44.927Z",
+  "lastmod": null,
+  "weight": 80100,
+  "audio": "poetry-0801.mp3",
+  "image": "poetry-0801-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Be3ZQz-alcE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

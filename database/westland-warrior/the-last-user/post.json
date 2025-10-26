@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-last-user",
+  "guid": "1649ddd7-b838-4dc7-9541-e7ece365a872",
+  "title": "The Last User",
+  "description": "After 235 video lectures, in light of toxic and poisonous censorship, distracting monetization schemes, and overwhelming number of advertisements, Cat Pea regrets to inform that the video lectures will no longer maintain a regular publishing schedule. Rest assured, however, that there are still a few more sessions on the horizon.",
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-10-22T14:40:25.863Z",
+  "lastmod": null,
+  "weight": 15901,
+  "audio": null,
+  "image": "the-last-user-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

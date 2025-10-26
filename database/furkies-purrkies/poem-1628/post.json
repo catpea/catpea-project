@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1628",
+  "guid": "730f13e8-108e-4d76-81b3-7acf03463abc",
+  "title": "Bad Grades; Or, You Were Never Dumb",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-16T03:45:03.608Z",
+  "lastmod": null,
+  "weight": 162800,
+  "audio": "poem-1628.mp3",
+  "image": "poem-1628-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

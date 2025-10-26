@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1552",
+  "guid": "7336297a-2fad-4db6-8761-5d26a26c5ff9",
+  "title": "So You Are Learning JavaScript, Now You May, Step Into The Fray",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-01T04:21:28.063Z",
+  "lastmod": null,
+  "weight": 155200,
+  "audio": "poem-1552.mp3",
+  "image": "poem-1552-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

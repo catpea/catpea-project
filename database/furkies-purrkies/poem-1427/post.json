@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1427",
+  "guid": "fcd81bce-a9af-491a-947d-92a79944306f",
+  "title": "Shoe Shine; Or, Fixing The Feline Workout / Shuffle Dancing At The Gym And Achy Feet",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-28T05:00:49.724Z",
+  "lastmod": null,
+  "weight": 142700,
+  "audio": "poem-1427.mp3",
+  "image": "poem-1427-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

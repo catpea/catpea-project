@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1771",
+  "guid": "bec6424f-e025-4aab-9ee4-38e67403fc30",
+  "title": "Perfectly Genius; Or, Don’t Let School Make You Feel Dumb",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-06T04:02:09.833Z",
+  "lastmod": null,
+  "weight": 177100,
+  "audio": "poem-1771.mp3",
+  "image": "poem-1771-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

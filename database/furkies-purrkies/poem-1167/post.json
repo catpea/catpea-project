@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1167",
+  "guid": "9cef4898-abe4-464b-b862-e9122eb0576a",
+  "title": "Programming Patterns Are Your Happy Little Friends",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-13T02:59:57.651Z",
+  "lastmod": null,
+  "weight": 116700,
+  "audio": "poem-1167.mp3",
+  "image": "poem-1167-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

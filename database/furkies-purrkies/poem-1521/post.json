@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1521",
+  "guid": "1d92b0e2-3cf0-4be4-87b2-8d5932cde85f",
+  "title": "Sausage Is Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-01T03:35:36.181Z",
+  "lastmod": null,
+  "weight": 152100,
+  "audio": "poem-1521.mp3",
+  "image": "poem-1521-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

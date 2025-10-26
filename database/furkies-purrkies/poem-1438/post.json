@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1438",
+  "guid": "a8aaa6c2-cda7-4ebf-8e6b-38d85d4e38b2",
+  "title": "The Large Knights Of Potatoes; Or, Become A Trail Guide",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-08T05:14:28.997Z",
+  "lastmod": null,
+  "weight": 143800,
+  "audio": "poem-1438.mp3",
+  "image": "poem-1438-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

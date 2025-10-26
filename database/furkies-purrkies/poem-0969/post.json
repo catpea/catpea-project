@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0969",
+  "guid": "34f9ca30-0bdf-47f0-b39a-1978c651923a",
+  "title": "How To Become A Powerful Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-26T03:30:08.373Z",
+  "lastmod": null,
+  "weight": 96900,
+  "audio": "poem-0969.mp3",
+  "image": "poem-0969-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/aJfOuWeNzko"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0816",
+  "guid": "4e4d84ce-d7c0-4a56-bccf-9f05b68eeafd",
+  "title": "The More That All Are Looking For",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-25T22:23:13.233Z",
+  "lastmod": null,
+  "weight": 81600,
+  "audio": "poetry-0816.mp3",
+  "image": "poetry-0816-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RNjHBdVVywU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0344",
+  "guid": "16f1dd24-e35e-4cd3-b68a-e0e0ab63bc04",
+  "title": "Live Beautifully",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-07T22:45:05.409Z",
+  "lastmod": null,
+  "weight": 34400,
+  "audio": "poetry-0344.mp3",
+  "image": "poetry-0344-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/KfeSoQy3txI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

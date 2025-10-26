@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1543",
+  "guid": "7117c0d6-9918-4582-8dda-d1d104726b4f",
+  "title": "Don't Let The Gym Overwhelm You Out Of A Healthy Lifestyle",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-23T04:27:20.016Z",
+  "lastmod": null,
+  "weight": 154300,
+  "audio": "poem-1543.mp3",
+  "image": "poem-1543-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

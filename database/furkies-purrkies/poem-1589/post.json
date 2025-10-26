@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1589",
+  "guid": "47c4d15a-442d-4bdb-9bca-29c95e2784b3",
+  "title": "TOP SECRET: Cat Installation Agency, Cataclysm Avoidance Plan: C",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-07T23:16:33.633Z",
+  "lastmod": null,
+  "weight": 158900,
+  "audio": "poem-1589.mp3",
+  "image": "poem-1589-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0862",
+  "guid": "bd0bc3fc-d3ac-41df-a52f-f08c6a3f0c1b",
+  "title": "Into The Fray; Or, Code Generation And The Search For Motivation To Learn Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-10T21:48:27.017Z",
+  "lastmod": null,
+  "weight": 86200,
+  "audio": "poetry-0862.mp3",
+  "image": "poetry-0862-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/b4KXBLeoXIc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

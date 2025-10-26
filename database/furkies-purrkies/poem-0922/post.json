@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0922",
+  "guid": "82507fdf-17b6-47d9-b746-125550782b0b",
+  "title": "Your GPA Does Not Define You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-09T02:54:57.777Z",
+  "lastmod": null,
+  "weight": 92200,
+  "audio": "poetry-0922.mp3",
+  "image": "poetry-0922-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/457TEA4YU5U"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

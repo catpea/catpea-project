@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1199",
+  "guid": "25ab4e90-da31-4d85-bfc6-02e62867aecc",
+  "title": "Discovering Your True Age",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-14T03:31:35.449Z",
+  "lastmod": null,
+  "weight": 119900,
+  "audio": "poem-1199.mp3",
+  "image": "poem-1199-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UtiKgdpOmEI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

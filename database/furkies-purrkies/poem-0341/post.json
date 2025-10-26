@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0341",
+  "guid": "eafd960c-58d0-438b-814a-988f74b0d3c6",
+  "title": "The Ghosts In The Music Machine with Catpea And The Arpeggiators",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-05T01:43:35.374Z",
+  "lastmod": null,
+  "weight": 34100,
+  "audio": "poetry-0341.mp3",
+  "image": "poetry-0341-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JAHdPHMoaEA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

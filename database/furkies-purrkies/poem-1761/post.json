@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1761",
+  "guid": "597ac43c-1b43-4174-acf8-48aab136c85d",
+  "title": "Fitness: Use An Interval Timer As A Personal Trainer, And Beats Of Songs For Tempo",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-27T04:14:09.985Z",
+  "lastmod": null,
+  "weight": 176100,
+  "audio": "poem-1761.mp3",
+  "image": "poem-1761-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

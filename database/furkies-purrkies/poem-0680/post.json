@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0680",
+  "guid": "db3a391a-e740-498c-a40d-980f91c438aa",
+  "title": "You Are A Brilliant Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-10T02:38:52.967Z",
+  "lastmod": null,
+  "weight": 68000,
+  "audio": "poetry-0680.mp3",
+  "image": "poetry-0680-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/USqTqzxdLvE"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

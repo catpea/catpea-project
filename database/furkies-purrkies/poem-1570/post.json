@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1570",
+  "guid": "59458eea-38f0-44aa-a024-4f0e1db0a066",
+  "title": "Quo Vadis; Or, Learn For Real Because Your Teacher Isn’t Really Trying To Teach You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-19T04:10:16.150Z",
+  "lastmod": null,
+  "weight": 157000,
+  "audio": "poem-1570.mp3",
+  "image": "poem-1570-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

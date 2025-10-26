@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0512",
+  "guid": "cb35e982-a5df-43b3-bd45-6c98c07f64b9",
+  "title": "Wearable Computer Networks: Linux Audio Player Upgrade, Or The Six Key Keyboard",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-26T02:09:03.960Z",
+  "lastmod": null,
+  "weight": 51200,
+  "audio": "poetry-0512.mp3",
+  "image": "poetry-0512-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

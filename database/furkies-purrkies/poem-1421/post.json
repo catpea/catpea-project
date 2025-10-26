@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1421",
+  "guid": "1c5716fe-ab11-422a-b869-53f34e633c20",
+  "title": "Do Not Wait, Dance To Lose Weight",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-22T04:09:08.791Z",
+  "lastmod": null,
+  "weight": 142100,
+  "audio": "poem-1421.mp3",
+  "image": "poem-1421-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

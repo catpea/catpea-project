@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0695",
+  "guid": "71f38307-8f1d-47ad-a11d-0330b98de9c4",
+  "title": "ホイスト: Into The World Of Pop Surrealism",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-24T22:36:30.170Z",
+  "lastmod": null,
+  "weight": 69500,
+  "audio": "poetry-0695.mp3",
+  "image": "poetry-0695-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

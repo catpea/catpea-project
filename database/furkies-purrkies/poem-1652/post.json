@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1652",
+  "guid": "f418236d-e7b0-4c99-a23c-5d957a66ba45",
+  "title": "Teachers, Stop Pretending To Teach",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-09T03:21:23.032Z",
+  "lastmod": null,
+  "weight": 165200,
+  "audio": "poem-1652.mp3",
+  "image": "poem-1652-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-hair-artist",
+  "guid": "5ba2f950-f200-47c4-b5f2-3d2c659fe82d",
+  "title": "The Hair Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-10-08T23:35:30.840Z",
+  "lastmod": null,
+  "weight": 13801,
+  "audio": null,
+  "image": "the-hair-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

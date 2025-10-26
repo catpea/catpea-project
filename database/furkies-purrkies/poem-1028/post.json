@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1028",
+  "guid": "d995d095-43ff-4979-b3f6-5fc2010f67ae",
+  "title": "The Marvels Of Potato Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-24T04:26:11.976Z",
+  "lastmod": null,
+  "weight": 102800,
+  "audio": "poem-1028.mp3",
+  "image": "poem-1028-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jJUuF4hqCQM"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

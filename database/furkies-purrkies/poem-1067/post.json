@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1067",
+  "guid": "19dc408c-72cc-4daa-aefe-e9a3bc7760c8",
+  "title": "Center Yourself; Or, On Going Around Ineffective Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-01T04:35:15.970Z",
+  "lastmod": null,
+  "weight": 106700,
+  "audio": "poem-1067.mp3",
+  "image": "poem-1067-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

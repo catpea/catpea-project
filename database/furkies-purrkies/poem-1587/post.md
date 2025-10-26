@@ -1,0 +1,128 @@
+It could just be, that the world of fitness and bodybuilding,
+is full of myths, as bad or worse than Faith Healing, and Homeopathy.
+
+Your life depends on your health, listening to the wrong advice,
+maybe as bad as taking up smoking, in the sense that it shortens your life.
+
+People are very fanatical about two big front-facing concepts,
+aerobic and anaerobic exercise, and sugar, saying that it must be avoided.
+
+---
+
+You have to start your bodybuilding with aerobic exercise,
+as that is where you earn the endurance necessary to lift for long enough to transform.
+
+And you need to eat dried fruits and nuts, and at the same time,
+so that your body can handle weightlifting, you need soggy trail mix in your system.
+
+So, people who cut their circulation of during exercise,
+as well as those who avoid all kinds of sugar, are wrong.
+
+---
+
+And now that you know this, you have to test which way works,
+I suggest you test trail mix and endurance based weigh lifting first.
+
+What people don’t seem to understand, is that starting bodybuilding,
+by jogging with three pound dumbbells for an hour or three.
+
+Will naturally, force you to slow down as you move to,
+5, 7, 10, 12, 15, 17, and 20.
+
+Your jog at 20 lb per hand, will approach proper weightlifting,
+and beyond that you will slow down to a crawl, even if just to protect your back.
+
+---
+
+Which brings us to a very rebellious body building statement, in deed,
+because you should treat your body as a single muscle.
+
+Until, you think about competing, and then on top of your massive body,
+and on top of your multi-hour endurance workout, you can isolate some areas.
+
+And better sit down for this one, because what I am saying means,
+that you only need dumbbells for bodybuilding.
+
+And no higher than 20, for that first, single muscle phase,
+where you let your muscles grow naturally in proportion.
+
+---
+
+Which brings us to the quick introduction to fast bodybuilding,
+and you are incredibly lucky, to be alerted to trail mix.
+
+Trail mix will have you avoid many years of brain fog,
+and unnecessary body aches – it is such a powerful source of energy, I am speechless.
+
+To start you need to learn to jog, and this will teach you how to grow muscle,
+you will witness your legs transforming.
+
+And then you just take it from there, gradually eliminating rest,
+for a smooth run, and then slowly increasing your dumbbells,
+
+But by no more, than two pounds and a half, per hand,
+I call that water weight, and it will never overwhelm you as you make your way up top 20.
+
+---
+
+If you are lucky to have a gym with a dance floor,
+learn shuffle dancing, also with dumbbells, it is simple, and classy.
+
+If you are large, work your way up to 3 hours per day,
+5 or 7 days a week, don’t skip days, unless you have a reason.
+
+Because you are starting with just jogging, this won’t overwhelm your body,
+as it will have plenty of time to adapt, and help you learn about hydration and nutrition.
+
+Get an interval timer, perhaps an open source app, and try to close your rest gaps that way,
+as you hit every beat to pop speed songs.
+
+But during your initial phase, when you still have light weights,
+and especially if you are large, work your way up to 170 BPM songs (that’s about 80 lifts per minute.)
+
+---
+
+Don’t blindly follow advice, not mine, not anybody else’s,
+stage a series of experiments to see what works.
+
+And avoid errors, don’t give up on trail mix too early, as I did,
+instead increase the amount, and have it replace your other meals.
+
+If you hear something, that does not have a model in reality,
+like trail-mix does, where hikers swear by it in their own endurance madness.
+
+Leave it for last, if it is relatively new like peptides, or tastes like a mike shake,
+it probably does not do anything, and my have too much bare sugar that will give you a headache.
+
+---
+
+Listen, don’t walk into a gym, and sit down,
+learn to slowly jog with dumbbells for two hours.
+
+And then walk into the gym, and make it more difficult,
+to challenge your body to adapt.
+
+The only constant in your workouts, must be gently increasing complexity,
+so that your body has the time to gradually adapt.
+
+You are not going to lift light, you are only lifting light,
+because that is what you can do for three hours straight at the moment.
+
+And before you known it you will be increasing by 2.5lb again,
+your days of jogging will end pretty fast, as you replace them with fast lifting.
+
+But the hours long duration of your lifting will stay,
+thus you will send much stronger signals for adaptation, than those who do sets and reps for a few minutes.
+
+Either way please pay attention, if you are stopping because your circulation is getting cut off,
+if that is all it is, then shape it off, and continue lifting.
+
+You want to converse with your muscles,
+not just circulation betting cut off shutting you down.
+
+---
+
+As to doing it the way everyone else does it,
+and expecting different results, that is a tall order, that will probably not work.
+
+You’ll get exactly what everyone else got, instant plateau as they lift too heavy, and thus never work out long enough for their body to even hear them.

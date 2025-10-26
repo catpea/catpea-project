@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1572",
+  "guid": "55a35a8d-b4b6-4b80-ab3a-12dd05e931c6",
+  "title": "Trail Mix Made Me Stronger And I Now Lift Longer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-21T03:46:16.513Z",
+  "lastmod": null,
+  "weight": 157200,
+  "audio": "poem-1572.mp3",
+  "image": "poem-1572-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

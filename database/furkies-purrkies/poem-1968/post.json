@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1968",
+  "guid": "e30feac7-efee-48a6-a506-3435759935d0",
+  "title": "JavaScript Application Architecture Crash Course: Of EventEmitter and EventCorrelator",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-21T23:48:43.168Z",
+  "lastmod": null,
+  "weight": 196800,
+  "audio": "poem-1968.mp3",
+  "image": "poem-1968-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

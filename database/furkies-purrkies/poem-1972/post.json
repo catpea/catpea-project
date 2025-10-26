@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1972",
+  "guid": "c80b1ac2-ca4c-4887-873d-eef7076ad599",
+  "title": "Rising Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-26T00:48:58.342Z",
+  "lastmod": null,
+  "weight": 197200,
+  "audio": "poem-1972.mp3",
+  "image": "poem-1972-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1880",
+  "guid": "6aecd4c9-0c07-45b9-910c-91ae20c73726",
+  "title": "Can't Walk? Or, Gym, Obesity, And Sudden Back Pain",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-25T01:52:24.094Z",
+  "lastmod": null,
+  "weight": 188000,
+  "audio": "poem-1880.mp3",
+  "image": "poem-1880-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

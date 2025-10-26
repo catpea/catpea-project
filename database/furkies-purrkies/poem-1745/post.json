@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1745",
+  "guid": "360a4184-0753-4ede-b215-d7fe9b9108d2",
+  "title": "Does The Gym Hurt?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-11T04:16:42.994Z",
+  "lastmod": null,
+  "weight": 174500,
+  "audio": "poem-1745.mp3",
+  "image": "poem-1745-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

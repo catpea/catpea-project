@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1327",
+  "guid": "600fa391-aaaf-4b5a-a511-bc27bec26e8d",
+  "title": "The Super Simple Power Workout That Delivers Visible Weekly Results",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-20T03:11:50.343Z",
+  "lastmod": null,
+  "weight": 132700,
+  "audio": "poem-1327.mp3",
+  "image": "poem-1327-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com#midjourney"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

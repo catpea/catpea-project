@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1996",
+  "guid": "0995356b-16a7-4b99-a795-83339059a675",
+  "title": "Beyond Learning Programming: You Have To Keep Up A Little Bit",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-19T01:49:51.807Z",
+  "lastmod": null,
+  "weight": 199600,
+  "audio": "poem-1996.mp3",
+  "image": "poem-1996-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1510",
+  "guid": "1c1f357e-2020-4bd6-8e6e-9cf5a17db398",
+  "title": "Kosmos; An Exercise In Writing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-20T04:08:02.683Z",
+  "lastmod": null,
+  "weight": 151000,
+  "audio": "poem-1510.mp3",
+  "image": "poem-1510-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

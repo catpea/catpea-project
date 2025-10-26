@@ -1,0 +1,23 @@
+{
+  "features": {},
+  "id": "poem-0688",
+  "guid": "6aec6dde-d527-47f0-8c6b-7cb94acbe0c6",
+  "title": "A Letter To All Human Beings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-17T22:04:48.013Z",
+  "lastmod": null,
+  "weight": 68800,
+  "audio": "poetry-0688.mp3",
+  "image": "poetry-0688-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Random_walk_25000_not_animated.svg",
+    "https://unsplash.com/photos/9Z1KRIfpBTM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

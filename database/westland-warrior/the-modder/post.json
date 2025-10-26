@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-modder",
+  "guid": "f7e50c92-a000-46de-977f-fee59043f377",
+  "title": "The Modder",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-12-25T20:35:23.581Z",
+  "lastmod": null,
+  "weight": 15910,
+  "audio": null,
+  "image": "the-modder-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

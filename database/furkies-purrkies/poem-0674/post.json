@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0674",
+  "guid": "68e769ab-8582-494c-af8f-d089ff28bb8a",
+  "title": "Three Technology Lessons",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-04T02:02:20.102Z",
+  "lastmod": null,
+  "weight": 67400,
+  "audio": "poetry-0674.mp3",
+  "image": "poetry-0674-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/188cZg42jzM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

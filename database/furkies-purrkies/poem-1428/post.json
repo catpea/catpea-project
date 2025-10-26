@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1428",
+  "guid": "8d6c8459-4c0e-4381-93a5-ef0dcfa088af",
+  "title": "Bodybuilding Is Easy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-29T04:32:28.947Z",
+  "lastmod": null,
+  "weight": 142800,
+  "audio": "poem-1428.mp3",
+  "image": "poem-1428-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

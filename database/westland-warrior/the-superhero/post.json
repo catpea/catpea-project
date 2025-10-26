@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-superhero",
+  "guid": "7c8722e2-d97a-42f6-8fa0-f60849627f19",
+  "title": "The Superhero",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-07-17T01:25:27.801Z",
+  "lastmod": null,
+  "weight": 1200,
+  "audio": null,
+  "image": "warrior-the-superhero-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

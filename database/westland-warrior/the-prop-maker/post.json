@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-prop-maker",
+  "guid": "289e188c-e93d-440d-96cc-e0981d54274f",
+  "title": "The Prop Maker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-03-01T03:14:50.902Z",
+  "lastmod": null,
+  "weight": 7700,
+  "audio": null,
+  "image": "warrior-the-prop-maker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

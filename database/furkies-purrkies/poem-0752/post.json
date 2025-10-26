@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0752",
+  "guid": "de598852-fd32-4fa5-83d7-91c945594041",
+  "title": "The Future Of Art In Three Steps",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-22T21:13:51.781Z",
+  "lastmod": null,
+  "weight": 75200,
+  "audio": "poetry-0752.mp3",
+  "image": "poetry-0752-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/N--7q6GwL84"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

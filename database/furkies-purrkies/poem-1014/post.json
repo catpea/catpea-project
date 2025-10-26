@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1014",
+  "guid": "53143161-35ee-4d47-b04c-763ecdbdb9aa",
+  "title": "Programming Bytes; Or, The Terrible Mambas Doth Linger In Pairs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-10T03:35:28.188Z",
+  "lastmod": null,
+  "weight": 101400,
+  "audio": "poem-1014.mp3",
+  "image": "poem-1014-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/pPKWCCsA0rg",
+    "https://unsplash.com/photos/VUr5nmC1IM4"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

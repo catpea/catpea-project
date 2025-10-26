@@ -1,0 +1,123 @@
+**I. Of Stale Air and Scorched Iron**
+
+O friends and fellow Americans,
+Permit me to speak plainly, and from the depths of a heart ever stirred by the trumpet-call of action.
+Too many of our strong-limbed countrymen, too many stout-hearted women of this Republic,
+Do penance in those suffocating vaults of brick and mortar—called *gymnasiums*—
+Wherein the air hangs hot in summer and no less so in winter,
+Where perspiration falls not from noble exertion,
+But from confinement, congestion, and ill-breath’d warmth.
+
+Let me state it as plainly as a Colonel must:
+Such places rob the soul of spirit,
+And dehydrate the body as cruelly as the deserts of Mesopotamia.
+The body is a sacred trust—
+To abuse it with waterless toil and steel machines that do not fight back—
+This is not strength, but folly.
+
+---
+
+**II. The Call of the Campfire**
+
+Yet rejoice! For Nature, in her boundless generosity, has set before us a better way—
+A path both ancient and ever-new,
+Where exercise is not punishment but glory, and air is crisp and pure as the Constitution’s promise.
+
+What joy, what exultation, to set one's boots to the trail,
+To build a fire at twilight beneath a cathedral of stars!
+To hear the hiss of sap and flame,
+To sit with companions true and hearty,
+Each awaiting the blackened stick to yield its prize: a sausage hot, hissing, and triumphant—
+A simple feast well-earned.
+O ye who have known this pleasure know it is a banquet finer than any in the halls of the elite.
+
+---
+
+**III. Of Legs Like Oak and Arms Like Iron**
+
+And what of the body?
+Would you forge legs of might? Then walk the Appalachian spine or climb the Sierra’s steepest switchbacks.
+Let your knees find their purpose in the gravel and incline of honest trail.
+Let your calves burn not in agony but in exaltation.
+
+Would you mold arms like those of Hercules? Then grip the oar!
+Row down the wild Missouri, paddle the defiant Colorado—
+Let the waters buck and twist beneath your keel,
+And your biceps shall grow not from repetition, but from righteous conquest.
+
+Would you hew a midsection solid as Roman armor?
+Then cast yourself into the cool embrace of Lake Superior,
+And swim its expanse with strokes like a Spartan.
+Let the waters strengthen the sinews of your trunk,
+And harden you into that which no beast nor hardship may bend.
+
+---
+
+**IV. A Gymnasium Without Roof or Wall**
+
+Behold the open country! The mountain! The lake! The trail!
+These are the apparatus of true fitness, the original gymnasium of our species.
+Here, one does not exercise for vanity’s sake,
+But for joy, for resilience, for fellowship with the Earth itself.
+
+Here, the blood moves with vigor,
+The lungs expand with the wind of the plains,
+And the spirit grows stout with the knowledge that one is sufficient unto oneself—
+Armed only with a pack, a purpose, and Providence.
+
+---
+
+**V. The Glory of the Pioneer**
+
+Consider our forebears—the men and women who crossed the Oregon Trail,
+Who walked with purpose across the vast interior of our Republic.
+They had no dumbbells nor steam-heated saunas—
+Their sweat ran freely beneath a prairie sun, and their hearts beat with unrelenting cadence.
+
+The California Trail carved calves from marble and lungs from leather.
+The Mormon Trail strengthened the hands that pushed and the backs that bore.
+Nature did not punish them—she refined them.
+She burned away the excess, and left behind lean muscle, iron will, and enduring health.
+Women of the frontier bore children with the strength of Amazons,
+And men stood like trees—rooted, rugged, and ready.
+
+This is the heritage you squander when you lift a machine’s weight in an airless tomb.
+
+---
+
+**VI. The Rapture of the Elements**
+
+Oh, to wake in a tent at dawn, the air sharp as an eagle’s cry!
+To stand beneath the vault of heaven,
+Where stars shine not dimly, but with clarity and purpose.
+To feel the moon not as an ornament, but a companion.
+To draw breath that nourishes not just the body, but the soul.
+
+Who among you, having smelled pine and campfire smoke,
+Having heard the owl and the rustle of unseen beasts—
+Can return to fluorescent light and clanging iron with any gladness?
+Who, having stood atop a ridgeline at dusk,
+Can pretend that any treadmill shall ever equal that view?
+
+---
+
+**VII. A Final Exhortation**
+
+Let us cease this trend of indoor mortification.
+Let us reject the sterile, the stale, and the sedentary.
+Let us return to the Earth, our first gymnasium and our final resting-place.
+
+You need not conquer Everest nor circumnavigate the globe.
+Take the local trail. Wade the nearby stream. Walk the beach in the glow of sunrise.
+Pitch your tent in the backyard, if nowhere else.
+But by Heaven, get outside.
+
+Train your body not for glory, but for gladness.
+Train your lungs not for speed, but for singing.
+Train your spirit not for spectacle, but for the quiet majesty of the stars.
+
+The Republic needs not more mirrors, but more muscle.
+Not more vanity, but more vitality.
+And the Great Gymnasium of Nature is open—eternally, freely, gloriously.
+
+**Now go—step into it!**

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1232",
+  "guid": "d4aceba3-2847-496b-8bf1-770120da1385",
+  "title": "Incurious: When Schools Stand In The Way Of Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-17T03:25:33.142Z",
+  "lastmod": null,
+  "weight": 123200,
+  "audio": "poem-1232.mp3",
+  "image": "poem-1232-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/22ZLv2ZRk5I"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

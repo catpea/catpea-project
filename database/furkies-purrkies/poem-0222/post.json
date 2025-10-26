@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0222",
+  "guid": "1a9c8cb0-0ebd-4582-bf98-38dd71284a9b",
+  "title": "Flowers Of Earth: We set off to meet the others at Betelgeuse.",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-08T23:47:57.000Z",
+  "lastmod": null,
+  "weight": 22200,
+  "audio": "poetry-0222.mp3",
+  "image": "poetry-0222-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OwbUG4UrWm0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

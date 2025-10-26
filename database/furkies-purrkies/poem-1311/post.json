@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1311",
+  "guid": "a9e0b5bc-0faf-4ab1-8b73-6ea1ec65d3a4",
+  "title": "Preventing Workout Injuries; Or, Cut Your Shoe Before It Cuts You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-04T03:00:33.992Z",
+  "lastmod": null,
+  "weight": 131100,
+  "audio": "poem-1311.mp3",
+  "image": "poem-1311-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/d6gfjQmCL7E"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

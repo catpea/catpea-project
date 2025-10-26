@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0473",
+  "guid": "3ed67e88-019c-4bd6-8b0b-a00c7a078a5a",
+  "title": "Deer: The Happy Little Horses",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-17T01:36:52.055Z",
+  "lastmod": null,
+  "weight": 47300,
+  "audio": "poetry-0473.mp3",
+  "image": "poetry-0473-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

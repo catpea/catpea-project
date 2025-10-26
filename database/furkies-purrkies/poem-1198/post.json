@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1198",
+  "guid": "db6da85a-1c49-4e02-ba86-78164b02e183",
+  "title": "On Ineffective Education And Fake Graduation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-13T03:18:10.669Z",
+  "lastmod": null,
+  "weight": 119800,
+  "audio": "poem-1198.mp3",
+  "image": "poem-1198-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0LzEUu0yTx4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

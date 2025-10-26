@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-explorer",
+  "guid": "0c1c6079-bed1-4974-85a3-3bdf8dd2b268",
+  "title": "The Explorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-08-28T03:57:41.274Z",
+  "lastmod": "2021-08-01T21:22:04.861Z",
+  "weight": 3700,
+  "audio": null,
+  "image": "warrior-the-explorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "old-notice": "I just had to update The Explorer. It was one of the original little chapters (just 5 videos), and back then I didn't know how long these chapters should be. An explorer is a very important person, one of the pillars of growing up.",
+  "chapter": 1
+}

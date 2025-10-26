@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2047",
+  "guid": "38ee4cf2-493b-44fc-86d6-f293b207dbb2",
+  "title": "The Enchanted Key",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-08T01:27:44.877Z",
+  "lastmod": null,
+  "weight": 204700,
+  "audio": "poem-2047.mp3",
+  "image": "poem-2047-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

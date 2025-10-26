@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1723",
+  "guid": "2768dcf6-0959-4238-9b3c-9e3be18da112",
+  "title": "An Eerie Little Poem About Two Eerie Places And A Strange Porcupine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-19T05:06:31.696Z",
+  "lastmod": null,
+  "weight": 172300,
+  "audio": "poem-1723.mp3",
+  "image": "poem-1723-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

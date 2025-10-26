@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1832",
+  "guid": "fa8e9227-4b93-498b-94ca-303935b29dad",
+  "title": "Books And Adventure, A Pretty Neat Start",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-08T02:23:49.092Z",
+  "lastmod": null,
+  "weight": 183200,
+  "audio": "poem-1832.mp3",
+  "image": "poem-1832-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

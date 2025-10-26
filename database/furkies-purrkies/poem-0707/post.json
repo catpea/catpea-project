@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0707",
+  "guid": "f3192058-ab90-40fb-a695-28842f8686d5",
+  "title": "The Discovery And Practice Of Lowbrow Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-06T01:47:01.225Z",
+  "lastmod": null,
+  "weight": 70700,
+  "audio": "poetry-0707.mp3",
+  "image": "poetry-0707-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

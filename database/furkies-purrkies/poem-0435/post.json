@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0435",
+  "guid": "4aa2ade5-018d-4f0e-9bed-67bffc044d7a",
+  "title": "The Symphony Beneath The Stars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-10T02:21:16.377Z",
+  "lastmod": null,
+  "weight": 43500,
+  "audio": "poetry-0435.mp3",
+  "image": "poetry-0435-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/55bVEzGVnzY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

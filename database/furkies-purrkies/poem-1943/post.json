@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1943",
+  "guid": "b0ff088a-24f4-44d6-8afd-220dc45a3029",
+  "title": "Rising In A New Age",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-27T00:00:53.394Z",
+  "lastmod": null,
+  "weight": 194300,
+  "audio": "poem-1943.mp3",
+  "image": "poem-1943-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-standing-on-rock-formation-during-daytime-_R_nLG9bBIA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

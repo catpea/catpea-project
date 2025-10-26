@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1103",
+  "guid": "c3ac65a7-49d0-42d6-83a5-ac4f231997e7",
+  "title": "How To Grow Up Faster; Or, Thinking Outside Of The Box",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-10T03:43:53.825Z",
+  "lastmod": null,
+  "weight": 110300,
+  "audio": "poem-1103.mp3",
+  "image": "poem-1103-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8SPzV0PKClg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 6
+}

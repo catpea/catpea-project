@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2029",
+  "guid": "b710b6fe-8fcc-4ef9-99c2-1fa165a5cf00",
+  "title": "The Dallas Pitch",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-19T21:48:43.437Z",
+  "lastmod": null,
+  "weight": 202900,
+  "audio": "poem-2029.mp3",
+  "image": "poem-2029-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

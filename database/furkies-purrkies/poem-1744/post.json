@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1744",
+  "guid": "b3161844-3016-45fe-be34-4012a56a5e85",
+  "title": "The Power Of Disadvantage; Or, Never Too Fat, Or, Too Ugly, Or Old",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-10T04:38:16.900Z",
+  "lastmod": null,
+  "weight": 174400,
+  "audio": "poem-1744.mp3",
+  "image": "poem-1744-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

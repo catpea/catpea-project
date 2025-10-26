@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-electrical-engineer",
+  "guid": "cec35237-8d88-41fc-a88d-4f5bc16db705",
+  "title": "The Electrical Engineer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-06-14T01:23:46.163Z",
+  "lastmod": null,
+  "weight": 8400,
+  "audio": null,
+  "image": "warrior-the-electrical-engineer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

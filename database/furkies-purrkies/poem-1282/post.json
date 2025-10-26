@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1282",
+  "guid": "62e054c4-3104-42a8-a0e2-57e02a64448c",
+  "title": "We Are Each Unique, But Not Different",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-05T03:22:58.247Z",
+  "lastmod": null,
+  "weight": 128200,
+  "audio": "poem-1282.mp3",
+  "image": "poem-1282-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://pixabay.com/photos/mountains-mountain-top-tourist-6470614/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0806",
+  "guid": "e7d8db9d-c353-4998-a173-cf0075b3b91f",
+  "title": "The Jeweler’s Lament; Or, Why Make Food Fly?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-16T02:25:06.682Z",
+  "lastmod": null,
+  "weight": 80600,
+  "audio": "poetry-0806.mp3",
+  "image": "poetry-0806-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

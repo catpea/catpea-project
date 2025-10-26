@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1699",
+  "guid": "2af54598-7dd6-497d-97d8-6cdb49f005f9",
+  "title": "A Gigantic Thorn In The Universe's Ass",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-26T03:28:57.539Z",
+  "lastmod": null,
+  "weight": 169900,
+  "audio": "poem-1699.mp3",
+  "image": "poem-1699-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0042",
+  "guid": "481b0dfe-93dc-42b1-9345-de774e2e0989",
+  "title": "I Miss Old Programming Languages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-23T01:46:11.372Z",
+  "lastmod": null,
+  "weight": 4200,
+  "audio": "poetry-0042.mp3",
+  "image": "poetry-0042-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

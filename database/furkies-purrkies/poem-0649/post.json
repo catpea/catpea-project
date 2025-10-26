@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0649",
+  "guid": "e923efc6-78d1-4b6f-80c6-6d6705a6b899",
+  "title": "No Adventure Too Silly",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-10T00:58:50.943Z",
+  "lastmod": null,
+  "weight": 64900,
+  "audio": "poetry-0649.mp3",
+  "image": "poetry-0649-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/7mXNSmfMfo4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

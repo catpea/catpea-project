@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0199",
+  "guid": "10b5b4e1-4c85-43ce-b0f5-52c7d8636edc",
+  "title": "We Must All Write",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-15T21:12:36.380Z",
+  "lastmod": null,
+  "weight": 19900,
+  "audio": "poetry-0199.mp3",
+  "image": "poetry-0199-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tcyW6Im5Uug"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

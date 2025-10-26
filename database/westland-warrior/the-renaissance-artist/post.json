@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-renaissance-artist",
+  "guid": "70c5213d-9134-4675-9390-8cca42fbba45",
+  "title": "The Renaissance Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-09-04T18:09:12.354Z",
+  "lastmod": null,
+  "weight": 11300,
+  "audio": null,
+  "image": "warrior-the-renaissance-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

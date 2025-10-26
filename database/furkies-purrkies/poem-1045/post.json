@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1045",
+  "guid": "fff2225d-35c6-4962-abab-c04a4bdee11b",
+  "title": "Rising With Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-10T04:38:13.806Z",
+  "lastmod": null,
+  "weight": 104500,
+  "audio": "poem-1045.mp3",
+  "image": "poem-1045-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/w_qTfiPbjbg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

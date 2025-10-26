@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1139",
+  "guid": "56f2813f-6c07-4281-a572-a37d8e773113",
+  "title": "Learning Programming By Writing Cute Little Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-15T03:10:38.649Z",
+  "lastmod": null,
+  "weight": 113900,
+  "audio": "poem-1139.mp3",
+  "image": "poem-1139-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/black-and-silver-laptop-computer-on-round-brown-wooden-table-1181243/"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

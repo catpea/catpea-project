@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1501",
+  "guid": "4c9a9a3f-6fe9-43be-b55f-ef92a618e865",
+  "title": "The Eclipse Is Over, But I Still See A Circle; What Do?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-11T03:33:00.213Z",
+  "lastmod": null,
+  "weight": 150100,
+  "audio": "poem-1501.mp3",
+  "image": "poem-1501-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

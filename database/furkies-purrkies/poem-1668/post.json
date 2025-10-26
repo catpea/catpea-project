@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1668",
+  "guid": "f6da2329-8ac3-4fc0-9fa3-aa5c41c193ed",
+  "title": "Starry McStarshipface, Astrobsidian, Super Intelligence, And A Desperate Call For New Philosophers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-24T22:54:39.419Z",
+  "lastmod": null,
+  "weight": 166800,
+  "audio": "poem-1668.mp3",
+  "image": "poem-1668-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

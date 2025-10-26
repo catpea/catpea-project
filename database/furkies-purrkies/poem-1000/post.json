@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1000",
+  "guid": "f0beecb3-67fb-407e-8ebe-8c6a246f4ff9",
+  "title": "But Isn't Programming Dreary and Monotonous?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-26T02:08:22.161Z",
+  "lastmod": null,
+  "weight": 100000,
+  "audio": "poem-1000.mp3",
+  "image": "poem-1000-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

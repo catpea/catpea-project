@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0933",
+  "guid": "79689bfd-9365-4b7a-a814-957222fdfaa3",
+  "title": "A Brand New Intergalactic Cruiser At The Spacedock For Each And Every Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-20T03:11:25.643Z",
+  "lastmod": null,
+  "weight": 93300,
+  "audio": "poetry-0933.mp3",
+  "image": "poetry-0933-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DKix6Un55mw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

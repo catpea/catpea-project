@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0951",
+  "guid": "590e3c76-f9d7-4e7b-aa89-b2f5fc999ddc",
+  "title": "Warrior Nature And Creativity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-07T22:20:15.955Z",
+  "lastmod": null,
+  "weight": 95100,
+  "audio": "poem-0951.mp3",
+  "image": "poem-0951-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/R5rVLQZ8hG8"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

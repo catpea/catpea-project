@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0771",
+  "guid": "d25da636-f03b-462d-b088-3e524bfa5444",
+  "title": "Building Masterpiece Paintings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-10T23:34:53.405Z",
+  "lastmod": null,
+  "weight": 77100,
+  "audio": "poetry-0771.mp3",
+  "image": "poetry-0771-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

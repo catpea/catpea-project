@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-protector",
+  "guid": "9930b27c-6fe5-453d-b526-5ea05a07c2c2",
+  "title": "The Protector",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-10-10T17:27:20.011Z",
+  "lastmod": null,
+  "weight": 1800,
+  "audio": null,
+  "image": "warrior-the-protector-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

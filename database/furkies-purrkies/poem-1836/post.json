@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1836",
+  "guid": "772e3d51-1367-411f-a0f3-62eb29edb191",
+  "title": "Fast Fitness For Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-12T00:54:12.081Z",
+  "lastmod": null,
+  "weight": 183600,
+  "audio": "poem-1836.mp3",
+  "image": "poem-1836-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

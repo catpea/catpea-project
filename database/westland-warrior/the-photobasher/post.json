@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-photobasher",
+  "guid": "470a7891-5e6b-4518-9132-ebb755b7d059",
+  "title": "The Photobasher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-03-13T18:48:02.260Z",
+  "lastmod": null,
+  "weight": 13900,
+  "audio": null,
+  "image": "warrior-the-photobasher-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

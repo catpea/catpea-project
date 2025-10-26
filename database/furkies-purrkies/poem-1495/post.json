@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1495",
+  "guid": "94deda74-5e28-417b-875d-5d6e7cf6accf",
+  "title": "The Golden Hoagie; Or, A Rare Spiced Pigeon Hoagie With A Side Of Pierogie",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-05T01:46:35.954Z",
+  "lastmod": null,
+  "weight": 149500,
+  "audio": "poem-1495.mp3",
+  "image": "poem-1495-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1912",
+  "guid": "af8e22b6-8a78-4b8c-8be7-01bdebb090f9",
+  "title": "The Great Gymnasium",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-27T00:13:32.158Z",
+  "lastmod": null,
+  "weight": 191200,
+  "audio": "poem-1912.mp3",
+  "image": "poem-1912-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

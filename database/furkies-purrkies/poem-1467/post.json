@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1467",
+  "guid": "35e5ec30-33b9-412f-971e-91a903bda223",
+  "title": "236 Days Until Halloween",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-08T05:15:06.121Z",
+  "lastmod": null,
+  "weight": 146700,
+  "audio": "poem-1467.mp3",
+  "image": "poem-1467-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

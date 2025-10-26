@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0471",
+  "guid": "dc03dd87-b3fa-4f14-98f2-6fe5a686c6f0",
+  "title": "Learning Is Great",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-15T00:18:21.142Z",
+  "lastmod": null,
+  "weight": 47100,
+  "audio": "poetry-0471.mp3",
+  "image": "poetry-0471-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Z-YYs4npa5c"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1464",
+  "guid": "783d69d1-e879-4a7c-9988-01534882001c",
+  "title": "Bodybuilding Simplified",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-05T04:33:13.810Z",
+  "lastmod": null,
+  "weight": 146400,
+  "audio": "poem-1464.mp3",
+  "image": "poem-1464-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

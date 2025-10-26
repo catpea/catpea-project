@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1099",
+  "guid": "9b659c6a-c04e-4a11-93b5-d2d46959b880",
+  "title": "Speak Out; Or, The Road To World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-06T02:20:07.713Z",
+  "lastmod": null,
+  "weight": 109900,
+  "audio": "poem-1099.mp3",
+  "image": "poem-1099-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IB7MHSImHjo"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

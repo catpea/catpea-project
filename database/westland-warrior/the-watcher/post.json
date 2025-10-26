@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-watcher",
+  "guid": "3e74d487-975c-46e0-9439-cff54049b7dc",
+  "title": "The Watcher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-09-12T20:35:57.536Z",
+  "lastmod": null,
+  "weight": 1300,
+  "audio": null,
+  "image": "warrior-the-watcher-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

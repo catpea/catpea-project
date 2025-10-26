@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-hunter",
+  "guid": "398d2b56-62d9-42c4-b543-772c643bfd1d",
+  "title": "The Hunter",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-05-15T02:34:30.639Z",
+  "lastmod": null,
+  "weight": 300,
+  "audio": null,
+  "image": "warrior-the-hunter-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

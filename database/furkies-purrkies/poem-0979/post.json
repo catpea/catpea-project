@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0979",
+  "guid": "2698cebe-3069-4028-ab7c-c8496962fe70",
+  "title": "The Super Culture; Or The Road To Wisdom, Fairness, And World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-05T01:36:38.635Z",
+  "lastmod": null,
+  "weight": 97900,
+  "audio": "poem-0979.mp3",
+  "image": "poem-0979-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Xn4PKeYa0Eg",
+    "https://unsplash.com/photos/P33WCCRZl94"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

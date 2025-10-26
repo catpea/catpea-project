@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0775",
+  "guid": "4c67e5f1-4a96-41f0-b169-2fe48b3ecb56",
+  "title": "Artistic Meows",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-15T00:27:17.531Z",
+  "lastmod": null,
+  "weight": 77500,
+  "audio": "poetry-0775.mp3",
+  "image": "poetry-0775-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Ingres_coronation_charles_vii.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

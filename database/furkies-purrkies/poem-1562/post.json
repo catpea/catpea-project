@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1562",
+  "guid": "0bc3dedd-01ee-4c71-8670-1e10d44d0f5d",
+  "title": "The Worker Queue Explained For The New Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-11T04:43:43.157Z",
+  "lastmod": null,
+  "weight": 156200,
+  "audio": "poem-1562.mp3",
+  "image": "poem-1562-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

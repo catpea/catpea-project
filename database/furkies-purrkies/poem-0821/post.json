@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0821",
+  "guid": "f0804858-7f51-4da7-be5a-4601cb01ff10",
+  "title": "Learning For Real Is A Big Deal",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-05-31T01:03:43.560Z",
+  "lastmod": null,
+  "weight": 82100,
+  "audio": "poetry-0821.mp3",
+  "image": "poetry-0821-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/z8KImOgiLg8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

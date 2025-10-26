@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1604",
+  "guid": "5c0f6b67-af5b-46e8-8df1-d3bab459a883",
+  "title": "Dare To Self Care",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-23T04:10:10.228Z",
+  "lastmod": null,
+  "weight": 160400,
+  "audio": "poem-1604.mp3",
+  "image": "poem-1604-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

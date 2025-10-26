@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0756",
+  "guid": "4d4eb6c8-92e8-4864-8da2-cfb016774187",
+  "title": "Through The Looking Glass, At The Mount Of Hyperrealism",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-27T00:53:22.657Z",
+  "lastmod": null,
+  "weight": 75600,
+  "audio": "poetry-0756.mp3",
+  "image": "poetry-0756-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

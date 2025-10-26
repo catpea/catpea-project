@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0273",
+  "guid": "f918b77b-b5f2-47ac-b50e-aaa7dfc15237",
+  "title": "Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-29T04:48:13.834Z",
+  "lastmod": null,
+  "weight": 27300,
+  "audio": "poetry-0273.mp3",
+  "image": "poetry-0273-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3eC5n6gHwe8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

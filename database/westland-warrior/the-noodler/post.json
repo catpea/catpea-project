@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-noodler",
+  "guid": "13853189-82b7-4a94-8008-c63a44fd310f",
+  "title": "The Noodler",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-11-21T16:05:26.320Z",
+  "lastmod": null,
+  "weight": 2900,
+  "audio": null,
+  "image": "warrior-the-noodler-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

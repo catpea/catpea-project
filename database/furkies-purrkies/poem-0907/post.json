@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0907",
+  "guid": "0cbe2a02-4a0d-4b8e-9464-7f6459e122db",
+  "title": "How To Draw And Paint",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-24T23:21:45.653Z",
+  "lastmod": null,
+  "weight": 90700,
+  "audio": "poetry-0907.mp3",
+  "image": "poetry-0907-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Kz1Wr3Ls37Y"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

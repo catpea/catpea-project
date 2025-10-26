@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1113",
+  "guid": "019cfaf6-0644-42b8-94ae-98445b34fb01",
+  "title": "Nordhouse Days",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-20T03:16:06.212Z",
+  "lastmod": null,
+  "weight": 111300,
+  "audio": "poem-1113.mp3",
+  "image": "poem-1113-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/l46w30FLAqM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

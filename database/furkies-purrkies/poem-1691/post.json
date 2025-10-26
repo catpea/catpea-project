@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1691",
+  "guid": "81fffda4-33a3-4d49-ae53-b659aad3734f",
+  "title": "The Strange Art Of Sneaking Up On Yourself",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-18T03:06:18.868Z",
+  "lastmod": null,
+  "weight": 169100,
+  "audio": "poem-1691.mp3",
+  "image": "poem-1691-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

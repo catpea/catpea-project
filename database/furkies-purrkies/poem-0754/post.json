@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0754",
+  "guid": "df3101e1-2ef1-473b-811f-6f5d1bd7c7db",
+  "title": "Of Photogrammetric Peanuts And The Importance Of Real Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-25T01:26:39.684Z",
+  "lastmod": null,
+  "weight": 75400,
+  "audio": "poetry-0754.mp3",
+  "image": "poetry-0754-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/B6gwpaBE-eY"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

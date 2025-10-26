@@ -1,0 +1,39 @@
+Think of a trickster, a real bad fool.
+
+What a great robbery it would be.
+
+If your parents sent you to college.
+
+And teachers sold disconnected snippets.
+
+And called it knowledge.
+
+And wouldn't it be convenient,
+
+if you could chose you next batch.
+
+Wouldn't the trickster rejoice,
+
+had you called, that, a choice.
+
+And then at the end of the day.
+
+When hard earned money was taken.
+
+You wouldn't even be shaking,
+
+even though it was worse than a break-in.
+
+Think of a trickster, a real bad fool,
+
+that took away your very own school.
+
+The moral of this story,
+
+is that you should think through,
+
+when someone offers to teach you.
+
+Education, requires that you learn on your own,
+
+that something that teaching can only postpone.

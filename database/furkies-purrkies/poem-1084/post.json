@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1084",
+  "guid": "e5b031ce-9a8b-4320-83c9-d23f78166272",
+  "title": "Kingdoms Of Lowbrow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-17T23:58:25.442Z",
+  "lastmod": null,
+  "weight": 108400,
+  "audio": "poem-1084.mp3",
+  "image": "poem-1084-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

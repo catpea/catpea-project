@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-mad-scientist",
+  "guid": "8986f204-0e96-4cfd-9c0f-6d9f71c2946d",
+  "title": "The Mad Scientist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-07-30T21:40:10.620Z",
+  "lastmod": null,
+  "weight": 2310,
+  "audio": null,
+  "image": "the-mad-scientist-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

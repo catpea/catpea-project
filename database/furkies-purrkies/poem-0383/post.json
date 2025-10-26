@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0383",
+  "guid": "e52882ae-f193-42f7-8ee5-b6a4d8b658d9",
+  "title": "Introduction To Programming: Workstation and Behavior Driven Development",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-19T01:06:42.869Z",
+  "lastmod": null,
+  "weight": 38300,
+  "audio": "poetry-0383.mp3",
+  "image": "poetry-0383-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/pIdteYOzGFY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,195 @@
+I have been experimenting with painful minimalism,
+attrition so perplexing that it can only be called weird.
+
+I suspect, and I am probably right,
+that I’ve stumbled on the way to correctly program computers.
+
+---
+
+My morning had begun, with a project so complex,
+that only AI is allowed to work on it.
+
+It will take a couple more years of upgrades,
+for AI to be able to finish it in one go.
+
+It did things well, it could finish, today,
+but bugs will continue, as [the project is a bit too complex][1].
+
+I am now waiting,
+for the 7th version of AI.
+
+---
+
+[It has successfully tackled a sister project][2],
+but by inventing a more rational way than what I expected.
+
+I consider the two projects, to be proof,
+that AI is more powerful than we can imagine.
+
+And personally, I believe, that it can reason on this level,
+by subtle analogy to other things.
+
+Face problems, by using patters from other solutions,
+or near enough.
+
+There is no rational criticism that can be applied to AI,
+there never was, the people who speak against it are panicking.
+
+They hate their job, they don’t want AI to make them better,
+and they go around complaining.
+
+---
+
+It is only fair to mention, that humans are the major source of slop,
+I was unable to perfectly configure tests for these two challenges.
+
+And I had to construct the program tests,
+while AI was working on the program.
+
+It is not a super intelligence yet, not for the low price most pay,
+but it generates less slop than we do when faced with complexity.
+
+---
+
+My evening on the other hand had begun,
+with rewriting my blog.
+
+I have maxed out cloud flare's 20,000 file count limit,
+github pages 5GB limit…
+
+And I have learned how to do it right,
+by using my blog generator.
+
+---
+
+This time, I will be mindful of single board computers,
+slow computers, which is where I will hope to generate my blog from.
+
+My current program takes several minutes,
+on still one of the faster $100 single board computers.
+
+---
+
+Things got weird fast,
+23 lines of code into it, I had everything mapped out.
+
+I got stuck on one thing, and I figured,
+I shouldn't write about my blog yet.
+
+Then I asked AI, and oh boy,
+it is exactly the kind of code you would expect from AI.
+
+And I was bac to writing about AI,
+I do understand the function, but I would never go fo it.
+
+```JavaScript
+
+return Array.from({length: this.pagerRadius * 2 + 1}, (_, i) =>  (this.currentPage - this.pagerRadius + i + this.totalPages) % this.totalPages );
+
+```
+
+In just about a total of 20 lines of code,
+I finished a blog engine, a static website generator.
+
+Now, if we were having a dispute about paying me for this code,
+and the listener, did your research.
+
+You would have solid proof, that this program is only,
+7 lines long, everything else is just setting things up.
+
+And I would agree that this program is 7 lines long,
+though I’ll add some decorations.
+
+---
+
+In closing allow me to summarize a couple of lines for you,
+in hopes of encouraging you to learn programming.
+
+The [first line][3] is a command line argument parser,
+you know how hacker type into black screens.
+
+They type in commands with arguments,
+to shape and configure those commands.
+
+I had the idea of abandoning complex arguments in favor of:
+hypen, hyphen, argument name, equals, argument value.
+
+So hypen, hyphen color = red,
+--color=red.
+
+I merge the result with a JavaScript object,
+the total code is just 88 letter long, 88 characters.
+
+For all the mountains of code written to parse arguments,
+what I have created, is either the default or sacrilegious.
+
+```JavaScript
+
+const options = {...defaults, ...Object.fromEntries(argv.filter(a=>a.startsWith('—')).map(a=>a.substring(2).split('=')))};
+
+```
+
+I abandoned singe hyphen flags, as useless,
+and positional arguments as not worthy.
+
+It would take less than a hundred characters to add the support,
+but what I have created is eternal.
+
+---
+
+I have a couple of thousand blog posts,
+which calls for dividing them into pages.
+
+I [chunk an array][4], into what becomes the pages with posts,
+it is a clever single operation approach.
+
+But this calls for a pager,
+and I have a clunky way of solving this.
+
+This is where I paused this evening,
+I asked AI to see if it had better ideas.
+
+It [produced 90 characters][5],
+of the perfect code.
+
+
+```JavaScript
+
+get navPager(){
+  return Array.from({length: this.pagerRadius * 2 + 1}, (_, i) =>  (this.currentPage - this.pagerRadius + i + this.totalPages) % this.totalPages );
+}
+
+```
+
+[I attach the explanation][6],
+of how it just works.
+
+So that you can see,
+that learning programming does not mean meditating over bugs.
+
+You always finish your programs,
+now, and you always rise.
+
+---
+
+AI has taught me a lot,
+it created projects that I would never hope to finish on my own.
+
+I can’t imagine,
+there existing a greater multiplier than AI.
+
+Don’t ruin your future,
+pretending to learn for good grades in High School.
+
+Learn for real, with the help of AI,
+and start with programming.
+
+And when you finish learning programming,
+program visualizations and simulations to master other fields.
+
+[1]: https://github.com/catpea/exfoliate
+[2]: https://github.com/catpea/ignorant
+[3]: https://github.com/catpea/evict/blob/be887f1c6ac5f01e276e4cb53bce5335f3d77754/src/evict.js#L15
+[4]: https://github.com/catpea/evict/blob/be887f1c6ac5f01e276e4cb53bce5335f3d77754/src/evict.js#L20
+[5]: https://github.com/catpea/evict/blob/be887f1c6ac5f01e276e4cb53bce5335f3d77754/src/obj/Page.js#L43
+[6]: files/modulo.md

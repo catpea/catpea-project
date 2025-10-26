@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2016",
+  "guid": "da54f130-12db-432d-acb5-c6a2adedf8ef",
+  "title": "Sol Invictus: Confessio Ultima Constantini Magni, Praefatus a Publio Cornelio Tacito",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-07T20:50:11.762Z",
+  "lastmod": null,
+  "weight": 201600,
+  "audio": "poem-2016.mp3",
+  "image": "poem-2016-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

@@ -1,0 +1,50 @@
+This here is a real Doctor’s advice,
+for humans, cats, squirrels and cute mice.
+
+Cute furry creatures with all their their fluff,
+can very easily get really buff.
+
+So as long as you like peanuts and protein,
+you are in.
+
+---
+
+First of all have a tiny per-workout meal,
+this is a very big deal.
+
+A singe peanut will do,
+but you should have a few.
+
+---
+
+If you are not alone,
+remind your furry fren. to put away their phone.
+
+And then just grab them by their little hands,
+and help them swiftly dance.
+
+Maybe even find a neat song,
+to which you can both dance along.
+
+Squirrels especially, are natures athletes,
+and they love to hit all the beats.
+
+Working out to a song,
+can quickly make you very strong.
+
+---
+
+And f you neither have a pet squirrel or a rat,
+just become a cool cat.
+
+And s it is often stated,
+always try to stay hydrated.
+
+Use a tiny LCD interval timer or app,
+and let that be your workout map.
+
+And Whatever you do, never sit at a gym,
+as that does nothing for the core or limb.
+
+Jut keep moving along,
+an hour of dancing won’t feel very long.

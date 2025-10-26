@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1145",
+  "guid": "d8e54615-a25a-4eca-941a-18e31b55f289",
+  "title": "Education And Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-21T03:35:23.412Z",
+  "lastmod": null,
+  "weight": 114500,
+  "audio": "poem-1145.mp3",
+  "image": "poem-1145-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/SMVlXuPRuFw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

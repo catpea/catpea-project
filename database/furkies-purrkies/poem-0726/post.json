@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0726",
+  "guid": "0f9580ae-e367-4f4a-a522-5d9ed694a510",
+  "title": "Your Art Portfolio Tells Your Story",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-25T01:53:59.427Z",
+  "lastmod": null,
+  "weight": 72600,
+  "audio": "poetry-0726.mp3",
+  "image": "poetry-0726-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0476",
+  "guid": "6d96fd67-a743-4077-a125-6ff94304599b",
+  "title": "Super Smart",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-20T00:10:47.132Z",
+  "lastmod": null,
+  "weight": 47600,
+  "audio": "poetry-0476.mp3",
+  "image": "poetry-0476-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/iNOgTXeT3OM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

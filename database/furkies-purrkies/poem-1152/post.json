@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1152",
+  "guid": "d8f17d33-7799-4ace-952f-913e7e22d66c",
+  "title": "A Tiny Michigan Paradise",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-28T02:45:00.886Z",
+  "lastmod": null,
+  "weight": 115200,
+  "audio": "poem-1152.mp3",
+  "image": "poem-1152-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bgx3J1UHpTM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

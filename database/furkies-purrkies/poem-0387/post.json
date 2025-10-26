@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0387",
+  "guid": "b308687c-7eb2-4565-bd3e-33e2104c4942",
+  "title": "Twisty Little Passages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-23T01:16:17.628Z",
+  "lastmod": null,
+  "weight": 38700,
+  "audio": "poetry-0387.mp3",
+  "image": "poetry-0387-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zK049OFP4uI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

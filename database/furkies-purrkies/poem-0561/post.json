@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0561",
+  "guid": "0bb93688-e28b-421b-a493-c4ed5a1c12ec",
+  "title": "For Wisdom, For Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-12T14:04:21.174Z",
+  "lastmod": null,
+  "weight": 56100,
+  "audio": "poetry-0561.mp3",
+  "image": "poetry-0561-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/EOLgQ6jLdtM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

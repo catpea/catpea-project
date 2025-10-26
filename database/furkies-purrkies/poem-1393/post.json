@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1393",
+  "guid": "1043fa5f-a4bd-49f1-b1d6-1a89cc3775f2",
+  "title": "Visual Programming Languages; Humanity's First Cybernetic Enhancement",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-25T04:51:06.860Z",
+  "lastmod": null,
+  "weight": 139300,
+  "audio": "poem-1393.mp3",
+  "image": "poem-1393-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

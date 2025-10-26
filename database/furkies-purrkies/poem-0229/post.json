@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0229",
+  "guid": "d139c2c9-95d9-4080-b48f-39af3689d569",
+  "title": "Of Watercolors of Yesteryear and Blooming Flowers of Tomorrow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-16T02:56:41.510Z",
+  "lastmod": null,
+  "weight": 22900,
+  "audio": "poetry-0229.mp3",
+  "image": "poetry-0229-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Jz1ofW-tbh0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

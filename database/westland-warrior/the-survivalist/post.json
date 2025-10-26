@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-survivalist",
+  "guid": "adcab60b-5201-4a83-b9e4-09067a52f83b",
+  "title": "The Survivalist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-08-21T03:59:12.442Z",
+  "lastmod": null,
+  "weight": 3500,
+  "audio": null,
+  "image": "warrior-the-survivalist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

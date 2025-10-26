@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0347",
+  "guid": "aa25eee4-debd-4887-a94a-8ba4146fa2a5",
+  "title": "And The World Will Grow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-11T01:53:27.096Z",
+  "lastmod": null,
+  "weight": 34700,
+  "audio": "poetry-0347.mp3",
+  "image": "poetry-0347-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Gz124UCguQQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

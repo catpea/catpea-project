@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1785",
+  "guid": "979186b2-60a0-42da-b497-88a772f9e2c7",
+  "title": "combineLatest; Or, Please Learn Programming And Build A Visual Programming Language",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-01-20T03:55:23.420Z",
+  "lastmod": null,
+  "weight": 178500,
+  "audio": "poem-1785.mp3",
+  "image": "poem-1785-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

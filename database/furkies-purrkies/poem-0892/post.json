@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0892",
+  "guid": "7c4131c9-853f-4af5-a246-7484310344d6",
+  "title": "Towards The Mastery Of Art, And A More Beautiful World: The One, Two, Three, Method",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-09T23:38:17.717Z",
+  "lastmod": null,
+  "weight": 89200,
+  "audio": "poetry-0892.mp3",
+  "image": "poetry-0892-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

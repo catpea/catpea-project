@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1439",
+  "guid": "55778366-41b6-4826-bcef-3da352190fc5",
+  "title": "You Must Become A Philosopher; Or, To Reject Philosophy Is To Reject Your Elder Self",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-09T04:49:36.314Z",
+  "lastmod": null,
+  "weight": 143900,
+  "audio": "poem-1439.mp3",
+  "image": "poem-1439-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

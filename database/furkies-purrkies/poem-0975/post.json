@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0975",
+  "guid": "60a09491-33a2-4f56-bf5f-01b23f79c8fc",
+  "title": "On World Peace And Fraudulent Demands For Unearned Respect",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-01T03:15:45.755Z",
+  "lastmod": null,
+  "weight": 97500,
+  "audio": "poem-0975.mp3",
+  "image": "poem-0975-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uEcSKKDB1pg"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

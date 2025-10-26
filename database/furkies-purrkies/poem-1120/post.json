@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1120",
+  "guid": "246a08d0-468f-40da-b50c-ee64f647b2cc",
+  "title": "On The Subject Of Standardized Education Holding Humanity Back",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-26T20:59:11.792Z",
+  "lastmod": null,
+  "weight": 112000,
+  "audio": "poem-1120.mp3",
+  "image": "poem-1120-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bEOdgHAEYLs"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

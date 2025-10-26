@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1253",
+  "guid": "b22a4639-7c6c-40c2-b1c2-ea79c7feadf8",
+  "title": "The Terrible Curse Of The Mitochondria",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-07T03:17:20.404Z",
+  "lastmod": null,
+  "weight": 125300,
+  "audio": "poem-1253.mp3",
+  "image": "poem-1253-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/CIOOofq3vXQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

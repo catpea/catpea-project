@@ -1,0 +1,26 @@
+{
+  "features": {},
+  "id": "poem-0887",
+  "guid": "96f91f29-c603-4967-9a0a-d9494568d5aa",
+  "title": "Art Is The Universal Language: And The World Wants To Hear You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-04T22:39:08.372Z",
+  "lastmod": null,
+  "weight": 88700,
+  "audio": "poetry-0887.mp3",
+  "image": "poetry-0887-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://en.wikipedia.org/wiki/File:VanGogh-starry_night_ballance1.jpg",
+    "https://en.wikipedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg",
+    "https://en.wikipedia.org/wiki/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+    "https://en.wikipedia.org/wiki/File:Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

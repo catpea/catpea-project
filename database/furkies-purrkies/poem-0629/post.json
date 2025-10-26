@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0629",
+  "guid": "ae040c0e-8c0d-477f-bc77-e03c87936240",
+  "title": "A Road Towards Authentic Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-20T02:20:04.627Z",
+  "lastmod": null,
+  "weight": 62900,
+  "audio": "poetry-0629.mp3",
+  "image": "poetry-0629-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IoN-MstG3-o"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

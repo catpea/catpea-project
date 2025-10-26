@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0835",
+  "guid": "b01188e2-6381-4a6e-9d85-80008c77d63a",
+  "title": "Oh Noes Unit Circle; Or,  How I Got Attacked By The Fence Post Problem",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-14T00:13:45.746Z",
+  "lastmod": null,
+  "weight": 83500,
+  "audio": "poetry-0835.mp3",
+  "image": "poetry-0835-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

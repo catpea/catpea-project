@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-headless-architect",
+  "guid": "e12adee1-c92e-422d-8098-fe4461cb090c",
+  "title": "The Headless Architect",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-04-23T17:10:15.630Z",
+  "lastmod": null,
+  "weight": 15409,
+  "audio": null,
+  "image": "the-headless-architect-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

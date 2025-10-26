@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0415",
+  "guid": "3221bfe4-47c6-4885-bc11-733717303784",
+  "title": "Learning Programming: Is It Worth It?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-20T02:51:54.262Z",
+  "lastmod": null,
+  "weight": 41500,
+  "audio": "poetry-0415.mp3",
+  "image": "poetry-0415-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

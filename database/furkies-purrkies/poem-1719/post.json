@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1719",
+  "guid": "cc089c32-ba58-4b0e-b6f6-50269084a132",
+  "title": "Fitness Advice For Teenage Girls: Don't Get Too Muscular, Maybe?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-15T05:16:17.936Z",
+  "lastmod": null,
+  "weight": 171900,
+  "audio": "poem-1719.mp3",
+  "image": "poem-1719-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

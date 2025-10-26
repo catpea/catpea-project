@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1251",
+  "guid": "7bf5ab23-2861-4f44-be91-a4b69ded6b03",
+  "title": "Just Dancing; Or, A Simple And Friendly Formula For Staying Young",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-05T03:17:48.169Z",
+  "lastmod": null,
+  "weight": 125100,
+  "audio": "poem-1251.mp3",
+  "image": "poem-1251-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DUcgRu2XfXc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

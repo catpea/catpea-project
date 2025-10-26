@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0602",
+  "guid": "3f618aeb-4c95-47c6-afb7-297ec0451443",
+  "title": "Each A Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-23T23:15:34.887Z",
+  "lastmod": null,
+  "weight": 60200,
+  "audio": "poetry-0602.mp3",
+  "image": "poetry-0602-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Oze6U2m1oYU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0327",
+  "guid": "8edd2a87-0d3f-40c5-b791-4e4fa32eb688",
+  "title": "Regulae Ad Directionem Ingenii",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-22T04:04:05.558Z",
+  "lastmod": null,
+  "weight": 32700,
+  "audio": "poetry-0327.mp3",
+  "image": "poetry-0327-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/IPRFX7CVVoU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

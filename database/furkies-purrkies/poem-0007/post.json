@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0007",
+  "guid": "0e26f60e-c444-480b-988e-8e3d5c612f6b",
+  "title": "Stopping by Woods on a Snowy Evening by Robert Frost",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-23T13:41:42.846Z",
+  "lastmod": null,
+  "weight": 700,
+  "audio": null,
+  "image": "poetry-0007-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/S4lRLPNs_P0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

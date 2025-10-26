@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0924",
+  "guid": "3bcac199-9ad7-4b5a-b77a-d49aac42ff81",
+  "title": "Self Education And Applied Philosophy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-11T02:11:00.302Z",
+  "lastmod": null,
+  "weight": 92400,
+  "audio": "poetry-0924.mp3",
+  "image": "poetry-0924-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AsJirOOLN_s"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

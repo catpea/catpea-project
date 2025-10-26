@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1173",
+  "guid": "5f672d0b-aae9-4fc9-b12b-7659fae17af9",
+  "title": "Speed Thy Slowly; Or, The Calm, Life Long, Easy, Peasy, Workout",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-19T03:15:51.273Z",
+  "lastmod": null,
+  "weight": 117300,
+  "audio": "poem-1173.mp3",
+  "image": "poem-1173-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2I5OSH1QoFE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

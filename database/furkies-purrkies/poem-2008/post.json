@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2008",
+  "guid": "ffb2e7c5-7c83-4585-8594-037e56f4ac99",
+  "title": "Between A Rock And A Hard Place",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-30T15:54:39.088Z",
+  "lastmod": null,
+  "weight": 200800,
+  "audio": "poem-2008.mp3",
+  "image": "poem-2008-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

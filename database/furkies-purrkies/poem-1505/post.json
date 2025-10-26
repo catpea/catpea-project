@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1505",
+  "guid": "d03d4302-63ea-4a0d-b9f5-c82cb7b297e0",
+  "title": "Dear Child of Tomorrow: A Message From Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-04-15T02:35:47.227Z",
+  "lastmod": null,
+  "weight": 150500,
+  "audio": "poem-1505.mp3",
+  "image": "poem-1505-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

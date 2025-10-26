@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1738",
+  "guid": "b868fe3c-95f6-4517-8b95-8229b845aff2",
+  "title": "Rise; And, Don’t Let The World Drag You Down",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-04T05:06:05.631Z",
+  "lastmod": null,
+  "weight": 173800,
+  "audio": "poem-1738.mp3",
+  "image": "poem-1738-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

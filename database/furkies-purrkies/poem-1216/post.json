@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1216",
+  "guid": "9492dc8a-641a-4ac8-b23c-a22d8cb1b268",
+  "title": "The Pretty Trails Of Nordhouse Dunes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-01T02:32:58.291Z",
+  "lastmod": null,
+  "weight": 121600,
+  "audio": "poem-1216.mp3",
+  "image": "poem-1216-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

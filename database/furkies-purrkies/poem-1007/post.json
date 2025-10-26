@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1007",
+  "guid": "7840f049-92de-4d2a-975d-9e521873a3a3",
+  "title": "Purrgramming Tutorial: What Is A Variable And Beyooond!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-03T01:46:44.433Z",
+  "lastmod": null,
+  "weight": 100700,
+  "audio": "poem-1007.mp3",
+  "image": "poem-1007-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/393l7SYoM7w"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

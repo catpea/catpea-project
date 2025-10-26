@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1368",
+  "guid": "aa7c6015-7349-4b33-bb7d-55ce26d69b46",
+  "title": "Meaning Of Life, And Why We Are Here, Explained",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-30T04:19:55.980Z",
+  "lastmod": null,
+  "weight": 136800,
+  "audio": "poem-1368.mp3",
+  "image": "poem-1368-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

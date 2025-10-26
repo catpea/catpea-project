@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0720",
+  "guid": "a3b2052e-6c1a-4336-89e4-d32a816943ff",
+  "title": "Talent Integration: The Online Academy Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-18T23:24:02.898Z",
+  "lastmod": null,
+  "weight": 72000,
+  "audio": "poetry-0720.mp3",
+  "image": "poetry-0720-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

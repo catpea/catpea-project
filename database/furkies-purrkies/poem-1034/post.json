@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1034",
+  "guid": "cfde3368-482a-499b-b350-2c6f0a0574b8",
+  "title": "Resist Concepts Like Standardized Education, IQ, Genetics, and Individual Socioeconomics",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-30T04:12:30.397Z",
+  "lastmod": null,
+  "weight": 103400,
+  "audio": "poem-1034.mp3",
+  "image": "poem-1034-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/aq3h5cb0GPM"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

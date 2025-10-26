@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0908",
+  "guid": "40ceff54-83a2-406a-9b81-af6630bbd2d3",
+  "title": "Easy Peasy Practice, And Mastery Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-26T02:35:11.343Z",
+  "lastmod": null,
+  "weight": 90800,
+  "audio": "poetry-0908.mp3",
+  "image": "poetry-0908-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

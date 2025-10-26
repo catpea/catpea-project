@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0260",
+  "guid": "a3ac2f22-7ef7-4602-a5b6-d980c44f1a1b",
+  "title": "Forever Summer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-15T23:31:38.291Z",
+  "lastmod": null,
+  "weight": 26000,
+  "audio": "poetry-0260.mp3",
+  "image": "poetry-0260-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FJlKndLiOvM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

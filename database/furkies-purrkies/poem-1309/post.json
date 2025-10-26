@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1309",
+  "guid": "8953bffd-e54d-4e57-a098-33c43c55eb8a",
+  "title": "Bodybuilding Explained",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-02T02:59:27.205Z",
+  "lastmod": null,
+  "weight": 130900,
+  "audio": "poem-1309.mp3",
+  "image": "poem-1309-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FVz5fDfGFFw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

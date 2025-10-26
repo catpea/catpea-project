@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0831",
+  "guid": "20b51e43-683a-45df-a564-c58ddf2c22d5",
+  "title": "The Far Future; And The Whole, Greater Than Its Parts",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-09T17:12:11.355Z",
+  "lastmod": null,
+  "weight": 83100,
+  "audio": "poetry-0831.mp3",
+  "image": "poetry-0831-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Cg5qdn7S1c8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

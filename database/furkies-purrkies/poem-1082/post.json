@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1082",
+  "guid": "5144d85e-3644-42cc-8457-35b7775dfe55",
+  "title": "A Call To Learn Programming; Or, A Quick Look At E-Commerce Platforms",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-16T03:43:36.569Z",
+  "lastmod": null,
+  "weight": 108200,
+  "audio": "poem-1082.mp3",
+  "image": "poem-1082-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

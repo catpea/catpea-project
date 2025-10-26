@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-jogger",
+  "guid": "2be55d4b-057c-4a03-9280-011cb60a8431",
+  "title": "The Jogger",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-05-09T03:28:58.000Z",
+  "lastmod": null,
+  "weight": 5800,
+  "audio": null,
+  "image": "warrior-the-jogger-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1430",
+  "guid": "182fc56c-2f41-4985-92c9-c6740d5f1467",
+  "title": "The Magic Of Athletic Endurance, For The Rest Of Us",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-31T04:11:24.723Z",
+  "lastmod": null,
+  "weight": 143000,
+  "audio": "poem-1430.mp3",
+  "image": "poem-1430-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

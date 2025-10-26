@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0337",
+  "guid": "df1f86f8-3a32-441d-a7b7-680f5367a4e2",
+  "title": "Live Like You Are Going To Live Forever",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-01T02:49:14.373Z",
+  "lastmod": null,
+  "weight": 33700,
+  "audio": "poetry-0337.mp3",
+  "image": "poetry-0337-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/mq5M6q01AaQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

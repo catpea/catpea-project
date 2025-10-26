@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1009",
+  "guid": "9c8176c0-8c0a-4aef-a613-e0a91d03e2a9",
+  "title": "How To Enhance Your Design or Programming Portfolio",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-05T02:23:01.036Z",
+  "lastmod": null,
+  "weight": 100900,
+  "audio": "poem-1009.mp3",
+  "image": "poem-1009-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

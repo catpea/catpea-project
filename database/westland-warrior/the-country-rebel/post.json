@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-country-rebel",
+  "guid": "9ced8099-5f0f-4965-8af0-27f357f804a2",
+  "title": "The Country Rebel",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-03-06T03:21:31.939Z",
+  "lastmod": null,
+  "weight": 9610,
+  "audio": null,
+  "image": "the-country-rebel-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1276",
+  "guid": "b02eb16a-5129-4668-851c-a963281f04c5",
+  "title": "Try Not To Rest At The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-30T03:05:27.522Z",
+  "lastmod": null,
+  "weight": 127600,
+  "audio": "poem-1276.mp3",
+  "image": "poem-1276-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JpWcneSvhDY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1370",
+  "guid": "9842e9d7-08d0-4730-acb6-68f1adb0c212",
+  "title": "Wisdom Demands Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-02T04:19:48.058Z",
+  "lastmod": null,
+  "weight": 137000,
+  "audio": "poem-1370.mp3",
+  "image": "poem-1370-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-brown-jacket-and-black-knit-cap-standing-during-sunset-Vvs5lfhvZlE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1192",
+  "guid": "6a2e50d4-9a1e-4eec-a864-a13f17e4cd17",
+  "title": "A Universe Of Your Own",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-07T03:22:01.510Z",
+  "lastmod": null,
+  "weight": 119200,
+  "audio": "poem-1192.mp3",
+  "image": "poem-1192-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Lorenz_system_r28_s10_b2-6666.png"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

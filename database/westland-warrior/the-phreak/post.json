@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-phreak",
+  "guid": "1c872779-a2eb-4c76-a333-56ade6ccfb4a",
+  "title": "The Phreak",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-09-25T19:00:27.601Z",
+  "lastmod": null,
+  "weight": 15300,
+  "audio": null,
+  "image": "warrior-the-phreak-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

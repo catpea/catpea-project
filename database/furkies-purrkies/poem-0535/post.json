@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0535",
+  "guid": "c20d99e4-bfde-4614-bec7-8af3baf0c3fe",
+  "title": "To Lake Erie And Back",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-18T01:18:53.432Z",
+  "lastmod": null,
+  "weight": 53500,
+  "audio": "poetry-0535.mp3",
+  "image": "poetry-0535-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

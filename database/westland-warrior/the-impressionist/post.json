@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-impressionist",
+  "guid": "ef83e567-11a9-4bd7-a717-60cfc62938c3",
+  "title": "The Impressionist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-04-03T22:18:45.574Z",
+  "lastmod": null,
+  "weight": 13100,
+  "audio": null,
+  "image": "warrior-the-impressionist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

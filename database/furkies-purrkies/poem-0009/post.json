@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0009",
+  "guid": "c02eecb7-d222-4aca-ad05-54d244199e5a",
+  "title": "Kosmos by Walt Whitman",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-24T00:46:35.352Z",
+  "lastmod": null,
+  "weight": 900,
+  "audio": null,
+  "image": "poetry-0009-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1JHzqk5oTy8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

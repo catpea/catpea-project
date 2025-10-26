@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0927",
+  "guid": "4290e704-2223-4538-99f0-06a87ea6b5dd",
+  "title": "To Learn For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-14T02:19:26.974Z",
+  "lastmod": null,
+  "weight": 92700,
+  "audio": "poetry-0927.mp3",
+  "image": "poetry-0927-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/-y4dVPa8EQI"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

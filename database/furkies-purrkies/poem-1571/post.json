@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1571",
+  "guid": "0afb07f3-8550-40c1-95b5-56cd2033702a",
+  "title": "The Thunderstorm",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-20T03:53:19.584Z",
+  "lastmod": null,
+  "weight": 157100,
+  "audio": "poem-1571.mp3",
+  "image": "poem-1571-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

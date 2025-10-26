@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1801",
+  "guid": "004e90ec-3b66-454b-b17e-8ba4900e124b",
+  "title": "Fitness And Bodybuilding For Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-05T04:39:42.180Z",
+  "lastmod": null,
+  "weight": 180100,
+  "audio": "poem-1801.mp3",
+  "image": "poem-1801-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

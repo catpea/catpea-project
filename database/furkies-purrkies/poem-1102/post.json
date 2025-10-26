@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1102",
+  "guid": "d0721956-b319-45b8-a4ff-b36fb2b0cdfa",
+  "title": "The Rebirth Of Venus; Or, The Making Of An Art Show In The Age Of Generative AI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-09T03:56:57.048Z",
+  "lastmod": null,
+  "weight": 110200,
+  "audio": "poem-1102.mp3",
+  "image": "poem-1102-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 6
+}

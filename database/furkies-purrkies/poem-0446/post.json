@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0446",
+  "guid": "c0de7ae7-2dcc-427b-b243-6fe061981de3",
+  "title": "The Trail To Transcendence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-20T21:50:20.133Z",
+  "lastmod": null,
+  "weight": 44600,
+  "audio": "poetry-0446.mp3",
+  "image": "poetry-0446-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zRWRUbSluFo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

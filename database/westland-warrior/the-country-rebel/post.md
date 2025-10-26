@@ -1,0 +1,79 @@
+[Trinity is still my name - Slapping scene](https://www.youtube.com/watch?v=90YLkHyhm1I "Play Video")
+
+[Steve'n'Seagulls - Joe's Little Baby LIVE](https://www.youtube.com/watch?v=9i4LBeT9IBQ "Play Video")
+
+[Miranda Lambert - Somethin' Bad](https://www.youtube.com/watch?v=o4Yzj-m_SBk "Play Video")
+
+[Gretchen Wilson - Redneck Woman](https://www.youtube.com/watch?v=82dDnv9zeLs "Play Video")
+
+[Ryan Charles - Gettin Western](https://www.youtube.com/watch?v=SEaJ4x6RgZ4 "Play Video")
+
+[Hot Country Knights - Moose Knuckle Shuffle](https://www.youtube.com/watch?v=TMPakq7vabw "Play Video")
+
+
+
+[Viagra Boys - In Spite Of Ourselves](https://www.youtube.com/watch?v=WLl1qpDL7YA "Play Video")
+
+[The Lacs - Redneck Rockstar](https://www.youtube.com/watch?v=SBads0qI5FI "Play Video")
+
+["Dirt Road Dollars" - The Lacs & Nate Kenyon](https://www.youtube.com/watch?v=dcM9af0VBHY "Play Video")
+
+[Colt Ford - No Trash In My Trailer](https://www.youtube.com/watch?v=_77EvoXGDB8 "Play Video")
+
+[Terence Hill's "My name is nobody" - Teaching a lesson](https://www.youtube.com/watch?v=zXDD4Qve_wY "Play Video")
+
+### Truck
+
+[Katie Noel - Jeep Gang](https://www.youtube.com/watch?v=G136Uob8Alw "Play Video")
+
+[The Lacs - Keep It Redneck](https://www.youtube.com/watch?v=t2hWgwTHMvw "Play Video")
+
+[Old Silverado - TrapHouse Koda](https://www.youtube.com/watch?v=MeMxs8x5Smc "Play Video")
+
+[All My Trucks - Ginger Billy x Brandon Hartt](https://www.youtube.com/watch?v=e3gS_xB4xks "Play Video")
+
+[David Morris - "Dutton Ranch Freestyle"](https://www.youtube.com/watch?v=YnujskEgHnY "Play Video")
+
+[LEIGH HUTCHINS - SWAMP STOMP](https://www.youtube.com/watch?v=qf5ZevfJTzU "Play Video")
+
+[Lo Chiamavano Trinità](https://www.youtube.com/watch?v=fSo1tRjfb9M "Play Video")
+
+### Bang Bang
+
+[Brothers Osborne - It Ain’t My Fault](https://www.youtube.com/watch?v=E5RDEXpc8OY "Play Video")
+
+[Viagra Boys — Punk Rock Loser](https://www.youtube.com/watch?v=QEfDazTZSPQ "Play Video")
+
+[LoCash Cowboys - C.O.U.N.T.R.Y.](https://www.youtube.com/watch?v=KUCnbXWK0EA "Play Video")
+
+[Trinity is Still My Name -bar fight](https://www.youtube.com/watch?v=ZVaCqnTuW8Y "Play Video")
+
+### Finale
+
+[Soggy Bottom Boys - I Am A Man Of Constant Sorrow](https://www.youtube.com/watch?v=OdYGnAFaeHU "Play Video")
+
+[Man of Constant Sorrow](https://www.youtube.com/watch?v=YBVnKYOvWcs "Play Video")
+
+[Blake Shelton - Ol' Red](https://www.youtube.com/watch?v=asxrMSVrJ08 "Play Video")
+
+[Daryle Singletary - Too Much Fun](https://www.youtube.com/watch?v=H6gI7Ts14Qw "Play Video")
+
+[Toby Keith - As Good As I Once Was](https://www.youtube.com/watch?v=ldQrapQ4d0Y "Play Video")
+
+[The Dead South - In Hell I'll Be In Good Company](https://www.youtube.com/watch?v=B9FzVhw8_bY "Play Video")
+
+[Thunderstruck by Steve'n'Seagulls](https://www.youtube.com/watch?v=e4Ao-iNPPUc "Play Video")
+
+[NOTHING ELSE MATTERS by STEVE´N´SEAGULLS](https://www.youtube.com/watch?v=3JFb_aOn6rc "Play Video")
+
+[Glen Campbell & Carl Jackson DUELING BANJOS 1973](https://www.youtube.com/watch?v=i5vfw5f1CZo "Play Video")
+
+[Jolene - The Petersens](https://www.youtube.com/watch?v=viQx4KDivPY "Play Video")
+
+[Miley Cyrus - The Backyard Sessions - "Jolene"](https://www.youtube.com/watch?v=wOwblaKmyVw "Play Video")
+
+[The Crawdad Song - The Petersens](https://www.youtube.com/watch?v=_Cpu9Z3z6pU "Play Video")
+
+[Take Me Home, Country Roads - The Petersens](https://www.youtube.com/watch?v=qap9Qm-Q894 "Play Video")
+
+[Angels in Heaven - Chris Rodrigues & the Spoon Lady](https://www.youtube.com/watch?v=_nLmM9kcBKs "Play Video")

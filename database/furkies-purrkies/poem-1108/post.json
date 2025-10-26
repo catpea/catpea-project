@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1108",
+  "guid": "53d62570-0162-4158-89d8-20d4cdd5bda9",
+  "title": "It Is Loose",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-15T02:49:35.470Z",
+  "lastmod": null,
+  "weight": 110800,
+  "audio": "poem-1108.mp3",
+  "image": "poem-1108-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

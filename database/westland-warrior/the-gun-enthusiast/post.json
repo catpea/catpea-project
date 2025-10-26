@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-gun-enthusiast",
+  "guid": "7b0173db-e2d8-424b-9803-e7cc90e8979c",
+  "title": "The Gun Enthusiast",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-01-18T00:50:28.570Z",
+  "lastmod": null,
+  "weight": 7000,
+  "audio": null,
+  "image": "warrior-the-gun-enthusiast-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

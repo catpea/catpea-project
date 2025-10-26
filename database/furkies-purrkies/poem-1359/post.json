@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1359",
+  "guid": "9a45404e-cfbc-4a03-87d4-2c4102402b37",
+  "title": "In Search For Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-21T04:57:12.231Z",
+  "lastmod": null,
+  "weight": 135900,
+  "audio": "poem-1359.mp3",
+  "image": "poem-1359-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-running-on-brown-road-in-the-forest-6ZkII56HsB4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

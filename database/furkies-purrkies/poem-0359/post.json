@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0359",
+  "guid": "c1e1ae86-989d-4db7-bfe2-bd11be2a48ca",
+  "title": "Bad Grades Are Meaningless Grades",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-02-22T23:18:08.020Z",
+  "lastmod": null,
+  "weight": 35900,
+  "audio": "poetry-0359.mp3",
+  "image": "poetry-0359-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Eu0jFZsZifI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

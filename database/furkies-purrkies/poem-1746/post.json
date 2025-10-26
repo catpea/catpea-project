@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1746",
+  "guid": "d5a5bd78-ca97-4695-8cd5-454a9b90cc06",
+  "title": "Programmers Don’t Always Publish Their Inventions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-12T05:18:22.350Z",
+  "lastmod": null,
+  "weight": 174600,
+  "audio": "poem-1746.mp3",
+  "image": "poem-1746-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

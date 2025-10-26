@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1076",
+  "guid": "bf0d7a4a-9429-4572-9661-b12055149cbe",
+  "title": "Self Educate; Or, Don't Let Ineffective Schools Rob You Of Your Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-10T03:30:54.381Z",
+  "lastmod": null,
+  "weight": 107600,
+  "audio": "poem-1076.mp3",
+  "image": "poem-1076-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/zZDsK4UWgFk"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

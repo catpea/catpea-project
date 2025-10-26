@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1883",
+  "guid": "0ca78de3-b30e-4999-a78a-d76a10ca89ce",
+  "title": "Now What?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-28T01:42:41.183Z",
+  "lastmod": null,
+  "weight": 188300,
+  "audio": "poem-1883.mp3",
+  "image": "poem-1883-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

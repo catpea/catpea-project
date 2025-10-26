@@ -1,0 +1,98 @@
+Asking AI to write verse,
+and keep it terse…
+
+Is like asking a philosopher to say,
+something about today.
+
+We take something unsurpassed,
+and merely ask for a simple forecast.
+
+---
+
+The future of humanity,
+even our own education and sanity.
+
+Depends on using noise and static,
+to skip over a systems schematic.
+
+To tell one chaos to influence the other,
+both being born from the same kind of mother.
+
+The AI holds the promise of medicine,
+likes of which no one has predicted or seen.
+
+The eighty years olds become forty,
+the forty year olds become sporty.
+
+---
+
+The AI in a way, right off the shelf,
+can improve it self.
+
+We just made language models big enough,
+and although understanding it all will be tough…
+
+The technology will grow, it will really grow,
+faster than we can imagine or know.
+
+The thinking AI that movies talk about,
+is just our imagination acting out.
+
+---
+
+Despite all the half measures everywhere,
+in a world where even kindness is rare…
+
+AI marks a tipping point where things change,
+it is something new, something really strange.
+
+All the things that hold humanity back,
+that make nations stop developing and attack...
+
+Will come to an end,
+even politicians will stop to pretend.
+
+---
+
+We don’t know when,
+but it will be within…
+
+Soon, within our lifetimes,
+marked by an end to all the crimes.
+
+Naysayers, critics and contrarians, will all shut up for once,
+even they know, not wanting to live forever, makes for a dunce.
+
+---
+
+We have not been born to star-ships, no,
+but space is just that, you just go and go and go.
+
+We’ve been born to the best era, mind you,
+we can see the old and experience the new.
+
+You don’t have to believe in living forever,
+just get used to the idea of a machine that is very clever.
+
+The moment interactive AI school tests are introduced,
+a change will be induced.
+
+There will be questions about the level of education,
+of all the politicians in every nation.
+
+The AI can already reveal who is pretending,
+the change is already pending.
+
+---
+
+Without any delay,
+enjoy the simple classical world of today.
+
+But, know that the future, the change,
+is pretty much here, not __there__.
+
+Computers don’t need a hundred years,
+AI will consume entire frontiers.
+
+Dare to learn, and dream, as if you were to live forever,
+and never underestimate AI, ever.

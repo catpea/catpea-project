@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0441",
+  "guid": "52bb4032-efc2-448c-96e6-ba8d6ab24404",
+  "title": "Programming Is Pretty Funny",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-15T23:18:59.875Z",
+  "lastmod": null,
+  "weight": 44100,
+  "audio": "poetry-0441.mp3",
+  "image": "poetry-0441-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HXOllTSwrpM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

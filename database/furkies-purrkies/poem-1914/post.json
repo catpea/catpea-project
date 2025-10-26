@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1914",
+  "guid": "c993a625-4c32-4689-84d4-69f6012a4181",
+  "title": "The Interdimensional Alarm Clock, And A Short Note On Digital Product Creation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-29T01:24:12.834Z",
+  "lastmod": null,
+  "weight": 191400,
+  "audio": "poem-1914.mp3",
+  "image": "poem-1914-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

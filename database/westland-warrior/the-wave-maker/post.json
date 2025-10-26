@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-wave-maker",
+  "guid": "90831c8e-fbf6-4ba4-85e8-647686055af2",
+  "title": "The Wave Maker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-12-04T21:45:37.455Z",
+  "lastmod": null,
+  "weight": 8610,
+  "audio": null,
+  "image": "the-wave-maker-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

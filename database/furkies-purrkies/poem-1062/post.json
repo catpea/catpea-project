@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1062",
+  "guid": "7fe4577e-1b9a-4870-9bff-8172533d6627",
+  "title": "Let Your Art Dance; Or, Making Holidays Even More Interesting",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-27T03:41:44.015Z",
+  "lastmod": null,
+  "weight": 106200,
+  "audio": "poem-1062.mp3",
+  "image": "poem-1062-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1991",
+  "guid": "2b243e97-9b87-4153-9f84-9ce78ce5ce75",
+  "title": "Humanity Made Three Tiny Steps Before It Fell",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-13T19:32:28.505Z",
+  "lastmod": null,
+  "weight": 199100,
+  "audio": "poem-1991.mp3",
+  "image": "poem-1991-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

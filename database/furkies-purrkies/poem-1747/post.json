@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1747",
+  "guid": "28b62ab3-2d8a-4724-b866-886a546c0695",
+  "title": "Modern Talking; Or, How AI Is Helping Me Jump Ahead Of Myself",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-13T04:16:11.151Z",
+  "lastmod": null,
+  "weight": 174700,
+  "audio": "poem-1747.mp3",
+  "image": "poem-1747-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

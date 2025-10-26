@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0280",
+  "guid": "1381a0c3-c636-44d4-a399-4de8b8eadeb6",
+  "title": "Schools Are Sus!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-05T23:56:25.289Z",
+  "lastmod": null,
+  "weight": 28000,
+  "audio": "poetry-0280.mp3",
+  "image": "poetry-0280-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

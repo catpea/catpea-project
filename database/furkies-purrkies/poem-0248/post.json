@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0248",
+  "guid": "76e6aa73-26e9-4806-84d9-0904de1f28e9",
+  "title": "United In Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-04T01:32:46.725Z",
+  "lastmod": null,
+  "weight": 24800,
+  "audio": "poetry-0248.mp3",
+  "image": "poetry-0248-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/NhU0nUR7920"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

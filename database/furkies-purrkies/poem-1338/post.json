@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1338",
+  "guid": "df14835d-71e2-4746-a7fb-3df01cb8aa9e",
+  "title": "Turning Generative Art Into A Super Tiny Little Business",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-31T02:29:23.311Z",
+  "lastmod": null,
+  "weight": 133800,
+  "audio": "poem-1338.mp3",
+  "image": "poem-1338-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

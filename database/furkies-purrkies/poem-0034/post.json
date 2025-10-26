@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0034",
+  "guid": "bda6e80c-c401-44c0-ac0f-f885ae5088d8",
+  "title": "Artist and Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-15T01:17:02.012Z",
+  "lastmod": null,
+  "weight": 3400,
+  "audio": "poetry-0034.mp3",
+  "image": "poetry-0034-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1976",
+  "guid": "8cc8c00e-7040-411a-b6a7-93eacf7ac182",
+  "title": "If by Rudyard Kipling: A Reading And A Call To Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-29T22:43:12.210Z",
+  "lastmod": null,
+  "weight": 197600,
+  "audio": "poem-1976.mp3",
+  "image": "poem-1976-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

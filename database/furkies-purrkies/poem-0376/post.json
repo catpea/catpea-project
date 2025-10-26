@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0376",
+  "guid": "12c50743-d05a-4ad3-9631-c92491773ba2",
+  "title": "Spring Arrives Nine Days Early: A World Medley",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-12T02:34:16.632Z",
+  "lastmod": null,
+  "weight": 37600,
+  "audio": "poetry-0376.mp3",
+  "image": "poetry-0376-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Zc4q_CIn3Nw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

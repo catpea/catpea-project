@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-meteorite-hunter",
+  "guid": "f0934606-ca1f-4d8d-8174-af52e731e5b6",
+  "title": "The Meteorite Hunter",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-02-08T04:43:55.443Z",
+  "lastmod": null,
+  "weight": 4800,
+  "audio": null,
+  "image": "warrior-the-meteorite-hunter-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

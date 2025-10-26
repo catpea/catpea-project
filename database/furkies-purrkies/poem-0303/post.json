@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0303",
+  "guid": "d6383514-13b5-41bd-8222-cc88a5497961",
+  "title": "Unbreakability",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-29T00:25:48.820Z",
+  "lastmod": null,
+  "weight": 30300,
+  "audio": "poetry-0303.mp3",
+  "image": "poetry-0303-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Rpp4FOd-ERw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

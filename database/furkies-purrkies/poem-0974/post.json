@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0974",
+  "guid": "83bca2eb-c645-42c3-a0bf-f55e48599497",
+  "title": "Social Application Development; Or, Self Editable Applications In The Twenty Twenty-Something",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-31T00:25:25.625Z",
+  "lastmod": null,
+  "weight": 97400,
+  "audio": "poem-0974.mp3",
+  "image": "poem-0974-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gcHFXsdcmJE"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

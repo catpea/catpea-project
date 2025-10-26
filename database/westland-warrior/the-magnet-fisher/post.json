@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-magnet-fisher",
+  "guid": "c8a0b876-1d29-476e-83ed-5e47c0894d3c",
+  "title": "The Magnet Fisher",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-08-13T23:32:43.585Z",
+  "lastmod": null,
+  "weight": 4710,
+  "audio": null,
+  "image": "the-magnet-fisher-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

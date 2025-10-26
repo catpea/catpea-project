@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1659",
+  "guid": "272cc63a-9e01-43f2-9eab-8575e4fd0c73",
+  "title": "When To Dress For Halloween? September. Freaking. First!",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-16T04:17:15.924Z",
+  "lastmod": null,
+  "weight": 165900,
+  "audio": "poem-1659.mp3",
+  "image": "poem-1659-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

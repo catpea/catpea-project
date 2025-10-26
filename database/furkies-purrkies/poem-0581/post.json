@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0581",
+  "guid": "61a8dad8-1895-410c-ba7d-a789a5125c02",
+  "title": "Try To Invent Every Day",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-10-03T00:26:19.903Z",
+  "lastmod": null,
+  "weight": 58100,
+  "audio": "poetry-0581.mp3",
+  "image": "poetry-0581-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8A7fD6Y5VF8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

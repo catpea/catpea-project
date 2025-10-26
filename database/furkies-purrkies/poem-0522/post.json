@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0522",
+  "guid": "965e2235-2ff8-4bd8-a313-144399f09cc3",
+  "title": "Cicada Nights: Adventures In Self Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-05T03:01:20.667Z",
+  "lastmod": null,
+  "weight": 52200,
+  "audio": "poetry-0522.mp3",
+  "image": "poetry-0522-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3kAjIDlg0Ng"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

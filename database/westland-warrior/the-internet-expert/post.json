@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-internet-expert",
+  "guid": "9ffa18dc-b80c-4c3e-be87-41eeecffcf77",
+  "title": "The Internet Expert",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-09-18T18:07:28.951Z",
+  "lastmod": null,
+  "weight": 15600,
+  "audio": null,
+  "image": "warrior-the-internet-expert-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

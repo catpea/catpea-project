@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1610",
+  "guid": "d4f19a32-083b-4623-996c-8d14928af403",
+  "title": "Programming Has Teeth",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-29T05:00:28.384Z",
+  "lastmod": null,
+  "weight": 161000,
+  "audio": "poem-1610.mp3",
+  "image": "poem-1610-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

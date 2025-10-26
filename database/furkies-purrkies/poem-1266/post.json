@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1266",
+  "guid": "d7fce012-98d4-405d-a281-89c18a555738",
+  "title": "Towards Growing All The Way Up And Becoming A Great Being",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-20T02:22:46.700Z",
+  "lastmod": null,
+  "weight": 126600,
+  "audio": "poem-1266.mp3",
+  "image": "poem-1266-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-standing-on-a-beach-under-a-night-sky-hox3n-GU560"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

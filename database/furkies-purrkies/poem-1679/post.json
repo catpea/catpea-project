@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1679",
+  "guid": "d9746199-65ab-45fe-b586-bb85ef4a224b",
+  "title": "Individuality And The End Of The Dark Ages",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-06T02:42:03.440Z",
+  "lastmod": null,
+  "weight": 167900,
+  "audio": "poem-1679.mp3",
+  "image": "poem-1679-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

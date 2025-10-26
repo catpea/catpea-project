@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1535",
+  "guid": "e73a6dd8-4a8f-4d23-bbb7-860e707bff9e",
+  "title": "Bump",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-15T00:54:48.034Z",
+  "lastmod": null,
+  "weight": 153500,
+  "audio": "poem-1535.mp3",
+  "image": "poem-1535-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

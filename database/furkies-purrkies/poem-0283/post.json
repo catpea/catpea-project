@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0283",
+  "guid": "e3909249-17f9-49e9-8cb0-9f23cf6e9c37",
+  "title": "Our World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-09T02:13:42.726Z",
+  "lastmod": null,
+  "weight": 28300,
+  "audio": "poetry-0283.mp3",
+  "image": "poetry-0283-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

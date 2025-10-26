@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1288",
+  "guid": "aa7a1a57-a85b-4e1e-a392-591357f9acf2",
+  "title": "How To Protect Your Mind From Standardized Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-11T03:28:04.029Z",
+  "lastmod": null,
+  "weight": 128800,
+  "audio": "poem-1288.mp3",
+  "image": "poem-1288-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3NpkAEMIoTY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

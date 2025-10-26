@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1560",
+  "guid": "4e55391c-ca92-4dde-8836-4f52028ce5a4",
+  "title": "Historic Breakthrough: Artificial Intelligence Conquers Aging",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-09T04:24:35.652Z",
+  "lastmod": null,
+  "weight": 156000,
+  "audio": "poem-1560.mp3",
+  "image": "poem-1560-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0935",
+  "guid": "1ef2b2c9-3622-4227-9041-5764abf3b247",
+  "title": "How To Become A Trainer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-22T03:08:16.423Z",
+  "lastmod": null,
+  "weight": 93500,
+  "audio": "poetry-0935.mp3",
+  "image": "poetry-0935-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

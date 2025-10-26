@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0576",
+  "guid": "ee509dec-dc76-43fa-9ae1-7144ae593bc2",
+  "title": "Of The Memory Cathedrals And The Tree Of Knowledge",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-28T00:34:33.553Z",
+  "lastmod": null,
+  "weight": 57600,
+  "audio": "poetry-0576.mp3",
+  "image": "poetry-0576-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/rr-3tpYdUb0"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

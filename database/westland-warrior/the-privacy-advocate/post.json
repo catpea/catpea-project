@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-privacy-advocate",
+  "guid": "ad0c574b-00be-4a01-84d5-b613fbe73c40",
+  "title": "The Privacy Advocate",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-11-23T02:56:20.000Z",
+  "lastmod": null,
+  "weight": 15800,
+  "audio": null,
+  "image": "warrior-the-privacy-advocate-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

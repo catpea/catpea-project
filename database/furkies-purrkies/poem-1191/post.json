@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1191",
+  "guid": "421b2135-d4d5-45fc-9608-e431ceca52fd",
+  "title": "Playing With Computers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-06-06T03:18:45.222Z",
+  "lastmod": null,
+  "weight": 119100,
+  "audio": "poem-1191.mp3",
+  "image": "poem-1191-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/fiOSRtx5KeI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

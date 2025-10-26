@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1713",
+  "guid": "3b87a5fe-b183-4815-ba0e-4fff78ad02f5",
+  "title": "How I Successfully Used AI To Learn Important Programming Embarrassments",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-09T05:58:34.253Z",
+  "lastmod": null,
+  "weight": 171300,
+  "audio": "poem-1713.mp3",
+  "image": "poem-1713-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

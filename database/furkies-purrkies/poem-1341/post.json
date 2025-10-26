@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1341",
+  "guid": "de5363de-b330-4a47-85df-457aea42b86d",
+  "title": "The Outside Of The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-03T03:40:09.809Z",
+  "lastmod": null,
+  "weight": 134100,
+  "audio": "poem-1341.mp3",
+  "image": "poem-1341-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

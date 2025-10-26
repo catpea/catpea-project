@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1364",
+  "guid": "73ee68d9-3beb-4028-b7f8-c7120306a0a7",
+  "title": "Lift Light To Rest; Or, Don't Ruin Your Workout By Stopping",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-26T01:47:33.705Z",
+  "lastmod": null,
+  "weight": 136400,
+  "audio": "poem-1364.mp3",
+  "image": "poem-1364-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/group-of-people-in-gym-while-exercising-3RnkZpDqsEI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

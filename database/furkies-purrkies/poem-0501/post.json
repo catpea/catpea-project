@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0501",
+  "guid": "01b6d9c6-068f-4809-b37e-11957ed54144",
+  "title": "Let Us Become Wise So That We Know What Wisdom Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-15T02:48:34.489Z",
+  "lastmod": null,
+  "weight": 50100,
+  "audio": "poetry-0501.mp3",
+  "image": "poetry-0501-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/wNRWa5qVBVc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

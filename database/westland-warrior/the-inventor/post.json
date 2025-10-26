@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-inventor",
+  "guid": "b7300659-b0c8-40b7-b861-6378fc27b49e",
+  "title": "The Inventor",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-06-20T22:11:57.121Z",
+  "lastmod": null,
+  "weight": 8100,
+  "audio": null,
+  "image": "warrior-the-inventor-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

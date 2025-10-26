@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0917",
+  "guid": "27ae0395-49c6-4b34-bbce-f6cd58def348",
+  "title": "A Tiny Little Call Of The Wild",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-04T03:02:47.324Z",
+  "lastmod": null,
+  "weight": 91700,
+  "audio": "poetry-0917.mp3",
+  "image": "poetry-0917-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Xfkp_sIEs7w"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0618",
+  "guid": "c03d282b-027a-4760-85d3-a625df697fb1",
+  "title": "You May Be A Travel/Adventure Writer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-09T02:05:17.086Z",
+  "lastmod": null,
+  "weight": 61800,
+  "audio": "poetry-0618.mp3",
+  "image": "poetry-0618-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OnFW5djcAYc"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

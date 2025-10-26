@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-train-hopper",
+  "guid": "017321d1-3dbf-4652-b2d7-913ab4225fc4",
+  "title": "The Train Hopper",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-07-23T20:28:16.746Z",
+  "lastmod": null,
+  "weight": 3110,
+  "audio": null,
+  "image": "the-train-hopper-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

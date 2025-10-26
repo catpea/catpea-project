@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1918",
+  "guid": "9f2bdf2e-8405-4b8b-a68c-2b37159dda95",
+  "title": "The Search For Panning And Zooming: Or, When The Web Browser Gives You Kittens",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-01T12:17:52.816Z",
+  "lastmod": null,
+  "weight": 191800,
+  "audio": "poem-1918.mp3",
+  "image": "poem-1918-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

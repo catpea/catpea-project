@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0062",
+  "guid": "fa45a47a-1832-4f8f-88ac-33a1f08ab084",
+  "title": "Don't Be Scared",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-07T02:45:58.991Z",
+  "lastmod": null,
+  "weight": 6200,
+  "audio": "poetry-0062.mp3",
+  "image": "poetry-0062-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

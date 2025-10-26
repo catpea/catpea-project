@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0737",
+  "guid": "446058b0-a93e-4ac7-a008-0779509496cd",
+  "title": "A Note To Parents On The Subject Of Art And The Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-07T23:15:42.628Z",
+  "lastmod": null,
+  "weight": 73700,
+  "audio": "poetry-0737.mp3",
+  "image": "poetry-0737-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/kd2VYspjC3s"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

@@ -1,0 +1,123 @@
+We each have a point of genius,
+it lies within our uniqueness.
+
+This is what real teachers would seek.
+In the quest for the kindling of the flame.
+
+Think of it as the precise location that the last snowflake,
+must land at, to start the avalanche of learning.
+
+---
+
+It is a simple, primitive, beautiful,
+and sacred place.
+
+If all that grew prom it was a line,
+it would look like this:
+
+You play with sand, and mud, then plastic bricks,
+then write your first reusable subroutine.
+
+And your first, program, and your company,
+and your books, and your legacy.
+
+But it is a branching tree, and most branches,
+although blooming and bearing fruit, will be small.
+
+The trunk is your comfort zone,
+what the constellation within you predisposes you for.
+
+---
+
+If you avoid the career you are forced into,
+ignore the teachers who carelessly hope to standardize you.
+
+If you give your self time,
+to accept your intellectual inheritance.
+
+Both in the shape of all the greatest books,
+written by the most celebrated clear thinkers.
+
+And, their culture, that make them great,
+that made them immortal.
+
+And then take to the woods,
+camping at the edge of the universe.
+
+You will find your point,
+and you will glimpse all your many branches.
+
+---
+
+Listen carefully,
+your very own point of genius.
+
+Comes with its own source of energy,
+boundless curiosity, passion, and joy.
+
+What others want you to do,
+that you may actually fall for doing…
+
+As you won’t always see the tree in front of you,
+you may only see the sand and mud and bricks.
+
+Will drain your energy,
+your life, your joy.
+
+Do you hear me?
+One always gives, the other always takes.
+
+And which is worse,
+your vision is obscured.
+
+You won’t always see what the older you,
+will forever regret doing.
+
+---
+
+You are not somebody ease's tool,
+you are not a bridge to their comfort.
+
+You are not, their,
+greatest achievement.
+
+You are a unique, irreplaceable,
+and independent creature of the universe.
+
+Who by birth alone,
+reaches a status of universal royalty.
+
+Precisely because of your ability,
+to independently think, towards unique ends.
+
+The constellation of predispositions within you,
+is the single most precious element in the universe.
+
+In all the infinity of time,
+you will only occur only once, and never repeat.
+
+---
+
+You are not to hand out your respect like candy,
+you are not to clean up after the adults.
+
+You are not to work at a gas station cleaning toilets,
+you are not to ask the teacher “What’s my lesson.”
+
+Do you hear me? You are neither a tool,
+nor a worker, nor some means, nor expendable.
+
+Pull yourself together,
+and begin practicing Hiking and Camping where you can clear your mind.
+
+Begin collecting all the wisest books,
+that you will listen and re-listen, throughout your existence.
+
+And prepare to take your library,
+with you, on every adventure, that is yet to come.
+
+You are to fight for your mind,
+and grow all the way up, until you become a Great Being.
+
+So that you can love life, celebrate your existence,
+and leave a wise and cheerful legacy that will quicken others to their rise.

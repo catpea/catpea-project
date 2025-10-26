@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1397",
+  "guid": "2d80374a-3f68-4b0a-8f13-17010af5e0f2",
+  "title": "Programmer’s Retirement; Or, Don't Let The Office Slow You Down",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-29T05:09:25.635Z",
+  "lastmod": null,
+  "weight": 139700,
+  "audio": "poem-1397.mp3",
+  "image": "poem-1397-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-futurist",
+  "guid": "99ad4a76-d56c-4cee-a584-7be75b5d8635",
+  "title": "The Futurist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-03-29T02:06:59.497Z",
+  "lastmod": null,
+  "weight": 14800,
+  "audio": null,
+  "image": "warrior-the-futurist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

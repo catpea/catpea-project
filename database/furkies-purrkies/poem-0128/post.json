@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0128",
+  "guid": "baaf3832-01da-4e86-af3f-92830c5d03dd",
+  "title": "That Little Trail",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-07-06T02:24:23.293Z",
+  "lastmod": null,
+  "weight": 12800,
+  "audio": "poetry-0128.mp3",
+  "image": "poetry-0128-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

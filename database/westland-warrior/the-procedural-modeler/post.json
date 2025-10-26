@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-procedural-modeler",
+  "guid": "f1d260ea-44d9-42b5-a83a-63be29b8be03",
+  "title": "The Procedural Modeler",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-06-05T23:51:13.281Z",
+  "lastmod": null,
+  "weight": 12600,
+  "audio": null,
+  "image": "warrior-the-procedural-modeler-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

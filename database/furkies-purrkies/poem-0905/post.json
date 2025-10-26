@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0905",
+  "guid": "fe3e5fe4-f337-4988-91df-84a7c960a8a9",
+  "title": "Capturing Portraits; Or, A Person's Appearance Is Sacred",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-23T01:46:55.663Z",
+  "lastmod": null,
+  "weight": 90500,
+  "audio": "poetry-0905.mp3",
+  "image": "poetry-0905-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

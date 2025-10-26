@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1444",
+  "guid": "be5f2a22-23e6-4a7a-9b3d-15ba752ababc",
+  "title": "The Point Where All Human Beings and Cultures Converge; Or, To Understand Humanity",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-14T05:12:43.425Z",
+  "lastmod": null,
+  "weight": 144400,
+  "audio": "poem-1444.mp3",
+  "image": "poem-1444-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

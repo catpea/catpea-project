@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1031",
+  "guid": "10a1836b-7f11-4778-9f97-e5dc3b6e42c0",
+  "title": "The Lows And Heights Of Writing Daily; Or, On Growing Up As A Writer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-27T02:33:21.205Z",
+  "lastmod": null,
+  "weight": 103100,
+  "audio": "poem-1031.mp3",
+  "image": "poem-1031-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/U6WvLJU0l6o"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

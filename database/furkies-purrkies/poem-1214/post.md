@@ -1,0 +1,90 @@
+The Teenagers need but a LINE 1 PRINT HELLO WORLD,
+followed by LINE 2 GOTO LINE 1; and they can take it from there.
+
+For them programming flows, and eventually they will say,
+usernames map get account from username and now accounts filter past-due.
+
+But as we grow life will flourish, and the fascination of GOTO and PRINT,
+or Array Map, Filter, Reduce…
+
+Will get lost in all the other fascinating things about life.
+all the philosophies that must be thought up.
+
+And all the half interesting hobbies we tend to,
+to make room for our thinking.
+
+---
+
+This is why a more mature person,
+can’t connect with programming.
+
+There are other more interesting things,
+other more comfortable things.
+
+---
+
+And this is why,
+to help a more mature person learn programming.
+
+We have to connect programming,
+to one of their more down to earth hobbies.
+
+[This is as simple as creating a Camera to stream a bird feeder][1]
+[or ensuring optimal moisture in a flower bed][2].
+
+To mention some of the less important hobbies,
+but more popular philosophical breaks.
+
+---
+
+The key component here is not the hardware though,
+but [Node-RED][3]; a visual programming language.
+
+Node-RED is a JavaScript based visual programming system,
+that allows custom JavaScript inside the visual programming nodes.
+
+And while learning a Visual Programming Language is neat,
+it is that little JavaScript code editor inside a node.
+
+That serves as the true starting point,
+to learning programming.
+
+Eventually, if there is time in all the sunny days,
+a new challenge will call out.
+
+This one will be framed purely in the world of code,
+that 10 PRINT HELLO; 20 GOTO 10 realm.
+
+The challenge will be to program a Node-RED alternative,
+and a great deal of inspiration behind this challenge.
+
+Is the fact that you don’t have to finish
+programming the Visually Programming Language.
+
+You just need to get to a point
+where the Node-RED like Visual Programming Language - can program it self.
+
+At this point they would begin replacing the manual code,
+with visual code.
+
+Here, in all this meditation,
+they may consider launching a small side project.
+
+Users would pay a couple of dollars per month,
+to use the more premium features of their Visual Programming Language.
+
+And there would be money,
+to spend on kids and grand kids.
+
+Or perhaps,
+a business empire.
+
+Where the legacy of the,
+initial developer, and the first version.
+
+Would, always be thought of,
+with warmth, smiles, and great admiration.
+
+[1]: https://www.youtube.com/watch?v=IiOH5LUVkWo
+[2]: https://www.youtube.com/watch?v=DOaDnYj3vfI
+[3]: https://www.youtube.com/watch?v=3AR432bguOY&list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw

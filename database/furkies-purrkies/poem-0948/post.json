@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0948",
+  "guid": "d00e73ad-a0fd-47a3-820e-7503efc26a88",
+  "title": "World School: The Most Beautiful Future",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-05T02:13:01.705Z",
+  "lastmod": null,
+  "weight": 94800,
+  "audio": "poem-0948.mp3",
+  "image": "poem-0948-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bwZcAefzmD8"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

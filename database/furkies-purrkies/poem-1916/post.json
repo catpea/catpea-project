@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1916",
+  "guid": "c0051d14-2ba7-4900-aba4-31aa761dda6b",
+  "title": "AI Creates Time; Or, Artificial Intelligence Generates Great Code If You Tell It What To Write",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-30T20:18:53.751Z",
+  "lastmod": null,
+  "weight": 191600,
+  "audio": "poem-1916.mp3",
+  "image": "poem-1916-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-full-stack-developer",
+  "guid": "4f3d4815-6b7e-42c1-90e5-4b3e425014ee",
+  "title": "The Full Stack Developer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-10-31T00:55:54.027Z",
+  "lastmod": null,
+  "weight": 15520,
+  "audio": null,
+  "image": "the-full-stack-developer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

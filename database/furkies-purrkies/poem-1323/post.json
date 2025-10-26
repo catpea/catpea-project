@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1323",
+  "guid": "cc92c3ca-a5d3-4a14-9986-0a20376273e6",
+  "title": "So As Long As You Remember To Take To The Stars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-16T03:20:25.984Z",
+  "lastmod": null,
+  "weight": 132300,
+  "audio": "poem-1323.mp3",
+  "image": "poem-1323-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com#midjourney"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

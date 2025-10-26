@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0059",
+  "guid": "1f01c995-7bdf-43ea-93a6-1331048d0042",
+  "title": "Maximum over Minimum",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-07T02:48:58.991Z",
+  "lastmod": null,
+  "weight": 5900,
+  "audio": "poetry-0059.mp3",
+  "image": "poetry-0059-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

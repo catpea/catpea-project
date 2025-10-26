@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-social-engineer",
+  "guid": "3b590069-7edf-433a-a15d-094ac510129c",
+  "title": "The Social Engineer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-12-28T02:58:41.000Z",
+  "lastmod": null,
+  "weight": 15900,
+  "audio": null,
+  "image": "warrior-the-social-engineer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

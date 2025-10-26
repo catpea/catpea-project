@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1243",
+  "guid": "1d89fe65-c73e-4659-88ce-d76649c93efa",
+  "title": "Outlive Yourself; Or, The Skinny, On Where Fitness Fits",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-28T03:23:00.291Z",
+  "lastmod": null,
+  "weight": 124300,
+  "audio": "poem-1243.mp3",
+  "image": "poem-1243-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AWy1dEWerE4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

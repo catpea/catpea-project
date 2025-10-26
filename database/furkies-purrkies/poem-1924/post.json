@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1924",
+  "guid": "324667f0-11da-47ee-a5c2-ffcfb0c5ebd2",
+  "title": "Of Tiny Superintelligence And A Little WikiWiki Platform",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-08T02:45:31.365Z",
+  "lastmod": null,
+  "weight": 192400,
+  "audio": "poem-1924.mp3",
+  "image": "poem-1924-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

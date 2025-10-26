@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1372",
+  "guid": "26978744-c56c-4368-aa9b-3582b4fa9868",
+  "title": "The New Designer; Or, Artificial Intelligence And The New Era Of Graphic Design",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-04T03:44:22.557Z",
+  "lastmod": null,
+  "weight": 137200,
+  "audio": "poem-1372.mp3",
+  "image": "poem-1372-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

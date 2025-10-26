@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-object-programmer",
+  "guid": "f0a923bd-1301-4174-bf02-046deec9ef8f",
+  "title": "The Object Programmer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-08-06T22:11:44.551Z",
+  "lastmod": null,
+  "weight": 15403,
+  "audio": null,
+  "image": "the-object-programmer-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 1
+}

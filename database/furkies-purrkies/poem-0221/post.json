@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0221",
+  "guid": "0292e780-d163-43eb-be6f-3895c2502301",
+  "title": "Cosmopolis 1.1: Massively Multiuser Self Assembling Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-07T21:16:22.083Z",
+  "lastmod": null,
+  "weight": 22100,
+  "audio": "poetry-0221.mp3",
+  "image": "poetry-0221-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/OKOOGO578eo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

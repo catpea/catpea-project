@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0687",
+  "guid": "43363b62-d772-44f4-8928-48504af573c0",
+  "title": "Into The World Of Digital Painting",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-01-16T18:34:55.706Z",
+  "lastmod": null,
+  "weight": 68700,
+  "audio": "poetry-0687.mp3",
+  "image": "poetry-0687-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

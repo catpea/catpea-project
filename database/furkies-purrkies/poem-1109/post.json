@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1109",
+  "guid": "90d1be79-e7ea-4322-8209-e91c70ebc117",
+  "title": "On Growing Out Of Indoctrination",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-16T02:35:54.923Z",
+  "lastmod": null,
+  "weight": 110900,
+  "audio": "poem-1109.mp3",
+  "image": "poem-1109-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/tvN4ragE1Ds"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

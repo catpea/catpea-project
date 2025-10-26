@@ -1,0 +1,107 @@
+We did everything right, didn't we?
+The kindergarten with the brightest walls,
+where you cried that first September morning
+and we pried your fingers from our legs,
+told you it was for your own good.
+
+The tutors when your grades slipped in seventh,
+the summer school to catch you up,
+the second chance at sophomore year,
+the third. But still you graduated—
+we made sure of that.
+
+We drove you to practice, to lessons,
+checked your homework, met with teachers,
+filled out forms, signed permission slips,
+set alarms, enforced bedtimes,
+did everything the books advised.
+
+But now we see you at twenty-three,
+shoulders curved beneath fluorescent lights,
+that spark—remember how you used to
+question everything?—extinguished,
+replaced by this careful exhaustion.
+
+You move through days like someone
+who's forgotten they once dreamed
+of building wings, of touching stars,
+of asking why the sky is blue
+until the answer sang inside you.
+
+---
+
+Oh children,
+how we failed you.
+
+We thought the rows of desks were ladders,
+thought the bells that sliced your days
+were teaching you the rhythm of success.
+We thought obedience was preparation.
+
+How were we supposed to know
+that sitting still for seven hours,
+your questions timed to someone else's plan,
+would teach your minds to cage themselves?
+
+How were we supposed to know
+that fractured lessons—math at nine,
+history at ten, science at eleven,
+no thread between them, no story
+of how you fit within the world—
+would scatter your attention
+like seeds on concrete?
+
+How were we supposed to know
+that standardized meant diminished,
+that one-size-fits-all meant
+no-size-fits-anyone?
+
+That the teacher reading from the script,
+eyes dead as yours grew duller,
+was teaching you that learning
+is something done to you, not with you,
+not from within the fire of your own wondering?
+
+Oh children, we fed you to a machine
+that promised to polish you,
+not knowing it would sand away
+your edges, your questions,
+your wild and precious difference.
+
+We delivered you each morning
+to those fluorescent rooms,
+those predetermined paths,
+those tests that measured nothing
+of your laughter, your kindness,
+your way of seeing sideways at the world.
+
+How were we supposed to know
+that controlling when you moved,
+when you spoke, when you could even
+walk to get a drink of water,
+would teach you not to trust
+the wisdom of your own body,
+your own mind, your own spirit?
+
+How were we supposed to know?
+
+Everyone said this was the way.
+Everyone's children sat in rows.
+Everyone's children learned to wait
+for someone else to tell them
+what to think, when to think it,
+how long to think before the bell
+dissolved all thought to schedule.
+
+We thought we were giving you the world.
+Instead we gave you someone else's version of it,
+predigested, portion-controlled,
+divorced from any hunger you might feel
+to know, to grow, to become.
+
+Oh children, how we failed you.
+Your genius wasn't lost—
+we let them train it out of you,
+one worksheet at a time.
+
+How were we supposed to know?

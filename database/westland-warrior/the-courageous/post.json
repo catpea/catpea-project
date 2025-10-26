@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-courageous",
+  "guid": "a76bfc95-323c-4fb5-b0ea-5a5df8831225",
+  "title": "The Courageous",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-04-08T04:34:35.584Z",
+  "lastmod": null,
+  "weight": 17400,
+  "audio": null,
+  "image": "warrior-the-courageous-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2025",
+  "guid": "320c7615-9b87-46e9-ba7d-c4d166aaecde",
+  "title": "Lacrimae Sapientiae: Philosophia Damnata, Veritas Suffocata, Lux Interdicta (Tears of Wisdom)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-16T21:44:14.946Z",
+  "lastmod": null,
+  "weight": 202500,
+  "audio": "poem-2025.mp3",
+  "image": "poem-2025-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Vincent_van_Gogh_-_Weeping_Woman_(F1069).jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

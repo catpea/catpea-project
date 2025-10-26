@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1369",
+  "guid": "50353a99-5f8d-4091-b3d2-7ad3406c0190",
+  "title": "Find The Real Philosophers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-01T04:05:17.794Z",
+  "lastmod": null,
+  "weight": 136900,
+  "audio": "poem-1369.mp3",
+  "image": "poem-1369-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-sitting-and-holding-cup-of-coffee-ilkTnuMunP8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

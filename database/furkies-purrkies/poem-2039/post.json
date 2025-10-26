@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2039",
+  "guid": "66e6759b-8a57-4a5d-b82a-3e414a8257e5",
+  "title": "Scientia Libertas, Consciae Fortitudo: Knowledge is Freedom; Awareness is Strength",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-29T20:49:18.535Z",
+  "lastmod": null,
+  "weight": 203900,
+  "audio": "poem-2039.mp3",
+  "image": "poem-2039-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

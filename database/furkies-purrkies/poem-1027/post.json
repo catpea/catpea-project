@@ -1,0 +1,27 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1027",
+  "guid": "029d6437-74ff-4354-980c-f47849042ef1",
+  "title": "Infinite Dreams; Or, Programming Is Special Because It Has No Limits",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-23T03:22:39.801Z",
+  "lastmod": null,
+  "weight": 102700,
+  "audio": "poem-1027.mp3",
+  "image": "poem-1027-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0KdwrbUoxd4",
+    "https://unsplash.com/photos/_7OlAETEmFU",
+    "https://unsplash.com/photos/_KxHN-_UBKY"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1071",
+  "guid": "09f734de-e275-43af-959c-3490499f19c7",
+  "title": "Health, Books, and Adventure; Or, How To Prevent Your Elder Self From Yelling At You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-05T04:19:04.189Z",
+  "lastmod": null,
+  "weight": 107100,
+  "audio": "poem-1071.mp3",
+  "image": "poem-1071-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/GLQu3H9SHl0"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

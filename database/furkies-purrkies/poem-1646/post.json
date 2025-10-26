@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1646",
+  "guid": "8f122f9d-e326-4a8c-84a1-a0cd41831c48",
+  "title": "You Are A Creature Of The Stars",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-03T02:04:06.488Z",
+  "lastmod": null,
+  "weight": 164600,
+  "audio": "poem-1646.mp3",
+  "image": "poem-1646-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0031",
+  "guid": "d7e0531f-bb8c-4b38-8377-d998c9724af0",
+  "title": "As Good As Fingers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-12T02:49:24.911Z",
+  "lastmod": null,
+  "weight": 3100,
+  "audio": "poetry-0031.mp3",
+  "image": "poetry-0031-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

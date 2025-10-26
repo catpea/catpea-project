@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1363",
+  "guid": "0749f517-0364-4207-92b1-e75946aadcbf",
+  "title": "The Geese Have Begun Watching Us",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-25T04:19:20.242Z",
+  "lastmod": null,
+  "weight": 136300,
+  "audio": "poem-1363.mp3",
+  "image": "poem-1363-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-close-up-of-a-duck-with-a-black-and-white-head-3VJo2wju0yM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

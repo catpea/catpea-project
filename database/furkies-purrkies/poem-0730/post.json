@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0730",
+  "guid": "c1c111d6-a7e6-400f-92d1-734ab2407d88",
+  "title": "Life Is An Ocean, But So Is Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-28T20:53:53.663Z",
+  "lastmod": null,
+  "weight": 73000,
+  "audio": "poetry-0730.mp3",
+  "image": "poetry-0730-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

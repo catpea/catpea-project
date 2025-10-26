@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1153",
+  "guid": "4f1a656b-1df0-4f28-9d4f-c5db4c14ffe1",
+  "title": "Programming For Education And Future; Or, The Computer Program That We Must Each Write",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-29T02:34:09.226Z",
+  "lastmod": null,
+  "weight": 115300,
+  "audio": "poem-1153.mp3",
+  "image": "poem-1153-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/5ZnS3wK6sUg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1700",
+  "guid": "84e0e0cd-2176-4970-ac4f-f50fd1d39fed",
+  "title": "This Halloween Become A Real Wizard",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-27T04:41:35.750Z",
+  "lastmod": null,
+  "weight": 170000,
+  "audio": "poem-1700.mp3",
+  "image": "poem-1700-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

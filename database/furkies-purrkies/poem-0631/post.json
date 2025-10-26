@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0631",
+  "guid": "97d3b4ce-e4a8-4064-b182-9d6f40bc3933",
+  "title": "Your Art Book",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-22T02:26:47.575Z",
+  "lastmod": null,
+  "weight": 63100,
+  "audio": "poetry-0631.mp3",
+  "image": "poetry-0631-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.pexels.com/photo/woman-in-brown-long-sleeve-shirt-drawing-on-a-sketchpad-8715874/"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

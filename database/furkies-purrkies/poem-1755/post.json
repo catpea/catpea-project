@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1755",
+  "guid": "b5f71689-cda7-466e-945e-4824fdf2a88c",
+  "title": "Bodybuilding For The Elderly",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-21T02:08:10.728Z",
+  "lastmod": null,
+  "weight": 175500,
+  "audio": "poem-1755.mp3",
+  "image": "poem-1755-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

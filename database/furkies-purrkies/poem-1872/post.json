@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1872",
+  "guid": "ed396331-8be2-4532-bbb3-ecf281a73e86",
+  "title": "Sub Specie Aeternitatis",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-04-16T23:39:54.519Z",
+  "lastmod": null,
+  "weight": 187200,
+  "audio": "poem-1872.mp3",
+  "image": "poem-1872-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

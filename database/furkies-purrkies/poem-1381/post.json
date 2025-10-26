@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": false
+  },
+  "id": "poem-1381",
+  "guid": "32252b73-632e-4c51-9682-d989cd14bc89",
+  "title": "Become A Programmer; Or, Learn For Real Because Discomfort May Just Be A Sign Of A Fake School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-13T04:48:06.615Z",
+  "lastmod": null,
+  "weight": 138100,
+  "audio": "poem-1381.mp3",
+  "image": "poem-1381-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-typing-on-macbook-pro-on-brown-wooden-table-during-daytime-photo-0QvTyp0gH3A"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

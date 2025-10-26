@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1797",
+  "guid": "f987edc0-2181-4fc7-ac6f-ea2314d39d77",
+  "title": "Three Types Of Savants, And How To Become One",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-01T03:09:59.968Z",
+  "lastmod": null,
+  "weight": 179700,
+  "audio": "poem-1797.mp3",
+  "image": "poem-1797-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

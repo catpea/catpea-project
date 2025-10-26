@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-mine-explorer",
+  "guid": "9076de6e-c81a-45f5-8549-ab9ca8595ed5",
+  "title": "The Mine Explorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-09-18T01:44:51.547Z",
+  "lastmod": null,
+  "weight": 4300,
+  "audio": null,
+  "image": "warrior-the-mine-explorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

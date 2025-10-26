@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-intellectual",
+  "guid": "8e2546e8-c4dc-4e17-a6f4-4afec66dcd6f",
+  "title": "The Intellectual",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-06-26T01:47:15.789Z",
+  "lastmod": null,
+  "weight": 900,
+  "audio": null,
+  "image": "warrior-the-intellectual-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

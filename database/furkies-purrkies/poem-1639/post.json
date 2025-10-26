@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1639",
+  "guid": "e90628b5-43c4-4118-a3a7-9265a57b0d57",
+  "title": "Listen To Philosophy Books And Practice Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-08-27T04:03:22.868Z",
+  "lastmod": null,
+  "weight": 163900,
+  "audio": "poem-1639.mp3",
+  "image": "poem-1639-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

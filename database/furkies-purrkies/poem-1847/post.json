@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1847",
+  "guid": "87959118-4b51-4867-a34c-ac2655b62da9",
+  "title": "A Beautiful Workout For Girls",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-23T02:21:46.264Z",
+  "lastmod": null,
+  "weight": 184700,
+  "audio": "poem-1847.mp3",
+  "image": "poem-1847-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

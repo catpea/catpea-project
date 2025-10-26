@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0495",
+  "guid": "55c71740-c733-4a60-b727-d76256540863",
+  "title": "Wisdom And The Art Of Bicycle Maintenance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-09T01:57:19.882Z",
+  "lastmod": null,
+  "weight": 49500,
+  "audio": "poetry-0495.mp3",
+  "image": "poetry-0495-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Y60q9L_ZS00"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

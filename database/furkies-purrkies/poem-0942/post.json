@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0942",
+  "guid": "f909eca6-ec58-4873-ab61-72b47ff4fb41",
+  "title": "Of Computer Servers And Potatoes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-09-29T01:33:07.001Z",
+  "lastmod": null,
+  "weight": 94200,
+  "audio": "poetry-0942.mp3",
+  "image": "poetry-0942-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/HFo5k0rnoDo"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

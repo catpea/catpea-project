@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1460",
+  "guid": "98cfe546-24ad-4551-a91c-568559c1d974",
+  "title": "Bodybuilding: Begin With Endurance And Use Your Time Wisely",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-01T04:39:04.093Z",
+  "lastmod": null,
+  "weight": 146000,
+  "audio": "poem-1460.mp3",
+  "image": "poem-1460-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

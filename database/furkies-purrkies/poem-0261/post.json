@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0261",
+  "guid": "49cd50e9-43fe-44af-833d-ab83f05f3279",
+  "title": "One People",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-17T00:43:38.428Z",
+  "lastmod": null,
+  "weight": 26100,
+  "audio": "poetry-0261.mp3",
+  "image": "poetry-0261-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/rvQImAL03j8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1081",
+  "guid": "62c31907-0e6a-4fd5-b3af-9e5b70585c06",
+  "title": "Programming Is Like Learning To Write, It Is Not Just Another Class",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-15T04:12:22.753Z",
+  "lastmod": null,
+  "weight": 108100,
+  "audio": "poem-1081.mp3",
+  "image": "poem-1081-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/LDsCKq4VFdI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0198",
+  "guid": "eae0a80d-8fa7-40c9-9d23-bff15df07059",
+  "title": "And Then You Learn To Write",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-09-15T01:28:00.561Z",
+  "lastmod": null,
+  "weight": 19800,
+  "audio": "poetry-0198.mp3",
+  "image": "poetry-0198-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

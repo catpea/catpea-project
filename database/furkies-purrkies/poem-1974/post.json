@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1974",
+  "guid": "8022d0f7-852c-4ee9-a35c-b365e100dc46",
+  "title": "Library And Poverty; Or, Protecting Your World From Loss Of Wisdom And Brilliance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-27T23:20:47.133Z",
+  "lastmod": null,
+  "weight": 197400,
+  "audio": "poem-1974.mp3",
+  "image": "poem-1974-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

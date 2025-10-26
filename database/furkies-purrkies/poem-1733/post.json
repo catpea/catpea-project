@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1733",
+  "guid": "2965e5ed-e3c7-49e8-8931-a6459baaec05",
+  "title": "Pardon My Turkey; Or, An XML Thanksgiving",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-29T05:08:00.673Z",
+  "lastmod": null,
+  "weight": 173300,
+  "audio": "poem-1733.mp3",
+  "image": "poem-1733-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

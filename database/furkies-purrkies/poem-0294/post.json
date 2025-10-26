@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0294",
+  "guid": "8ca6b2f7-fb03-441d-88af-817c6aeb3244",
+  "title": "Fight For Your Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-12-20T00:17:27.576Z",
+  "lastmod": null,
+  "weight": 29400,
+  "audio": "poetry-0294.mp3",
+  "image": "poetry-0294-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ylE5CGMfUJk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

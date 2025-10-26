@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-existentialist",
+  "guid": "0b544d9c-1597-4476-b6f5-48fa2851f788",
+  "title": "The Existentialist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-01-04T01:53:45.216Z",
+  "lastmod": null,
+  "weight": 2000,
+  "audio": null,
+  "image": "warrior-the-existentialist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-gadfly",
+  "guid": "45662194-be83-47fa-a6d3-b78ac346c2f1",
+  "title": "The Gadfly",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2023-01-01T21:30:08.892Z",
+  "lastmod": null,
+  "weight": 1910,
+  "audio": null,
+  "image": "the-gadfly-cover.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 1
+}

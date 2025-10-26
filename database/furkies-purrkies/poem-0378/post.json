@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0378",
+  "guid": "7c4e3ce4-9175-40dc-b7bf-ce2d316c126a",
+  "title": "Finding Rhymes And Magic, A Tiny Poem Tutorial",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-14T02:33:13.514Z",
+  "lastmod": null,
+  "weight": 37800,
+  "audio": "poetry-0378.mp3",
+  "image": "poetry-0378-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/cq1iK_l6oRo"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

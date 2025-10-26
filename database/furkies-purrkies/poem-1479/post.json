@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1479",
+  "guid": "9b0c6f01-f5aa-4eed-98a8-a1a2e965670d",
+  "title": "Don’t Let Silly Challenges Of Hiking And Camping Scare You Away From Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-20T03:45:33.247Z",
+  "lastmod": null,
+  "weight": 147900,
+  "audio": "poem-1479.mp3",
+  "image": "poem-1479-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

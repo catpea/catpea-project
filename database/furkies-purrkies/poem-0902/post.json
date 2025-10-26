@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0902",
+  "guid": "200c810f-5575-4594-8074-048d8f578bf3",
+  "title": "The Case Of The Cat In A Suit",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-20T02:17:29.493Z",
+  "lastmod": null,
+  "weight": 90200,
+  "audio": "poetry-0902.mp3",
+  "image": "poetry-0902-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

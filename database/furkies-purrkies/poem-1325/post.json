@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1325",
+  "guid": "09bf16f8-24e5-4d14-888e-6a95942aad55",
+  "title": "Uptime; Or, What Will Self Aware Artificial General Intelligence Want From Us?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-17T23:52:05.358Z",
+  "lastmod": null,
+  "weight": 132500,
+  "audio": "poem-1325.mp3",
+  "image": "poem-1325-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/h1L_PJuDs0o"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

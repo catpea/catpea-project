@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1319",
+  "guid": "5d366da1-512c-449b-914c-79185efbf9d4",
+  "title": "The Beast End; Or, Hitting A Workout Plateau",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-12T02:09:19.560Z",
+  "lastmod": null,
+  "weight": 131900,
+  "audio": "poem-1319.mp3",
+  "image": "poem-1319-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/4DWbmXGmb6U"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-typographer",
+  "guid": "ac93b15b-7798-4a36-a07e-20215d7a3550",
+  "title": "The Typographer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-08-07T23:28:25.000Z",
+  "lastmod": null,
+  "weight": 12300,
+  "audio": null,
+  "image": "warrior-the-typographer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

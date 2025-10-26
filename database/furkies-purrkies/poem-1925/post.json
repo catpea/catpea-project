@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1925",
+  "guid": "b4a11701-c662-4298-a056-90bc3d140ec4",
+  "title": "A Message From Harambe: The Age Of Small Men Is Ending",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-06-08T23:36:53.307Z",
+  "lastmod": null,
+  "weight": 192500,
+  "audio": "poem-1925.mp3",
+  "image": "poem-1925-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

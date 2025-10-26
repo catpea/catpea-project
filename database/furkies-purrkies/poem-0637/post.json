@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0637",
+  "guid": "a86cc4eb-0828-43c5-8237-c52ba16d702c",
+  "title": "Education: Your Own Creation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-28T01:17:28.352Z",
+  "lastmod": null,
+  "weight": 63700,
+  "audio": "poetry-0637.mp3",
+  "image": "poetry-0637-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ax6y-zxBG_4"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

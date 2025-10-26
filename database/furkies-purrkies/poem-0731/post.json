@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0731",
+  "guid": "fd6b7626-4d20-44fe-b0ab-47828327c8ca",
+  "title": "Schools Help The World Grow Free",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-01T22:38:38.029Z",
+  "lastmod": null,
+  "weight": 73100,
+  "audio": "poetry-0731.mp3",
+  "image": "poetry-0731-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3REeTdnsVC8"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

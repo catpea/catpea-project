@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1410",
+  "guid": "5846f6a0-855d-437d-8f47-82d53c3b011f",
+  "title": "The Productive Programmer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-11T04:08:06.782Z",
+  "lastmod": null,
+  "weight": 141000,
+  "audio": "poem-1410.mp3",
+  "image": "poem-1410-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

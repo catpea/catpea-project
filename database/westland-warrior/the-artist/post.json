@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-artist",
+  "guid": "4bc76b0e-b672-4005-809d-b2402a66ef3a",
+  "title": "The Artist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-01-01T02:48:35.896Z",
+  "lastmod": null,
+  "weight": 11900,
+  "audio": null,
+  "image": "warrior-the-artist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-psychologist",
+  "guid": "1e025ef5-34ca-4029-b50a-4a8c62368222",
+  "title": "The Psychologist",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-09-26T21:52:46.519Z",
+  "lastmod": null,
+  "weight": 2100,
+  "audio": null,
+  "image": "warrior-the-psychologist-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1653",
+  "guid": "d6dbaa33-20fe-476d-bde1-de1fe5457289",
+  "title": "Programming Teaches Like A Mother",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-10T02:54:05.162Z",
+  "lastmod": null,
+  "weight": 165300,
+  "audio": "poem-1653.mp3",
+  "image": "poem-1653-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0668",
+  "guid": "4f70eed3-72d9-4e18-aa30-84585a2212a6",
+  "title": "Softly Running In The Snow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-29T03:08:10.030Z",
+  "lastmod": null,
+  "weight": 66800,
+  "audio": "poetry-0668.mp3",
+  "image": "poetry-0668-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://example.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

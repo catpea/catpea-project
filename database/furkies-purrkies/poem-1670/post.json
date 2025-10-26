@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1670",
+  "guid": "b58f03ed-da9b-4be1-b6f4-c39cb47f874f",
+  "title": "If You Got A Tailbone, Your Tail Is Totally Not Gone",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-27T01:13:07.035Z",
+  "lastmod": null,
+  "weight": 167000,
+  "audio": "poem-1670.mp3",
+  "image": "poem-1670-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

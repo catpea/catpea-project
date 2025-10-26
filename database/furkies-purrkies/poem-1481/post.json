@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1481",
+  "guid": "43dc7223-1260-484d-bc6b-754af870c736",
+  "title": "Temples Of Solitude, And The Arrow Of Adventure",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-03-22T03:29:25.028Z",
+  "lastmod": null,
+  "weight": 148100,
+  "audio": "poem-1481.mp3",
+  "image": "poem-1481-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

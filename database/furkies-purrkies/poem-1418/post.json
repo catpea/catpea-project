@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1418",
+  "guid": "5ecd5851-9366-4171-99bc-4726bf545b52",
+  "title": "Visual Programming: The Worlds",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-19T04:40:20.558Z",
+  "lastmod": null,
+  "weight": 141800,
+  "audio": "poem-1418.mp3",
+  "image": "poem-1418-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

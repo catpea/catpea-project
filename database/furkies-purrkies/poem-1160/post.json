@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1160",
+  "guid": "af95d6c2-8932-4561-ae90-03a28f1aa899",
+  "title": "Dancing With Dumbbells; Or, Strange Workout Music Observations, And A Bit Of Good Advice",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-06T03:42:25.435Z",
+  "lastmod": null,
+  "weight": 116000,
+  "audio": "poem-1160.mp3",
+  "image": "poem-1160-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/JsuBKjHGDMM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

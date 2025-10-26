@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0901",
+  "guid": "b7a8a0a2-f487-4841-991c-7d9402df7183",
+  "title": "The Instant Keepsakes Of Lowbrow Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-19T03:01:34.793Z",
+  "lastmod": null,
+  "weight": 90100,
+  "audio": "poetry-0901.mp3",
+  "image": "poetry-0901-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/xKnUnPEUiWA"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

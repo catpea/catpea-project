@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0704",
+  "guid": "d9527d0a-c4ed-45e5-892d-31e64f6c7534",
+  "title": "Groundhog Day: Six More Weeks Of Winter",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-02-02T20:50:49.148Z",
+  "lastmod": null,
+  "weight": 70400,
+  "audio": "poetry-0704.mp3",
+  "image": "poetry-0704-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

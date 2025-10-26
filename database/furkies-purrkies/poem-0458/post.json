@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0458",
+  "guid": "67c760b6-28d5-4a31-a475-7f886823bba0",
+  "title": "All Genius Is Equally Precious",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-02T00:46:34.442Z",
+  "lastmod": null,
+  "weight": 45800,
+  "audio": "poetry-0458.mp3",
+  "image": "poetry-0458-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/gOqZS5oQnOQ"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

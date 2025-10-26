@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0557",
+  "guid": "43aa3254-50a3-414b-a5ae-a09963cbed67",
+  "title": "The Real Schools",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-09T00:41:03.960Z",
+  "lastmod": null,
+  "weight": 55700,
+  "audio": "poetry-0557.mp3",
+  "image": "poetry-0557-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://commons.wikimedia.org/wiki/File:Test-986769_640.jpg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

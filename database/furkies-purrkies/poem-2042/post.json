@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2042",
+  "guid": "31fd4a17-7676-4805-8c30-13e10f056c4f",
+  "title": "Distributed Denial of Education (DDoE): A Critical Infrastructure Analysis",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-02T23:07:32.475Z",
+  "lastmod": null,
+  "weight": 204200,
+  "audio": "poem-2042.mp3",
+  "image": "poem-2042-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-sitting-on-gray-rock-formation-during-daytime-npbknv-C_8Y"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1302",
+  "guid": "3618cdf0-0225-472b-be03-1ef5b9aa94f1",
+  "title": "Philosophy Is For You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-25T03:00:04.178Z",
+  "lastmod": null,
+  "weight": 130200,
+  "audio": "poem-1302.mp3",
+  "image": "poem-1302-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1TTvvTxuXLw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1524",
+  "guid": "dd1f0a79-0984-4da3-bfa1-8a403c116658",
+  "title": "No Pain, No Gain Is A Myth; Fitness And Bodybuilding Performed Correctly Is Not Painful",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-04T03:53:49.245Z",
+  "lastmod": null,
+  "weight": 152400,
+  "audio": "poem-1524.mp3",
+  "image": "poem-1524-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

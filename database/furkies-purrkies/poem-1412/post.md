@@ -1,0 +1,53 @@
+The Michigan goose,
+is on the lose.
+
+---
+
+Knowing,
+that it will be snowing…
+
+All the geese came back,
+for a little cold quack.
+
+Michigan geese are hard,
+and always on guard.
+
+They take the harder right,
+and live their lives with might.
+
+---
+
+More American than eagle,
+and as wise as a seagull…
+
+These geese are not fake,
+they love man-beer, potato, and steak.
+
+Trigger discipline on fleek,
+perfect operator technique.
+
+They train to no end,
+and they never pretend.
+
+They’ll cause trouble,
+on the double.
+
+An angry Michigan goose,
+will make you drop a duce.
+
+So better get on their good side,
+and carefully abide.
+
+---
+
+You see a Michigan goose,
+get it a hot breakfast with juice.
+
+Sometimes they want seconds and thirds,
+as these are marvelous birds.
+
+Though it is hard for them to smile,
+their friendship is worth the while.
+
+Please love your local geese,
+grant them plenty of room and peace.

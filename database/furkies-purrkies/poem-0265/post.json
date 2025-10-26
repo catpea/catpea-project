@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0265",
+  "guid": "96135907-d190-493f-a736-afe8ed2204a1",
+  "title": "For The New Heroes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-21T02:13:54.004Z",
+  "lastmod": null,
+  "weight": 26500,
+  "audio": "poetry-0265.mp3",
+  "image": "poetry-0265-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/jd0hS7Vhn_A"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

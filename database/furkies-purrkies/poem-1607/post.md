@@ -1,0 +1,96 @@
+It all started with my noodle noggin,
+some weeks after I took up jogging.
+
+After much huff and puff,
+I noticed that my legs got pretty buff.
+
+I was like - Ah Ha! - I knew it!
+this is how the bodybuilder do it.
+
+---
+
+Nice and long sustain,
+muscle strain.
+
+---
+
+Of course everyone will disagree,
+with me.
+
+Go ahead, if you dare,
+ask me if I care.
+
+I lift dumbbells non stop,
+front, and bottom, and top.
+
+My exercise three hours long,
+and I do stick out like I don’t belong.
+
+But that has always been the case,
+I always kept to my own space.
+
+---
+
+But because I never lay or rest,
+I don’t have much of a gorilla chest.
+
+But I am almost ready to test,
+bench press, instead of rest.
+
+I think it will work,
+and I wont’ feel like a dork.
+
+Laying down for the main workout,
+is just not my route.
+
+---
+
+So first I closed the rest gaps,
+like joggers do in their laps.
+
+For me non stop is the only way,
+and it does not matter what anyone will say.
+
+I started with tree pounds per hand,
+and increased to what my body could withstand.
+
+While adding an extra hour and then two,
+once I thought I could push through.
+
+---
+
+I am forced to stop every song or so,
+but that’s only to help the blood flow.
+
+My muscles don’t really get tired,
+and work as required.
+
+And it is trail-mix that serves,
+my constantly replenishing energy reserves.
+
+I am now up to 20 pounds,
+but those are slow rounds.
+
+So I lift faster some 2 pounds less,
+to burn up my fat excess.
+
+I switched to faster songs and dance a bit,
+and I feel a lot more fit.
+
+---
+
+Just building the muscle,
+like some kind of a castle…
+
+May not be that great,
+especially if you need to lose fat weight.
+
+And hopping around is a great way to stretch,
+and break through that plateau edge.
+
+---
+To be clear, Just so that you know,
+the only way to instruct your body to grow.
+
+The very idea a the bodybuilding core...
+Is to always challenge it a tiny-litte-bit more!

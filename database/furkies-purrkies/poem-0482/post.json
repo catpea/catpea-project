@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0482",
+  "guid": "881f14f2-b879-44f4-b0a7-8f5c17d0c566",
+  "title": "The Art Of Growing Up",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-06-25T23:06:11.716Z",
+  "lastmod": null,
+  "weight": 48200,
+  "audio": "poetry-0482.mp3",
+  "image": "poetry-0482-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TQwqy_U6Mec"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

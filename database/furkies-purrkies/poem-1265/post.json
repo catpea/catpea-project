@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1265",
+  "guid": "9df7bdeb-a173-4d8a-93a1-fca3a7b8567d",
+  "title": "The Graduation Is A Lie",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-19T03:23:21.910Z",
+  "lastmod": null,
+  "weight": 126500,
+  "audio": "poem-1265.mp3",
+  "image": "poem-1265-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-man-standing-on-a-wooden-walkway-with-a-view-of-mountains-0gMsj5ybwms"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1010",
+  "guid": "b2cc5285-5738-4380-850e-33d1dbed93ba",
+  "title": "A Strange Way To Fix Education; Or, Teaching With Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-06T03:46:00.288Z",
+  "lastmod": null,
+  "weight": 101000,
+  "audio": "poem-1010.mp3",
+  "image": "poem-1010-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/b7EyYiLZ4f8"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

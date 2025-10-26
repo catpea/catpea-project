@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1075",
+  "guid": "1f845059-932e-40c2-b9bb-399971c2b3ed",
+  "title": "Poking Around E-Commerce In The Age Of Generative Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-09T04:02:09.616Z",
+  "lastmod": null,
+  "weight": 107500,
+  "audio": "poem-1075.mp3",
+  "image": "poem-1075-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

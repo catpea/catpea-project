@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-urban-explorer",
+  "guid": "e37a01e3-eb65-4030-9890-5e34c4ca030b",
+  "title": "The Urban Explorer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-09-26T03:05:06.000Z",
+  "lastmod": null,
+  "weight": 3100,
+  "audio": null,
+  "image": "warrior-the-urban-explorer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

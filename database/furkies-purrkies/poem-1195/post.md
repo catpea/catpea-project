@@ -1,0 +1,113 @@
+I arrived in Ludington, Michigan at 5AM, or so,
+I parked at the near by huge supermarket parking lot and took a long nap.
+
+I like driving at night, there is no traffic,
+and that stretch of the woods, and it seems safe.
+
+When I came to,
+I went to the supermarket to get Ice Cream.
+
+I found a White Chocolate bar,
+names after a large caliber revolver, fair enough.
+
+I bought a bunch of junk too,
+a magnesium fire starter…
+
+That I never figured out how to use,
+but buried under a tree that I still remember.
+
+And a blueberry drink mix,
+that later in my love of life, I would put in my rice dinner.
+
+It did not look as good as the idea,
+and tasted just as awful.
+
+---
+
+I drove up to the Ludington State Park,
+and disgusted the Park Ranger by wearing multiple fanny packs.
+
+I took one night in the park proper,
+I love people watching, it was very nice.
+
+But I also reserved two weeks or so,
+over at the [Jack Pine Hike In Sites][1], which were a half mile walk.
+
+I arrived at the sites, set up camp, climbed atop the dune,
+that sheltered the sites from Lake Michigan wind…
+
+and sat there, sucking oxygen,
+as the dune was quite sandy.
+
+An even your biggest steps,
+earned you no more than two inches worth of progress, and also spiders.
+
+---
+
+It wasn’t long before I became a Jack Pine Native,
+and got described by the local scouts as walking with a swagger.
+
+Though I think I was just being slow,
+and by that time, a bit uneven, from the fanny packs,
+
+That I stuffed with fossils,
+and fancy seashells.
+
+---
+
+Half way through my stay,
+I’ve noticed that the local raccoons accepted me as their own.
+
+You can only wash so much in the lake,
+and that is when I remembered.
+
+That on the first day, the campers were bringing towels,
+to the restroom area, which made me wonder if there were showers.
+
+As the sun went down, I put my raccoon hat on,
+and silently tiptoed to the interesting little building…
+
+As I wasn’t sure if the Jack Pine Wildebeests,
+were allowed to take showers.
+
+And in no time I was enjoying a hot long shower,
+that probably used up all the hot water.
+
+Not once in my life had I been that clean before,
+certainly not by stealing a hot shower.
+
+All the local mosquitoes, immediately, fell,
+in a fragrant mist of deadly deed that I whipped out of my fanny pack - I was expecting them.
+
+Now smelling of sophistication, irish soap, and pinetrees,
+that the bug spray people cleverly added to the deadly broth.
+
+I made my way back,
+[that’s were I ran into that darn owl][2].
+
+Before falling asleep, now booted out of my raccoon squad,
+for not smelling I trash, I decided I was ready for Nordhouse.
+
+As I was leaving the state park, the Park Ranger remembered me,
+and nodding in disbelief said, you had perfect weather didn’t you.
+
+I didn’t even notice, it never got cloudy,
+I was having too much fun.
+
+I drove a huge circle around the entire state park,
+and spent three weeks at Nordhouse.
+
+One night sleeping in a thunderstorm,
+another noticing the dune grass glow with a mysterious faint blue light.
+
+After a moth and a half long adventure,
+I came home, but did not dare to remove my equipment from the trunk.
+
+And I loved every grain of beach sand that got into my car,
+and just as the end of summer was nearing…
+
+I got in my car, and drove directly to Nordhouse,
+for long and restful thee week stay.
+
+[1]: https://www.dnr.state.mi.us/publications/pdfs/RecreationCamping/ludington_cg.pdf
+[2]: /permalink/69aaa7bf-688c-46ba-8782-66b0cccb574d/

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1648",
+  "guid": "f4cb3c5c-fe4e-45cb-ae77-6a35f223abbc",
+  "title": "Integrate Your Future; Or, Stand Up For Effective Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-05T03:25:06.292Z",
+  "lastmod": null,
+  "weight": 164800,
+  "audio": "poem-1648.mp3",
+  "image": "poem-1648-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

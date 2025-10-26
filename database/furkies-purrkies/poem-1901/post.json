@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1901",
+  "guid": "a103a8a3-5302-4762-95a9-7304eb91e4d4",
+  "title": "The Hidden Gospel Of Beowulf",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-05-15T19:16:01.295Z",
+  "lastmod": null,
+  "weight": 190100,
+  "audio": "poem-1901.mp3",
+  "image": "poem-1901-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Sutton_Hoo_helmet#/media/File:Sutton_Hoo_helmet_2016.png"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

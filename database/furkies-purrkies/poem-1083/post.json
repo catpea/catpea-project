@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1083",
+  "guid": "f2d4bd50-caa3-44fa-9733-427ab5412839",
+  "title": "A Quantum Of Greatness; Or, The Beautiful Ghosts Still In The Machine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-16T20:20:53.502Z",
+  "lastmod": null,
+  "weight": 108300,
+  "audio": "poem-1083.mp3",
+  "image": "poem-1083-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

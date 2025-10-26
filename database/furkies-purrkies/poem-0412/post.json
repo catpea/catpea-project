@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0412",
+  "guid": "bef017b5-cc8a-47e7-bf6c-919d334d1f33",
+  "title": "Light Of The Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-17T01:30:07.900Z",
+  "lastmod": null,
+  "weight": 41200,
+  "audio": "poetry-0412.mp3",
+  "image": "poetry-0412-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

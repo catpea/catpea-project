@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1718",
+  "guid": "d66360d2-d362-4635-adda-b0efddfefca6",
+  "title": "My Dear Children - A Message From Abraham Lincoln",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-14T04:41:01.529Z",
+  "lastmod": null,
+  "weight": 171800,
+  "audio": "poem-1718.mp3",
+  "image": "poem-1718-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

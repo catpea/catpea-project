@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1553",
+  "guid": "f519e182-0290-4946-b7ae-53c483dc6aa9",
+  "title": "Real Artificial Intelligence Is Either Near Or Here; What Could It Be Like?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-02T04:44:23.795Z",
+  "lastmod": null,
+  "weight": 155300,
+  "audio": "poem-1553.mp3",
+  "image": "poem-1553-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

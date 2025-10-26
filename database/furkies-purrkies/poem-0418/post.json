@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0418",
+  "guid": "a0fdfc78-1227-45d9-93a9-64569de80cd3",
+  "title": "Learning To Learn",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-23T01:44:09.117Z",
+  "lastmod": null,
+  "weight": 41800,
+  "audio": "poetry-0418.mp3",
+  "image": "poetry-0418-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/I-SoYkFjVI0"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

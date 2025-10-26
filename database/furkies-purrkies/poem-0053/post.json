@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0053",
+  "guid": "929c27c2-a31c-4c19-811e-db7bdfa9c8d4",
+  "title": "A Warrior is She that thrives and triumphs where’er She be",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-01T00:39:24.000Z",
+  "lastmod": null,
+  "weight": 5300,
+  "audio": "poetry-0053.mp3",
+  "image": "poetry-0053-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://commons.wikimedia.org/wiki/File:Tetradrachm_Athens_480-420BC_MBA_Lyon.jpg"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-believer",
+  "guid": "809fdc7c-a934-4b6a-bf65-86cfade98f5d",
+  "title": "The Believer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-09-12T02:56:11.000Z",
+  "lastmod": null,
+  "weight": 17800,
+  "audio": null,
+  "image": "warrior-the-believer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

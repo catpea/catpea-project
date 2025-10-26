@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0318",
+  "guid": "6809f77d-fcd2-439f-bac4-f7c13ea491af",
+  "title": "By Subtle Analogy",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-13T04:30:38.173Z",
+  "lastmod": null,
+  "weight": 31800,
+  "audio": "poetry-0318.mp3",
+  "image": "poetry-0318-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/60qD0Glbaew"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

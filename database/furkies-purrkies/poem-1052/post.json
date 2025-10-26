@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1052",
+  "guid": "a0f643f5-e16c-46ea-8834-89bb6124e674",
+  "title": "Doggone It; Or, The New Tools And The New Art Renaissance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-17T04:21:54.072Z",
+  "lastmod": null,
+  "weight": 105200,
+  "audio": "poem-1052.mp3",
+  "image": "poem-1052-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Stable_Diffusion",
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

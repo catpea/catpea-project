@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1585",
+  "guid": "71c104fc-151c-4592-b5af-35751aa44531",
+  "title": "Harsh Fitness; Or, Become An Adventurer Because There Are No Obese Elderly",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-04T03:59:36.569Z",
+  "lastmod": null,
+  "weight": 158500,
+  "audio": "poem-1585.mp3",
+  "image": "poem-1585-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

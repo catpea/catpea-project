@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1830",
+  "guid": "413974ce-4f39-4a7e-84dd-c3ea207528a2",
+  "title": "Just Build A School, Kid",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-06T00:36:20.701Z",
+  "lastmod": null,
+  "weight": 183000,
+  "audio": "poem-1830.mp3",
+  "image": "poem-1830-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

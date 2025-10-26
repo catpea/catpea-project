@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1387",
+  "guid": "306ec423-054b-43b0-8f9b-668a49c176c0",
+  "title": "A Tiny Look At The Wild Wild West Of Visual Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-19T04:56:20.064Z",
+  "lastmod": null,
+  "weight": 138700,
+  "audio": "poem-1387.mp3",
+  "image": "poem-1387-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

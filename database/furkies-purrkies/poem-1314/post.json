@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1314",
+  "guid": "2a9bf47a-bfaa-4b77-9310-291fd89b6047",
+  "title": "Towards More Meaningful Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-07T03:23:45.953Z",
+  "lastmod": null,
+  "weight": 131400,
+  "audio": "poem-1314.mp3",
+  "image": "poem-1314-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ylQo5HSQPPg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

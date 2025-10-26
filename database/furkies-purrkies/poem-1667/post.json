@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1667",
+  "guid": "1542d609-b2e1-4d6f-b27c-49a5a4fc2174",
+  "title": "The Supervisor Programming Model",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-23T22:22:41.682Z",
+  "lastmod": null,
+  "weight": 166700,
+  "audio": "poem-1667.mp3",
+  "image": "poem-1667-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

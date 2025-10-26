@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1242",
+  "guid": "92a04cbe-0357-4ba1-a1d0-e73a5ba5e78b",
+  "title": "Weird Dancing; Or, Music Energy For Fitness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-27T03:28:53.650Z",
+  "lastmod": null,
+  "weight": 124200,
+  "audio": "poem-1242.mp3",
+  "image": "poem-1242-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/qFEcWSM_ST8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

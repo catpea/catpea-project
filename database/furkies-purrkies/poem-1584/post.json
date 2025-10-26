@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1584",
+  "guid": "a9a7999e-3a1e-46f2-a728-a583750f6668",
+  "title": "Easy PZ And The Kludge; Or, The Big Mistake That Programmers Should Unmake",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-07-03T03:59:27.761Z",
+  "lastmod": null,
+  "weight": 158400,
+  "audio": "poem-1584.mp3",
+  "image": "poem-1584-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

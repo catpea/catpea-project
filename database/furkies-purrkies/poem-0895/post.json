@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0895",
+  "guid": "cd778713-c054-4012-8e93-aff61f7acbc9",
+  "title": "From College To Wilderness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-13T00:52:56.815Z",
+  "lastmod": null,
+  "weight": 89500,
+  "audio": "poetry-0895.mp3",
+  "image": "poetry-0895-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

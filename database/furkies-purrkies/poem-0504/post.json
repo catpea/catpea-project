@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0504",
+  "guid": "e40a9250-a5c2-4ae3-8f2e-003903c2e0b6",
+  "title": "The Human",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-07-17T22:48:26.003Z",
+  "lastmod": null,
+  "weight": 50400,
+  "audio": "poetry-0504.mp3",
+  "image": "poetry-0504-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hl0iLy1hFo0"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

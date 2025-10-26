@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0431",
+  "guid": "f9bdb762-8719-4ecf-a955-22aa45fa46a3",
+  "title": "The Queen's Tongue: Learning English",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-06T02:53:57.257Z",
+  "lastmod": null,
+  "weight": 43100,
+  "audio": "poetry-0431.mp3",
+  "image": "poetry-0431-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Ab-W3gen18Q"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1244",
+  "guid": "d1d90f72-1e75-49a7-ab6c-184da7f0e5bb",
+  "title": "Beginning Fitness; It Is Easy, Because Fitness Is Your Friend",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-29T03:10:20.560Z",
+  "lastmod": null,
+  "weight": 124400,
+  "audio": "poem-1244.mp3",
+  "image": "poem-1244-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/caoHmRbRvaI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

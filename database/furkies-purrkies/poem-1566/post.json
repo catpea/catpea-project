@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1566",
+  "guid": "9d952945-7e78-4fd5-8cc0-60dc2c6c5dbd",
+  "title": "Programming Is Very Important; A Tiny Note To Parents",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-15T04:50:14.113Z",
+  "lastmod": null,
+  "weight": 156600,
+  "audio": "poem-1566.mp3",
+  "image": "poem-1566-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

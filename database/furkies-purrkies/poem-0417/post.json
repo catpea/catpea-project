@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0417",
+  "guid": "5e75a1bb-35b5-4e5e-864d-8ce726d26990",
+  "title": "The Future School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-22T00:29:46.215Z",
+  "lastmod": null,
+  "weight": 41700,
+  "audio": "poetry-0417.mp3",
+  "image": "poetry-0417-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/FYR2nFGWxqM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

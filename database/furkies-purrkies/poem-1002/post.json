@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1002",
+  "guid": "93be5330-7fc4-4bd2-b7e4-1d5efc024cca",
+  "title": "We Are Star Babies; Or, The World Needs You To Unlock Your Genius",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-28T00:43:31.853Z",
+  "lastmod": null,
+  "weight": 100200,
+  "audio": "poem-1002.mp3",
+  "image": "poem-1002-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/AmkpzghJ5eo"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

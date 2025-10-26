@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0317",
+  "guid": "21e848ed-9c0a-4ac1-bbc3-3a149bf5df38",
+  "title": "One",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-12T03:57:33.086Z",
+  "lastmod": null,
+  "weight": 31700,
+  "audio": "poetry-0317.mp3",
+  "image": "poetry-0317-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ZNz5UPRb2N8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

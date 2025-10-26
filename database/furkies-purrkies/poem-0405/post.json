@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0405",
+  "guid": "85214b2b-d253-44dd-96c0-257308a03c7e",
+  "title": "To End World Poverty",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-10T02:12:07.615Z",
+  "lastmod": null,
+  "weight": 40500,
+  "audio": "poetry-0405.mp3",
+  "image": "poetry-0405-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8UG90AYPDW4"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

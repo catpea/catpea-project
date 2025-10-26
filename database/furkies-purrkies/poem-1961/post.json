@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1961",
+  "guid": "d704b79b-91cc-49d4-9892-ed665549e0af",
+  "title": "Spooked By AI, Bravo Who? Or, The Invention Of Computer Hecking",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-14T23:50:24.716Z",
+  "lastmod": null,
+  "weight": 196100,
+  "audio": "poem-1961.mp3",
+  "image": "poem-1961-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

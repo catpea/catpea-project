@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1091",
+  "guid": "b40ba3b7-fd14-4fd6-8381-488c8b7f330a",
+  "title": "El Chuppacabra De Miou",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-25T02:28:16.823Z",
+  "lastmod": null,
+  "weight": 109100,
+  "audio": "poem-1091.mp3",
+  "image": "poem-1091-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0239",
+  "guid": "d3a313bd-62aa-4b3f-8263-122f4872b0c4",
+  "title": "Find The Edge Of Your Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-26T00:56:24.552Z",
+  "lastmod": null,
+  "weight": 23900,
+  "audio": "poetry-0239.mp3",
+  "image": "poetry-0239-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

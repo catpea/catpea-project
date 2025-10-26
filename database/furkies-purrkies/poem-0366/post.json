@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0366",
+  "guid": "9575349a-37ad-4a00-9cce-2df61054f20a",
+  "title": "The Experimental Class",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-02T02:26:05.832Z",
+  "lastmod": null,
+  "weight": 36600,
+  "audio": "poetry-0366.mp3",
+  "image": "poetry-0366-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/YRMWVcdyhmI"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

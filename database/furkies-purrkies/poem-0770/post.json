@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0770",
+  "guid": "2aa50821-0d02-44ec-8a11-fe97e8fb88f2",
+  "title": "Seventy Five Days And Seventeen Paintings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-04-09T16:24:21.962Z",
+  "lastmod": null,
+  "weight": 77000,
+  "audio": "poetry-0770.mp3",
+  "image": "poetry-0770-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

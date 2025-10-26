@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0626",
+  "guid": "078a590c-f655-4c23-a700-dbcca45bf7f4",
+  "title": "The Source Of Art And A Question To Start",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-17T00:14:10.527Z",
+  "lastmod": null,
+  "weight": 62600,
+  "audio": "poetry-0626.mp3",
+  "image": "poetry-0626-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UFGqtAkaYmo"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

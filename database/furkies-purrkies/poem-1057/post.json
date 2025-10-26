@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1057",
+  "guid": "4152651a-8011-4faf-8f64-a4636e2631f4",
+  "title": "A Gentle Look At Indoctrination; Or, Don't Let Schools Push You Around",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-01-22T04:25:09.115Z",
+  "lastmod": null,
+  "weight": 105700,
+  "audio": "poem-1057.mp3",
+  "image": "poem-1057-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

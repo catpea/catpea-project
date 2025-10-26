@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0562",
+  "guid": "a9055c55-e17a-40b3-9646-981a266a514f",
+  "title": "Real Art For Real, Real Math For Real",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-14T00:49:01.146Z",
+  "lastmod": null,
+  "weight": 56200,
+  "audio": "poetry-0562.mp3",
+  "image": "poetry-0562-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hWlvhJAxkIw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

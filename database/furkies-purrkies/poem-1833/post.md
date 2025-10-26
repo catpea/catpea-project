@@ -1,0 +1,94 @@
+For those of you who are new to programming,
+you usually say, username = “alice”; followed by; refreshUserInterface().
+
+The program will then use the name alice,
+in all the right places.
+
+But as you add more to your program, manually refreshing the user interface,
+especially under some component architecture gets difficult, becomes unclear.
+
+---
+
+
+[In reactive programming, you first subscribe to username][0],
+think of username as a radio station.
+
+And then in your subscription, which is just a function,
+that is called, when username changes.
+
+You put in the code that updates the UI,
+and your username is now bound to the User Interface.
+
+You can just stop worrying about refreshing the UI,
+because you know any time you change the reactive variables
+
+The UI will update,
+automatically.
+
+---
+
+And you do just do one UI binding at a time,
+if you want to update few things, in a singe change.
+
+You just subscribe to the thing multiple times,
+a subscription is the end of the UI story, you set it and forget it.
+
+---
+
+To assign alice to the username, you now say,
+username .value = “alice”;
+
+So username, is no longer just a primitive variable,
+it is an object with a .value getter and setter.
+
+And then a .subscribe method, that accepts your function,
+and keeps track of all its subscribers.
+
+When you first subscribe, and there is a value in there already,
+for example bob, your subscriber will instantly get called with the string bob.
+
+But if the value is null, or undefined,
+nothing will happen, your UI component will show a default state.
+
+Nothing also happens, if you change the value to what it already was,
+the subscribers will not be triggered.
+
+That is reactive programming,
+everything else is up to you, you may move to functional reactive programming.
+
+Or create something that acts as a dependency tree for nested signals,
+or just rely on your own application architecture.
+
+Or just use reactive variables alone, with the Document Object Model,
+because it is just .value and .subscribe everything is clear.
+
+---
+
+Finally, I recommend you go reactive as soon as you can,
+it makes all of your programs simple, and self updatable.
+
+It may not be possible to to take a non-reactive program,
+convert it to use reactivity, and benefit from that reactive simplicity.
+
+I also worry that non-reactive one person projects, needlessly suffer,
+from necessary complexity, that may prevent shipping.
+
+So reactive programming,
+is perfect for learning,
+
+Because it adapts your mind
+to seeing a program for what it is: an interactive application.
+
+And it is perfect for one person project and side projects,
+that it would be fun to complete.
+
+Make your own reactive variable object,
+write from scratch or extent EventEmitter.
+
+Don’t make it complicated, don’t add an addDependency method,
+or nested reactive variable detection via context proxies, or something.
+
+Reactive programming is a big deal,
+and it is very friendly, it is just one little fancy thing.
+
+[0]: https://github.com/catpea/mawp/blob/00dd3480be884977109337441b38c5ec7d4797ab/test.html

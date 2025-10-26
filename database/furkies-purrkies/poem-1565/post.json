@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1565",
+  "guid": "c4618c2b-b882-41b5-b162-960366fdcd2b",
+  "title": "The Bodybuilding Engine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-14T04:52:00.748Z",
+  "lastmod": null,
+  "weight": 156500,
+  "audio": "poem-1565.mp3",
+  "image": "poem-1565-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

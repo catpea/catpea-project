@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1026",
+  "guid": "1160a736-7eb3-4ac6-92bf-b942e0e65544",
+  "title": "The World And Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-22T00:12:29.249Z",
+  "lastmod": null,
+  "weight": 102600,
+  "audio": "poem-1026.mp3",
+  "image": "poem-1026-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/xSofsfb5Hco"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

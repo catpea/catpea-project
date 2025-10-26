@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1729",
+  "guid": "37dfeb2c-05ce-4633-8528-07c75665a3bf",
+  "title": "Protect Your Mind - In The Voice of Walt Whitman",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-25T04:11:06.251Z",
+  "lastmod": null,
+  "weight": 172900,
+  "audio": "poem-1729.mp3",
+  "image": "poem-1729-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

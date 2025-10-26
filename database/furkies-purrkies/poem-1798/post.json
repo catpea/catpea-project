@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1798",
+  "guid": "81f7e825-0704-4ff4-8c7b-09ef09f449d8",
+  "title": "Bodybuilding Is No Big Deal; But, Not Bodybuilding, Is",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-02T05:26:52.893Z",
+  "lastmod": null,
+  "weight": 179800,
+  "audio": "poem-1798.mp3",
+  "image": "poem-1798-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

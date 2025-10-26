@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0630",
+  "guid": "1575d7a5-279a-45b9-a9b0-90750254aa32",
+  "title": "A Century Of Changes Is A Century Of Challenges",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-21T02:24:09.347Z",
+  "lastmod": null,
+  "weight": 63000,
+  "audio": "poetry-0630.mp3",
+  "image": "poetry-0630-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/RN14PbITnnM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

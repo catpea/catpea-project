@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0566",
+  "guid": "32535b42-f4d6-4fc0-8b0e-c568dd365f8e",
+  "title": "That Glowing Ember At A Branch Of The Wisdom Tree",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-17T23:30:34.927Z",
+  "lastmod": null,
+  "weight": 56600,
+  "audio": "poetry-0566.mp3",
+  "image": "poetry-0566-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/VcWJuCTQg8E"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

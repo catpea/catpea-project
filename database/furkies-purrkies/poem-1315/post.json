@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1315",
+  "guid": "2f4b0cda-ed62-4c82-9267-7712a9832eff",
+  "title": "Three Ways To Reliably Attach Your Tail: Superhero, Cosplay, And Halloween Advice",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-08T03:04:54.323Z",
+  "lastmod": null,
+  "weight": 131500,
+  "audio": "poem-1315.mp3",
+  "image": "poem-1315-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/TKgOIwPVmkg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

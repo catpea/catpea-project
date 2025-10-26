@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1158",
+  "guid": "c3b63945-6273-47e6-9fe7-799ee77cb459",
+  "title": "Peg Leg Island",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-04T03:25:10.206Z",
+  "lastmod": null,
+  "weight": 115800,
+  "audio": "poem-1158.mp3",
+  "image": "poem-1158-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hZJ8foPAf6c"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

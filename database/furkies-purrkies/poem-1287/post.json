@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1287",
+  "guid": "982187ba-33f2-44f9-a5c5-c6a45b03497c",
+  "title": "A Universe Must Expand; Or, Self Directed Education And Your Personal Constellation Of Curiosities",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-09-10T03:26:07.108Z",
+  "lastmod": null,
+  "weight": 128700,
+  "audio": "poem-1287.mp3",
+  "image": "poem-1287-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/vXR-_zOOsEA"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

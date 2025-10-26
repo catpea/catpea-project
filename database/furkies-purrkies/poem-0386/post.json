@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0386",
+  "guid": "c982e6b9-83a8-40e4-b36f-c9abb13a2443",
+  "title": "There Is A Great Being Within You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-03-21T23:31:11.486Z",
+  "lastmod": null,
+  "weight": 38600,
+  "audio": "poetry-0386.mp3",
+  "image": "poetry-0386-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/0A450BR1JWk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

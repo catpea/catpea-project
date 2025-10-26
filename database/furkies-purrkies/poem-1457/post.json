@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1457",
+  "guid": "937f85fc-18c6-4c7d-81b8-995cc7c4923e",
+  "title": "What To Look For In A Real Presidential Candidate",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-27T04:11:26.252Z",
+  "lastmod": null,
+  "weight": 145700,
+  "audio": "poem-1457.mp3",
+  "image": "poem-1457-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

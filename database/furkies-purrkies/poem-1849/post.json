@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1849",
+  "guid": "b3a3a8a7-2ab0-4ce5-b37c-16d80e2d2139",
+  "title": "Just Two Numbers; Or, Easy Peasy Data Synchronization For The Rest Of Us",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-25T01:30:29.756Z",
+  "lastmod": null,
+  "weight": 184900,
+  "audio": "poem-1849.mp3",
+  "image": "poem-1849-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

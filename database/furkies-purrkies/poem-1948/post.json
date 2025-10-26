@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1948",
+  "guid": "bd01bec5-25da-4730-90d4-4da16ed1a8ce",
+  "title": "The Enduring Body: A Guide To Gentle Strength",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-01T23:20:44.327Z",
+  "lastmod": null,
+  "weight": 194800,
+  "audio": "poem-1948.mp3",
+  "image": "poem-1948-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/silhouette-of-person-standing-near-trees-lRKM2STBj14"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0984",
+  "guid": "6412b6e6-b2f0-473b-99f6-04818b182718",
+  "title": "Fix Schools And Protect Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-10T02:00:37.999Z",
+  "lastmod": null,
+  "weight": 98400,
+  "audio": "poem-0984.mp3",
+  "image": "poem-0984-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/nKlLrkDUVYs"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

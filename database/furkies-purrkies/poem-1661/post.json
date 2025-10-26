@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1661",
+  "guid": "263e5071-4b1a-4ec0-a826-13bae6abde30",
+  "title": "The Mouse Whisperer: On Dragging A Cat With A Mouse; Or The DeltaX And Why Of Programming A Mouse",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-18T02:37:56.583Z",
+  "lastmod": null,
+  "weight": 166100,
+  "audio": "poem-1661.mp3",
+  "image": "poem-1661-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

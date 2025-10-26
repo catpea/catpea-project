@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1724",
+  "guid": "ea1b27e4-353f-471c-8e9c-dbf7968f5ca2",
+  "title": "JavaScript Gods",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-11-20T04:54:56.127Z",
+  "lastmod": null,
+  "weight": 172400,
+  "audio": "poem-1724.mp3",
+  "image": "poem-1724-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

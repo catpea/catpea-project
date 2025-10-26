@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0957",
+  "guid": "6cf99549-d36a-4e1a-af24-c4820733ed69",
+  "title": "Unstoppably Brilliant",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-10-14T03:12:00.810Z",
+  "lastmod": null,
+  "weight": 95700,
+  "audio": "poem-0957.mp3",
+  "image": "poem-0957-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/frq5Q6Ne9k4"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1074",
+  "guid": "3c319702-5a31-4df1-a658-1b71d08a578a",
+  "title": "How To Read Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-08T03:32:46.544Z",
+  "lastmod": null,
+  "weight": 107400,
+  "audio": "poem-1074.mp3",
+  "image": "poem-1074-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DegFwTh33lA"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

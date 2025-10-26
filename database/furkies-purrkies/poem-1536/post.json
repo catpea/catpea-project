@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1536",
+  "guid": "8f0161cf-8480-482a-a4ba-04918b47f853",
+  "title": "What Is Wisdom, At A Glance, By Subtle Analogy To Computer Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-05-16T03:11:16.411Z",
+  "lastmod": null,
+  "weight": 153600,
+  "audio": "poem-1536.mp3",
+  "image": "poem-1536-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

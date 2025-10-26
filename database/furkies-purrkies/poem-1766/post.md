@@ -1,0 +1,123 @@
+On January 1st, as you gag everyone with,
+“Nice to see you again, I haven't seen you since last year.”
+
+Consider the following New Year resolutions,
+to make 2025 the year you never forget.
+
+---
+
+First of all, [become a bodybuilder][bb],
+it is extremely easy when you do it right.
+
+It begins with very slow jogging for an hour with light dumbbells,
+but no so light that you can carry more, and always keep an eye on that.
+
+If jogging is too much, begin by walking,
+and then get a bicycle, you’ll be shuffling your feet before you know it.
+
+And then after you can comfortably jog with 5 or even 10 pounds per hand,
+go to the gym and start performing all the sanding dumbbell exercises.
+
+Keep an eye on those dumbbell weights,
+and make sure they are not so heavy that they stop you, stay in the zone.
+
+---
+
+Second, become an adventurer, and [set off to cross the triple crown][tc],
+the Appalachian, Pacific Crest, and Continental Divide trails.
+
+Bring all your narrated books, this way you can learn wisdom from philosophers,
+and science from science popularizer and return smart as heck.
+
+The journey may take as little as two years,
+but the longer you are out there, the more intellectually powerful you become.
+
+---
+
+[Lean programming, JavaScript especially][js], it run in the browser,
+on the sever, in browser extensions, makes linux commands.
+
+JavaScript can be compiled to small executable,
+especially now that you don't need extra modules, as you can ask AI for what you need.
+
+And with electron, or nw.js it can make powerful desktop applications,
+where you already have UI frameworks like bootstrap, and tested libraries.
+
+Don’t listen to the smaller executable is better people,
+they don’t follow that rule, they are just jealous of what the browser can do.
+
+---
+
+[Learn how to use the LMMS, digital audio workstation][mm],
+it is very easy, there are many tutorials.
+
+And you compose music by just adding sounds you fgenerate with AI,
+on a grid, when you hit play, a vertical bar crosses the grid.
+
+And whatever is in a cell plays,
+using a piano roll is just as easy.
+
+---
+
+Learn [precision 3D modeling][3d] from video tutorials, and get yourself a 3D printer,
+so that you can print your creations.
+
+3D modeling is extremely easy, all your shapes consists of dots and lines,
+and you just move them around, or divide or join them.
+
+Furthermore, when modeling, you can use the imprecise mouse,
+because every movement you make in Blender triggers a do you want to correct box.
+
+And there you can enter the precise values,
+making everything align perfectly – 3D modeling is very easy and friendly.
+
+---
+
+And finally, a real treat to get comfortable with using Artificial Intelligence,
+[2025 will be a huge year for AI][ai], so it is time to learn.
+
+To fully cover nearly every function AI is good at,
+create a virtual leader, similar to how e-girls exist.
+
+Combine at least three famous leaders or thinkers, for example,
+Abraham Lincoln, Friedrich Nietzsche, and Socrates.
+
+And tell the AI to translate what this mix is saying,
+into the words of a famous writer or poet, maybe Kurt Vonnegut.
+
+And ask for chapters to just 100 page books,
+ask for poems and speeches.
+
+Publish the books, as that is a unique and creative use of technology,
+and setup something that looks like a podium, and perform the speeches.
+
+This is a very good exercise, that could get you into real politics,
+this is why your e-leader persona should be wise, rather than a dictator.
+
+Clone your voice, and have AI create inspirational Audio Books,
+it is not fake, when you go over everything, it is just creative exploration.
+
+As a result, if you don’t want tot do politics yourself,
+you could create an agency that helps other political candidates.
+
+Sometimes it is great help, just to be able to point out,
+that their competition is using AI, and give an informed guess as to how.
+
+And early on as you learn programming setup websites for books,
+for the speeches, and even community forums.
+
+Here you can have AI impersonating users, just to get ahead,
+just to see how that works.
+
+But also talk to the bots, correct them, steer them,
+make no mistake, 2025 is the year of the future.
+
+And you should make it,
+your year as well.
+
+[bb]: https://www.youtube.com/@catpea/search?query=bodybuilding
+[ai]: https://simonwillison.net/2024/Dec/31/llms-in-2024/
+[tc]: https://www.youtube.com/results?search_query=Triple+Crown%2C+AT+CDT+PCT
+[js]: https://www.youtube.com/results?search_query=programming+javascript+for+beginners
+[3d]: https://www.youtube.com/results?search_query=blender+precision+3D+modeling
+[mm]: https://www.youtube.com/watch?v=0sRvkaxh8EU

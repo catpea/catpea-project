@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0826",
+  "guid": "ba28b92b-44c9-407f-b7e3-ca4d464adcb8",
+  "title": "SCHOOL.MP3; Or, The Tiniest Of Schools",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-05T01:05:28.642Z",
+  "lastmod": null,
+  "weight": 82600,
+  "audio": "poetry-0826.mp3",
+  "image": "poetry-0826-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/UUPpu2sYV6E"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

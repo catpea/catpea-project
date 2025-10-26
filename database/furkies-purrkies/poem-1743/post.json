@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1743",
+  "guid": "5de9e46a-9ba7-4b2f-81d5-1f5c55c28d44",
+  "title": "Mind Your Mind",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-12-09T04:49:22.868Z",
+  "lastmod": null,
+  "weight": 174300,
+  "audio": "poem-1743.mp3",
+  "image": "poem-1743-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

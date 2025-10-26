@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0245",
+  "guid": "4186a16f-69f2-47b8-a7b1-eb62eb11f80d",
+  "title": "All Saints' Eve",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-10-31T16:30:18.959Z",
+  "lastmod": null,
+  "weight": 24500,
+  "audio": "poetry-0245.mp3",
+  "image": "poetry-0245-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ve_uN9V8xqU"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

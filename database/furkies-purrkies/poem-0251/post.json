@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0251",
+  "guid": "bf8ef680-fec5-4868-983e-82c2976040a8",
+  "title": "Your Next Adventure: Power Of Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-07T03:55:33.578Z",
+  "lastmod": null,
+  "weight": 25100,
+  "audio": "poetry-0251.mp3",
+  "image": "poetry-0251-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/p76_Ro6BM8o"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

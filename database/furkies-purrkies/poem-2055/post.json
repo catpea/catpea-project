@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2055",
+  "guid": "3830c121-4c48-4ce2-97e6-be1d2a44d55f",
+  "title": "Learn JavaScript And Get Scared Of What You Can Do With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-16T00:21:49.247Z",
+  "lastmod": null,
+  "weight": 205500,
+  "audio": "poem-2055.mp3",
+  "image": "poem-2055-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

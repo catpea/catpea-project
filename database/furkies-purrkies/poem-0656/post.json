@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0656",
+  "guid": "d390c102-824c-434a-8cd1-bc5e3f969c5b",
+  "title": "Growing Up On Planet Meow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-17T02:52:42.062Z",
+  "lastmod": null,
+  "weight": 65600,
+  "audio": "poetry-0656.mp3",
+  "image": "poetry-0656-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/phIFdC6lA4E"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

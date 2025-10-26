@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1969",
+  "guid": "177c91bb-0f3c-43bb-9d55-c6aa6f431915",
+  "title": "The Saga of Loki's Integers and the Valkyries' Thunder",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-22T23:06:02.362Z",
+  "lastmod": null,
+  "weight": 196900,
+  "audio": "poem-1969.mp3",
+  "image": "poem-1969-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

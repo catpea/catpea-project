@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1842",
+  "guid": "2015b179-61ef-4ebc-9b05-977effb8d622",
+  "title": "Sitting At The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-03-17T23:42:53.286Z",
+  "lastmod": null,
+  "weight": 184200,
+  "audio": "poem-1842.mp3",
+  "image": "poem-1842-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

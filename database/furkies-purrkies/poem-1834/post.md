@@ -1,0 +1,143 @@
+Jogger wisdom dictates,
+that it is not a real jog…
+
+Until you can run straight through,
+without the need to stop.
+
+This is the process of,
+gradually building up your endurance.
+
+One of the things that happens,
+is growing more muscle.
+
+Now, once you are able to run,
+straight through.
+
+Instead of trying to go faster,
+get a pair of light dumbbells.
+
+Maybe 3 pounds per hand,
+5 can be pretty crushing at first.
+
+You are adding 10 pounds,
+to your challenge, that is a lot.
+
+Even later on,
+when you are lifting 20 lb. per hand.
+
+You should still move up,
+only by about 2.5 pounds.
+
+So don’t jump from 15 to 20 per hand,
+fo to 17.5 first, and then get to your 20.
+
+But this is actually something,
+that you will figure out on your own.
+
+Precisely,
+because of jogger wisdom.
+
+You will know
+from building up your endurance.
+
+How quickly the human body adapts,
+how you have to move little by little.
+
+And how rest, does not help,
+it should be eliminated with endurance.
+
+---
+
+I know it seems weird,
+that you start bodybuilding by jogging.
+
+But, unlike a jogger,
+the moment you run straight through.
+
+You then weight you body down,
+to induce more adaptation.
+
+Eventually,
+jogging becomes too hard.
+
+And that is when you go,
+into the gym, and walk, twist and turn.
+
+Here you can add an extra hour,
+slow down your songs.
+
+Until your body adapts to higher weights,
+and then either up the tempo.
+
+Or up the weights,
+tempo burn fat, weights build muscle.
+
+---
+
+You should start with light dumbbells,
+but not so light that you can lift more.
+
+And never so heavy,
+that you are forced to stop.
+
+---
+
+To grow muscle,
+you must workout long, not heavy.
+
+---
+
+Heads up,
+if you start in the middle of the dumbbell rack.
+
+You will not be able to lift for long enough,
+and never really increase your weight by much.
+
+By not lifting for long enough,
+your body does not adapt very much.
+
+And what you can accomplish in 12 months,
+now turns to 10 years.
+
+As you are just not challenging your body,
+enough, for fast and reliable adaptation.
+
+---
+
+Standing dumbbells exercises,
+are a full body exercise.
+
+So as long as you jog a bit,
+and walk, and twist, turn and dance.
+
+You are working on so many muscles,
+that other exercises can only slow you down.
+
+Again, yet another wisdom,
+that you will learn on your own,
+
+From that initial,
+jogging with light dumbbells.
+
+Lastly just like jogging,
+exercise is 5 days a week.
+
+But you start slow,
+and get your body used to it.
+
+---
+
+You will see huge muscles,
+from just hogging though.
+
+You can probably handle,
+10lb per hand, and a slow jog.
+
+But that is the area,
+where you head for the gym.
+
+And add lifting above your head,
+and to the side, and in front.
+
+Creating a safe,
+and powerful full body workout.

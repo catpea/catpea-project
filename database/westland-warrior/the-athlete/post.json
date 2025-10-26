@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-athlete",
+  "guid": "68544b36-a9b3-4acc-b581-e1c078b66392",
+  "title": "The Athlete",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-10-02T02:34:29.612Z",
+  "lastmod": null,
+  "weight": 6000,
+  "audio": null,
+  "image": "warrior-the-athlete-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

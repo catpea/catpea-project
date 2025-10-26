@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0910",
+  "guid": "9a9aba9c-71fa-4507-87ce-c70bc6569eec",
+  "title": "Art Self Education: A Super Tiny Little Step Towards Freehand Drawing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-28T01:31:02.860Z",
+  "lastmod": null,
+  "weight": 91000,
+  "audio": "poetry-0910.mp3",
+  "image": "poetry-0910-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0268",
+  "guid": "ca2c17ad-fbdc-425d-8463-423d790b1415",
+  "title": "Growing Up In Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-24T01:08:08.246Z",
+  "lastmod": null,
+  "weight": 26800,
+  "audio": "poetry-0268.mp3",
+  "image": "poetry-0268-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1VqHRwxcCCw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

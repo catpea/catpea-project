@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0569",
+  "guid": "33dcf926-9759-4986-84ba-5b7beac2deef",
+  "title": "Lonesome Roads To Excellence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-09-21T01:59:59.302Z",
+  "lastmod": null,
+  "weight": 56900,
+  "audio": "poetry-0569.mp3",
+  "image": "poetry-0569-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/3HmP1kOdACU"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

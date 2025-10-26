@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-mudlark",
+  "guid": "6cf01e7d-67a8-4a96-8e69-e2bfcc377c84",
+  "title": "The Mudlark",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-07-04T03:38:03.000Z",
+  "lastmod": null,
+  "weight": 11100,
+  "audio": null,
+  "image": "warrior-the-mudlark-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

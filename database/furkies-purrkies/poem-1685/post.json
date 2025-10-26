@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1685",
+  "guid": "ec2a0d55-aa54-49e2-bf81-0bcd3af5b373",
+  "title": "Of The Bodybuilder Curse And Jogger Wisdom; Or, Bodybuilding Is A Weighted Endurance Sport",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-10-12T02:50:05.403Z",
+  "lastmod": null,
+  "weight": 168500,
+  "audio": "poem-1685.mp3",
+  "image": "poem-1685-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

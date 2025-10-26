@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-reverse-engineer",
+  "guid": "ef344edb-df02-46c7-8527-a386fff86bf7",
+  "title": "The Reverse Engineer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-03-15T03:57:17.068Z",
+  "lastmod": null,
+  "weight": 16200,
+  "audio": null,
+  "image": "warrior-the-reverse-engineer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

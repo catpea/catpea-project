@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0760",
+  "guid": "b1c86559-7b7c-4de5-9959-12edd8367948",
+  "title": "Narrated Books",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-03-31T00:00:52.779Z",
+  "lastmod": null,
+  "weight": 76000,
+  "audio": "poetry-0760.mp3",
+  "image": "poetry-0760-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DlF0mqHKvkg"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

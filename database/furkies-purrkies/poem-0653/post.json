@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0653",
+  "guid": "7f54217a-acb6-4ddb-ba70-056d2252acee",
+  "title": "Full Measure Of Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-14T01:54:45.476Z",
+  "lastmod": null,
+  "weight": 65300,
+  "audio": "poetry-0653.mp3",
+  "image": "poetry-0653-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/SIUIF5S-OLM"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

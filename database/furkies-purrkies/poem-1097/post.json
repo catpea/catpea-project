@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1097",
+  "guid": "8bb5539b-277b-445b-bbb5-c32669749fde",
+  "title": "Learn How To Generate Art; It Is Like Stencils, It Is Just Another Cool And Inviting Form Of Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-03-03T04:04:17.055Z",
+  "lastmod": null,
+  "weight": 109700,
+  "audio": "poem-1097.mp3",
+  "image": "poem-1097-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

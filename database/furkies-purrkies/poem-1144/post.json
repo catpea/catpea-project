@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1144",
+  "guid": "7b4d89b2-07c8-4483-8f17-dcd22e7366d3",
+  "title": "Programming For World Peace",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-04-20T02:57:50.424Z",
+  "lastmod": null,
+  "weight": 114400,
+  "audio": "poem-1144.mp3",
+  "image": "poem-1144-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ibv9Q_j-50I"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0259",
+  "guid": "d1eeda42-d3c8-4c4d-8878-dd6789afd626",
+  "title": "Cat's Eyes",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-11-15T01:57:29.902Z",
+  "lastmod": null,
+  "weight": 25900,
+  "audio": "poetry-0259.mp3",
+  "image": "poetry-0259-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/4dpAqfTbvKA, https://unsplash.com/photos/MMKAbQPIXg8"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

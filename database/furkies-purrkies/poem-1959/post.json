@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1959",
+  "guid": "00d73e5c-8284-4717-84e1-547c8f4b1fe2",
+  "title": "Artificial Intelligence As A Future Machine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-07-13T00:32:17.319Z",
+  "lastmod": null,
+  "weight": 195900,
+  "audio": "poem-1959.mp3",
+  "image": "poem-1959-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1218",
+  "guid": "dcf7be6d-67ec-499d-9e81-87b082237b72",
+  "title": "You May Be A Raccoonkin! (Test Included!)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-02T22:54:20.829Z",
+  "lastmod": null,
+  "weight": 121800,
+  "audio": "poem-1218.mp3",
+  "image": "poem-1218-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/8YJ_R1yeMqE"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

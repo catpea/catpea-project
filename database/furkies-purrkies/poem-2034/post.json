@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2034",
+  "guid": "57630197-4056-4afd-9c12-566a5af4be89",
+  "title": "The Bracket Story: A Tiny Introduction To The World Of Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-09-24T22:50:04.942Z",
+  "lastmod": null,
+  "weight": 203400,
+  "audio": "poem-2034.mp3",
+  "image": "poem-2034-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

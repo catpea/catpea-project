@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0445",
+  "guid": "ba7adc40-31c4-4c5d-a2f1-a2e10c27202d",
+  "title": "Meant For Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-05-19T22:46:35.400Z",
+  "lastmod": null,
+  "weight": 44500,
+  "audio": "poetry-0445.mp3",
+  "image": "poetry-0445-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bfkoKydpWGA"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 3
+}

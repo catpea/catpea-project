@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1805",
+  "guid": "a9698767-6a46-4b12-b40e-01750885b9cf",
+  "title": "Obesity And Bodybuilding; Or, Say “Hi” To Henry Thoreau From Me, When You Get To Mount Katahdin",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-09T04:47:16.604Z",
+  "lastmod": null,
+  "weight": 180500,
+  "audio": "poem-1805.mp3",
+  "image": "poem-1805-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

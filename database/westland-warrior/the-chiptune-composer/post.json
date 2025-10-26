@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-chiptune-composer",
+  "guid": "11eb1df9-40a1-40c8-b458-5e97a93e5ea2",
+  "title": "The Chiptune Composer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-04-17T19:16:04.830Z",
+  "lastmod": null,
+  "weight": 9000,
+  "audio": null,
+  "image": "warrior-the-chiptune-composer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

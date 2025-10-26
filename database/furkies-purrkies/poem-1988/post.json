@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1988",
+  "guid": "ef34727d-80fa-4b61-bc91-ae9399aa634b",
+  "title": "The Emergence Of A Complete JavaScript Module: The Terrifyingly Swift End Of Make-Believe Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-10T23:33:02.897Z",
+  "lastmod": null,
+  "weight": 198800,
+  "audio": "poem-1988.mp3",
+  "image": "poem-1988-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

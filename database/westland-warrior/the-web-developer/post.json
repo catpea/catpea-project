@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-web-developer",
+  "guid": "853338b1-b0e6-432a-89e1-8fba537ab8b1",
+  "title": "The Web Developer",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-02-19T03:12:13.882Z",
+  "lastmod": null,
+  "weight": 15500,
+  "audio": null,
+  "image": "warrior-the-web-developer-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1155",
+  "guid": "cc84be3f-51e5-4e55-99d3-a574d611d6fc",
+  "title": "Learn Programming, Don’t Let Ineffective Education Sentence You To A Lifetime Of Poverty",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-01T03:15:26.311Z",
+  "lastmod": null,
+  "weight": 115500,
+  "audio": "poem-1155.mp3",
+  "image": "poem-1155-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/26tk2OonMFk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

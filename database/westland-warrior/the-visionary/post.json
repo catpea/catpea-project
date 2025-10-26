@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-visionary",
+  "guid": "4f513438-a2e5-454a-833f-201856a3a264",
+  "title": "The Visionary",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-04-15T01:34:54.631Z",
+  "lastmod": null,
+  "weight": 17500,
+  "audio": null,
+  "image": "warrior-the-visionary-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0413",
+  "guid": "24032ac5-db1a-431c-92dc-276315f36d36",
+  "title": "Don't Let Anybody Push You Around",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-18T02:31:09.051Z",
+  "lastmod": null,
+  "weight": 41300,
+  "audio": "poetry-0413.mp3",
+  "image": "poetry-0413-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

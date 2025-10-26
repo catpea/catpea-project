@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1171",
+  "guid": "e94358f7-d535-4300-a911-98e6804fe31d",
+  "title": "Is Philosophy Optional? Or, What Does It Even Do...",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-17T03:09:21.135Z",
+  "lastmod": null,
+  "weight": 117100,
+  "audio": "poem-1171.mp3",
+  "image": "poem-1171-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/GAVXs1uZeQk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

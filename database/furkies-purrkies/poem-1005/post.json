@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1005",
+  "guid": "3c110103-9606-43fe-ba72-75a5045f8a0a",
+  "title": "Prototyping And Coding Your First Web Operating System and Web Desktop",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-01T04:06:47.823Z",
+  "lastmod": null,
+  "weight": 100500,
+  "audio": "poem-1005.mp3",
+  "image": "poem-1005-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/64YrPKiguAE"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

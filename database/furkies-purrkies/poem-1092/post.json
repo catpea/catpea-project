@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1092",
+  "guid": "94ebb7ad-4cdb-43a7-b0e3-0c83f96349a0",
+  "title": "Solara From Starship ʻOumuamua; Or, The Odd World Of Generative Art Paintings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-02-26T04:02:16.255Z",
+  "lastmod": null,
+  "weight": 109200,
+  "audio": "poem-1092.mp3",
+  "image": "poem-1092-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

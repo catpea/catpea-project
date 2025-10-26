@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1246",
+  "guid": "b168b0fb-a095-4611-b63c-40a6e79e7311",
+  "title": "Intellectual Inheritance And Independence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-31T03:24:23.358Z",
+  "lastmod": null,
+  "weight": 124600,
+  "audio": "poem-1246.mp3",
+  "image": "poem-1246-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1vBk_We9i-Q"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

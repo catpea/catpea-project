@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0103",
+  "guid": "1a48782c-2dc3-402b-aaaf-472af92367c9",
+  "title": "You Are Divine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-06-12T02:46:35.303Z",
+  "lastmod": null,
+  "weight": 10300,
+  "audio": "poetry-0103.mp3",
+  "image": "poetry-0103-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

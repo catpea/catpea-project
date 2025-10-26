@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0885",
+  "guid": "b9ef8b91-ad0f-42cd-a331-9ed2e5b2c22a",
+  "title": "To Build A Universe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-08-02T23:38:31.341Z",
+  "lastmod": null,
+  "weight": 88500,
+  "audio": "poetry-0885.mp3",
+  "image": "poetry-0885-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://www.reddit.com/r/redditgetsdrawn/comments/wd5ev2/this_is_my_kitten/iipu1js/?context=3"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}

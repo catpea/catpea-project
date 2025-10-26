@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0866",
+  "guid": "fdc88791-19b7-4375-8c2c-4aeaa7ecb4c3",
+  "title": "The Fanciful Event Emitter: A Super Strange Programming Poem",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-14T23:31:32.311Z",
+  "lastmod": null,
+  "weight": 86600,
+  "audio": "poetry-0866.mp3",
+  "image": "poetry-0866-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

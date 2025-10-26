@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1809",
+  "guid": "250b3929-6aad-44c2-9d3a-91e56c05245f",
+  "title": "The Slayer; A Programmer's Lament",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-13T04:02:41.022Z",
+  "lastmod": null,
+  "weight": 180900,
+  "audio": "poem-1809.mp3",
+  "image": "poem-1809-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

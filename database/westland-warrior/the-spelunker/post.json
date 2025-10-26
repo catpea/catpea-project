@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-spelunker",
+  "guid": "eb4db6d9-e678-42d3-b942-127e99609cdc",
+  "title": "The Spelunker",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2021-01-04T02:53:11.839Z",
+  "lastmod": null,
+  "weight": 4400,
+  "audio": null,
+  "image": "warrior-the-spelunker-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

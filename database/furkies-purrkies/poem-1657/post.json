@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1657",
+  "guid": "4c6135f7-0b8c-4bb5-b797-cc740dc88cdf",
+  "title": "Get To Know Your Philosophers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-09-14T04:23:14.474Z",
+  "lastmod": null,
+  "weight": 165700,
+  "audio": "poem-1657.mp3",
+  "image": "poem-1657-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 11
+}

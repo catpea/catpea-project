@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1168",
+  "guid": "b9b3d615-6930-4979-8ef8-be739b9d19d9",
+  "title": "Programming, A Real Superpower",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-05-14T03:27:13.348Z",
+  "lastmod": null,
+  "weight": 116800,
+  "audio": "poem-1168.mp3",
+  "image": "poem-1168-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 6
+}

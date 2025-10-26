@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1422",
+  "guid": "29b63948-cca0-4578-9057-b0df9eb64463",
+  "title": "Of The Horse And The Philosopher; Or, Don’t Lift Too Heavy Because A Workout Is Non-Stop",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-01-23T04:23:21.995Z",
+  "lastmod": null,
+  "weight": 142200,
+  "audio": "poem-1422.mp3",
+  "image": "poem-1422-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

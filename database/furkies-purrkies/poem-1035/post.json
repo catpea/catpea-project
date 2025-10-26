@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1035",
+  "guid": "1c82ae51-c202-4d13-9df7-d6eb6402186c",
+  "title": "To Rise And Wisely Help The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-31T02:57:52.345Z",
+  "lastmod": null,
+  "weight": 103500,
+  "audio": "poem-1035.mp3",
+  "image": "poem-1035-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/WOhTfiB-ECs"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

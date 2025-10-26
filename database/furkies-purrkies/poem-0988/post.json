@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-0988",
+  "guid": "f97199b3-0bcf-4aaf-927f-c4787d8b84de",
+  "title": "Upside Down Data Synchronization",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-11-13T22:34:02.814Z",
+  "lastmod": null,
+  "weight": 98800,
+  "audio": "poem-0988.mp3",
+  "image": "poem-0988-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/uKVs2ovR0KY"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

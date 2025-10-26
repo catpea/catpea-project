@@ -1,0 +1,154 @@
+It is a back and forth,
+you want something…
+
+And the computer, really,
+does not want you to have it.
+
+And the moment
+you want something extra…
+
+The battle begins,
+once you win.
+
+You search for another battle,
+something that will teach you more.
+
+---
+
+And everything has a beginning,
+and to get to it…
+
+You have to stick your foot,
+in the door.
+
+To stick your foot,
+in the door…
+
+Means,
+prepare your computer.
+
+Up to a point,
+where you have a Hello World.
+
+It is tradition, that a language,
+gives you a Hello World example.
+
+---
+
+You can’t just SHIFT+CTRL+I,
+and type in console.log(‘Hello World’).
+
+You need a code editor,
+and a starter project.
+
+And a little README ,
+that reminds you what to do next time.
+
+---
+
+I recommend learning JavaScript,
+and using a code editor named Pulsar.
+
+But I always regret,
+not spending more time with vim.
+
+Or vi improved,
+an old school editor with fun key combinations.
+
+I don’t like editors I can’t make myself,
+but I never have time.
+
+---
+
+Once you have your foot in the door,
+and your code editor of choice is blinking at you.
+
+A good beginning,
+is just a mix of tutorials.
+
+Some people like making games,
+others may care for animations.
+
+---
+
+I sat down to creating,
+a Layout Manager today.
+
+I am creating window like things,
+for a visual programming language.
+
+And I like the idea of HBox and VBox,
+which are containers of buttons and labels and such.
+
+The HBox aligns everything horizontally,
+and the VBox vertically.
+
+And the trick to make a window,
+or a useful design, is to nedt VBoxes and HBoxes.
+
+So a standard window is a VBox,
+where everything is stacked vertically.
+
+Until you get to your menu items,
+or icon bar.
+
+That needs to be done with an HBox.
+to Horizontally lay everything out.
+
+---
+
+The math for this is super easy,
+you just add up heights of nested things together.
+
+---
+
+What caught my attention,
+is dynamic resizing.
+
+Not just when the menu, for example,
+is hidden.
+
+But when things,
+just change shape.
+
+I am thus not easily able to add numbers,
+I have to observe them for changes first.
+
+It is easy to recalculate a container,
+when something is added to IT.
+
+But things go nuts,
+when a container several levels deep resizes.
+
+You don’t know dimensions ahead of time,
+you have to efficiently and recursively observe everything.
+
+---
+
+The part that makes things like this fun,
+aside from puzzle solving.
+
+Is the greater picture, re-sizable windows mean,
+I can create a sticky notes in my program.
+
+And let the users resize them,
+to match the text content.
+
+---
+
+The picture beyond that,
+is a color picker for AI generated UI Kits and Web Site Designs.
+
+Users can drop any number of cross hairs,
+of their image, and the node will make an output socket for each.
+
+I am sure that will require window resizing,
+in strange ways.
+
+---
+
+Once you get programming,
+you get into these multi level “games”.
+
+And it is all a heck of a lot of fun,
+when you make progress and learn new things.

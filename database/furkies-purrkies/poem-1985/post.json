@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1985",
+  "guid": "f0959d46-378c-4acb-a86a-53053e6eba37",
+  "title": "How Were We Supposed To Know?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-08-07T21:20:12.739Z",
+  "lastmod": null,
+  "weight": 198500,
+  "audio": "poem-1985.mp3",
+  "image": "poem-1985-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/bare-tree-5A0zIKE7rEo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 13
+}

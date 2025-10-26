@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0064",
+  "guid": "ba68a8b8-7f19-48e5-b691-34c8ef7d3db7",
+  "title": "The Jogger",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-05-08T21:27:06.108Z",
+  "lastmod": null,
+  "weight": 6400,
+  "audio": "poetry-0064.mp3",
+  "image": "poetry-0064-illustration.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

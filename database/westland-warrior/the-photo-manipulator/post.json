@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-photo-manipulator",
+  "guid": "5bbb3901-739d-4456-b5fa-5228b249cdcd",
+  "title": "The Photo Manipulator",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2022-04-24T19:50:17.339Z",
+  "lastmod": null,
+  "weight": 11700,
+  "audio": null,
+  "image": "warrior-the-photo-manipulator-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 1
+}

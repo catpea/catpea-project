@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0329",
+  "guid": "f0dbc1ae-a5a8-4ec2-b001-0cd7bf411095",
+  "title": "To Share Wisdom",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-24T00:26:53.848Z",
+  "lastmod": null,
+  "weight": 32900,
+  "audio": "poetry-0329.mp3",
+  "image": "poetry-0329-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/2rMOrpr3GUk"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

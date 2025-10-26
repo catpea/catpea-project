@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0321",
+  "guid": "0e59e7f1-b3d0-4fdd-94ac-520520eb9e4d",
+  "title": "Aquamarine",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-01-16T03:48:49.022Z",
+  "lastmod": null,
+  "weight": 32100,
+  "audio": "poetry-0321.mp3",
+  "image": "poetry-0321-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/i9zz2-SkHeM"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

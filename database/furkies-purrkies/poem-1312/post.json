@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1312",
+  "guid": "89e12b4f-e6b9-4fbc-9f52-995892076ee7",
+  "title": "The Question Of Freedom Of Will Is About Real Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-10-05T03:36:41.355Z",
+  "lastmod": null,
+  "weight": 131200,
+  "audio": "poem-1312.mp3",
+  "image": "poem-1312-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/hSnAgGOL66o"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

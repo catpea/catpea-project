@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-sculptor",
+  "guid": "9fc1314f-62ec-4cf9-9b37-18a51eb0d8af",
+  "title": "The Sculptor",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-12-11T03:40:45.561Z",
+  "lastmod": null,
+  "weight": 11000,
+  "audio": null,
+  "image": "warrior-the-sculptor-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

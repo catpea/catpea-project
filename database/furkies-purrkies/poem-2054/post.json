@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2054",
+  "guid": "4a4e4f07-1a22-4feb-a181-e908c7c3f1f2",
+  "title": "The Quarks Will Dance In Patterns Your Code Will Predict But Never Become",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-14T21:00:42.697Z",
+  "lastmod": null,
+  "weight": 205400,
+  "audio": "poem-2054.mp3",
+  "image": "poem-2054-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

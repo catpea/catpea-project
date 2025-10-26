@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-chef",
+  "guid": "4b65228a-c2b2-4a17-847b-d9f1cfda816c",
+  "title": "The Chef",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-10-23T01:19:47.624Z",
+  "lastmod": null,
+  "weight": 6800,
+  "audio": null,
+  "image": "warrior-the-chef-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

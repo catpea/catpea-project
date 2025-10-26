@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1258",
+  "guid": "31609f50-0dda-4280-91b3-2232ed38e4db",
+  "title": "The First Real Night In The Woods Is Not As Bad As It Seems",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-08-12T03:27:51.609Z",
+  "lastmod": null,
+  "weight": 125800,
+  "audio": "poem-1258.mp3",
+  "image": "poem-1258-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/wObKq-nLWHU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

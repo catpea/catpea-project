@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0666",
+  "guid": "525403d9-863b-4e1f-a055-9de210515ccb",
+  "title": "For The Squirrels: Four Bags Of Peanuts And A Song",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-26T23:21:30.412Z",
+  "lastmod": null,
+  "weight": 66600,
+  "audio": "poetry-0666.mp3",
+  "image": "poetry-0666-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/yBXLjBteptw"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

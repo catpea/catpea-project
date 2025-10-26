@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0620",
+  "guid": "8c9fe797-070a-4d69-8c16-334d38d5049e",
+  "title": "Art Is Where It Is At",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-11-11T01:45:26.614Z",
+  "lastmod": null,
+  "weight": 62000,
+  "audio": "poetry-0620.mp3",
+  "image": "poetry-0620-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/D5nh6mCW52c"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

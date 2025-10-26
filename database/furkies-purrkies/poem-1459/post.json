@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1459",
+  "guid": "199ae10e-e3ea-48ab-b32d-13489fef9a5e",
+  "title": "Baby Steps; Or, Adventure And The Quest For Authenticity, Class, Wisdom And Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-02-29T05:28:18.886Z",
+  "lastmod": null,
+  "weight": 145900,
+  "audio": "poem-1459.mp3",
+  "image": "poem-1459-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 9
+}

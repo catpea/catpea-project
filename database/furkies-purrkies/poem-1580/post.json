@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1580",
+  "guid": "9a0a6c8c-1aa3-4540-a150-019199619c1e",
+  "title": "Life Long For A Long Life; Or, Don't Make Fitness Unnecessarily Hard",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2024-06-29T03:29:07.706Z",
+  "lastmod": null,
+  "weight": 158000,
+  "audio": "poem-1580.mp3",
+  "image": "poem-1580-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 10
+}

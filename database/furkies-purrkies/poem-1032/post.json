@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1032",
+  "guid": "8a38ee8d-2f9e-443f-8896-afe3198a9b29",
+  "title": "My Little Adventures In Art",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-28T04:25:53.835Z",
+  "lastmod": null,
+  "weight": 103200,
+  "audio": "poem-1032.mp3",
+  "image": "poem-1032-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

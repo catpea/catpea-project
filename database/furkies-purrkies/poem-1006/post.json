@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1006",
+  "guid": "413747a1-2fe4-4c96-ba5a-6c3aecc13dbc",
+  "title": "On Simply Writing Simple Code",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-12-02T04:12:46.277Z",
+  "lastmod": null,
+  "weight": 100600,
+  "audio": "poem-1006.mp3",
+  "image": "poem-1006-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/1yZI30karxI"
+  ],
+  "resources": null,
+  "draft": false,
+  "raw": true,
+  "chapter": 5
+}

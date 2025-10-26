@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0404",
+  "guid": "e55496dc-e42c-4ba4-aef7-d58aa5f071c8",
+  "title": "The New Computer Revolution",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-04-09T03:03:52.270Z",
+  "lastmod": null,
+  "weight": 40400,
+  "audio": "poetry-0404.mp3",
+  "image": "poetry-0404-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/Dz5j0QKVUGY"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 2
+}

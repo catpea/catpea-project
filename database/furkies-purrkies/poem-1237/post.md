@@ -1,0 +1,117 @@
+Let me make something very unusual, clear,
+and be forewarned, as it is sure to come across as tough love for many.
+
+Walking the great trails,
+is not optional.
+
+You must be very confused by hearing such a thing,
+most people don’t even know what the great trails are.
+
+But they are in fact more important than a High School Diploma,
+more important that a College and University Education.
+
+The trails are more important than your career,
+and all the promotions combined.
+
+They are more important, than any advice you ever heard,
+they are certainly more important, than making others proud of you.
+
+The trails are also very hard, but it is just tough love,
+you are not a pumpkin, not a worker – you are meant to become a great being.
+
+Only those things that deeply matter to you,
+are as important as the trail.
+
+---
+
+I recommend you to section hike,
+so that the triple crown takes you a lifetime.
+
+And please always hike as a group,
+the cranky but powerful holding up the rear.
+
+And the energetic and cheerful,
+on point leading the way.
+
+And don’t worry, there is a lot of space out there,
+you keep in touch by texting over satellite.
+
+The groups will shift,
+it is always like that.
+
+Some will have to go to fight in wars,
+or put out cranial blazes as Bryson puts it.
+
+Others will come and join, to question their tacit assumptions,
+and unarticulated presuppositions as Cornel West puts it.
+
+Go as a group,
+don’t go alone.
+
+---
+
+You see, Humanity is too young to get any thing right,
+we are glued, and taped up, by sticky invisible indoctrination.
+
+It is really hard to see it, you need to get to the other side,
+become a Cast Away, so that you see with your own eyes.
+
+You will also need narrated books, your intellectual inheritance,
+the books are as important as the trail it self.
+
+You know...
+the books and the trail are one and the same, indivisible really.
+
+Books written by clear thinking great beings,
+which are also loved by intellectuals, adventurers, and lovers of wisdom…
+
+Are worthy of your precious time, they are far more important,
+than standardized lectures, career advice nonsence, and especially text books.
+
+---
+
+Yes, something is wrong, but it is just a wrinkle,
+that something comes from Humanity’s immaturity.
+
+But you see, we are also likely genetically predisposed,
+to hold whatever opinion we are born to, over the facts that are actually worthy of us.
+
+One way to break out of the indoctrination,
+is to shake off the stress, by letting the trail run it into the ground.
+
+---
+
+We will all read different books,
+we will absolutely cry to different stories and pages.
+
+But the direction, the direction will always be the same for all them many generations,
+that will need to walk the trail to get there.
+
+Humanity’s point of convergence,
+on Wisdom and Greatness.
+
+---
+
+Lastly, I wanted to name the trails,
+so that you know where to go.
+
+Take a look at [What is the Appalachian Trail?](https://www.youtube.com/watch?v=hPSvdKTEZug)
+a very short and powerful introduction to what a trail really is.
+
+And then give Dixie a listen,
+she’s a guide, a kindred spirit, she’ll show you what got lost in translation.
+
+[Appalachian Trail Documentary: DIXIE TO MAINE](https://www.youtube.com/watch?v=EzXP5PjRHjM)
+
+[Pacific Crest Trail Documentary: A YEAR OF ICE AND FIRE](https://www.youtube.com/watch?v=V4D4TcgppD8)
+
+[Continental Divide Trail Documentary: CHOOSE YOUR ADVENTURE](https://www.youtube.com/watch?v=1ewQvcGhQAA)
+
+If you are from other parts of the world, don’t forget that we are one huge family,
+we are only divided by indoctrination.
+
+The same indoctrination that keeps the world at war, and in poverty,
+the same indoctrination that prevents you from reaching out for your true intellectual inheritance.
+
+The many thousands of life changing books,
+written by clear thinking great beings, that help us set course for wisdom and greatness.

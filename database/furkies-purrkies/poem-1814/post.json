@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1814",
+  "guid": "132452fa-130a-412a-ae24-3a34863dfdd9",
+  "title": "Smitten Your Kitten",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-18T04:35:40.157Z",
+  "lastmod": null,
+  "weight": 181400,
+  "audio": "poem-1814.mp3",
+  "image": "poem-1814-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-blacksmith",
+  "guid": "5c52e496-de19-4036-a477-00b8e67cb589",
+  "title": "The Blacksmith",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2019-10-30T01:40:56.465Z",
+  "lastmod": null,
+  "weight": 7900,
+  "audio": null,
+  "image": "warrior-the-blacksmith-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

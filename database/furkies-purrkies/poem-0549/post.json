@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0549",
+  "guid": "03a0c5fc-4551-45ab-b648-efbf5f49ca0f",
+  "title": "Education For All The Epochs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-08-31T19:26:03.371Z",
+  "lastmod": null,
+  "weight": 54900,
+  "audio": "poetry-0549.mp3",
+  "image": "poetry-0549-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/ASEaTdVIvBQ"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

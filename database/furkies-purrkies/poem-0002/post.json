@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0002",
+  "guid": "f4a214ce-955b-4537-b74c-84bf43206ace",
+  "title": "Don't Aim At Success by Viktor E. Frankl",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-03-18T20:14:25.929Z",
+  "lastmod": null,
+  "weight": 200,
+  "audio": null,
+  "image": "poetry-0002-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/lRA_WTczjgw"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

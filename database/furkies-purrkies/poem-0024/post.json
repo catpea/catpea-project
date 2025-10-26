@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0024",
+  "guid": "5ffd4f83-7877-420a-be06-2a10a8a1a579",
+  "title": "All Things Special",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2020-04-05T01:04:04.832Z",
+  "lastmod": null,
+  "weight": 2400,
+  "audio": null,
+  "image": "poetry-0024-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com/"
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

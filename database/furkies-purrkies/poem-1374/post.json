@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1374",
+  "guid": "4b0df5ef-b0ad-4458-b795-1fb45b431919",
+  "title": "Understanding Visual Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-12-06T04:50:14.453Z",
+  "lastmod": null,
+  "weight": 137400,
+  "audio": "poem-1374.mp3",
+  "image": "poem-1374-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

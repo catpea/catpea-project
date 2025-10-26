@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1810",
+  "guid": "b192a4d4-ecb9-4470-b1b8-b84adc3df5af",
+  "title": "Bodybuilding Wisdom For Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-02-14T03:48:38.294Z",
+  "lastmod": null,
+  "weight": 181000,
+  "audio": "poem-1810.mp3",
+  "image": "poem-1810-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 12
+}

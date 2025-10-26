@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1220",
+  "guid": "01b053c6-8dfb-45f3-af49-41edac29f0ba",
+  "title": "The Urgent, Brave, And Noble Quest For Your Intellectual Independence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-05T02:38:59.963Z",
+  "lastmod": null,
+  "weight": 122000,
+  "audio": "poem-1220.mp3",
+  "image": "poem-1220-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/DvwTEsIQyU0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

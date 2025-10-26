@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ytcover": true
+  },
+  "id": "the-student",
+  "guid": "11c0c109-7a80-484d-ae17-a9472a4c7996",
+  "title": "The Student",
+  "description": null,
+  "tags": [
+    "westland-warrior"
+  ],
+  "date": "2020-03-25T02:48:11.660Z",
+  "lastmod": null,
+  "weight": 16800,
+  "audio": null,
+  "image": "warrior-the-student-cover.jpg",
+  "images": null,
+  "artwork": [
+    null
+  ],
+  "resources": [],
+  "draft": false,
+  "chapter": 1
+}

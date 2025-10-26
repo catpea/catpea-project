@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1238",
+  "guid": "a3fd2250-8584-416e-85d7-7ae011c4342a",
+  "title": "Despite What You Are Told, Cats Would Successfully Run The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-07-23T02:30:07.214Z",
+  "lastmod": null,
+  "weight": 123800,
+  "audio": "poem-1238.mp3",
+  "image": "poem-1238-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/eNUvw94AxfM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 7
+}

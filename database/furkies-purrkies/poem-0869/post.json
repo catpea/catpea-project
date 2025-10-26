@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0869",
+  "guid": "7ffbc734-86d8-4c13-9e19-f497ca0630c1",
+  "title": "Writing Programs",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-18T01:52:59.188Z",
+  "lastmod": null,
+  "weight": 86900,
+  "audio": "poetry-0869.mp3",
+  "image": "poetry-0869-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

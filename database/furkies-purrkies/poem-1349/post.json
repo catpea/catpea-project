@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-1349",
+  "guid": "3b3c0c14-41ad-43a1-94a4-ca2dccf74dd9",
+  "title": "The Island Birds Of A Feather",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2023-11-11T04:51:28.292Z",
+  "lastmod": null,
+  "weight": 134900,
+  "audio": "poem-1349.mp3",
+  "image": "poem-1349-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 8
+}

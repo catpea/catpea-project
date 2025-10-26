@@ -1,0 +1,22 @@
+{
+  "features": {},
+  "id": "poem-0655",
+  "guid": "7200fdd5-f071-4c78-a0c7-60ed35c809c7",
+  "title": "Self Education First",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2021-12-16T03:14:25.112Z",
+  "lastmod": null,
+  "weight": 65500,
+  "audio": "poetry-0655.mp3",
+  "image": "poetry-0655-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/BdNQ4JIkX7M"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 3
+}

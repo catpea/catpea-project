@@ -1,0 +1,23 @@
+{
+  "features": {},
+  "id": "poem-0825",
+  "guid": "39f81e5c-6d06-4b4a-b83f-5fb3ac07c552",
+  "title": "On Rebuilding And 3D Printing Ancient Artifacts",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-06-04T02:05:27.433Z",
+  "lastmod": null,
+  "weight": 82500,
+  "audio": "poetry-0825.mp3",
+  "image": "poetry-0825-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com",
+    "https://www.getty.edu/art/collection/object/103Y0D"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 4
+}

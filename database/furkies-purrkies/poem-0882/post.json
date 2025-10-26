@@ -1,0 +1,24 @@
+{
+  "features": {
+    "portfolioJpg": true
+  },
+  "id": "poem-0882",
+  "guid": "0ced8917-3228-498a-9d4a-25da8bc94885",
+  "title": "Dream To Learn; Or, Launching Servers And Brushing Up On My Hair",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2022-07-30T22:03:45.839Z",
+  "lastmod": null,
+  "weight": 88200,
+  "audio": "poetry-0882.mp3",
+  "image": "poetry-0882-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "draft": false,
+  "chapter": 5
+}
