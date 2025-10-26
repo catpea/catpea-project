@@ -1,5 +1,14 @@
 export default async function () {
   const response = [
+
+    {
+      type: 'warning',
+      urgent:false,
+      text:`website upgrades may cause disruptions`,
+      note:`Starting October 2025, I will be upgrading the websinte in the next few months, YouTube will work without trouble.`,
+      link:{title:`YouTube Backup`, url:'https://www.youtube.com/@catpea'}
+    },
+
     {
       type: "info",
       urgent: false,
@@ -16,6 +25,8 @@ export default async function () {
     //    text:`A Marvelous Computer Crash Occured! - Small Delays Possible`,
     //    note:`Lol!, my workstation blinked "Unrecoverable SPI Flash Failure, or CPU Failure" and it is absolutely not fixable. There maybe delays in the publishing of tonight's poem (It's Abe again). Though if you are reading this, then the new (also refurbished, but a bit more snappy) backup workstation is already in place, and things may work out just fine. I am expecting some hiccups, as I had to move everything to a new Linux.`,
     // },
+
+
 
     // {
     //   type: 'warning',

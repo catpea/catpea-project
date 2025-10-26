@@ -1,0 +1,158 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Programming And Med School
+Sunday • October 26th 2025 • 5:57:07 pm
+
+I don't know much about Med School,
+but I know much about programming, so hear me out.
+
+I have long had a suspicion that programming,
+is the only powerful approach to authentic education.
+
+In conspiratorial terms, just to get your attention,
+“They are not teaching you coding to stop you from learning.”
+
+The foremost problem with this notion is that,
+if you want to go to med school programming will do little for you.
+
+The correct way to solve this, is to understand,
+that you can easily memorize human anatomy by becoming an artist.
+
+Creating you own Codex Leicester,
+will not only make a precious keepsake, but build a memory palace.
+
+Programming, goes beyond pencils and paper,
+you can make games, simulations, and visualizations.
+
+And not only memorize hierarchies,
+but sequences, processes, interactions, and mechanisms.
+
+You can model how neurons fire in networks,
+how the heart’s electrical system maintains rhythm.
+
+Or how enzymes catalyze reactions,
+in cascades.
+
+You could simulate blood flow through arteries,
+how drugs bind to receptors and alter pathways.
+
+Even complex phenomena,
+immune responses, gene regulation.
+
+---
+
+I have ended the programming won’t help you with med-school argument,
+it will make you more than you can imagine today.
+
+But that was before AI, that was the primitive answer,
+the one that challenged you to more side education.
+
+Today, with the power of AI,
+your programming education is not a support system.
+
+It is the heart of your education,
+the heart of the greatness of your knowledge.
+
+The crucible of transcendence,
+the flame of invention.
+
+This has nothing to do with Computational Biology,
+this is just what learning programming does for you.
+
+---
+
+I will now briefly describe evidence of how artificial intelligence,
+enhances and greatly accelerates your programming education.
+
+I will use a quick example from my own world,
+where I am learning something new about programming.
+
+I am designing a program that converts text, audio and even video,
+on inexpensive low powered computers.
+
+My target computer reports 4 CPUs, at 1800 MHz
+my 15 year old desktop by contrast has 8 CPUs at 4000 Mhz.
+
+To be precise, both computers have a single chip,
+that feature multiple cores.
+
+The core approach is cheaper to manufacture,
+and more energy ...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...reads][3]”
+
+---
+
+This may sound like an ordinary thing,
+but this is a modern miracle.
+
+A miracle, that turned some of the best AI researchers,
+into futuristic “theorists”.
+
+And even I often feel the pressure to ramble,
+about AI, but I assure you I am not rambling here.
+
+---
+
+This miracle, is real, is about taking worker_threads,
+and placing it, in your context, in what you are programming.
+
+Worker threads are confusing,
+but not when AI shows you how to address your needs.
+
+Now, simultaneous processing, worker pools,
+task queues, are not on your reading list.
+
+But, are attached to your programming needs,
+where you can see where everything is supposed to go.
+
+Think of my requirements as a skeleton,
+the AI adds the organs, vessels, and connective tissue.
+
+Worker threads become neurons transmitting impulses in parallel, while queues act as the bloodstream carrying resources to where they’re needed.
+
+Task schedulers behave like the autonomic nervous system, regulating flow without conscious control.
+
+Shared memory resembles inter-cellular signaling, while synchronization barriers act like membranes ensuring proper exchange.
+
+The miracle is in AI locating the correct programming patterns,
+and transforming them into your needs.
+
+So that you are now able, to now figure out,
+where everything goes.
+
+From needs and context, and program requirements,
+that you yourself have set, and will have trouble recognizing.
+
+---
+
+Lastly, I want to show you how I did this decades ago,
+I would learn languages, by rewriting a popular email script.
+
+I would bring the context of the [FormMail][4] script,
+and search documentation of a new language I was learning.
+
+On how the things that FormMail Does,
+are accomplished in the new language I was learning.
+
+The more languages I learned,
+the faster I learned new languages.
+
+---
+
+What you have today, is so much superior,
+that it is foolish not to take a break from school and learn programming.
+
+There is much more to this,
+I already mentioned Computational Biology…
+
+But to close, it will suffice to say, AI will not take your job,
+is you are able to conduct a symphony orchestra with its powers.
+
+[1]: https://nodejs.org/api/worker_threads.html
+[2]: files/strategies.md
+[3]: files/miracle.md
+[4]: https://github.com/catpea/FormMail
