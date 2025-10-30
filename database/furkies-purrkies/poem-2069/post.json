@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2069",
+  "guid": "5d209739-9b8c-416d-9613-9ad7d149894f",
+  "title": "New World: The World Has Not Changed, It Is New",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-29T22:51:03.123Z",
+  "lastmod": null,
+  "weight": 206900,
+  "audio": "poem-2069.mp3",
+  "image": "poem-2069-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/orange-flower-on-green-grass-during-daytime-KPMtqVo9Iv0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
