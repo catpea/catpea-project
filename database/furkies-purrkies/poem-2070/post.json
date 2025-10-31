@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2070",
+  "guid": "58ab367c-cac0-4805-8dc0-08d6104832f1",
+  "title": "Spooky JavaScript",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-10-31T01:15:18.793Z",
+  "lastmod": null,
+  "weight": 207000,
+  "audio": "poem-2070.mp3",
+  "image": "poem-2070-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
