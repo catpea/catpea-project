@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2071",
+  "guid": "f9e77bb5-3839-4412-8892-494c2681da6a",
+  "title": "Cautio Criminalis: The Shadows Know",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-01T00:36:23.915Z",
+  "lastmod": null,
+  "weight": 207100,
+  "audio": "poem-2071.mp3",
+  "image": "poem-2071-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
