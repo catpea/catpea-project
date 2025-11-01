@@ -379,4 +379,6 @@ That's not nothing.
 
 That's everything.
 
-(This is a work of fiction, crafted to help eveyone see. Veritas Numquam Perit.)
+(This is a work of fiction, crafted [to help eveyone see][1]. Veritas Numquam Perit.)
+
+[1]: files/moved.md
