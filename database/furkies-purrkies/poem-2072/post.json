@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2072",
+  "guid": "c1b38552-e69a-4a83-b6b6-b5c8278265d6",
+  "title": "THE COVENANT: A Charter for Wisdom in the Age of Clear Sight (AI Prompt)",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-01T23:38:41.383Z",
+  "lastmod": null,
+  "weight": 207200,
+  "audio": "poem-2072.mp3",
+  "image": "poem-2072-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
