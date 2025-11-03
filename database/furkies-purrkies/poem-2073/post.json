@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2073",
+  "guid": "ee528b42-2eb9-4dc3-857a-f77b0c410c5b",
+  "title": "Periwinkle Plumpkin",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-03T02:36:37.205Z",
+  "lastmod": null,
+  "weight": 207300,
+  "audio": "poem-2073.mp3",
+  "image": "poem-2073-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
