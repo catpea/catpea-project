@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2074",
+  "guid": "1ad3eaed-f2f1-4e5b-a9a6-19b99b8c794b",
+  "title": "There Is No Such Thing As Genius, That’s The Normal You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-04T01:10:22.490Z",
+  "lastmod": null,
+  "weight": 207400,
+  "audio": "poem-2074.mp3",
+  "image": "poem-2074-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
