@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2075",
+  "guid": "2183ace4-a28e-42a0-824b-a8e6e31435fb",
+  "title": "Mama Going Back to High School",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-05T01:07:46.100Z",
+  "lastmod": null,
+  "weight": 207500,
+  "audio": "poem-2075.mp3",
+  "image": "poem-2075-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
