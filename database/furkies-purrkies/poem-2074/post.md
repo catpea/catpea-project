@@ -125,3 +125,4 @@ To grow up, means to grow all the way up,
 until you become a great being.
 
 [1]: https://www.youtube.com/watch?v=hPSvdKTEZug
+[HD Kitty](files/kitty.jpg)

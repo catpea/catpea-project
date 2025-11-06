@@ -9,7 +9,7 @@ date: '2025-11-04T01:10:22.490Z'
 lastmod: null
 weight: 207400
 audio: poem-2074.mp3
-image: poem-2074-illustration.jpg
+image: poem-2074-illustration.avif
 images: null
 artwork:
   - https://catpea.com
@@ -148,3 +148,4 @@ To grow up, means to grow all the way up,
 until you become a great being.
 
 [1]: https://www.youtube.com/watch?v=hPSvdKTEZug
+[HD Kitty](files/kitty.jpg)
