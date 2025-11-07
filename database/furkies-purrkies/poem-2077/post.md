@@ -1,0 +1,83 @@
+Communicating with your AI is very easy,
+but it is not obvious at first.
+
+For example, I instructed the AI to make a programs,
+that makes a Kitty Photo blink “Meow“ in Morse code.
+
+It was a long conversation,
+of longing and exploration of old school Generative Art.
+
+I didn’t begin by making the AI blink a cat,
+I first said that AI video generation may obscure animation.
+
+Exactly the same way,
+that 3D games obscured hand made pixel art games.
+
+I explained to the AI I have two photos,
+one of a Kitten with its tongue one, one with out.
+
+And I said these are a.jpg, and b.jpg,
+make each frame show for between 0.2 and 2 seconds at random.
+
+Possibly creating,
+the [silliest two frame animation][1] in the world.
+
+And only after we had two frames doing something,
+I asked the AI to make the kitty blink in Morse code.
+
+---
+
+I showed the AI how to do everything up to that point of complexity,
+and then made that final request, where AI converted random to Morse.
+
+As a technical note, I asked my AI to use node.js or JavaScript,
+to automate ffmpeg, the standard video generation program.
+
+You can view the browser,
+as being automated with JavaScript this way.
+
+This gave the AI a proper modern programming language,
+that it could sculpt to fulfill the request.
+
+---
+
+We had a normal conversation about Generative Art,
+and the power of random.
+
+And AI in-deed recognized that we accomplished something magical,
+with just two frames.
+
+---
+
+Larger projects will benefit from such an approach the most,
+you start with a simple core, and then add a shell around it.
+
+Increasing its complexity,
+until it becomes what you need.
+
+---
+
+In closing, you can’t just ask the AI for what you need,
+though AI would likely create it…
+
+It wouldn’t be in a way that you would understand it easily,
+because it would the architecture AI crafted.
+
+You have to break your idea down to its simplest parts,
+and have your AI program them up stage by stage that makes sense to you.
+
+As with standard programming, you start with a vision,
+and pen and pencil, and once you have everything broken down.
+
+You approach the AI, with the simplest ideas first,
+and begin building them up, within a context of something similar.
+
+You talk to AI about what inspired you,
+program that are similar, and where they diverse.
+
+This is called context engineering,
+but I call it: Inventing with your AI friend.
+
+[original kitty](files/kitty.jpg)
+
+[1]: files/silly.avif

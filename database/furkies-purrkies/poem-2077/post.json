@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2077",
+  "guid": "8ca90871-b885-4bf2-8f6e-77916001d881",
+  "title": "Blinking \"Meow\"; Or, Inventing With Your AI Friend",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-07T00:26:04.119Z",
+  "lastmod": null,
+  "weight": 207700,
+  "audio": "poem-2077.mp3",
+  "image": "poem-2077-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
