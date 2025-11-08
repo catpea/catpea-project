@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2078",
+  "guid": "b67c92bf-a45d-4019-ae0b-a8ea80becc1b",
+  "title": "Creating A Static HTML Blog Generator: Transform Your Plain Text Into A Website",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-08T03:40:52.557Z",
+  "lastmod": null,
+  "weight": 207800,
+  "audio": "poem-2078.mp3",
+  "image": "poem-2078-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

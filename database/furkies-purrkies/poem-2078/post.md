@@ -1,0 +1,121 @@
+Long before you write your stories, and poems,
+you have to create a command that converts your text to a web page.
+
+If not, then somebody else will tell you how to format everything,
+and their view of blobbing is unlikely to match yours.
+
+F-ooo-r example, I like making audio blogs,
+which are like radio, and podcasts, and close enough to videos.
+
+And that comes with a lot of custom little considerations,
+for example compression can squeeze your blog into lots of free hosting sites.
+
+And give you a unique AM radio feel,
+or even vintage record player talking machine spin that demands black & white photos.
+
+You can experiment with generative art to convert audio and still photos,
+to video and upload a copy of your blog to video sites.
+
+And add a little talking head, into the corner of the video,
+in the age of AI you can generate a different character for each video.
+
+It is possible to make a talking cat that has a correctly animated mouth,
+or a simpler more random Max Headroom like style creature.
+
+Where you don’t need to process the audio,
+to make the mouth mover correctly.
+
+---
+
+The most important thing about making your own command,
+is that you put your foot into learning new things.
+
+And that because your blog command is important to you,
+all the things you learn will be interesting, relevant, and will stick.
+
+For example, until you realize how cool this is,
+you may have no need to try to figure out how Linux commands work.
+
+And they are very easy, and parsing command line arguments,
+is as run as checking if the argv item starts with a hyphen or two.
+
+If so, then you create a new popery on your object,
+is not, then it is a value for the property you previously created.
+
+---
+
+I am upgrading my own blog, and I made a really cool discovery last week,
+really a huge blogging breakthrough for me.
+
+But before we discuss it, you have to understand how you save the data,
+you actually only need files and directories.
+
+Save each post in a folder marked with a number,
+such as post-0001, post-0002, post-0003.
+
+And inside put in cover.jpg for your main image or thumbnail,
+post.md or post.txt for your text, audio.mp3 and config.json.
+
+Config.json keeps some structured data for you,
+such as title post tags, date published, and whether it is a draft or not.
+
+---
+
+Then you just read contents of your folder,
+load up the json, convert text to html and copy your audio and image.
+
+I used to think that you also had to create the website html files here,
+but this is what my discovery was about.
+
+Transforming your files, and creating the pages that users browse,
+are two different programs.
+
+The first part converts your post-000-number files
+to entries in a permalink folder.
+
+And the second one creates html files, with many posts per page,
+and a previous page of posts and next page of posts button pager thingie.
+
+---
+
+Dividing your static HTML blog generator in two parts,
+transform posts, and make browsable pages makes it easy to reason about.
+
+And if any of this sounds confusing, please, please, know,
+that AI can program everything for you.
+
+I recommend you ask the minimalist lightweight version,
+that is a wonderful way to learn JavaScript.
+
+AI will show you how to open and close files,
+and work with the file system.
+
+How to use SQLlite to keep track of modification dates,
+to that you don’t have to regenerate the same posts.
+
+And of course you get to learn how to use templating engines,
+I recommend JavaScript template string, no need for template engines or EJS.
+
+As you publish your blog you will learn about domain name registration,
+and talk to AI about git and free git repository hosting.
+
+---
+
+Remember, keep your post directory transformation, separate,
+from presentation pages that present many posts per page.
+
+And consider using a classless CSS framework,
+where AI writes HTML in a certain way, and it gets automatically decorated.
+
+If you don’t know what to make your blog about,
+make it about learning JavaScript.
+
+Or, write a blog about your blog,
+like I am doing right now.
+
+---
+
+My AI created such [a tiny litte blog engine for you][1],
+ask your AI how to install nodejs and use and customize it.
+
+[1]: files/blog.js
