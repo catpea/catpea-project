@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2079",
+  "guid": "8dee26a6-359d-4dfc-a5d9-d6fcef03b63b",
+  "title": "The Skedaddle Whimsy, A Modern Yankee Doodle Do for the Soul",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-09T02:33:16.307Z",
+  "lastmod": null,
+  "weight": 207900,
+  "audio": "poem-2079.mp3",
+  "image": "poem-2079-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
