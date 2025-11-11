@@ -1,0 +1,160 @@
+Think of your Education and Culture as a language,
+if you don’t speak it, protect it, and pass it on, it will go extinct.
+
+Side loaded cultures such as Religion, Slavery, Forced Political Systems,
+to sample across human history, are not evolved, they are designed.
+
+The difference between an evolved culture,
+and manually crafted culture.
+
+Is the same as the pet you get for Christmas,
+and the pet abomination you try to make yourself.
+
+An evolved culture is finely tuned though life, love, wisdom, rising,
+a made up culture is an abomination.
+
+A divine leader fantasy that cannot help but to deteriorate into atrocities,
+slavery, war, and all the horrible things that make-believe leaders always do.
+
+Our real culture, hit about seven heights, heroes, philosophers, noble knights,
+the Lady and the Gentleman, and the Artists, Intellectuals and Scientists.
+
+Each one develops from the previous, it is an evolution,
+though as evolutions go, not as direct as I make it out to be.
+
+Likewise, our education is not as separate from culture as it seems,
+*until* it comes to its standardization and collapse.
+
+You can easily see side loaded cults, religions, or even internet nonsense,
+as being separate from ineffective education today.
+
+Perhaps we can think of it as, an emergent divide and conquer,
+the un-fraying of our beautiful humanity.
+
+This path of good intention that ruined our genius and authentic education,
+will lead an uneducated humanity through, weak cultures into endless ends.
+
+---
+
+The so called leaders, along the way will tell their yes men,
+“Look how uneducated they are, they failed their many cultures.”
+
+“Behold, how they need us”,
+“how they need a strong leader like me”.
+
+We must ensure “My son must be elected after me”,
+which is not how election works.
+
+---
+
+What do they want? Same thing teenage boys want,
+when they fantasize to own an expensive super car.
+
+They want recognition, status, power, uniqueness,
+followers, boot lickers and ass kissers.
+
+They want to destroy the soul of an inters,
+as their shitty wives forgive them.
+
+They want to squeeze communities so hard with poverty,
+that they can give speeches about bringing super-predators to heel.
+
+They want your children to die in prison,
+for throwing a disgusting punk concert in a church.
+
+They want your children to give up love in shame,
+because the only love there is is love for the leader, the god and the country.
+
+They want your children in work camps,
+for mentioning the leader shits.
+
+---
+
+They will take street heroes, and weave them into divine,
+that only they have divine comprehension of.
+
+They will burn, vaporize, anything that stands in their way,
+and call it Tuesday – unable to comprehend the suffering and loss.
+
+But appreciating the number figures,
+that their yes men congratulate them on.
+
+---
+
+They want to rob you of thinkers, until you start destroying them too,
+with pleasure, zest, and conviction, the weaving of lies, that must be true.
+
+Ozymandias, no longer holds true, we are that close to life extension,
+they want things that you cannot comprehend.
+
+Because your life is hard, you are already made poor on purpose,
+and their life is enjoying what they can get away with.
+
+The truth is, that the leaders unravel first,
+in their madness, your leaders want childish things.
+
+---
+
+What do you want when you send your children to ineffective schools,
+what do you want when you wallow in a paradise after death fantasy.
+
+What do you really want, for continuing to ask to have your sins forgiven,
+because what you get as you lay in bed, is news about your grand kids.
+
+That in your last day, show you,
+you got what you deserved.
+
+---
+
+Every day is a new day, and tomorrow morning, as any morning,
+you can make a choice to help your children grow.
+
+Help them reconnect with the culture of heroes, philosophers, noble knights,
+the Lady and the Gentleman, and the Artists, Intellectuals and Scientists.
+
+You can by them a wall projector for their computer, where for a few days,
+they will paint hyper realism in shades of umber that they glaze with color.
+
+You can help them see how Socrates already 2,400 yeas ago represented,
+breaking out of control, that offended the state.
+
+And had to be killed by the hands of infantile people,
+who wanted nothing more than their naughty idiocracy.
+
+You have to help your children to genius,
+and the culture to greatness.
+
+Do not say that they will find peace in the church,
+tell them that to grow up means to grow all they way up.
+
+Until in their authentic genius,
+they become great beings.
+
+You are not poor, you are not dumb,
+you have not been born a sinner in want of paradise.
+
+Child, respect the true human culture,
+the culture of authentic learning and resulting greatness.
+
+Take no part in the destruction of this world,
+there cannot be a paradise greater than your days, here.
+
+Rise,
+rise.
+
+---
+
+I met a traveller from an antique land,
+Who said—“Two vast and trunkless legs of stone
+Stand in the desert. . . . Near them, on the sand,
+Half sunk a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them, and the heart that fed;
+And on the pedestal, these words appear:
+My name is Ozymandias, King of Kings;
+Look on my Works, ye Mighty, and despair!"
+Nothing beside remains. Round the decay
+Of that colossal Wreck, boundless and bare
+The lone and level sands stretch far away.

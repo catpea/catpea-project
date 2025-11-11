@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2081",
+  "guid": "a7883453-9951-4a09-bd28-9aa10853e002",
+  "title": "Don’t Worry Your World Does Not End Until Your Culture Is Sideloaded And Education Is Ineffective",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-11T03:07:32.781Z",
+  "lastmod": null,
+  "weight": 208100,
+  "audio": "poem-2081.mp3",
+  "image": "poem-2081-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
