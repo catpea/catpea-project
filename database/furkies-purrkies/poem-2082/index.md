@@ -1,0 +1,189 @@
+---
+id: poem-2082
+guid: c2edec1d-4198-4168-9dc9-70dde004d906
+title: If You Are Going To Go To The Gym, Go All The Way
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-11-12T02:32:26.433Z'
+lastmod: null
+weight: 208200
+audio: poem-2082.mp3
+image: poem-2082-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+Bodybuilding is the easiest thing at the gym,
+you just move to beats of music for an hour or two.
+
+You lift light, but not so light that you can lift more,
+and never so heavy that you must stop.
+
+Bodybuilding is an extension of jogging with dumbbells,
+it is that jogging that earns you those two hours of endurance.
+
+---
+
+This is where things get difficult, dead-end difficult,
+because you will need to learn to laugh at yourself.
+
+You don’t dress bad-ass, you don’t pretend not to smile,
+you don’t listen to heavy metal, and you don’t make faces.
+
+---
+
+You will need a happy outfit for every Halloween,
+as it maybe the only way…
+
+That you can get into a colorful 90’s wrestling outfit,
+and put on a nice pair of flat tennis shoes that won’t ruin your feet.
+
+Some people will lie and make up stiff about you,
+their laughter and disgust will reach a point where they will turn inside out.
+
+And become turtles,
+and spit when they see you, to show you how you disgust them.
+
+---
+
+That is before you get to the weight rack,
+and you are headed for the ladies weight rack.
+
+Because there is no way in hell, you can reliably jump by 5 pounds per hand,
+by the time you are lifting 17.5 per hand for three hours 2.5 will feel like 50.
+
+Where everyone is lifting 25 pounds per hand for 15 seconds,
+you will start with 3 or 5 pounds for an hours.
+
+More laughter will follow,
+your stomach will have never stuck out more.
+
+---
+
+That is before you started your exercise,
+and it is going to get a lot worse.
+
+The ladies who were born beautiful,
+will get on the bus and go to work out right next to you.
+
+Dressed better than anyone, that has ever walked a Paris cat walk,
+while you struggle to such in your stomach.
+
+But, wait there is more, because the last one that gets off the bus,
+will be wearing pure white, to make all the other ones look REALLY basic.
+
+You have spent your life feeling fat and ugly,
+but it is not until that moment, will you realize how bad you look.
+
+These people are so beautiful, so genetically superior,
+the gym is so F*CKING unnecessary for them.
+
+That you will not only with you could suck in your man gut deeper,
+butt that you had the ability to suck in your fat tots too.
+
+(lol)
+
+And mind you, this is while you waddle to your excercise spot,
+you haven’t begun your excersice yet, no siree Bob.
+
+And here it will get really bad, because the notion of correct posture,
+is completely made up by people who pretended to know fitness.
+
+You, you, need to dance, with your light dumbbells,
+in what is your full warrior regalia.
+
+To this day after years and years of my transformation from obese to athlete,
+I still tell myself no one saw that, everyone is too busy doing their own exercise.
+
+And athlete is the term my doctor used last week,
+I still have years to go.
+
+You will need to quit your big job, obese,
+you are not going to get to retirement, sorry.
+
+---
+
+Endurance based bodybuilding creates results weekly,
+your own eyes will see those results monthly, as clear as daylight.
+
+Your initial water dance becomes a symphony orchestra,
+of lifting impossible weights for impossible durations to impossible ends.
+
+Most of us, who have been chunky all our lives,
+will get to see your actual faces for the first time in your life.
+
+Mine turned out to be handsome, I am still getting used to it,
+but I am glad to say, I forgot what my butter face looked like.
+
+I’ve changed so many times, that if it wasn't for the lies people spread,
+people would have become friends with me multiple times.
+
+My voice, softened, because when I was fat,
+people were scared of me.
+
+This is why you can’t dress bad ass,
+because that actually works so scare people away from you, fat or not.
+
+You can’t avoid dressing for Halloween, no matter haw hard the turtles churn,
+because you live only once, and you have to celebrate you life.
+
+You can’t bring any weakness to the gym,
+no fear, no bullies, no surrender, no retreat, no dressing like you are already dead.
+
+If you are going to go,
+go all the way.
+
+You will become young again,
+you will become healthy.
+
+Ultimately those who laugh at you, who try to shame you,
+or lie about you, they are just showing you what failure looks like.
+
+I think the in-crowd will make fun of you anyway,
+why not dress the way boxers dress before a fight.
+
+Take time to consider what your color is,
+whether you will wear a cape, or just a cloaked hood between the car and gym.
+
+Consider what your Halloween outfit will be,
+because in both e the good sense and the bad sense, Halloween comes at you fast.
+
+I made my Halloween two months long,
+but, I only attach a singe large tail to my weight belt.
+
+My 90’s FFW wresting singlet and the large belt tail,
+are my full military regalia, I am the only warrior I know of.
+
+I write this in hopes that you become the next,
+you don’t need luck, you just need to go all the way.
+
+You become young again, you double your lifespan,
+you reinvent dancing.
+
+---
+
+Remember, synchronize your motion to the beats of slow songs,
+to enter a dance trance that will mate time fly, move away from distractions.
+
+Lift light, but not so light that you can lift more,
+and never so heavy that you must stop.
+
+Earn your initial hour of endurance,
+by jogging with light dumbells.
+
+Dance, for once in your lifetime,
+become the problem – it is the only way to defeat obesity.
+
+Now go shopping,
+try to see if you can wear your Full Dress Regalia at sign-up.
+
+Gym is difficult,
+and it is best to start difficult.

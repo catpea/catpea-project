@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2082",
+  "guid": "c2edec1d-4198-4168-9dc9-70dde004d906",
+  "title": "If You Are Going To Go To The Gym, Go All The Way",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-12T02:32:26.433Z",
+  "lastmod": null,
+  "weight": 208200,
+  "audio": "poem-2082.mp3",
+  "image": "poem-2082-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
