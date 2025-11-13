@@ -1,0 +1,182 @@
+---
+id: poem-2083
+guid: 796cdee1-3bdd-4dda-b3d6-1b0c178dc9e6
+title: 'A Bit More Each Time: A Little Bodybuilding Trick For Ladies'
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-11-13T02:28:24.381Z'
+lastmod: null
+weight: 208300
+audio: poem-2083.mp3
+image: poem-2083-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+The most powerful start for bodybuilding is walking,
+but you have to pay attention to how far you get the first time.
+
+That first walk, preferably with hefty dumbbells in hand,
+not so light that you could carry more.
+
+But never so heavy that you need to leave them behind,
+because they are just to disruptive, and too heavy.
+
+Walking far, especially at a brisk pace,
+though never so fast that yo have to stop to catch air.
+
+Is a form of fat burning, endurance building gymnastic,
+if you add dumbbells that slow this down, it becomes muscle building.
+
+If your dumbbells stop you,
+then your exercise is in jeopardy.
+
+Sometimes when you lift to heavy and stop,
+lifting light won’t really save your exercise.
+
+Your muscles may ache too much,
+you won’t lift fast or long enough.
+
+Too fast, or too heavy, turns your physical exercise,
+into a lesson about how not to workout.
+
+---
+
+While the word *gradual* is the answer to everything,
+keeping on the edge of what you can handle is second most important thing.
+
+Once you feel like your body adapted,
+you have to gradually challenge it again.
+
+A little bit more,
+again, not so much that you will be forced to stop.
+
+---
+
+Imagine a fat boy, exercising with this class mates,
+his classmates run faster than he can.
+
+They are keeping at the edge, and their bodies will adapt,
+but he need to stop to catch his breath, and his body will not adapt.
+
+He went too fast, running out of air,
+and doing nothing for his muscles.
+
+He never go to the point where his muscles would receive a clear signal,
+he was stopped short, by something else.
+
+This is what people do today, they lift too heavy,
+cut of their circulation, and can’t lift anymore.
+
+That is why their muscles are not developing,
+they are being stopped short, because they lift too much.
+
+I am not 100% sure they are just cutting of their circulation,
+but whatever it is, it works the same, it forces them to stop.
+
+---
+
+They never did the walking, never trained their body up to a point,
+where they can jog in a way that makes a difference.
+
+---
+
+Run too fast, get stopped,
+run too slow, you won’t get much of a a workout.
+
+But when you ruin at the edge of what you can do,
+your body will begin adapting to give you a little bit extra.
+
+If we stay on the edge, our bodies will not only adapt to bring us comfort,
+but give us extra, a new edge that we can work towards.
+
+---
+
+When you go jogging and fail to get far,
+because you can’t breathe.
+
+That is because you didn’t do the power walking,
+and to do that correctly, you start by walking with light dumbbells.
+
+---
+
+By the time you are slowly jogging with 5lb dumbbells,
+you are building large muscles and burning fat.
+
+You will gain weight because muscles are heavier than fat,
+a weight scale is useless if you are putting on muscle.
+
+About all it is good for, is to weigh yourself before and after excessive,
+to figure out how much water you lose during exercise and how to hydrate.
+
+---
+
+Buying new shoes and going jogging, has destroyed the spirit of many,
+that is just not what you do – you have to walk and power walk first.
+
+---
+
+As you move past 5lb per hand,
+it makes sense to start using a gym.
+
+But to match your slow jog, and stay on that edge,
+you will need to dance.
+
+Dance and slow jogging are interchangeable,
+over time dance will lean towards bodybuilding more than jogging.
+
+You have more opportunity for motion,
+jogging with dumbbells is a full body exercise, but range of motion is limited.
+
+---
+
+Like with jogging you can’t just walk out the door and start walking,
+that will get predictable and boring after a while.
+
+You should start your bodybuilding journey by hiking,
+where you are always moving, scenery is always changing.
+
+And you cannot help but to break up bad dietary habits,
+you will burn fat, put on leg muscle from walking, and strengthen your back.
+
+When you stick with hiking for a while,
+you will discover, you aren’t breathing as heavy, and you walk faster.
+
+Your body is giving you what you need for slow jogging,
+if you hike hard enough, you won’t even run out of breath on your first jog.
+
+---
+
+That is what I mean by “A Bit More Each Time”,
+and how you must gradually increase the challenge.
+
+Your body is a well evolved organism, machine, or animal if you like,
+but you can’t fo too hard, because you will get stopped too soon.
+
+Finally, think of a horse you inherited, and now must take care of,
+if you overload it, it will never get exercise, it will get hurt.
+
+But when you make sure not to push it so hard that it must stop,
+it will just keep getting adapted to the exercise routine by growing muscle…
+
+At which point, you can challenge it a little bit more,
+so that the process of adapting to the new challenge repeats.
+
+---
+
+Lastly please know that there are three huge hiking trails in U.S.
+Appalachian Trail, Pacific Crest Trail, and The Continental Divide.
+
+They take about six months of walking each,
+they are the great launchpads for wiser and healthier lifestyles.
+
+The three together, are known the triple crown of hiking,
+and it is considered one of the greatest achievements to cross all three.
