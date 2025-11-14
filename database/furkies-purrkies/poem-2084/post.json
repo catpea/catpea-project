@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2084",
+  "guid": "72fcad79-1519-40c1-9035-83fecde8013f",
+  "title": "When AI Takes Your Job, You Take AI And Become Your Own Boss",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-14T01:22:39.368Z",
+  "lastmod": null,
+  "weight": 208400,
+  "audio": "poem-2084.mp3",
+  "image": "poem-2084-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
