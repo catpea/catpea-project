@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2085",
+  "guid": "b2e564bf-e64f-4503-b959-539ce008eb78",
+  "title": "Hokey Dancing; Or, The Unbelievably Healing Power Of Dance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-15T03:56:35.783Z",
+  "lastmod": null,
+  "weight": 208500,
+  "audio": "poem-2085.mp3",
+  "image": "poem-2085-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
