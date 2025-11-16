@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2087",
+  "guid": "ac4685ad-dd66-4d68-b6af-ef8abec504a2",
+  "title": "The Last Christmas and The Day of the Sacred Blue - Sister Margaretha's Testament",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-16T15:15:14.625Z",
+  "lastmod": null,
+  "weight": 208700,
+  "audio": "poem-2087.mp3",
+  "image": "poem-2087-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
