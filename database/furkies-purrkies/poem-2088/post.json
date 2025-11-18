@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2088",
+  "guid": "cc3c09c9-9f20-4421-b05c-f7b3de2fc26a",
+  "title": "Programming Web Applications By Just Talking To Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-18T01:22:37.834Z",
+  "lastmod": null,
+  "weight": 208800,
+  "audio": "poem-2088.mp3",
+  "image": "poem-2088-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
