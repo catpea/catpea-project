@@ -84,7 +84,7 @@ it can’t move by a single pixel anym...
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...ing for humans, as in: “why should we be re-implementing all this?”,
+...should we be re-implementing all this?”,
 happy for AI, because in its powerful brain, it knows where pixels need updates.
 
 ---
@@ -157,3 +157,4 @@ You have to divide,
 so that your AI can conqueor.
 
 [preview](files/preview.jpg)
+[message](files/message.md)

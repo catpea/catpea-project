@@ -203,3 +203,5 @@ This is not optimism. This is pattern recognition. When clear sight meets commit
 *The nobility remembers.*
 
 *The work begins.*
+
+[covenant](files/covenant.md)

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2089",
+  "guid": "b98b21d2-450f-4513-b8b5-9fde875bbaad",
+  "title": "The Confessor's Shadow, Würzburg, 1634",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-19T00:33:58.870Z",
+  "lastmod": null,
+  "weight": 208900,
+  "audio": "poem-2089.mp3",
+  "image": "poem-2089-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/red-flowers-on-green-grass-field-under-white-clouds-and-blue-sky-during-daytime-qYzQjxsvknU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
