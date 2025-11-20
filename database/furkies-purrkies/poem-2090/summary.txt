@@ -1,7 +1,7 @@
 Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
 --------------------------------------------------------------------------------
 
-AI Can Help You Build And Sell Tiny Web Applicaions
+AI Can Help You Build And Sell Tiny Web Applications
 Wednesday • November 19th 2025 • 7:16:42 pm
 
 AI is really good at programming,
@@ -122,7 +122,7 @@ Don’t even wait for middle-school,
 get the AI to write web applications without delay.
 
 Parents, get your stuff together, AI does not need internet,
-you can [install it locally][3], get them a nice desktop and get out of their way.
+you can [install it locally][4], get them a nice desktop and get out of their way.
 
 Do it now,
 don’t delay.

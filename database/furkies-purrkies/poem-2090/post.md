@@ -116,7 +116,7 @@ Don’t even wait for middle-school,
 get the AI to write web applications without delay.
 
 Parents, get your stuff together, AI does not need internet,
-you can [install it locally][3], get them a nice desktop and get out of their way.
+you can [install it locally][4], get them a nice desktop and get out of their way.
 
 Do it now,
 don’t delay.

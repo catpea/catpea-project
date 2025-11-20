@@ -1,7 +1,7 @@
 ---
 id: poem-2090
 guid: 9de0fae3-41c5-4e7b-a9cd-98be434c6cb7
-title: AI Can Help You Build And Sell Tiny Web Applicaions
+title: AI Can Help You Build And Sell Tiny Web Applications
 description: null
 tags:
   - furkies-purrkies
@@ -139,7 +139,7 @@ Don’t even wait for middle-school,
 get the AI to write web applications without delay.
 
 Parents, get your stuff together, AI does not need internet,
-you can [install it locally][3], get them a nice desktop and get out of their way.
+you can [install it locally][4], get them a nice desktop and get out of their way.
 
 Do it now,
 don’t delay.
