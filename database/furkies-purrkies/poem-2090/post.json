@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2090",
+  "guid": "9de0fae3-41c5-4e7b-a9cd-98be434c6cb7",
+  "title": "AI Can Help You Build And Sell Tiny Web Applicaions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-20T00:16:42.442Z",
+  "lastmod": null,
+  "weight": 209000,
+  "audio": "poem-2090.mp3",
+  "image": "poem-2090-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

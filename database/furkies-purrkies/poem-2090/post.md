@@ -1,0 +1,128 @@
+AI is really good at programming,
+this basically eliminates poverty, but it certainly makes you stop fearing it.
+
+---
+
+I told ai to stich the pixel-slicer now known as [nine-slice][2],
+with the [panner-zoomer][1] we created earlier.
+
+And I went to lay down,
+just to drive the point home.
+
+After a few moments, I pulled up the live-demo running on a local server,
+and there it was, perfect!
+
+And very useful,
+I can perfectly zoom into the pixels I am slicing.
+
+---
+
+From a technical stand point,
+AI is able to make useful applications out of generic libraries it creates.
+
+So as long as you think big,
+the code will flow and run clean.
+
+---
+
+Even a bigger deal than this,
+is user profile, or member login.
+
+Which would be a much much simpler container,
+than a pan and zoom system.
+
+And the only thing beyond that,
+is member sign-up and pay.
+
+As with everything else we must stay away from complexity,
+so the payment gateway would be the keeper of credit cards.
+
+That leaves us with username and password, so a third party login,
+as in login with account of your choice.
+
+Because this is a monthly billing tool,
+we don’t need to keep track of items bought.
+
+Just ask the billing server,
+if a billing-monthy account with a specific email is active.
+
+So we can almost eliminate the need for server,
+but we certainly eliminate the need for storing sensitive data anywhere on the server.
+
+The server is only used for making sure the user logs in,
+and passing information through that login, to the billing system.
+
+----
+
+AI is good at very pretty pixel art,
+you build a slicer to make buttons and panes.
+
+You wrap your slicer in a generic pan and zoom,
+so that it becomes a precision tool.
+
+You then wrap that in membership required,
+with a monthly billing system.
+
+You then wrap this into a Website Theme generator,
+not builder, but AI based generator, cheap and powerful.
+
+And once the users take their themes and sell at their market places of choice,
+you wrap the whole in your own marketplace.
+
+Tell them they get a deal for exclusive license,
+where a theme is only sold in your store.
+
+And extra bonuses for social media posts,
+which is just linking to their products.
+
+But you show a list of other users products,
+creating a cross-advertising system.
+
+---
+
+Artificial Intelligence is now good enough,
+to create everything for you.
+
+If you are worried about security of your software,
+you just ask your AI to write a security analysis.
+
+But when writing lightweight low code liability software,
+as I showed here, AI wont introduce security bugs.
+
+Those only end up in convoluted programs,
+where there are multiple borders that AIs just don’t understand.
+
+---
+
+I think middle-school is where programming with AI must begin,
+and by High School, it must become a full time adventure.
+
+AI delivers, by next year, the miracles we see today will seem small,
+so this path of side businesses, will only become easier.
+
+Just to give you a sense of urgency,
+I think this has become possible as of last month.
+
+AI just keeps growing, [fusing my slicer with a pan zoom container][3] it made,
+while I lay in bed furiously refreshing the page to see if it is done.
+
+Is unlike anything, that has ever occurred,
+such power of COMPETENT automatic intelligence has never existed before.
+
+And I just want to underline, that if I had 4 human programmers do this,
+we would still be fixing bugs in 2027.
+
+Don’t even wait for middle-school,
+get the AI to write web applications without delay.
+
+Parents, get your stuff together, AI does not need internet,
+you can [install it locally][3], get them a nice desktop and get out of their way.
+
+Do it now,
+don’t delay.
+
+
+[1]: https://github.com/catpea/panner-zoomer
+[2]: https://github.com/catpea/nine-slice
+[3]: https://catpea.github.io/nine-slice
+[4]: https://ollama.com/models
