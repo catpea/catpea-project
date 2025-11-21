@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2091",
+  "guid": "8d173a5c-bfde-4e31-aaa2-4049ca1274d5",
+  "title": "The Brand New World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-20T22:54:43.323Z",
+  "lastmod": null,
+  "weight": 209100,
+  "audio": "poem-2091.mp3",
+  "image": "poem-2091-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
