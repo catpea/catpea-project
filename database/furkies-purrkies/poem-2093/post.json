@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2093",
+  "guid": "259b169c-18f1-44fb-b0ba-dd2b8ff798d7",
+  "title": "My Peewee Pea Peanut Pistachio Piquant Recipe",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-23T03:00:08.168Z",
+  "lastmod": null,
+  "weight": 209300,
+  "audio": "poem-2093.mp3",
+  "image": "poem-2093-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
