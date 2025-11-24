@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2094",
+  "guid": "3a504317-fcce-4db7-bfc0-6212c549ea42",
+  "title": "The Sessions",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-24T01:26:58.603Z",
+  "lastmod": null,
+  "weight": 209400,
+  "audio": "poem-2094.mp3",
+  "image": "poem-2094-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
