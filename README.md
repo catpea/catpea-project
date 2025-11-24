@@ -59,3 +59,6 @@ file '/home/meow/Universe/Development/catpea-project/dist/video/poem-1803-fin.mp
 ffmpeg -f concat -safe 0 -i list.txt -c copy /home/meow/Universe/Development/catpea-project/dist/video/poem-1803-full.mp4
 
 
+
+sardonic --frames "cat-*.jpg" --overlay ~/Universe/Development/catpea-project/dist/video/poem-2094.mp4 --dir ~/Universe/Development/catpea-project/dist/faces/cat22
+

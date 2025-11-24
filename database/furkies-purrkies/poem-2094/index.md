@@ -9,7 +9,7 @@ date: '2025-11-24T01:26:58.603Z'
 lastmod: null
 weight: 209400
 audio: poem-2094.mp3
-image: poem-2094-illustration.jpg
+image: poem-2094-illustration.avif
 images: null
 artwork:
   - https://catpea.com
