@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2095",
+  "guid": "8d004074-d462-478a-9f85-499e303951a4",
+  "title": "How To Goose Your Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-25T03:20:14.018Z",
+  "lastmod": null,
+  "weight": 209500,
+  "audio": "poem-2095.mp3",
+  "image": "poem-2095-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

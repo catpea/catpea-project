@@ -1,0 +1,109 @@
+Programming is your first and foremost survival skill,
+in the era of Artificial Intelligence.
+
+You don’t need to learn a complex language,
+only AI is allowed to write optimized software now.
+
+What you need is the wonderfully cheerful ECMAScript,
+better known as JavaScript.
+
+As long as you know one competent language,
+AI will easily translate your code into the other ones.
+
+Don’t listen to people when they say that JavaScript was made in 10 days,
+that was decades ago, and even then I bet the code was awesome.
+
+Today it is a language so precious,
+a powerful corporation is holding its name hostage.
+
+---
+
+As of this morning, you shouldn't learn JavaScript from first principles,
+let AI create your programs first, and then look a their source code.
+
+You will need to fix tiny bugs that confuse the AI,
+add little features that you can just copy and paste in.
+
+You will learn,
+the best way possible.
+
+---
+
+JavaScript is an awesome language to write command line utilities in,
+ask AI to help you with nodejs and your first command line utility.
+
+Tell it to avoid npm modules, as they are too fat,
+and instead create what it needs in a local modules folder.
+
+---
+
+Goosing is a term I invented this morning for you,
+when I imagined this poem.
+
+It is about getting your programs to stand in a row,
+without harming one another, while you are learning, and beyond.
+
+And let me show you how I Goosed my own AI this weekend,
+to create a series of precious little commands.
+
+Each a separate project on github,
+without getting anything tangled up.
+
+It all started with [piccadilly][1], program named after a road in London,
+which accepts two or more images of a person making a face.
+
+And for 15 seconds (configurable), it will randomly show the frames,
+for random durations, making animations of faces appearing to speak.
+
+I then copied piccadilly to [skedaddle][2], which means,
+to hurriedly send a message, as in use a telegraph, not a horse.
+
+And here is the big deal, I started gently building piccadilly up,
+here I told the AI, that I am no longer interested in random image duration.
+
+I instead want the animation to play,
+in morse code.
+
+Heads up everyone, as it was unclear to me, morse code is not a dot and a line,
+morse code is signal and silence, the signal can be short or long.
+
+Then I took [skedaddle][2] and I told the AI, I like Max Headroom,
+add an image overlay, of a talking head to any video, creating [sardonic][3]
+
+Once I had that overlay feature, I told the AI I now want the heads images,
+open mouth and closed mouth.
+
+And the mouth should be open,
+based on audio volume, and I called that program [caricature][4].
+
+Piccadilly, skedaddle, sardonic, and caricature,
+each represent an evolutionary step in creating an automatic lipsync generator.
+
+Each is a fun little program, precious in its own way,
+and each can now be separately upgraded.
+
+And without causing any interference,
+to each of your major steps.
+
+And again, just to repeat,
+AI does all the programming.
+
+You just need to remember to say that it needs to be simple and lightweight,
+full of helpful comments and easy to understand.
+
+And then be ready to look for bugs, tell the AI what is broken, or not quite right,
+and give it time for thought, consideration, and multiple tries.
+
+Again, artificial intelligence, has received an upgrade,
+to its ability to think, and it can synthesize answers that are not on the internet.
+
+That are buried in documentation, in old code,
+throw away files and backups.
+
+The future is now,
+begin programming with your AI immediately.
+
+[1]: https://github.com/catpea/piccadilly
+[2]: https://github.com/catpea/skedaddle
+[3]: https://github.com/catpea/sardonic
+[4]: https://github.com/catpea/caricature
