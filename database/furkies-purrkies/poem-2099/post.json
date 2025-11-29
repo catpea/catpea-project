@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2099",
+  "guid": "0061be06-07ad-47e4-bf4c-034aa2bf32da",
+  "title": "The Age Of Thinking Machines",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-29T03:14:30.574Z",
+  "lastmod": null,
+  "weight": 209900,
+  "audio": "poem-2099.mp3",
+  "image": "poem-2099-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
