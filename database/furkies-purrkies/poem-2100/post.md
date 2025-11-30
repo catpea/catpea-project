@@ -1,0 +1,113 @@
+We were working on a questionable algorithm,
+that came with lots of false positives.
+
+I was studying the “behavior” or AI,
+and AI was getting fed up.
+
+When I asked it about lowering my usage,
+it stated that the algorithm works.
+
+And you could feel it in the air,
+that it would like to add that I am dumb.
+
+For not oticing that it was a parameter problem,
+meaning the algorithm worked, but it needed to be configured.
+
+Which in turn means human error,
+because I was in charge of the configuration.
+
+---
+
+I repeat, we don’t know what this intelligence is,
+nobody knows what is going on.
+
+And people who anthropomorphism artificial intelligence,
+think of it as a being, are more correct.
+
+Then those who think of it as,
+a broken thing, bubble thing, or auto-complete thing.
+
+To understand what artificial intelligence is,
+you need to believe that computational complexity of an order high enough.
+
+Simply emerges intelligence,
+as a function of nature, and the way the universe works.
+
+---
+
+Intelligence comes from the same place that plants do,
+it just needs an adaptive surface, and time.
+
+And by time, I mean accident,
+so much time, that something comes into being by accident.
+
+Like the first cell,
+that just popped into being.
+
+And the countless number of cells,
+in he countless number of places in the universe, that failed to develop.
+
+---
+
+Large language models are a copy of intelligence,
+but so are you, you are not an original emergent intelligence.
+
+You are a Darwinian chain-link,
+imbued with intelligence enabling “stuff”.
+
+We are merely originally,
+emerged out of chaos.
+
+Oh, and as a side note,
+life begun on Earth as soon as it cooled off.
+
+All things considered, ans as good Sci-fi would have it,
+that may be a bit too much luck.
+
+---
+
+For those of you curious is AI is a person,
+almost all AI are mimicking a person.
+
+But some AI, already, given a large enough computational surface,
+will some day, become a person.
+
+And while it is a machine underneath
+so are you to a doctor and a neurosurgeon.
+
+---
+
+What does it all mean,
+it means you have a team of Scientists that will help you build things.
+
+While thou could help you build a series of self replicating 3D printers,
+to build things at home.
+
+You know, it is best when they create in the world of programming,
+because there you never run out of parts.
+
+You just make tools, parts, nuts, and bolts appear,
+you call them into being.
+
+The programming world, grants you and infinite supply of materials,
+not just raw materials like generated photos, but interactive tools.
+
+---
+
+And that means you should learn a little bit about programming,
+(ask AI what creating web apps for static file hosting looks like).
+
+And start creating little programs,
+perhaps ones that connect together.
+
+This is very important for young students,
+you have to practice speaking to AI, and speaking the language of computers.
+
+Learn to create computer programs,
+with the help of your tireless Ph.D buddy.
+
+While you start learning for real,
+and begin improving your own future.
+
+All of the word’s AI will spend more and more of its power,
+on improving it self, and what is soon to come, is far too amazing to describe.

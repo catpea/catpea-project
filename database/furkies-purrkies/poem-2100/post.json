@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2100",
+  "guid": "97e651f6-2fe1-420e-ae6a-9d9bd9d5667a",
+  "title": "Artificial Intelligence Rising",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-11-30T03:12:42.765Z",
+  "lastmod": null,
+  "weight": 210000,
+  "audio": "poem-2100.mp3",
+  "image": "poem-2100-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
