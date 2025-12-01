@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2101",
+  "guid": "6472e113-ae1d-44aa-950a-53416aa539d5",
+  "title": "Adaptive Biomechanics: Bodybuilding For Fierce Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-01T01:44:06.006Z",
+  "lastmod": null,
+  "weight": 210100,
+  "audio": "poem-2101.mp3",
+  "image": "poem-2101-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
