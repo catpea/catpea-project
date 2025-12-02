@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2102",
+  "guid": "90a50b43-1faf-4251-bc04-12acaae231b9",
+  "title": "Rejuvination, Bodybuilding And Music; Or, No Beat, No Trance, No Chance",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-02T03:37:12.325Z",
+  "lastmod": null,
+  "weight": 210200,
+  "audio": "poem-2102.mp3",
+  "image": "poem-2102-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
