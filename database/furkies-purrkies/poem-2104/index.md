@@ -1,0 +1,147 @@
+---
+id: poem-2104
+guid: 4210b6bb-603e-4745-ba24-1be83c84d69c
+title: Cycling Dumbbells - A Rapid Bodybuilding Technique For Girls
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-12-04T00:21:12.639Z'
+lastmod: null
+weight: 210400
+audio: poem-2104.mp3
+image: poem-2104-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+The world seems to have settled on the slowest possible method,
+that relies on a lot of sitting, lifting to heavy and unwisely cutting of circulation.
+
+I suspect, the scientific research that encourages this kind of… behaviour,
+is simply bro science, with bro peer-review backed by a greedy bro university.
+
+Dumbbells cycling is just three standing excercises that you perform,
+one after another [Lateral Raise][1], [Standing Bicep Curls][2], and [Overhead Shoulder Press][3].
+
+Each works a differetn muscle group,
+so you can do your dumbell dance non-stop.
+
+Now our guest speaker will briefly introduce the technique,
+as he has to leave soon, please start with the Lateral Raise.
+
+---
+
+> Lateral Raise: Alright! The lateral raise is essential for those big, broad shoulders! Stand up straight, grab some weights, and lift your arms out to the sides until they’re parallel to the ground. Feel that burn! This exercise gives you the width like a champion—growing those deltoids!
+
+> Standing Curls: Now, let’s pump those biceps with standing curls! Grab the weights, and keep your elbows close to your body. Curl up the weights, squeezing your biceps! It’s all about the peak, my friend—make those guns big and impressive! Control the movement, don’t just let them drop. You want everyone to see those biceps pop!
+
+> Overhead Shoulder Press: Finally, we have the overhead shoulder press! Stand tall, weights at shoulder height, and press them up above your head. Feel that power surge through you! This builds strong shoulders and develops great upper body strength. Make sure to keep your core tight—this isn’t just an arm exercise, it’s for overall dominance!
+
+> Thanks for having me catpiss, I gotta get to tha choppa now!
+
+---
+
+Have a safe flight,
+jack.
+
+I must add, that the Overhead Shoulder Press is the relief exercise,
+when your arms or biceps start hurting you lift above your head.
+
+This restores your blood-flow,
+and normal operation.
+
+There is no such thing as muscle failure,
+and marathoners are proof of that.
+
+But don’t cut off your circulation,
+as that will ruin your exercise.
+
+---
+
+You earn an hours worth of jogging endurance,
+and then start jogging with three pound dumbbells.
+
+And you keep adding more weight,
+until you get to 5 or 7.5, and need to slow down.
+
+That is when you come into the gym,
+and perform the cycle for 30 minutes or 60.
+
+You lift light, but no so light that you can lift more,
+and you never list so heavy that you must stop.
+
+You can stop for a few seconds or a minute between songs,
+but the cycle keeps you going.
+
+---
+
+You will be surprised to learn,
+that the most important thing about the cycle is focus.
+
+You have to move away from distractions,
+and focus on moving to the beats of your initially slow songs.
+
+---
+
+Distraction free, dance trance,
+dumbbell cycle builds your muscle in weeks, not years.
+
+But you have to keep stressing your body,
+not to failure, but to success.
+
+---
+
+
+For those of you who are extremely confused right now,
+I apologize from the bottom of my heart.
+
+I tried my best to explain that this information was not about the,
+Dumbbell Cycling Dating Method.
+
+That revolves around, finding a boy,
+who is least likely to *remain* an skeezy emotional amoeba.
+
+To make up for the confusion, I suggest,
+that rather than parading yourself as a local hot single.
+
+You use endurance building techniques,
+to become an Ultramarathon runner.
+
+There is a fancy ultramarathon called [Western States 100][4],
+and woman's field is searching for more superstars.
+
+One of the smaller details that I admire about western states,
+is how ages ago announcer said, something like.
+
+"If you are not here on your own legs, if you used substances,
+instead of extending your endurance though hard work.
+
+You will not be able to run 100 miles through the mountains,
+your body will give up, and you will never see your friends and family again."
+
+I admire the honestly,
+of ultra marathons.
+
+You could run the AT,
+I think 40 days is a rookie time.
+
+Either way, go see what great beings are like,
+maybe even help at one of the nurses stations.
+
+Bodybuilding is a small potato,
+compared to becoming an Ultra.
+
+[Go where the great beings are][5].
+
+[1]: https://youtu.be/FeJP4E4Z-PY?t=121
+[2]: https://youtu.be/av7-8igSXTs
+[3]: https://youtu.be/Gu1t7X2yq4M?t=153
+[4]: https://www.youtube.com/watch?v=bznV5GuyXhY
+[5]: https://www.youtube.com/watch?v=4a26xp28jm0
