@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2106",
+  "guid": "6a27b1b2-4413-416b-8c01-76c069fd7273",
+  "title": "Bodybuilding And Focus Management",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-06T02:59:09.999Z",
+  "lastmod": null,
+  "weight": 210600,
+  "audio": "poem-2106.mp3",
+  "image": "poem-2106-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
