@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2107",
+  "guid": "161c5d88-e976-46b9-8aba-1dce4c4f8e63",
+  "title": "Bodybuilding And Energy; Or, How To Keep Going At The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-06T19:16:44.897Z",
+  "lastmod": null,
+  "weight": 210700,
+  "audio": "poem-2107.mp3",
+  "image": "poem-2107-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-holding-two-dumbs-in-her-hands-V2F0K0FuwPM"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
