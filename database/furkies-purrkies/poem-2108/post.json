@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2108",
+  "guid": "f9e01064-0381-4e46-96f5-74feedc13324",
+  "title": "Institutum Malignum: Non Daemon Mundum Fallit, Sed Auctoritas",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-07T19:58:32.647Z",
+  "lastmod": null,
+  "weight": 210800,
+  "audio": "poem-2108.mp3",
+  "image": "poem-2108-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
