@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2109",
+  "guid": "5848e029-4f10-45c7-9ca8-89f170444491",
+  "title": "The World That Is Possible",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-08T23:18:29.968Z",
+  "lastmod": null,
+  "weight": 210900,
+  "audio": "poem-2109.mp3",
+  "image": "poem-2109-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
