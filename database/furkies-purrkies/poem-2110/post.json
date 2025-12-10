@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2110",
+  "guid": "60bda289-6187-4b33-803e-411922be84ba",
+  "title": "The Cognitive Sovereignty Amendment: A Declaration of Mental Liberty for the Children of Tomorrow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-09T22:46:51.671Z",
+  "lastmod": null,
+  "weight": 211000,
+  "audio": "poem-2110.mp3",
+  "image": "poem-2110-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/statue-of-liberty-new-york-under-white-and-blue-cloudy-skies-PeFk7fzxTdk"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
