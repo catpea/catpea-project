@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2111",
+  "guid": "3b2938ee-6a03-4aa4-964b-3111b368f616",
+  "title": "Is The Modern Gym Workout The Exact Opposite Of What It Should Be?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-11T02:45:43.176Z",
+  "lastmod": null,
+  "weight": 211100,
+  "audio": "poem-2111.mp3",
+  "image": "poem-2111-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
