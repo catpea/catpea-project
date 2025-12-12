@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2112",
+  "guid": "bbb3c470-c071-48dd-a8b9-7e2c468abfc3",
+  "title": "The Age Of Infinite Treasures",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-12T03:07:27.130Z",
+  "lastmod": null,
+  "weight": 211200,
+  "audio": "poem-2112.mp3",
+  "image": "poem-2112-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
