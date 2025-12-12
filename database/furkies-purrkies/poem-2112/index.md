@@ -79,7 +79,7 @@ scanned it tidied up, and put it up for sale.
 And as I was entertaining this rather incredible thought,
 looking at jewelry photos, pendants and rings.
 
-I came across a photo of an ancient artifact,
+I came across a photo of an [ancient artifact][1],
 a fat little figurine of a prehistoric dame.
 
 And the idea of copying an ancient artifact,
@@ -111,7 +111,7 @@ this was now something even I wanted to own.
 And then, just to make things even more interesting,
 and I mean it, I am a huge fan.
 
-I discovered that museums collect prehistoric knives,
+I discovered that museums collect [prehistoric knives][2],
 and making even plastic replicas of those, still has me in awe.
 
 These are teal weapons,
