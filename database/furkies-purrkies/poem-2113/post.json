@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2113",
+  "guid": "f5953c99-919a-4448-8c71-41386b8e8441",
+  "title": "ONN Evening News - An Old News Network Presentation",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-13T01:37:51.550Z",
+  "lastmod": null,
+  "weight": 211300,
+  "audio": "poem-2113.mp3",
+  "image": "poem-2113-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
