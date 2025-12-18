@@ -1,0 +1,47 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+Local Network First: An Invitation To The New Generation Of Builders, Curious Tinkerers, And Creative Hackers
+Wednesday • December 17th 2025 • 7:01:54 pm
+
+For the young builders, the curious tinkerers, and everyone who ever wondered why their phone knows more about them than they do.
+
+## I. In Which We Consider the Peculiar State of Modern Telephones
+
+There is something wonderfully absurd about the modern smartphone. Here we have, in our pockets, a device more powerful than the computers that sent astronauts to the moon, more capable than anything the cleverest engineers of 1995 could have dreamed up after several bottles of wine and an optimistic whiteboard session—and yet most of us use it primarily to look at photographs of other people's lunch and to argue with strangers about politics.
+
+But there is a less amusing peculiarity about these devices that deserves our attention. Your phone, that sleek rectangle of glass and rare earth metals, is having a very busy conversation that you are not entirely privy to. Right now, as you read this, it is almost certainly chatting away to servers in data centers you will never see, sending little packets of information about where you are, what you're doing, and what you might like to buy next. Your photos, your contacts, your voice notes, your location traces—all of it scattered across clouds you don't control, accounts you never quite wanted, and services you certainly never asked for.
+
+This wasn't always the plan, of course. The internet, in its original conception, was supposed to be a rather egalitarian affair—a network of networks, with no particular center, where your computer could talk to my computer without asking permission from some vast corporate intermediary. The early internet pioneers would be quite surprised to learn that in 2025, most of human digital life flows through approximately four companies, all of whom are very interested in knowing what you had for breakfast.
+
+## II. Concerning the Threat That Learns
+
+Now, here is where things become genuinely interesting—and by interesting, I mean the sort of interesting that keeps security researchers awake at night, clutching their coffee mugs and muttering about attack surfaces.
+
+We stand at a peculiar moment in history. Artificial intelligence, that marvel of mathematics and silicon that can write poetry and diagnose diseases, is also rather go...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...each in the headlines, every time someone's personal photos end up somewhere they shouldn't—these aren't just news stories. They're signals. They're evidence that the current approach isn't working, that people deserve better, that there's room for something new.
+
+If you're reading this and thinking "this seems obvious—why doesn't this already exist?" then congratulations: you've identified the opportunity. The gap between what technology could be and what technology currently is—that gap is where entrepreneurs build. That gap is where young people with energy and ideas make their mark.
+
+This is about building the foundation that other things can rest upon. Every great technology era has had people who built the roads and bridges, the plumbing and wiring, the fundamental systems that made everything else possible. The internet had its infrastructure builders. Mobile had its infrastructure builders. The era of local-first, privacy-respecting, AI-assisted computing needs its infrastructure builders too.
+
+That could be you.
+
+## IX. A Closing Invitation
+
+The future is not fixed. The internet does not have to be a surveillance machine. Phones do not have to be leaky vessels carrying our private lives to corporate servers. AI does not have to be only a threat.
+
+These things are the way they are because someone built them that way. They can be different because someone—perhaps you—builds them differently.
+
+The tools are available. The knowledge is accessible. The AI assistants are ready to help. The need is pressing and growing. The only missing ingredient is people willing to do the work.
+
+So here is the invitation: learn networking. Build something that talks to something else. Set up a local server. Make your phone back up its photos to hardware you own. Build a honeypot and watch what happens. Run a local AI model and see what it can do. Make mistakes, break things, fix them again.
+
+This is how you learn. This is how expertise develops. This is how the next generation of infrastructure gets built—not by waiting for someone else to do it, but by picking up the tools and starting.
+
+Build the missing layer. Own your phone. Own your data.
+
+And remember: AI will be there to help you, every step of the way.

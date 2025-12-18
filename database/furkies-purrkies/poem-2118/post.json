@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2118",
+  "guid": "e45634bf-71cb-4367-812c-de51072f452b",
+  "title": "Local Network First: An Invitation To The New Generation Of Builders, Curious Tinkerers, And Creative Hackers",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-18T00:01:54.349Z",
+  "lastmod": null,
+  "weight": 211800,
+  "audio": "poem-2118.mp3",
+  "image": "poem-2118-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
