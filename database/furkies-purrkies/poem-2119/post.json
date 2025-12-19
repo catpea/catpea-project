@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2119",
+  "guid": "28916315-a5c8-4184-925b-ab897a715bf2",
+  "title": "Just One More Thing, On Becoming a LAN-First Android Infrastructure Engineer, Starting Today",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-19T02:04:10.761Z",
+  "lastmod": null,
+  "weight": 211900,
+  "audio": "poem-2119.mp3",
+  "image": "poem-2119-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-typing-on-a-keyboard-G2Epz_GRp_M"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
