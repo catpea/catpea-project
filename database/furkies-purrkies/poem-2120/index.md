@@ -1,7 +1,7 @@
 ---
 id: poem-2120
 guid: fd8b8acc-2f56-49ff-82c4-5a812eac2d0c
-title: Remembering Saints, And Never Forgetting The Names Enemies
+title: Remembering The Saints, And Never Forgetting The Names Of Enemies
 description: null
 tags:
   - furkies-purrkies
