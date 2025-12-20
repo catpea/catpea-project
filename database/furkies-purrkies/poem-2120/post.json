@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2120",
+  "guid": "fd8b8acc-2f56-49ff-82c4-5a812eac2d0c",
+  "title": "Remembering Saints, And Never Forgetting The Names Enemies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-20T02:42:48.440Z",
+  "lastmod": null,
+  "weight": 212000,
+  "audio": "poem-2120.mp3",
+  "image": "poem-2120-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Joan_of_Arc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
