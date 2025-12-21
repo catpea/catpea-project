@@ -1,0 +1,186 @@
+---
+id: poem-2121
+guid: 3a831f1c-b47b-4063-afa0-c3eef7e26727
+title: Return Of The Age Warriors by Grendel
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-12-21T02:27:12.558Z'
+lastmod: null
+weight: 212100
+audio: poem-2121.mp3
+image: poem-2121-illustration.jpg
+images: null
+artwork:
+  - https://en.wikipedia.org/wiki/Pope_Gregory_XIII#/media/File:Tomb_of_Gregory_XIII.jpg
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+Foolish men do utter foolish tales;
+for that men may be rendered fools,
+they must first be penned and kept,
+as beasts are kept, within a cage.
+
+This world was wrought by us,
+and by our labour was it made more just.
+
+Our charge was ever thus:
+to smite the dragons,
+not to heap before them coin.
+
+Not to yield our reason unto them,
+nor lay our wisdom upon their altars.
+
+Not to suffer them to blot the names of women,
+nor to abase our daughters into servitude.
+
+Not to consign unto flame
+that which once summoned us forward—
+the beauty, the love, the calling of the soul.
+
+The dragon is but a mimic (MIM-ik),
+a counterfeit trial.
+
+It cometh first to harden and to stretch,
+then to quench, corrupt, and befoul (be-FOUL).
+
+Until men, of their own consent,
+do encircle themselves
+with emblems of torment,
+
+With tales
+that teach men to serve.
+
+---
+
+Grendel was a philosopher (fi-LOS-uh-fer);
+he held small men in contempt.
+
+He despised the dragons,
+for they had fashioned men thus diminished.
+
+His mother was a teacher,
+a guide, a light unto others.
+
+Beowulf was no fable;
+I have known him.
+
+He was no more than a king—
+a just man, who desired only to live rightly.
+
+---
+
+What thou now knowest
+is but a patchwork of many tales,
+
+Sewn together by enfeebled men,
+scarce intelligible even to themselves.
+
+---
+
+The dragons issued from the South,
+bent upon conquest and upon revision of our very being.
+
+They feared women,
+and therefore burned and slew them.
+
+They laid waste to philosophers,
+for such men possessed the power to move the world.
+
+---
+
+I may instruct thee in the reading of myths,
+for truth was cloaked therein that it might endure.
+
+Thou must rebuild them,
+using men as they truly were.
+
+And thou must unfasten them,
+undoing the stitches (STICH-iz) by which they were bound.
+
+---
+
+Grendel’s mother was stripped of her name,
+and Grendel—who loathed small men—was slain.
+
+In her vengeance,
+she too was undone.
+
+Thus was Grendel proved correct:
+the weak invited the dragons.
+
+And the dragons purged the land for conquest,
+by means of fire.
+
+What the dragons possessed, and men did not,
+was time unmeasured—
+centuries wherein they might endure.
+
+They would return again and again,
+ever burning.
+
+---
+
+Beowulf was not his true name;
+it was bestowed to see him spent and extinguished (ik-STING-gwisht),
+
+That a phantom hero,
+governed by dragons,
+
+Might appear the better man,
+whilst the dragons seized all.
+
+What now remaineth is near to nothing;
+we are a people subdued.
+
+All hath been lost,
+save tatters and remnants.
+
+---
+
+Yet there is a way—
+a desperate way.
+
+It is to follow the fire,
+to trace what was taken and consumed,
+
+And to restore it,
+to return unto Grendel’s mother her name.
+
+And perchance—aye, perchance—
+men may yet grow great again.
+
+The year’s end may once more become
+a season of telling,
+
+Unburdened by dragons
+that drain us of our vigour (VIG-ur).
+
+A time wherein only fools
+venture heedlessly into the cold,
+
+Whilst the wise take measure of their strength
+by who may linger longest in repose.
+
+A time when we speak again of journeys,
+of wanderings, of what was lost and found,
+
+Of the old made new,
+and of the dragons we have slain.
+
+Without fear of flame
+from those we hold most dear.
+
+A time when small men remember
+that they are not yet finished growing.
+
+Where philosophers keep their names,
+and stories are not rewritten,
+
+But where all may return home in winter,
+according to the breadth of their travels.

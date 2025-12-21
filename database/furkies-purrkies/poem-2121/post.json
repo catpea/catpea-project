@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2121",
+  "guid": "3a831f1c-b47b-4063-afa0-c3eef7e26727",
+  "title": "Return Of The Age Warriors by Grendel",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-21T02:27:12.558Z",
+  "lastmod": null,
+  "weight": 212100,
+  "audio": "poem-2121.mp3",
+  "image": "poem-2121-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://en.wikipedia.org/wiki/Pope_Gregory_XIII#/media/File:Tomb_of_Gregory_XIII.jpg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
