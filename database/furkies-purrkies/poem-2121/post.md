@@ -20,11 +20,11 @@ Not to consign unto flame
 that which once summoned us forward—
 the beauty, the love, the calling of the soul.
 
-The dragon is but a mimic (MIM-ik),
+The dragon is but a mimic,
 a counterfeit trial.
 
 It cometh first to harden and to stretch,
-then to quench, corrupt, and befoul (be-FOUL).
+then to quench, corrupt, and befoul.
 
 Until men, of their own consent,
 do encircle themselves
@@ -35,7 +35,7 @@ that teach men to serve.
 
 ---
 
-Grendel was a philosopher (fi-LOS-uh-fer);
+Grendel was a philosopher;
 he held small men in contempt.
 
 He despised the dragons,
@@ -78,7 +78,7 @@ Thou must rebuild them,
 using men as they truly were.
 
 And thou must unfasten them,
-undoing the stitches (STICH-iz) by which they were bound.
+undoing the stitches by which they were bound.
 
 ---
 
@@ -104,7 +104,7 @@ ever burning.
 ---
 
 Beowulf was not his true name;
-it was bestowed to see him spent and extinguished (ik-STING-gwisht),
+it was bestowed to see him spent and extinguished,
 
 That a phantom hero,
 governed by dragons,
