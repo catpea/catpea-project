@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2122",
+  "guid": "6c73be27-89a1-4d60-85a4-9a17c33dbecc",
+  "title": "The Thinker They Made Into a Flower",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-21T22:24:58.105Z",
+  "lastmod": null,
+  "weight": 212200,
+  "audio": "poem-2122.mp3",
+  "image": "poem-2122-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
