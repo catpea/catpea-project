@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2123",
+  "guid": "b242f08d-5e51-438f-8095-23d00e83bf47",
+  "title": "This Christmas Give Your Children The Gift They Need: Start Packing",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-22T23:22:06.972Z",
+  "lastmod": null,
+  "weight": 212300,
+  "audio": "poem-2123.mp3",
+  "image": "poem-2123-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/silhouette-of-person-sitting-on-grass-field-during-sunset-_Q9RIsc9KCQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}

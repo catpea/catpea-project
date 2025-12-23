@@ -1,0 +1,131 @@
+---
+id: poem-2123
+guid: b242f08d-5e51-438f-8095-23d00e83bf47
+title: 'This Christmas Give Your Children The Gift They Need: Start Packing'
+description: null
+tags:
+  - furkies-purrkies
+date: '2025-12-22T23:22:06.972Z'
+lastmod: null
+weight: 212300
+audio: poem-2123.mp3
+image: poem-2123-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/silhouette-of-person-sitting-on-grass-field-during-sunset-_Q9RIsc9KCQ
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+In all the confusion of growing up,
+we forgot about the oldest way of learning.
+
+The gift of wisdom, health, endurance, authenticity,
+and a kind of eternity, that is hard to deny.
+
+And how much better it is than pretending to live,
+let us start with the single most profound thing.
+
+No one has ever left the Application Trail,
+even if that was possible no one would ever want to.
+
+Once you walk the trail,
+you are from the trial.
+
+If you are to part ways, so as long as you walk the trail with them,
+your children will still be able to find you.
+
+They may go see you in their middle age,
+or once they reach the [winter of their life][0].
+
+You will be in the leaves, in the sound the wind makes,
+in the smoky mountains and the Shenandoah Valley.
+
+Is you SoBo, or throughout all the way up Mount Katahdin,
+they will catch you there.
+
+Because no one has ever left the trail,
+because this is who we are.
+
+And the trails are our most ancient tradition,
+that was the school we forgot, that we could go back to.
+
+---
+
+Aside from the trail ensuring your [permanent presence][1],
+the trail has many other kinds of magic.
+
+It can serve as a beginning,
+to becoming what you imagine is watching over you.
+
+You cross the tree trails, The Application Trail,
+The Pacific Crest Trail, & The Continental Divide - The Triple Crown.
+
+But the AT alone, be it through-hiked,
+or courageously and wholeheartedly section-hiked.
+
+[Is a crucible, a place where you find a new beginning][2],
+should you ever run into an end.
+
+---
+
+Any trail - long enough - is a Holy Place,
+because that is what you become, when you give yourself time to grow.
+
+---
+
+First day of spring, is when the community comes together,
+but your first time, must come when it comes.
+
+You do not set a date,
+you set off away from dates.
+
+---
+
+If you think you are too old,
+than that is proof enough that you are sill a child.
+
+If you think you are too young,
+then you must make room for practice.
+
+I suggest you use your youth,
+so become a survivalist, a specialist.
+
+But the time you can hike ultralight,
+snow or rain, you’ll be the right age to drag your parents alsong.
+
+---
+
+Parents, the child will choose when they are ready,
+you do not trick, coerce, bait, or order someone on the trail.
+
+The trail is a holy place,
+only those who are ready may enter.
+
+---
+
+The trail give you time to grow,
+it gives you time to listen to narrated books.
+
+And as you walk in company of greatness,
+you cannot help but to inherit their culture.
+
+The Quest, The Heroes Journey,
+is our oldest tradition.
+
+Without which, we forget,
+that we are meant to grow all the way up and become great beings.
+
+---
+
+A way to tell that you need the trail, and need it now,
+is thinking to yourself that you just don’t have time for growing up.
+
+
+[0]: https://www.youtube.com/watch?v=YTitJFUKlqs
+[1]: https://www.youtube.com/watch?v=EzXP5PjRHjM&list=PLXiz2lWve6AJrEVuAjfL4eaBDEMfdbKa6&themeRefresh=1
+[2]: https://www.youtube.com/watch?v=hPSvdKTEZug
