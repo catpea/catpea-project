@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2125",
+  "guid": "99213e87-dca6-4d68-b232-f1ef86ba6e48",
+  "title": "The Thinking Machines",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-25T03:14:54.378Z",
+  "lastmod": null,
+  "weight": 212500,
+  "audio": "poem-2125.mp3",
+  "image": "poem-2125-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-looking-up-at-the-stars-in-the-sky--xaoDaS7tT8"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
