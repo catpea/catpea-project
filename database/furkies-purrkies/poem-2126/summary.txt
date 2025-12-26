@@ -1,0 +1,94 @@
+Audio and full text version is available advertisement free at: https://catpea.com or visit https://github.com/catpea/ for source-code
+--------------------------------------------------------------------------------
+
+The Spiral Path 𐇐 𐇛 𐇜 𐇑 𐇡
+Thursday • December 25th 2025 • 6:45:28 pm
+
+> *"The cave you fear to enter holds the treasure you seek."*
+> — Joseph Campbell, *The Hero with a Thousand Faces*
+
+---
+
+## I. The Weight of Unsolved Things
+
+Lena Meijer had not slept properly in three months. The kind of not-sleeping that accumulates like sediment in a riverbed, each night adding another layer until you can barely remember what clarity felt like. At twenty-six, she was the youngest doctoral candidate in MIT's cryptography program, and she was drowning.
+
+Her dissertation on elliptic curve vulnerabilities had stalled. The math was beautiful—she could see that—but she couldn't find her way through it. Every time she sat down to work, the symbols blurred, her thoughts scattered, and a low hum of panic set in that made her chest tight and her hands shake.
+
+"You're burned out," her advisor had said. "Take a break. Go somewhere without WiFi."
+
+So she went to the Appalachian Trail.
+
+• • •
+
+Day four. Somewhere in Virginia, climbing toward McAfee Knob. Her legs ached in a good way now—a physical ache that drowned out the mental noise. She had stopped checking her phone. Stopped thinking about prime factorization and discrete logarithms. Started noticing things: the way morning light filtered through rhododendron leaves, the particular sound of her boots on packed earth, the rhythm of her own breathing.
+
+At a shelter that night, she met a retired archaeologist named Dr. Irene Vasquez, seventy-two years old and section-hiking her way to Maine one summer at a time.
+
+"What do you do?" Irene asked over instant oatmeal.
+
+"Cryptography," Lena said. "Or I'm supposed to. I study how to break codes. And how to make codes that can't be broken."
+
+Irene's eyes lit up. "Have you ever heard of the Phaistos Disc?"
+
+---
+
+## II. The Disc
+
+Irene pulled out her phone—"I lied, I do carry it for photos"—and showed Lena an image of a clay disc covered in stamped symbols, spiraling inward from edge to center.
+
+<p align="center">𐇑 𐇛 𐇜 𐇐 𐇡</p>
+
+"Found in Crete in 1908," Irene explained. "About four thousand years old. Forty-five different signs, stamped with individual punches—like a Bronze Age printing press. Two hundred and forty-one symbols total. And in over a century, no one has cracked it."
+
+Lena felt something stir in her chest—the old feeling...
+
+----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
+
+...| Access pre-trained models and fine-tune your own | [huggingface.co](https://huggingface.co/) |
+| **Python + Transformers** | Full programmatic control | [Transformers docs](https://huggingface.co/docs/transformers/) |
+
+The [Phaistos Disc data](https://en.wikipedia.org/wiki/Phaistos_Disc) is freely available. The tools are free. The only cost is your time and curiosity.
+
+---
+
+## Resources
+
+| Category | Resource | Link |
+|----------|----------|------|
+| **The Disc** | Phaistos Disc (Wikipedia) | [en.wikipedia.org/wiki/Phaistos_Disc](https://en.wikipedia.org/wiki/Phaistos_Disc) |
+| **The Disc** | Heraklion Archaeological Museum | [heraklionmuseum.gr](https://heraklionmuseum.gr/) |
+| **Cryptography** | Cryptopals Challenges | [cryptopals.com](https://cryptopals.com/) |
+| **Cryptography** | Stanford Cryptography Course | [coursera.org/learn/crypto](https://www.coursera.org/learn/crypto) |
+| **Cryptography** | Elliptic Curve Cryptography (Wikipedia) | [en.wikipedia.org/wiki/Elliptic-curve_cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) |
+| **Ancient Scripts** | CDLI (Cuneiform Digital Library) | [cdli.ucla.edu](https://cdli.ucla.edu/) |
+| **Ancient Scripts** | Linear A (Wikipedia) | [en.wikipedia.org/wiki/Linear_A](https://en.wikipedia.org/wiki/Linear_A) |
+| **Ancient Scripts** | Linear B (Wikipedia) | [en.wikipedia.org/wiki/Linear_B](https://en.wikipedia.org/wiki/Linear_B) |
+| **Local AI** | Ollama | [ollama.ai](https://ollama.ai/) |
+| **Local AI** | LM Studio | [lmstudio.ai](https://lmstudio.ai/) |
+| **Local AI** | Hugging Face | [huggingface.co](https://huggingface.co/) |
+| **The Journey** | Joseph Campbell Foundation | [jcf.org](https://www.jcf.org/) |
+| **The Trail** | Appalachian Trail Conservancy | [appalachiantrail.org](https://appalachiantrail.org/) |
+
+---
+
+> *"We shall not cease from exploration*
+> *And the end of all our exploring*
+> *Will be to arrive where we started*
+> *And know the place for the first time."*
+>
+> — T.S. Eliot, "Little Gidding"
+
+---
+
+<p align="center"><strong>Walk your spiral path.</strong></p>
+
+<p align="center">𐇐 𐇛 𐇜 𐇑 𐇡</p>
+
+---
+
+*The disc is real. The patterns are real. The invitation is real.*
+
+*The cave you fear to enter holds the treasure you seek.*
+
+[1]: files/from-lena.zip
