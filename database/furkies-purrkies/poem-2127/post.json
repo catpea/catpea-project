@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2127",
+  "guid": "2ad78797-815d-4e96-9bd4-2871a7b82112",
+  "title": "Teach Me JavaScript; Or, From Local AI To Great Being",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-27T01:08:50.419Z",
+  "lastmod": null,
+  "weight": 212700,
+  "audio": "poem-2127.mp3",
+  "image": "poem-2127-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
