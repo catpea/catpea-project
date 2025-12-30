@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2130",
+  "guid": "5f6c1b36-f056-4aed-8a90-8ceb8a52a856",
+  "title": "Operation: Golden Years",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-29T21:38:28.763Z",
+  "lastmod": null,
+  "weight": 213000,
+  "audio": "poem-2130.mp3",
+  "image": "poem-2130-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
