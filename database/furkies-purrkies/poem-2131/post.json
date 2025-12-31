@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2131",
+  "guid": "19d058a5-2d8d-4a42-9adb-2ef3c93a02ae",
+  "title": "28 Hours Left 🜨→♂→✶ What Would They Have Said to Us?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-31T00:10:48.765Z",
+  "lastmod": null,
+  "weight": 213100,
+  "audio": "poem-2131.mp3",
+  "image": "poem-2131-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
