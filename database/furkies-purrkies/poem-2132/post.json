@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2132",
+  "guid": "990f2e6c-34eb-42e9-a881-659f51c4cfc0",
+  "title": "This Is A True Story That Actually Did Happen",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2025-12-31T23:20:16.473Z",
+  "lastmod": null,
+  "weight": 213200,
+  "audio": "poem-2132.mp3",
+  "image": "poem-2132-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
