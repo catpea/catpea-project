@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2134",
+  "guid": "cb2a5bbf-a6cc-4172-a2fd-84393b2f5d71",
+  "title": "The Strange Age Of AI",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-03T03:36:34.099Z",
+  "lastmod": null,
+  "weight": 213400,
+  "audio": "poem-2134.mp3",
+  "image": "poem-2134-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/green-pine-trees-under-white-clouds-during-daytime-d85liU1hiHI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
