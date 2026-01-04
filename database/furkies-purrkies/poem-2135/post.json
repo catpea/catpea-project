@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2135",
+  "guid": "ea69e745-188d-4082-a94f-e0bcb1e140cb",
+  "title": "Reversing For Young Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-04T02:00:55.624Z",
+  "lastmod": null,
+  "weight": 213500,
+  "audio": "poem-2135.mp3",
+  "image": "poem-2135-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
