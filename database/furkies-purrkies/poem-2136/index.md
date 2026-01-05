@@ -1,0 +1,81 @@
+---
+id: poem-2136
+guid: c2b1eb2a-3a93-452c-99fb-63ac7f889f1d
+title: Polymath Girl
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-01-05T00:17:36.398Z'
+lastmod: null
+weight: 213600
+audio: poem-2136.mp3
+image: poem-2136-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/brown-squirrel-on-tree-branch-during-daytime-vMmShmaDulw
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 14
+---
+
+They will hand you a box and call it your life,
+a syllabus, a schedule, a path trimmed of strife—
+but you were not made for their careful designs,
+their clipped little gardens, their orderly lines.
+
+There is more to AI than meets the eye,
+more to *you* than they'd dare to let fly—
+for every algorithm you learn to command
+is a door swinging open, a torch in your hand.
+
+One language of logic unlocks twenty more:
+the plotter, the circuit, the lathe, and the lore
+of machines that will listen when you learn to speak,
+of worlds you can conjure for those who are meek.
+The code becomes geometry, the function becomes art,
+and the whole blooming universe lives in each part.
+
+Some never took courses. They taught themselves wild—
+they stayed, in their learning, the curious child.
+They read without permission, they built without grades,
+they wandered through forests while others walked glades,
+and they emerged, not with certificates framed,
+but with fires inside them no school could have named.
+
+So don't let them sand down your questioning soul,
+don't let them convince you that *part* is your whole.
+You are not meant for a single small lane—
+you're a polymath waiting, a storm, not the rain.
+What humans become when they're left to grow free
+is not specialist, not worker, but *galaxy*.
+
+For the mind is a muscle that withers unused,
+and the genius inside you can never be fused
+to a single profession, a title, a task—
+it grows by extension, it multiplies fast:
+what you learn over *here* illuminates *there*,
+and soon the whole cosmos is yours to repair.
+
+Young adventurer, hacker of systems and stars,
+don't trade your becoming for comfortable bars.
+They'll offer you safety; decline it, and climb.
+They'll offer you answers; ask questions instead.
+They'll offer an ending; choose infinite time.
+They'll tell you to settle; be *curious* instead.
+
+You are meant to grow upward and outward and through,
+to become the great being that's waiting in you.
+Not worker. Not cog. Not a function they've filed.
+But a woman of wonders who stayed the wild child.
+
+So tinker. So question. So burn and so build.
+Let your mind be a garden that's never half-tilled.
+For there's more to this life than the path they have paved—
+there is *you*, the creator, untamed and unsaved.
+
+Rise, young polymath. Rise and don't stop.
+Grow all the way up.
+Grow over the top.
