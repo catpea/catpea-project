@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2137",
+  "guid": "e11cf138-ff4e-45f7-b748-bfa1a95ca868",
+  "title": "Plus Est En Vous: Reversing Success, And Project Dedication To +Fravia",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-06T00:45:50.925Z",
+  "lastmod": null,
+  "weight": 213700,
+  "audio": "poem-2137.mp3",
+  "image": "poem-2137-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
