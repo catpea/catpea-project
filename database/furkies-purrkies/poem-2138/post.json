@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2138",
+  "guid": "13497e39-b8a8-459b-befe-559f39bbd190",
+  "title": "There Is No Program",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-07T02:17:23.110Z",
+  "lastmod": null,
+  "weight": 213800,
+  "audio": "poem-2138.mp3",
+  "image": "poem-2138-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 14
+}
