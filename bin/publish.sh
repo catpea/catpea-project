@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo -ne "\n\n\n\n\n\n\n\n\n\n"
-echo "1/4 - GITHUB/chapters updating chapter 14 -----------------------------------------------------------------------------------------------------"
-cd dist/chapters/chapter-14;
+echo "1/4 - GITHUB/chapters updating chapter 15 -----------------------------------------------------------------------------------------------------"
+cd dist/chapters/chapter-15;
 git add .;
 git commit -m "Chapter Content Update";
 git push;
@@ -32,7 +32,7 @@ echo reminders:
 echo -ne "\n\n"
 
 echo NOTE: If you are working on chapter 15, update PUBLISH.SH file, to publish the new data.
-echo you must cd and push 15 now, not 14;
+echo you must cd and push 16 now, not 15;
 echo -ne "\n\n"
 
 echo WHEN SWITCHING TO A NEW CHPTER REPO: make repo on github clone "ADD README" into dist/chapters/, and update "/creators/furkies-purrkies.js" preset

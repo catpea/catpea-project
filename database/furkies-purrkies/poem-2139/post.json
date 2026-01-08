@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2139",
+  "guid": "62aa0ae0-f8af-46ae-8bfc-36a098aaafcf",
+  "title": "This Is A Wonderful Time To Learn Programming And It Is Easier And More Fascinating Than You Think",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-08T02:11:44.222Z",
+  "lastmod": null,
+  "weight": 213900,
+  "audio": "poem-2139.mp3",
+  "image": "poem-2139-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
