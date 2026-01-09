@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2140",
+  "guid": "41e00707-be0c-4515-a5db-9ef264740f77",
+  "title": "School Is Out And AI Is In; Or, Learning With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-09T03:20:36.807Z",
+  "lastmod": null,
+  "weight": 214000,
+  "audio": "poem-2140.mp3",
+  "image": "poem-2140-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

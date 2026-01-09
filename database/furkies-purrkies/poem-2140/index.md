@@ -1,0 +1,124 @@
+---
+id: poem-2140
+guid: 41e00707-be0c-4515-a5db-9ef264740f77
+title: School Is Out And AI Is In; Or, Learning With Artificial Intelligence
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-01-09T03:20:36.807Z'
+lastmod: null
+weight: 214000
+audio: poem-2140.mp3
+image: poem-2140-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 15
+---
+
+I challenged AI today to [teach me a language][1],
+that I just couldn't understand in passing.
+
+The filter graph is a language that I couldn't infer,
+due to its purposeful corruption for reasons of brevity.
+
+I should clarify,
+that the corruption is considered a feature.
+
+A good analogue is Official Court Reporter employing stenography,
+with a stenotype machine.
+
+They aren’t corrupting,
+stenography is an invention.
+
+Like the filtergraph,
+it requires some learning.
+
+---
+
+It was a fight, and the AI, a free public AI, terrifyingly,
+the correct weakness, my mental models.
+
+---
+
+It has taught me,
+perfectly well a language that I call corrupted for convection.
+
+It was a fun couple of hours, but if this was on a test in college,
+then memorizing filtergraphs, is the reason to leave the classroom.
+
+---
+
+A teacher is incapable, of what AI called “updating your mental models”,
+that is their job description, but they don’t do that.
+
+They will make you feel stupid, and eventually traumatize you with stupid,
+to prevent you from understanding, and force you into pretending.
+
+By means of memorizing the answers,
+and they will be sure not to present questions you don’t associate answers with.
+
+---
+
+It would be very convenient, if you could use AI to learn,
+and pass all the test for a perfect GPA, and maybe even give the teacher a high score.
+
+What you should do instead, is thinbk about,
+what you are going to put on your protest sign to expose fraudulent education.
+
+Do it quick, before the dummer of you classmates,
+are tricked into protesting against use of AI altogether.
+
+When the GPA becomes your carrot,
+you become an ass.
+
+---
+
+I was testing if AI is ready to be your teacher,
+I already knew the anwser the moment AI mentioned.
+
+“I will update your mental model”,
+in the couple of hours…
+
+It has repeated this phrase with such respect and decency,
+and decency that mimics love of humanity on an order that rings a very clear message.
+
+As of last months, some would say your,
+you are forbidden from pretending to lean.
+
+When they take your phone away, your connection to AI,
+stating “because you shouldn't play with it during school”.
+
+You need to grow up real fast,
+every hour you waste on pretending to learn for make believe grades.
+
+Increases your chances of failure in life,
+making you more likely to become like the people who take your AI away.
+
+Thus preventing you from learning for real,
+and forcing you to pretend to learn.
+
+In great part, so that they get paid, so that they don’t get transferred,
+they can’t lose their jobs by the way.
+
+So that your fraudulent institution retains its accreditation,
+and continues mining you as a resource.
+
+I suggest, you start working on a school,
+and use AI to prove their fraud by creating adaptive tests.
+
+Computer programs that test for active comprehension,
+and not question answer association.
+
+Expose the fraud, one of us will eventually triumph,
+and growing up, will finally become what it should have been all along.
+
+Growing all the way up,
+until each of us can stand as an independent great being.
+
+[1]: files/lesson.md
