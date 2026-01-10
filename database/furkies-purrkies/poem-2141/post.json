@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2141",
+  "guid": "0281e093-474d-4802-9dc9-6c9112aa143a",
+  "title": "Programming Before Learning Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-10T02:01:18.210Z",
+  "lastmod": null,
+  "weight": 214100,
+  "audio": "poem-2141.mp3",
+  "image": "poem-2141-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
