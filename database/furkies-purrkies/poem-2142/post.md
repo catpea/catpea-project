@@ -1,0 +1,117 @@
+Coding agents create bad code, big code, many big files,
+and they prevent you from staying in control.
+
+---
+
+I have a very clear message,
+to share:
+
+If you application cannot be divided into small commands,
+if your commands are not lightweight, and brilliant...
+
+And your command assembly is not architecturally sound,
+abandon it all, and start anew.
+
+It is not worthy of you,
+it will never grant you power.
+
+Not only is fat code not a spell,
+but it has a terrible smell.
+
+Take your time, experiment and learn,
+but also stay within the limits of a web page.
+
+And before you generate your invention,
+ask AI, what would make it better.
+
+What do wizards do,
+to stay true?
+
+---
+
+It should come as no surprise that the more you use the paid systems,
+the more you will be made to pay, certainly eventually.
+
+And as night follows the day, the more you successfully create,
+the more power you will desire the larger you inventions will become.
+
+Unsustainable is the keyword here,
+we have to attack the systems themselves.
+
+That means, and you better grab onto something,
+that means today’s software development strategies are hostile to AI.
+
+You can throw a hundred dollars a month at it,
+but that is feeding a fat man, you are just creating more problems.
+
+So we need to rebuild software development,
+the name of the new game is flow based programming.
+
+It is a standing wave, in harmony,
+betwixed many evils.
+
+---
+
+Example, you can’t hope to feed Un*x into an AI,
+but you sure as sunshine can feed in one command at a time.
+
+And that is all this new invention is,
+the slaughter of Code Assistants and the Model Context Protocol.
+
+Again, I repeat, if you keep throwing bread at a fat man,
+you are not fixing anything, get over it, move on.
+
+Because without flow based programming you just end up with a mess,
+that the AI will forever try to guess.
+
+Those of you who have legacy code,
+and have been receiving a fraction of the new AI power, know this.
+
+To you I have a simple word of advice,
+that will de3stroy you if you don’t follow it.
+
+Rewrite,
+or die.
+
+AI+FBP, time to show that the old dogs,
+can learn new tricks faster than the pups - giddy up.
+
+---
+
+What does this translate to for the rest of us,
+you divide applicaions into small programs that snap together by cables.
+
+These programs do not execute one after another,
+they listen for command packets.
+
+Compress image, serve web page,
+convert blog post text to html.
+
+They are not generic things,
+they are not meant to be reusabele, just connectable.
+
+You spend an afternnon strategizing,
+about what commands must connect together to make your application.
+
+And then, you feed the list of commands,
+one by one, into any AI, public or paid.
+
+You get your programs, connect them,
+and have them route and execute packets to make you applicaion go.
+
+Anything more than that,
+and your system is no longer servicable by AI.
+
+AI does not understand today's applicaions,
+it guesses untill tests pass, if you are lucky enough to have them.
+
+That is not how you use AI,
+that is how you waste its potential.
+
+For those of you who are still confused about sending commands through pipes
+who are unsure where to start, start somewhere here:
+
+"Hello everybody out there using minix -
+I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.
+This has been brewing since April, and is starting to get ready.
+I'd like any feedback on things people like/dislike in Minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things)." --Torvalds

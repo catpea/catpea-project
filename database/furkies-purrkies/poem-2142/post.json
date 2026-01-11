@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2142",
+  "guid": "74a8cdb9-19fe-4e9d-9bf0-7ee775591613",
+  "title": "Programming With AI: Fight Like A Butterfly Or Die Like A Fly",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-11T00:09:50.638Z",
+  "lastmod": null,
+  "weight": 214200,
+  "audio": "poem-2142.mp3",
+  "image": "poem-2142-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
