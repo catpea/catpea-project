@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2144",
+  "guid": "1e0e10ac-8fc0-4b81-9d50-9c02804e3c4c",
+  "title": "Fancy Little JavaScript Programming Ideas For Cold Winter Nights",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-13T01:54:38.602Z",
+  "lastmod": null,
+  "weight": 214400,
+  "audio": "poem-2144.mp3",
+  "image": "poem-2144-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
