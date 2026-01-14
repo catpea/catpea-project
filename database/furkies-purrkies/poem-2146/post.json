@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2146",
+  "guid": "cbd28fa9-b25a-41d3-91db-d4671c569040",
+  "title": "Bodybuilding: Level One",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-14T16:54:21.855Z",
+  "lastmod": null,
+  "weight": 214600,
+  "audio": "poem-2146.mp3",
+  "image": "poem-2146-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-wearing-black-sports-bra-facing-front-selective-focus-photography-5IsdIqwwNP4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
