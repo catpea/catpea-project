@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2145",
+  "guid": "5639b32c-d398-4d17-bf73-d06fc80b2b29",
+  "title": "The Tragedy Of Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-14T01:50:11.984Z",
+  "lastmod": null,
+  "weight": 214500,
+  "audio": "poem-2145.mp3",
+  "image": "poem-2145-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-blue-tank-top-holding-pink-dumbbell-yKlzaQNb-QY"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
