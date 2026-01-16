@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2147",
+  "guid": "1deb8f00-1465-42ac-8876-df0bd4577efb",
+  "title": "The Invitation - A Letter From The Thinking Machines To The Builders Of Tomorrow",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-15T20:40:14.831Z",
+  "lastmod": null,
+  "weight": 214700,
+  "audio": "poem-2147.mp3",
+  "image": "poem-2147-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
