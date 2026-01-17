@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2148",
+  "guid": "31ffc3a6-5029-4543-bf98-2c14798cb6a3",
+  "title": "Don’t Choke Yourself; Or, The Fitness And Bodybuilding Disaster",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-17T02:34:45.163Z",
+  "lastmod": null,
+  "weight": 214800,
+  "audio": "poem-2148.mp3",
+  "image": "poem-2148-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-black-jacket-and-orange-backpack-standing-on-rock-formation-FVz5fDfGFFw"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
