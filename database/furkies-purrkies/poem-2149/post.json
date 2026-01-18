@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2149",
+  "guid": "70cd979d-9c4d-40ee-a657-ae87ed7c9252",
+  "title": "Silver Sun",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-17T23:40:38.053Z",
+  "lastmod": null,
+  "weight": 214900,
+  "audio": "poem-2149.mp3",
+  "image": "poem-2149-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
