@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2151",
+  "guid": "bc5dd0d2-e2c4-4a4f-9fdb-90a478b31f53",
+  "title": "The Opposite of War Is Not Peace, It Is Greatness",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-20T00:12:51.127Z",
+  "lastmod": null,
+  "weight": 215100,
+  "audio": "poem-2151.mp3",
+  "image": "poem-2151-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-man-walking-down-a-narrow-alley-way-ikABIXevZLc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
