@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2152",
+  "guid": "f2012cd5-8ec0-4026-890e-232b0f552b17",
+  "title": "How Philosophers Change Lives",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-21T02:00:34.145Z",
+  "lastmod": null,
+  "weight": 215200,
+  "audio": "poem-2152.mp3",
+  "image": "poem-2152-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-overlooking-clouds-cN-QMLQCxBI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

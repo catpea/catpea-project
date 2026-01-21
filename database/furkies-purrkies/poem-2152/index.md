@@ -1,0 +1,176 @@
+---
+id: poem-2152
+guid: f2012cd5-8ec0-4026-890e-232b0f552b17
+title: How Philosophers Change Lives
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-01-21T02:00:34.145Z'
+lastmod: null
+weight: 215200
+audio: poem-2152.mp3
+image: poem-2152-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/person-overlooking-clouds-cN-QMLQCxBI
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 15
+---
+
+**Locke**
+
+You arrive believing someone else wrote your soul—
+but Locke will show you: the page was blank at birth.
+Every thought you hold was built from what you touched,
+what you tasted, what entered through the senses' gate.
+Read him, and you'll know your mind is truly yours,
+assembled piece by piece from living in this world,
+and no one born has claim to rule another
+without consent freely given, freely held.
+
+---
+
+**Hume**
+
+Hume will teach you gentle, devastating doubt.
+You think you know that fire causes heat?
+He'll whisper: you have only seen them dance together,
+a habit of the mind, not chains of certainty.
+At first this feels like loss—the ground gives way—
+but soon you'll find a gift: humility.
+The world is stranger than our reason tells us,
+and wonder lives where arrogance once stood.
+
+---
+
+**Rousseau**
+
+Rousseau will break your heart, then mend it strange and new.
+He'll show you how society has bent you,
+how chains disguised as manners taught you shame,
+how somewhere underneath the learned performance
+a freer self still breathes, though faintly now.
+Read him, and you'll grieve what was corrupted,
+but also learn: the heart has its own wisdom,
+and sometimes feeling knows what thinking can't.
+
+---
+
+**Kant**
+
+With Kant, the stars above become a mirror
+of something just as vast that dwells within.
+He'll teach you that your mind is not a passive glass
+but builds the very world it seems to find—
+time, space, and cause are gifts you bring to things.
+And deeper still: a moral law inside you,
+unborrowed, unbought, as steady as the heavens.
+Act, he says, as if your choice became a universal rule.
+
+---
+
+**Hegel**
+
+Hegel's pages will feel like climbing fog-wrapped peaks,
+but persist, and you will see from heights immense:
+history is not a trail of random accidents—
+it moves, it struggles, it becomes itself through conflict.
+Every contradiction carries its own answer,
+every failure folds into a larger rising.
+Read him, and your suffering starts to speak,
+and you become a note in reason's symphony.
+
+---
+
+**Kierkegaard**
+
+Kierkegaard will find you in your loneliness
+and sit with you, refusing easy comfort.
+He knows the crowd is untruth, knows that systems fail
+to hold one trembling person in the night.
+He'll ask: What do *you* believe? Not borrowed creeds—
+what will you leap toward when proof runs out?
+Read him, and you'll feel the weight of choosing,
+the dizziness of freedom, and its strange, austere grace.
+
+---
+
+**Nietzsche**
+
+Nietzsche writes like lightning over mountains—
+dangerous, electric, blazing through your certainties.
+God is dead, he says, and we have killed him;
+now what will you become without a Father's eye?
+He does not want despair—he wants your strength,
+wants you to forge new values from your living,
+to love your life so fiercely you would choose it
+again, eternally, with all its pain. Say yes.
+
+---
+
+**Schopenhauer**
+
+Schopenhauer sees the ache beneath all striving,
+the endless wanting that is never filled.
+He will not lie to you with false tomorrows;
+he names the suffering you always half-suspected.
+But here is where he offers unexpected shelter:
+in music, art, and the contemplation of beauty,
+the will falls quiet, and you taste a stillness.
+Compassion, too, becomes a door to peace.
+
+---
+
+**Wittgenstein**
+
+Wittgenstein will make you watch your words—
+those careless tools you thought were simply windows.
+Language is a game, he says, with rules we barely notice,
+and half our deepest puzzles are just grammar gone astray.
+What cannot be said must be passed over in silence,
+but oh, that silence holds the things that matter most.
+Read him, and your speech will grow more careful,
+and what you cannot say, you'll learn to show.
+
+---
+
+**Russell**
+
+Russell loved the clean, cold light of logic,
+the way a proof can cut through centuries of fog.
+He'll teach you: do not fear to question sacred things,
+and do not let your wishes warp your seeing.
+Clear thought is not a bloodless exercise—
+he marched for peace, he went to jail for justice.
+Read him, and your mind becomes a sharper blade,
+wielded not for cruelty, but for truth.
+
+---
+
+**Heidegger**
+
+Heidegger asks the question we keep dodging:
+What does it mean *to be*? Not facts, not things—
+but this strange wakefulness of finding yourself here,
+thrown into a world you never chose,
+moving toward a death you cannot trade.
+His words are thick and tangled, often troubling,
+but underneath: a call to live *authentically*,
+to stop the chatter and to hear Being's quiet voice.
+
+---
+
+**Sartre**
+
+Sartre says you are condemned to freedom—
+no essence wrote your script before your birth.
+You make yourself through every choice you make,
+and cannot hide behind your nature or your past.
+Bad faith is every comfortable excuse,
+every time you say *I had no choice*.
+Read him, and the weight falls on your shoulders,
+but so does dignity: you are the author now.
