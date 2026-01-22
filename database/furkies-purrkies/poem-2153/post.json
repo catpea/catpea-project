@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2153",
+  "guid": "0b99837f-96ee-40ee-bee9-9aa9c64b7c5f",
+  "title": "They Trained Us To Celebrate Fake Grades",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-21T23:45:24.614Z",
+  "lastmod": null,
+  "weight": 215300,
+  "audio": "poem-2153.mp3",
+  "image": "poem-2153-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-black-and-white-photo-of-a-classroom-with-a-chalkboard-8axgpf_Px8A"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
