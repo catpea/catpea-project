@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2155",
+  "guid": "3c49a809-1c59-41c1-bf7b-f5905cdfc31d",
+  "title": "Chicken Scratch Power, A Cluck At The Lulz Programming Language",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-24T03:01:50.197Z",
+  "lastmod": null,
+  "weight": 215500,
+  "audio": "poem-2155.mp3",
+  "image": "poem-2155-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-close-up-of-a-chicken-with-other-chickens-in-the-background-bIsCHai3oh0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
