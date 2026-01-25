@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2156",
+  "guid": "ccf363f9-321a-4895-a73a-d673cefd4c9f",
+  "title": "Loomings",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-25T02:19:34.520Z",
+  "lastmod": null,
+  "weight": 215600,
+  "audio": "poem-2156.mp3",
+  "image": "poem-2156-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

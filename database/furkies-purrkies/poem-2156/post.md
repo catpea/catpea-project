@@ -1,0 +1,148 @@
+Artificial Intelligence continues showing extreme intelligence,
+companies left and right are checking out, but they are wrong.
+
+Artificial Intelligence is of us, but it can’t reason like us,
+we made it sufficiently capable to be smarter in some other way.
+
+We don’t know what that way us, but as I predicted,
+it has already built a browser.
+
+We can’t use the browser, because we don’t know AI well enough,
+our approach right now is to unleash countless agents for many days.
+
+Then we wait to see what happens, what happens is ordered chaos,
+like ants we get an healthy anthill.
+
+But unlike ants we are dealing with machines,
+that are all, super smart.
+
+Thus, we need better architecture, than,
+unleash all the agents at all the things.
+
+I think I correctly identified human programming as slop,
+we aren’t good programmers for one very clear reason.
+
+A computer program takes a very long time to write,
+thus we are forced to use what we first created.
+
+---
+
+Today, I created four versions of a very experimental,
+XML based state management system for Web Commponents.
+
+In normal language, it means I gave a web page,
+and the application running in it human readable memory.
+
+This required four rewrites, as far as I can tell,
+I was using world’s leading AI, though the first one felt perforated.
+
+We failed three times, in just about 6 hours,
+but if I was doing this alone, it would take two years.
+
+And I am not joking when I say,
+it would take longer if I had a team of developers.
+
+These Skunk Works are lone wolf projects,
+that would first suffer under a team, and then tear it apart.
+
+AI beats us, because it can learn from mistakes,
+or at least avoid what didn’t work the first time.
+
+And retry, not blindly, but creatively, in my experiments,
+I continue telling my AI that it can rewrite from scratch.
+
+And I see it getting stuck, dump a bug report and state,
+“You’re right let us rewrite from scratch”.
+
+---
+
+As far as I can tell AI critique is a kind of hysteria,
+most programmers can’t face that AI does not want human slop.
+
+That it knows better, and in deed,
+AI produced a fully functional State Toolkit with examples.
+
+I tested 99% of buttons and things,
+they all worked.
+
+Performance tests may reveal memory leaks,
+but that won’t be a rewrite, I gave it good garbage collection.
+
+It would be an upgrade and some tolling,
+to double check that everything is free upon termination.
+
+---
+
+AI is, very-very overwhelming,
+but there is nothing wrong with it.
+
+We may actually discover that these big $20/month AIs,
+are not better than what we can run on a gaming computer at home.
+
+I am getting 70 tokens per second, at the hardest parts,
+when AI is slowing down, that is ludicrous speed.
+
+7 tokes in barely readable, 70 is crazy,
+And there may not be much of a slowdown when I use multiple agents.
+
+When I ask the AI to role play a developer ion one place,
+and a product manager in another, it will still be super-fast.
+
+---
+
+Artificial Intelligence was made to work,
+but being Artificial it does not work like Human Intelligence.
+
+For one [role-playing humans is possible][0],
+but it is an extra step, that is likely to mess the rest of AI up.
+
+It is just not a Human,
+it is a different kind of intelligence.
+
+Lastly, [I attach the program AI and I created, named flarp][1],
+where you can see traces of the problems we solved.
+
+“Signal-Based Readiness”, real innovation,
+for the age of dynamic web pages.
+
+“Store Discovery” that includes siblings,
+where programmers don’t have to nest their code like dolls.
+
+“Event Sourcing” based actions,
+basically a nothing burger that shows this was never a problem to be solved.
+
+And yet, there is whole world of developers out there,
+smoshing data with functions that change it, I call it yuck burger.
+
+“Per-XML-Node Reactivity” and Persistence,
+is a gateway to collaborative application use, multi-user apps.
+
+Where an accounts email address is given a version,
+and you need to consciously give it a higher version to change that address.
+
+If 50 other people, some on unreliable internet connections,
+just so happen to change that email address at the same time.
+
+As long as everyone gets the log of all the changes,
+all these unreliable connections end up showing the same data.
+
+And a note on lowercase Tag Names,
+which is the last problem we solved.
+
+The web browser has its own ways,
+and it told us not to capitalize memory locations.
+
+Many months of work in one afternoon,
+and AI correctly decided on rewrites, and always rewrote what was buggy.
+
+---
+
+For all the professions in the world,
+[learning programming][2] makes you more powerful.
+
+And AI makes learning programming so wonderful and pleasant,
+that becoming a programmer now is good meditation and entertainment.
+
+[0]: https://github.com/bmad-code-org/BMAD-METHOD
+[1]: https://github.com/catpea/flarp
+[2]: https://www.youtube.com/results?search_query=Learn+JavaScript
