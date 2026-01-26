@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2157",
+  "guid": "53c98f65-93bf-4228-adfa-b889cb485161",
+  "title": "And A New Legend Began",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-25T22:11:48.600Z",
+  "lastmod": null,
+  "weight": 215700,
+  "audio": "poem-2157.mp3",
+  "image": "poem-2157-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
