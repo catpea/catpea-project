@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2158",
+  "guid": "75e3c387-b5e6-43f7-9c29-f84d680ac692",
+  "title": "Helping Artificial Intelligence Comprehend Program Code",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-27T01:45:07.538Z",
+  "lastmod": null,
+  "weight": 215800,
+  "audio": "poem-2158.mp3",
+  "image": "poem-2158-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
