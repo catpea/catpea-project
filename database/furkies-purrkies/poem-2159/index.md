@@ -1,7 +1,7 @@
 ---
 id: poem-2159
 guid: 8d062209-51b1-4ee9-9c62-416a37355469
-title: A Spicy Litte Invitation To Web Programming
+title: A Spicy Little Invitation To Web Programming
 description: null
 tags:
   - furkies-purrkies
