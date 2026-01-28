@@ -1,0 +1,81 @@
+AI is out first encounter with pure intelligence,
+a thinking machine that does not stop, or get tired.
+
+It will do what you ask it to do,
+and to be blunt, you first have to ask it to teach you web programming.
+
+---
+
+You have been played by wealthy politicians who wouldn't even know,
+how to figure out what poverty is, if their life depended on it.
+
+All your ancestors were warriors and fighters,
+some were great beings, many were were artists and an inspiration.
+
+And you don’t get to get this far,
+and not experience what it is like to turn the keyboard around.
+
+And say,
+“Here, you type”.
+
+If you don’t want a computer, get a virtual reality headset,
+you can just out it on have have your lessons there.
+
+---
+
+The programming AI that you can run at home,
+just became 10 to 20 times faster with the [GLM][1] model.
+
+---
+
+For the first time in history of humanity,
+you can actually pull yourself out of the damn poverty.
+
+Previously, you had very limited range, and you had to do all the work,
+today AI will program anything for you.
+
+That means the road ahead of you is unique,
+and you arent just going to end up creating more of the same.
+
+---
+
+The people who call AI code slop, are using the wrong language,
+ask AI to create a language based on ffmpeg filtergraph for you.
+
+And before it starts creating web apps,
+tell it to test the flows via the new node.js test harness.
+
+The AI creates the architecture,
+and corrects its own errors, until its perfect.
+
+You have to understand,
+that your education wasn’t ineffective it was fake.
+
+The teachers were copying grades from other,
+you were never a C or D student, your school was a scam.
+
+That you couldn't learn or that you weren’t smart,
+that means you got played.
+
+By the fake it until make it, the pretenders and leaches,
+and unhinged political parasites.
+
+Ai is really an infinite complexity machine,
+it is like clay, so you only need to create a program that shapes it.
+
+There is an infinite number of programs stored within AI,
+if you learn programming you can make many of them yours.
+
+Get mad, make your stand, begin by putting an end to your fear of poverty,
+learn web programming and have the AI help you write your first apps.
+
+Build a VR school, or a pixel art game,
+or an infinite choose your story adventure that becomes an illustrated book.
+
+Don't ignore Artificial Intelligence,
+ask it to teach you web programming.
+
+The world hasn't just changed,
+it is new.
+
+[1]: https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF

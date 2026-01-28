@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2159",
+  "guid": "8d062209-51b1-4ee9-9c62-416a37355469",
+  "title": "A Spicy Litte Invitation To Web Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-28T02:28:59.847Z",
+  "lastmod": null,
+  "weight": 215900,
+  "audio": "poem-2159.mp3",
+  "image": "poem-2159-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
