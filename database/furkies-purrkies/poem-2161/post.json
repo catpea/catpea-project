@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2161",
+  "guid": "52cda8f7-1833-4dd2-823b-f351bef8100f",
+  "title": "A Remedy For Old Age: Becasue If You Are Cold, Then You May Be Getting Old",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-30T01:41:15.414Z",
+  "lastmod": null,
+  "weight": 216100,
+  "audio": "poem-2161.mp3",
+  "image": "poem-2161-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
