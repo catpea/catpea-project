@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2162",
+  "guid": "002e4f8d-d15d-4ea8-ba89-1c6549fa4476",
+  "title": "Terminus Six",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-31T02:16:09.946Z",
+  "lastmod": null,
+  "weight": 216200,
+  "audio": "poem-2162.mp3",
+  "image": "poem-2162-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/person-standing-in-front-of-gray-mountains-jSjgQmaQtVQ"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
