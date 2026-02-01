@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2163",
+  "guid": "9ffa982c-b0ed-4030-831b-b696d74f4656",
+  "title": "Ghost To Ghost",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-01-31T23:43:08.403Z",
+  "lastmod": null,
+  "weight": 216300,
+  "audio": "poem-2163.mp3",
+  "image": "poem-2163-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/snow-capped-mountain-peak-with-green-slopes-pyAn_XPvAMI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
