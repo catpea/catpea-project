@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2164",
+  "guid": "13f7e75d-1773-4dcb-b4f2-4d589afd0d62",
+  "title": "Walk",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-01T22:10:20.065Z",
+  "lastmod": null,
+  "weight": 216400,
+  "audio": "poem-2164.mp3",
+  "image": "poem-2164-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-with-a-backpack-walking-up-a-hill-SrFD2nwfbqI"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
