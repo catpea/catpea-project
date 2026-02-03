@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2165",
+  "guid": "974bda32-81c5-4962-814f-e3cdbf861a4f",
+  "title": "Computer Game",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-03T02:29:15.059Z",
+  "lastmod": null,
+  "weight": 216500,
+  "audio": "poem-2165.mp3",
+  "image": "poem-2165-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
