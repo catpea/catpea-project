@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2166",
+  "guid": "1b63ef6e-54a4-4df5-b78e-5fcaadec329d",
+  "title": "The Grades Were Lies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-03T20:39:46.126Z",
+  "lastmod": null,
+  "weight": 216600,
+  "audio": "poem-2166.mp3",
+  "image": "poem-2166-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-black-and-white-dress-sitting-on-concrete-stairs-tHs82PkN5rg"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
