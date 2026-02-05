@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2167",
+  "guid": "915475e9-099b-44b3-a148-f2f6b73eeab5",
+  "title": "Fitness Trouble: Somebody Lied About Bodybuilding",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-05T02:09:35.478Z",
+  "lastmod": null,
+  "weight": 216700,
+  "audio": "poem-2167.mp3",
+  "image": "poem-2167-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-woman-lifting-a-barbell-in-a-gym-Xb1d-N04Quc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
