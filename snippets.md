@@ -1,4 +1,6 @@
+### Read Command Line Arguments
 
+const [, , srcRoot, destRoot] = process.argv;
 
 
 ### A Strange Little Discovery

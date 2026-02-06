@@ -1,0 +1,162 @@
+---
+id: poem-2168
+guid: 5adb095d-e92a-4e64-a220-b7153d0ad882
+title: So, What Does A Real Muscle Building Workout Look Like?
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-02-06T01:08:56.051Z'
+lastmod: null
+weight: 216800
+audio: poem-2168.mp3
+image: poem-2168-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/a-woman-holding-two-red-dumbs-in-her-hands-X2xV00F5534
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 15
+---
+
+A real workout is a sustained challenge to your body,
+you never stop just lower weights, and go back up when restored.
+
+You lift light to make it through the hour,
+though not so light that you can lift more.
+
+But you never lift so heavy,
+that you are forced to stop and rest.
+
+Imagine stopping as failing your excersice,
+it must be avided.
+
+If you are out of shape you will need to stop,
+for lack of endurance.
+
+And until you have an hours worth of endurance,
+by eliminating your rest gaps like joggers do.
+
+Consider your efforts a training phase,
+not quite the full excersice that will build your body.
+
+---
+
+Joggers are a perfect example of the first level,
+but once they dominate the hour with strength to spare...
+
+They do not add weights, most try to run faster,
+or longer, or more frequently.
+
+They rarely put on a weight west,
+or try to jog with dumbbells.
+
+Those who do seek to tone their body,
+and will never increase the weight of their dumbbells.
+
+This is where muscle building reaches the third level,
+once you are comfortable with an hours worth of 5lb per hand.
+
+You move up by no more than 2.5 pounds per hand,
+and at 7.5 you will see another explosion of muscle growth.
+
+---
+
+Jogging is a very fragile thing,
+most people will avoid rain and snow.
+
+And when carrying dumbbells,
+you should too.
+
+At the gym,
+you will not be permitted to use dumbbells on a treadmill.
+
+Therefore once you earn an hour's worth of jogging endurance,
+and are ready to begin weigh yourself down.
+
+You will have to perform dance like motions,
+at the gym.
+
+You will need to move to the beats in your songs,
+starting with 90's country firs as it is relatively low BPM.
+
+The gentle dance with dumbbells, one beat up and next beat down,
+will pushing you into a dance trance.
+
+This is a similar state to when you are driving home,
+or playing computer games and time gets away from you.
+
+While people may think you are behaving oddly,
+no one can perform an hour or two worth of lifting without music.
+
+Real muscle building demands a prolonged challenge to your body,
+and you will need to distract yourself away from quitting.
+
+Only coordination and synchronizing your lifting to beats of new songs,
+will include and sustain that state.
+
+Old songs depleted of energy, perfumes, hot chocolate aficionados,
+will knock you out of trance, so you need to find room for yourself.
+
+---
+
+In short, you will be slowly dancing non stop,
+performing whatever standing dumbbell exercises your body can handle.
+
+Please understand that while you will become even more beautiful,
+bodybuilding is not about the looks, it is about longevity.
+
+People who are standing still while lifting are not fully exercising,
+as they get older they will suffer from not renewing their bodies.
+
+Dance is not just a way to built your body, and focus your mind,
+it is how you respectfully keep your body renewing it self.
+
+---
+
+I know you want to know how long it will take,
+the answer is 20 months, but you don't snap into a bodybuilder.
+
+You see results the first or second week,
+I recommend working out every other day at first.
+
+It is non-stop dancing,
+with whatever dumbbells you can handle for an hour.
+
+And once your body gets used to those dumbbells,
+you go up by 2.5 pounds per hand, use wrist weights if you must.
+
+You may need to stop at first the same way joggers need to stop,
+and like joggers you have to close those rest gaps by extending endurance.
+
+Bodybuilding as described here works for young ladies and older gentlemen,
+it is just weighted down jogging that looks like dancing.
+
+The result is your body building it self up,
+to handle the challenge.
+
+If you have to stop, you are lifting too heavy, going too fast,
+go back to lighter weights, so that your body can get used to them.
+
+And when you see people lifting heavy for 20 seconds,
+compare that to your 60 minute challenge.
+
+You are challenging your entire body by balancing with moving weight,
+sitting down and lifting heavy for 30 seconds is not enough.
+
+There will be initial adaptation as a person does something,
+but they are lifting too heavy to challenge their body in any meaningful way again.
+
+They are cornered, and crushed, if they adapt at all,
+it will be on the order of decades, not weeks.
+
+The initial aches go away,
+in a couple of weeks.
+
+But fatigue, tiredness and brain-fog,
+are a universal signal of not enough sleep and wrong nutrition.
+
+You body is an ape, an animal, if you are going to grow it,
+you will have to feed it.
