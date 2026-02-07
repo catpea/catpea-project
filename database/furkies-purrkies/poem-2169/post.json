@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2169",
+  "guid": "49fd95ba-3894-40ad-939d-a8afe3ece1ec",
+  "title": "The “Where The Heck Are We?” Walking Clubs Of America",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-07T02:56:38.444Z",
+  "lastmod": null,
+  "weight": 216900,
+  "audio": "poem-2169.mp3",
+  "image": "poem-2169-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/people-walking-on-dirt-road-between-trees-during-daytime-jWv1ILisuSc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

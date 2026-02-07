@@ -1,0 +1,84 @@
+---
+id: poem-2169
+guid: 49fd95ba-3894-40ad-939d-a8afe3ece1ec
+title: The “Where The Heck Are We?” Walking Clubs Of America
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-02-07T02:56:38.444Z'
+lastmod: null
+weight: 216900
+audio: poem-2169.mp3
+image: poem-2169-illustration.jpg
+images: null
+artwork:
+  - https://unsplash.com/photos/people-walking-on-dirt-road-between-trees-during-daytime-jWv1ILisuSc
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 15
+---
+
+The modern gym needs repair, if you have been a member for long enough,
+you notice that only a few make it.
+
+Gym, is life. Twenty, and for some of us, 50 extra years of life,
+we literally die if we don’t fix it.
+
+---
+
+The walking club idea,
+is an extension to all local gyms everywhere.
+
+At some point during the day, perhaps a different time every other day,
+your local gym organizes a slow and fast version of a 60 minute walk.
+
+When a person feels they need more, they first switch teams,
+and they are asked to buy used dumbbells and carry those.
+
+Once they feel they can handle more,
+maybe they add 1.5 pound wrist weights, or move up in dumbbell weight.
+
+The path is always different, and avoids most of the bad weather,
+and aims to pass by local fast food places, for breaks and bathrooms.
+
+---
+
+Let me tell you something,
+such a walk exposes the stagnant modern gym experience.
+
+It is far superior to comfortably sitting at the gym,
+or lifting heavy weights three times for thirty seconds.
+
+And yes it is better than the treadmills, because here!
+you are allowed to carry weights, without the threat of getting sucked in.
+
+Every one in a while there is a longer walk,
+on sunny days there maybe some food involved somewhere.
+
+The pretty lady, will always win the winter trailblazer prize,
+and the hairy guy will never fail to shock the group with just how far he jogs.
+
+A group of tough old birds will train with Couch to 5K,
+and scare the young lads with manly legs.
+
+And no one will ever be confused about what a workout actually is,
+and it certainly, dot not, in any way involve sitting, or heavy weights.
+
+---
+
+It is very important to follow one rule,
+no one is allowed to adapt and then simply breeze through.
+
+A real workout requires a constant challenge,
+either faster, heavier, longer, or harder – that’s why we sign up for the gym.
+
+---
+
+And finally, when it rains, all the fat chickens can stay in the hen house,
+under the roof, and discuss progress, bellies, and wide toe box zero drop shoes.
+
+All the while, the trainer will be busy scribbling a double walk,
+for the next day: because a step not taken is a health forsaken.
