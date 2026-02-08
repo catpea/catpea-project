@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2170",
+  "guid": "77e390c7-3d0d-4a5b-a404-a112ec91cd25",
+  "title": "The Apoplectic ┻━┻ ︵(ノಠᴥಠ)ノ彡┻━┻ Or, How I Invented A New Revolutionary Movement",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-08T01:21:05.081Z",
+  "lastmod": null,
+  "weight": 217000,
+  "audio": "poem-2170.mp3",
+  "image": "poem-2170-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-close-up-of-a-white-duck-with-an-orange-beak-EYiX4yDp2oc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

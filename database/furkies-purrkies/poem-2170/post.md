@@ -1,0 +1,106 @@
+Let us begin,
+by clearly defining the new use of the word.
+
+Apoplectic
+adj., n., & occasionally a state of being
+
+Etymology:
+
+From apoplexy (Old French via Latin via Greek), meaning “to be struck down,” here repurposed to describe prose that strikes first and asks nothing later.
+
+Definitions:
+
+1. adj.
+Of writing or thought: marked by vehement conviction, emotional velocity, rhetorical excess, and a principled impatience with calm reasoning. Inclined toward splutter, thunder, and furniture-endangering emphasis.
+
+2. n.
+A mode of expression or argument that rejects dialectical balance in favor of declarative outrage and unapologetic certainty.
+
+3. v. (rare, informal)
+To apoplect: to abandon measured discourse and express one’s position with such force that composure becomes collateral damage.
+
+Usage:
+
+- His essay was not persuasive in the conventional sense, but it was unmistakably apoplectic.
+- She apoplected her way through the footnotes, overturning centuries of scholarship before breakfast.
+- He approached dating apoplectically, declaring his intentions in the first five minutes and regarding emotional ambiguity as a personal insult.
+- She cooked apoplectically, seasoning with conviction, rejecting measurements, and treating the recipe as a series of provocative suggestions.
+- The argument over the thermostat became apoplectic within moments, ending only when the chair was repositioned with unnecessary emphasis.
+- His emails were apoplectic in tone—technically informative, emotionally incendiary, and impossible to ignore.
+
+---
+
+**The Apoplectic Movement**
+*A Literary and Intellectual Manifesto*
+
+### I. Origins
+
+The Apoplectic Movement arises from the weary realization that the world is already on fire and does not require further calm explanation of the fact. It is a direct reaction against the dialectic tradition, which insists — quaintly, optimistically — that truth emerges through patient exchange.
+
+The apoplectic knows better.
+Truth, the apoplectic argues, emerges through **impact**.
+
+### II. Core Principles
+
+1. **Conviction Over Consensus**
+   The apoplectic writer does not seek agreement. Agreement is a side effect, not a goal.
+
+2. **Velocity Over Balance**
+   Ideas should move fast enough to knock over lesser ideas standing too close.
+
+3. **Rhetorical Force Is a Virtue**
+   Volume, repetition, and exaggerated emphasis are not flaws. They are tools.
+
+4. **Footnotes Are Optional, Indignation Is Not**
+   Sources may be cited, but only after the argument has been set ablaze.
+
+5. **If a Table Remains Upright, the Passage Is Incomplete**
+   Metaphorical or otherwise.
+
+### III. Stylistic Markers
+
+Apoplectic writing often includes:
+
+* Short, declarative sentences deployed like blunt instruments
+* Sudden italics of moral urgency
+* Parenthetical asides that abandon politeness
+* Rhetorical questions that are not, in fact, questions
+* A noticeable lack of patience for “on the other hand”
+
+### IV. What Apoplectic Writing Is *Not*
+
+* It is not incoherent ranting (though it may resemble it from a distance)
+* It is not anti-intellectual (it is anti-temperance)
+* It is not interested in winning debates; it is interested in **ending them**
+
+### V. Common Criticisms (and Their Rejection)
+
+Critics complain that apoplectic writing is:
+
+* “Unbalanced”
+* “Overheated”
+* “Emotionally compromised”
+
+To which the apoplectic replies:
+*Yes. Precisely. Next question.*
+
+### VI. The Apoplectic Author’s Oath
+
+> *I will write as though time is short, patience is thinner, and clarity sometimes requires raised voices. I will not pretend neutrality where none exists. I will not apologize for passion. And if a sentence does not leave scorch marks, I will strike it and try again.*
+
+---
+
+## Final Benediction
+
+Thus is born a new mode of expression:
+Not to persuade gently, but to **declare thunderously**.
+Not to reconcile, but to **reveal**.
+Not to converse politely, but to **apoplect gloriously**.
+
+Go forth. Tip tables. Splutter well.
+
+And should anyone object —
+tell them you are not being unreasonable.
+You are simply being *apoplectic*.
+
+(╯°□°）╯︵ ┻━┻
