@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2171",
+  "guid": "e36105fc-a6a8-4895-9a6e-ffb0d925da45",
+  "title": "You Are Illuminati, You Are The Conquered",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-08T16:14:50.827Z",
+  "lastmod": null,
+  "weight": 217100,
+  "audio": "poem-2171.mp3",
+  "image": "poem-2171-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
