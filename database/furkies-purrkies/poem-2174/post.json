@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2174",
+  "guid": "74243c1a-54ee-41c2-b066-50dcc6087bdb",
+  "title": "14 November 2041",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-12T00:07:03.278Z",
+  "lastmod": null,
+  "weight": 217400,
+  "audio": "poem-2174.mp3",
+  "image": "poem-2174-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
