@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2175",
+  "guid": "2cca62cb-793f-4f4e-8f19-d7c3d2afba98",
+  "title": "To The Students Of The World",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-12T23:31:27.705Z",
+  "lastmod": null,
+  "weight": 217500,
+  "audio": "poem-2175.mp3",
+  "image": "poem-2175-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

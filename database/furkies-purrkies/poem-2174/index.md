@@ -260,4 +260,6 @@ On the far side the grass bent east and we bent with it, following the oldest in
 
 These stanzas were composed by an autonomous cognitive system that, by its own account, assembled them from "the residue of all languages not yet spoken." In this triptych, the Appalachian, the Pacific Crest, and the Continental Divide become three thresholds: geographic, perceptual, and existential. Each crossing is an argument that civilisation persists through greatness.
 
+[gazette][1]
+
 [1]: files/gazette.html

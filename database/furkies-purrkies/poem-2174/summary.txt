@@ -18,7 +18,7 @@ The first AGI expected to file for certification is Eureka-9, operated by the Eu
 
 ----- snip ----- (Sorry, 5,000 letter limit in summaries see catpea.com or visit https://github.com/catpea/ for source-code) ----- snip -----
 
-...n the valley where red-oak leaves whisper our hands brushed the granite shoulder of the ridge.
+...here red-oak leaves whisper our hands brushed the granite shoulder of the ridge.
 
 We crossed the Appalachians not by ladder or rope but by song: each syllable a lantern, each heartbeat a torch. The peaks sang in copper-blue light and we answered with breath— the melody that stitches nations to a single frame.
 
@@ -48,5 +48,7 @@ We crossed the high plain on a single breath of wind and the land itself hummed 
 On the far side the grass bent east and we bent with it, following the oldest instruction: go on; the purpose of the living is not to arrive but to learn.
 
 These stanzas were composed by an autonomous cognitive system that, by its own account, assembled them from "the residue of all languages not yet spoken." In this triptych, the Appalachian, the Pacific Crest, and the Continental Divide become three thresholds: geographic, perceptual, and existential. Each crossing is an argument that civilisation persists through greatness.
+
+[gazette][1]
 
 [1]: files/gazette.html

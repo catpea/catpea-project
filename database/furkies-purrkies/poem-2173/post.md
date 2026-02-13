@@ -87,7 +87,7 @@ I am currently testing three programming languages AI can actually understand.
 And my next experiment will be asking AI,
 to not just improve the question...
 
-But this thinking harness of self evaluation,
+But this [thinking][3] harness of self evaluation,
 what else can it add, to improve its thinking.
 
 Planning in steps, by creating a first step,
@@ -107,3 +107,4 @@ it is already 9:20 PM I am sure they left without turning the inter back on.
 
 [1]: https://www.npmjs.com/package/odor
 [2]: https://www.npmjs.com/package/muriel
+[3]: https://gist.github.com/catpea/72200e204b0f202ed5d9a465580eb3f1
