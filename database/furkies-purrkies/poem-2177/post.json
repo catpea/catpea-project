@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2177",
+  "guid": "fdfe6b8b-a477-4d45-bb66-c10d10b37387",
+  "title": "Learning AI By Writing Three Programs At The Same Time",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-15T03:43:36.864Z",
+  "lastmod": null,
+  "weight": 217700,
+  "audio": "poem-2177.mp3",
+  "image": "poem-2177-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
