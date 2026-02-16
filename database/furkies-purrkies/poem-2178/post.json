@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2178",
+  "guid": "e68f4bf7-6669-45fe-84a4-adfb54a57786",
+  "title": "Bodybuilding Quickstart",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-16T03:01:27.982Z",
+  "lastmod": null,
+  "weight": 217800,
+  "audio": "poem-2178.mp3",
+  "image": "poem-2178-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-with-a-backpack-walking-on-a-path-_YXbru_XfV0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
