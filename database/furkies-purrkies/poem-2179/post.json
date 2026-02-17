@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2179",
+  "guid": "b531675d-4a6b-4131-b6c1-7c2512e982eb",
+  "title": "A Look At Fair Start Web Programming",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-17T01:22:33.253Z",
+  "lastmod": null,
+  "weight": 217900,
+  "audio": "poem-2179.mp3",
+  "image": "poem-2179-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
