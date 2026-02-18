@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2180",
+  "guid": "48752a4f-9b1e-43b6-9aab-68f064e41384",
+  "title": "Is Bodybuilding Incomplete?",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-18T02:50:11.357Z",
+  "lastmod": null,
+  "weight": 218000,
+  "audio": "poem-2180.mp3",
+  "image": "poem-2180-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/woman-in-white-sports-bra-and-pink-leggings-doing-exercise-48aSEKhTNd4"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
