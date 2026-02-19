@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2181",
+  "guid": "c435f8a6-5f74-42a6-bcce-70ec42e11e3b",
+  "title": "Luxury Programming With Hullabaloo",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-19T00:10:49.320Z",
+  "lastmod": null,
+  "weight": 218100,
+  "audio": "poem-2181.mp3",
+  "image": "poem-2181-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
