@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2182",
+  "guid": "d0ce28a7-af62-4241-b360-d11a04e02f61",
+  "title": "Fight For Your Health, Because Your Trainer May Not Be Able To Fight For You",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-20T01:11:19.595Z",
+  "lastmod": null,
+  "weight": 218200,
+  "audio": "poem-2182.mp3",
+  "image": "poem-2182-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
