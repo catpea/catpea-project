@@ -1,0 +1,129 @@
+[Nordhouse Dunes][0] is a wilderness, you never go in alone,
+but is not too far from civilization for emergencies.
+
+Cut proof gloves are a must, both to protect you hands from firewood,
+and because the single most dangerous thing there, is your Bowie knife.
+
+Never cut toward yourself, because when you hit a snag and pull harder,
+you create a powerful weapon against your hands.
+
+If you can’t do it without cutting away from yourself,
+then your knife is not the right tool for the job.
+
+Bing a saw, for cutting wood, and even fallen trees,
+a sharp hand saw a bit too big for your pack, makes you royalty in the woods.
+
+Fire starters, and perhaps lighter fluid, because you are not a cave woman,
+there is no time to mess with kindling after the sun goes down.
+
+---
+
+Don’t go alone, people who can’t leave alcohol or drugs behind,
+are not yet ready for adventure of friendship that you won’t regret.
+
+And stay away from boys who are likely to bring drugs home,
+because it is legal now, you’ll just end up addicted.
+
+---
+
+Becoming a philosopher is a critical component of growing up,
+you can go it by choice when there is time for it.
+
+Or wait and have life do it for you,
+when time and patience is scarce.
+
+All you have to do, is fail everything, assume everything is fake or broken,
+or made to rope-a-doope you in some way that you can’t yet see.
+
+Socrates called it realizing that you know nothing,
+Nietzsche called it staring into the abyss.
+
+But this is not about examining disturbing truths about life,
+failing everything until you have good evidence is about your footing in life.
+
+In the woods, you will soon develop a a natural thirst for wisdom,
+and I recommend Will Durant’s Story of Philosophy as an audio book.
+
+I am also partial to Giants of Philosophy, by multiple authors,
+but well written, and voiced by Charlton Heston.
+
+Check the listeners also bought section,
+for the dozen or so important works.
+
+(Socrates,  Aristotle,  Plato,  Descartes,  Spinoza,  Locke,  Leibniz,  Hume,  Rousseau,  Kant,  Hegel,  Kierkegaard,  Nietzsche,  Schopenhauer,  Wittgenstein,  Heidegger,  Ayn Rand...)
+
+Choose older works from when wisdom still mattered,
+make sure they are not modern propaganda books with inflated sales figures.
+
+---
+
+As you crisscross the Wilderness hopefully with your mom,
+time will come to open up your notebooks ans sketch programming diagrams.
+
+You want to study visual programming,
+which is more accurately called, flow based programming.
+
+You transform data packets, through countless filters,
+I created a programming surface for your AI called [hullabaloo][1].
+
+Your AI will explain that we even or flatten the surface,
+so that you can focus on flow based programming.
+
+This the style of programming that AI can understand,
+and thus far superior to the more classical modes.
+
+Tell your AI the user interfaces are forms based on database tables,
+and the database is an immutable event log, an event source.
+
+These are more advanced subjects, but that is how you do UI and data,
+the critics always forget hackers, and local first databases for efficient queries.
+
+You can safely ignore them, they are just victims of standardized education,
+and educators with over inflated egos.
+
+They regurgitate the same material for so long that they become unhinged,
+confusing the only way they understood, with the only way there is, very sad.
+
+---
+
+Philosophy and Programming, so that you can see the lies,
+and so that the liars can’t control you.
+
+---
+
+Please know that the Raccoon's name is Friday,
+and you will know ho I am talking bout because he will unzip your tent.
+
+These are not trash pandas,
+they are noble creatures.
+
+Out in the wilderness. they are clean, and only mean to investigate,
+especially any snacks you leave behind when going for a hike.
+
+---
+
+Please use a quiet little drone to take your panramic photos,
+and then use VR if you get some sick.
+
+Which brings us to the final subject, you are to adventure for so long,
+you flip from city slicker, back to a normal person.
+
+A thinker, adventurer, inventor, artist, drift wood animal builder (use glue)
+programmer, a force of nature, visiting the city, powerful, overpowered, funny.
+
+Once ready, drag your friends and family out onto the Appalachian Trail,
+it is a holy place, that keeps it hikers, their spirits forever there.
+
+You will have to finish your quest, by walking the Pacific Crest Trail,
+and the Continental Divide, but please don’t hurry.
+
+It is not about crossing the three,
+it is meant to take forever.
+
+---
+
+Now please add Ludington to your Weather App,
+and keep an eye out on when it is warm enough to camp Nordhouse.
+
+[0]: https://maps.app.goo.gl/dg39sr8opAfc2xbs8
+[1]: https://github.com/catpea/hullabaloo

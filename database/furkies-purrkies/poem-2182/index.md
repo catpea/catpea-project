@@ -12,7 +12,7 @@ audio: poem-2182.mp3
 image: poem-2182-illustration.jpg
 images: null
 artwork:
-  - https://catpea.com
+  - https://unsplash.com/photos/a-black-bench-sitting-on-top-of-a-gray-floor-A1I0n1dIv9Q
 resources: null
 features:
   video: true

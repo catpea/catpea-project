@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2183",
+  "guid": "3ecefc39-b5d0-44d7-aea2-d57d514ac177",
+  "title": "Nordhouse Dunes For Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-21T01:07:51.183Z",
+  "lastmod": null,
+  "weight": 218300,
+  "audio": "poem-2183.mp3",
+  "image": "poem-2183-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/green-grass-on-white-sand-at-daytime-M52sNPI_Zxo"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
