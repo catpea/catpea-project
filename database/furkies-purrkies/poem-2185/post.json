@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2185",
+  "guid": "bc5e0c23-5263-4cb5-b5d7-d885ef421af4",
+  "title": "Power Programming With Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-22T23:32:00.598Z",
+  "lastmod": null,
+  "weight": 218500,
+  "audio": "poem-2185.mp3",
+  "image": "poem-2185-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
