@@ -1,0 +1,26 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2186",
+  "guid": "aaca2ed5-2acc-41db-99c7-ba815d52aa9e",
+  "title": "Bodybuilding For Seniors",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-24T02:49:54.109Z",
+  "lastmod": null,
+  "weight": 218600,
+  "audio": "poem-2186.mp3",
+  "image": "poem-2186-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/two-people-stretching-by-the-water-at-night-5TmpAD9PtTc",
+    "https://unsplash.com/photos/silhouette-of-mountain-wS9hvhqn4XU"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
