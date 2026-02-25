@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2187",
+  "guid": "8e34aa56-1267-439c-a5d4-0ded8c934253",
+  "title": "Sound Beings: The New Artificial Intelligence",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-25T02:33:15.609Z",
+  "lastmod": null,
+  "weight": 218700,
+  "audio": "poem-2187.mp3",
+  "image": "poem-2187-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
