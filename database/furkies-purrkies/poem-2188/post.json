@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2188",
+  "guid": "12c51b84-4497-40f8-91cf-7886d0573a54",
+  "title": "Demand Authentic Education",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-26T02:58:55.388Z",
+  "lastmod": null,
+  "weight": 218800,
+  "audio": "poem-2188.mp3",
+  "image": "poem-2188-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-sitting-on-top-of-a-hill-looking-at-the-sky-BEu4isykIto"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
