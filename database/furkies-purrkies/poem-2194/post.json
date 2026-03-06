@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2194",
+  "guid": "3cf7de27-b153-4195-a065-28560738d1a8",
+  "title": "Artificial Engineering; Or, How Architecture Ate The Engineer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-03T16:34:37.417Z",
+  "lastmod": null,
+  "weight": 219400,
+  "audio": "poem-2194.mp3",
+  "image": "poem-2194-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2191",
+  "guid": "f6c80bf5-1970-4109-ae15-c6f2175551ec",
+  "title": "The Second Life; Or, The Fat But Not Defeated",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-01T03:41:44.336Z",
+  "lastmod": null,
+  "weight": 219100,
+  "audio": "poem-2191.mp3",
+  "image": "poem-2191-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/a-person-walking-up-a-hill-with-a-backpack-r_VqYTxWPb0"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

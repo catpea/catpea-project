@@ -7,7 +7,7 @@ echo BUILDING: github
 antwerp build catpea-github
 
 
-echo create-slideshow "/home/meow/Universe/Development/catpea-project/database/furkies-purrkies/poem-1520/files/poem-1520.mp3" "/home/meow/Universe/Development/catpea-project/dist/slides/poem-1520" "/home/meow/Universe/Development/catpea-project/dist/video/poem-1520.mp4"
+# echo create-slideshow "/home/meow/Universe/Development/catpea-project/database/furkies-purrkies/poem-1520/files/poem-1520.mp3" "/home/meow/Universe/Development/catpea-project/dist/slides/poem-1520" "/home/meow/Universe/Development/catpea-project/dist/video/poem-1520.mp4"
 
 
 # echo
@@ -36,6 +36,6 @@ echo "BUILD COMPLETE!";
 echo "note: mp3 files are published to ./dist/chapters/chapter-0X where X is specified in the poem it self";
 echo "note: do not forget to run: ./bin/publish.sh";
 
-echo "SLEEPING 90 BEFORE AUTOPUBLISH!!!! !!! 1!!!"
-sleep 90;
-./bin/publish.sh;
+# echo "SLEEPING 90 BEFORE AUTOPUBLISH!!!! !!! 1!!!"
+# sleep 90;
+#  ./bin/publish.sh;

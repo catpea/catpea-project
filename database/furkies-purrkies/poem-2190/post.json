@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2190",
+  "guid": "68f9eb08-9a1b-45f7-94b7-ae1ee4176110",
+  "title": "Education, Poverty, And JavaScript",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-02-28T00:14:55.519Z",
+  "lastmod": null,
+  "weight": 219000,
+  "audio": "poem-2190.mp3",
+  "image": "poem-2190-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

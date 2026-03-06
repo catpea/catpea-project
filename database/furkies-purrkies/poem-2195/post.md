@@ -1,0 +1,51 @@
+What you are about to hear is unbelievable,
+but completely, utterly true, more or less.
+
+I waddled my fat rear into places so magnificent,
+that nobody will ever believe me.
+
+---
+
+I searched for evidence of a Kimberlite Pipe beneath lake Michigan,
+by collecting cute little rocks on the beaches in company of Fat Seagulls.
+
+I discovered a new kind of land, that almost only ever exists in dreams,
+I called them Skylands, ancient dune islands rising atop forest canopy.
+
+I found a cosmic factory where Pigeons, Ants and I were royalty,
+a distant highway overpass with just the right angles to lay and rest my feet.
+
+Two strange men screamed at me from a speeding car “Shes Coming”,
+just for me to discover a wall of rain so thick it might as well have been a lake.
+
+Just around the corner there is a Roman Empire of graffitied overpass columns,
+and in my memory they seem a hundred feet tall, a concrete temple.
+
+I’ve known bridges built in the 60’s that hadn’t been crossed since,
+with winding asphalt trails cracked like ancient dessert riverbeds.
+
+I traveled through parks that looked the same from every end,
+and you had to get lost at least twice to get out, at least.
+
+I discovered a secret passage, perfectly blended with train tracks.
+That featured a flower covered bridge that doubled the length of my trail.
+
+And in the most terrifying moment of my life when exploring a crater,
+a snapped twig exploded in galloping deer, that have rustled my jimmies since.
+
+There are no volcanoes in the area, but I lived atop one,
+with the moon as my only friend, and the morning sun as my only warmth.
+
+---
+
+You will lose weight while walking,
+but walking gives you something even more important, endurance.
+
+If you just start jogging, you will run out of breath, maybe give up,
+but with the endurance earned from your adventures, you can walk more.
+
+You can walk faster, until your fastest walking becomes power walking,
+power walking is slow jogging that is good on your knees.
+
+With more and more endurance you lose more and more unhealthiness,
+and become an adventurer, and hiker, and never dream, about ordinary things.

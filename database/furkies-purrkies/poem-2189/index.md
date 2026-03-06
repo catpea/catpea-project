@@ -1,0 +1,108 @@
+---
+id: poem-2189
+guid: 838f003d-1114-400e-8027-c7dc9bfdf783
+title: Artificial Intelligence And Value
+description: null
+tags:
+  - furkies-purrkies
+date: '2026-02-27T02:02:58.789Z'
+lastmod: null
+weight: 218900
+audio: poem-2189.mp3
+image: poem-2189-illustration.jpg
+images: null
+artwork:
+  - https://catpea.com
+resources: null
+features:
+  video: true
+raw: true
+draft: false
+chapter: 15
+---
+
+I kept my second AI, and ran more tests on my third one,
+I was working on multiple programs again.
+
+I continue coming across situations where they get stuck and learn,
+they read code, check errors, and make a note when they advance.
+
+The smart one was helping me with video generation,
+the learning one wads building a mind mapping application.
+
+And my local one, whose intelligence I was not able to test yet,
+was using the mind mapping application to map out the next project.
+
+---
+
+They were each extremely successful effortlessly producing value,
+the smart one modified AI videos to use video files not camera.
+
+The learning one created native drop-down menus in desktop version,
+a handsome floating menu with the same structure in web mind-maps.
+
+And my local one was going over a new application framework,
+which changes the way we program.
+
+It creates a split-able tree for laying out web panes,
+by default makes all application features plugin and command based
+
+They took care of a year of programming,
+in just three days.
+
+---
+
+I ask them to emphasize code quality,
+I try to box them in even though they seem to be doing well.
+
+This is what the plugin architecture is about,
+an application based on plugins can have its parts easily replaced.
+
+
+---
+
+The value of a project is not determined by good architecture,
+but by function, what does your program do that is so valuable.
+
+Good examples pf program that create value are video editors,
+and you should think of videos as just still frames.
+
+Digital audio workstations, that have a piano roll,
+and beat sequencer, similar to that automated player piano.
+
+And my personal favorite Mind Mapping programs,
+fancy name for concept mapping with bit of text.
+
+Integrating concept mapping with artificial intelligence means,
+that you aren't just building the concepts out, node by node.
+
+You can now have AI explore or unfold, or as I added today,
+deep research entire new branches of information.
+
+And you aren't just relying on AI which may not have all the answers,
+but you attach relevant documents that get broken down into concepts.
+
+With video you send frames around,
+with audio you generate sound that you then compose together.
+
+But with concept maps you are creating that rare and precious value,
+where is someone could just spend a couple of hours with your maps.
+
+Well, they would become wiser for it,
+and be able to built their own world in better way.
+
+Mind mapping with AI is an interactive process,
+you choose which of the several outline nodes need more nodes.
+
+This value,
+is where poverty goes to die.
+
+---
+
+Artificial intelligence is no longer stoppable by new things,
+it now follows problem solving guessing and learning from failure.
+
+Whatever AI was couple of weeks ago has completely changed,
+today that re learning machine that can easily defeat poverty.
+
+

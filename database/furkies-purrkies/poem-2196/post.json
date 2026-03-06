@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2196",
+  "guid": "ecae810a-13dc-4466-b520-5d0df978cd21",
+  "title": "Software Architectural Engineering for Young Ladies",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-05T22:19:09.218Z",
+  "lastmod": null,
+  "weight": 219600,
+  "audio": "poem-2196.mp3",
+  "image": "poem-2196-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

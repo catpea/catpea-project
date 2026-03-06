@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2193",
+  "guid": "96fdd931-f127-4f6e-bbe5-cf99b3e17366",
+  "title": "Gradually; Or, How To Fix Sitting At The Gym",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-03T01:25:28.838Z",
+  "lastmod": null,
+  "weight": 219300,
+  "audio": "poem-2193.mp3",
+  "image": "poem-2193-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://unsplash.com/photos/black-and-silver-exercise-equipments-0-A_G_XeUqc"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

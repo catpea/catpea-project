@@ -1,20 +1,34 @@
 #!/bin/bash
 
+  
 echo -ne "\n\n\n\n\n\n\n\n\n\n"
-echo "1/4 - GITHUB/chapters updating chapter 15 -----------------------------------------------------------------------------------------------------"
-cd dist/chapters/chapter-15;
-git add .;
-git commit -m "Chapter Content Update";
-git push;
-cd -;
+echo WARNING, WARNING, WARNING, CHAPTER 15 NOT UPLOADED
+#echo "1/4 - GITHUB/chapters updating chapter 15 -----------------------------------------------------------------------------------------------------"
+#cd dist/chapters/chapter-15;
+#git add .;
+#git commit -m "Chapter Content Update";
+#git push;
+#cd -;
+
+
+
 
 echo -ne "\n\n"
-echo "2/4 - GITHUB: updating catpea.github.io -------------------------------------------------------------------------------------------------------"
-cd $(antwerp read catpea-github configuration.dest)
-git add .;
-git commit -m "Blog Update";
-git push;
-cd -;
+echo WARNING, WARNING, WARNING, GITHUB catpea.github.io NOT UPLOADED
+# echo "2/4 - GITHUB: updating catpea.github.io -------------------------------------------------------------------------------------------------------"
+# cd $(antwerp read catpea-github configuration.dest)
+# git add .;
+# git commit -m "Blog Update";
+# git push;
+# cd -;
+
+
+
+
+
+
+
+
 
 #
 # echo
@@ -25,6 +39,18 @@ cd -;
 echo -ne "\n\n"
 echo "3/4 - GITHUB: saving MAIN DATABASE: catpea-project repository ---------------------------------------------------------------------------------"
 npm run save;
+
+
+
+
+
+
+
+
+
+
+
+
 
 echo -ne "\n\n"
 echo "4/4 - END: CONTENT PUBLISHED ------------------------------------------------------------------------------------------------------------------"

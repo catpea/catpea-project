@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2195",
+  "guid": "ea75c221-25e6-47a6-b125-ac0be6713689",
+  "title": "To Lose Weight Start Walking And Become An Adventurer",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-04T16:49:05.892Z",
+  "lastmod": null,
+  "weight": 219500,
+  "audio": "poem-2195.mp3",
+  "image": "poem-2195-illustration.jpg",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}

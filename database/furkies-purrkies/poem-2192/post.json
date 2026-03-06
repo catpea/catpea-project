@@ -1,0 +1,25 @@
+{
+  "features": {
+    "video": true
+  },
+  "id": "poem-2192",
+  "guid": "da52b703-b9d1-4705-9d21-baff1ee82031",
+  "title": "You Must Create A JavaScript Platform",
+  "description": null,
+  "tags": [
+    "furkies-purrkies"
+  ],
+  "date": "2026-03-02T00:30:30.883Z",
+  "lastmod": null,
+  "weight": 219200,
+  "audio": "poem-2192.mp3",
+  "image": "poem-2192-illustration.avif",
+  "images": null,
+  "artwork": [
+    "https://catpea.com"
+  ],
+  "resources": null,
+  "raw": true,
+  "draft": false,
+  "chapter": 15
+}
